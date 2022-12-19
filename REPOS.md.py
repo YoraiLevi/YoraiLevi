@@ -5,7 +5,7 @@ def get_github_user_repositories(username):
     repos = []
     urls = [
         'https://api.github.com/users/{}/repos'.format(username),
-        # 'https://api.github.com/users/{}/gists'.format(username)
+        'https://api.github.com/users/{}/gists'.format(username)
         ]
     for url in urls:
         webUrl  = urllib.request.urlopen(url)
@@ -54,7 +54,7 @@ for repo in repos:
     if(repo.get('fork',False) == False):
         print( ("Archived: " if archived else "") + f"[{name}]({html_url})"+ (f" - {description}" if description else "")+"  ")
 
-print("Forks:")
+print("# Forks:")
 for repo in repos:
     # Description
     name = repo.get('name') or "gist: "+repr(list(repo['files'].keys()))
