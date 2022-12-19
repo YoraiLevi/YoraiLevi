@@ -20,6 +20,7 @@ def get_github_user_repositories(username):
         repos += [repo for repo in json_data if repo.get('fork',False) == False]
     return owner,repos
 owner,repos = get_github_user_repositories("YoraiLevi")
+repos = filter(lambda repo: not repo.get('archived',False),repos)
 repos.sort(key=lambda repo: (repo.get('updated_at',None)),reverse=True)
 repo_cards = ""
 for repo in repos[:6]:
@@ -55,7 +56,7 @@ for repo in repos[:6]:
 <img align="center" src="https://github-readme-stats-one-theta-17.vercel.app/api/pin/?username={owner['login']}&repo={name}&theme=github_dark&max_lines=2" />\
 </a>'''
     repo_cards+=repo_card
-
+print("[repository list](REPOS.md)")
 print('<p align="center">')
 print(repo_cards)
 print()
