@@ -20,7 +20,7 @@ def get_github_user_repositories(username):
         repos += json_data
     return owner,repos
 owner,repos = get_github_user_repositories("YoraiLevi")
-repos.sort(key=lambda repo: (repo.get('updated_at',None)),reverse=True)
+repos.sort(key=lambda repo: (not repo.get('archived',False),repo.get('updated_at',None)),reverse=True)
 repo_cards = ""
 
 for repo in repos:
