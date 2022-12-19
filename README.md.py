@@ -56,7 +56,7 @@ for repo in repos[:6]:
 </a>'''
     repo_cards+=repo_card
 
-print("<p align="center">")
+print('<p align="center">')
 print(repo_cards)
 print()
 print("![](resources/README/header_image.jpg)")
