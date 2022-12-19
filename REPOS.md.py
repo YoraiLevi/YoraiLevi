@@ -17,6 +17,7 @@ def get_github_user_repositories(username):
             # for key in [key for key in repo.keys() if "_url" in key]:
                 # repo.pop(key,None)
 #         repos += [repo for repo in json_data if repo.get('fork',False) == False]
+        repos += json_data
     return owner,repos
 owner,repos = get_github_user_repositories("YoraiLevi")
 repos.sort(key=lambda repo: (repo.get('updated_at',None)),reverse=True)
