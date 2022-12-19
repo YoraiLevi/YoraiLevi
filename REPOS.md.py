@@ -50,5 +50,5 @@ for repo in repos:
     has_wiki = repo.get('has_wiki',False)
     has_pages = repo.get('has_pages',False)
     archived = repo.get('archived',False)
-    print(f"[{name}]({html_url})  ")
+    print( ("Archived: " if archived else "") + f"[{name}]({html_url})"+ (f" - {description}" if else "")+"  ")
     
