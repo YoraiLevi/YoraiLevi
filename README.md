@@ -1,17 +1,14 @@
-![81981218_195203181661205_6161240103483080704_n1](https://user-images.githubusercontent.com/50873841/208330975-68d0870d-95d9-4250-8f4e-e4f2ae5a012c.jpg)
+<a href="https://github.com/YoraiLevi/ansible_collections">
+<img align="center" src="https://github-readme-stats-one-theta-17.vercel.app/api/pin/?username=YoraiLevi&repo=ansible_collections&theme=github_dark&max_lines=2" /></a>
+<a href="https://github.com/YoraiLevi/MyFuckingWikiOfEverything">
+<img align="center" src="https://github-readme-stats-one-theta-17.vercel.app/api/pin/?username=YoraiLevi&repo=MyFuckingWikiOfEverything&theme=github_dark&max_lines=2" /></a>
+<a href="https://github.com/YoraiLevi/ansible_playbooks">
+<img align="center" src="https://github-readme-stats-one-theta-17.vercel.app/api/pin/?username=YoraiLevi&repo=ansible_playbooks&theme=github_dark&max_lines=2" /></a>
+<a href="https://github.com/YoraiLevi/autohotkeys">
+<img align="center" src="https://github-readme-stats-one-theta-17.vercel.app/api/pin/?username=YoraiLevi&repo=autohotkeys&theme=github_dark&max_lines=2" /></a>
+<a href="https://github.com/YoraiLevi/RedditAnalysis">
+<img align="center" src="https://github-readme-stats-one-theta-17.vercel.app/api/pin/?username=YoraiLevi&repo=RedditAnalysis&theme=github_dark&max_lines=2" /></a>
+<a href="https://github.com/YoraiLevi/Problems_From_The_Discrete_To_The_Continuous_Chapter_3_Probabilistic_Packing_Problem">
+<img align="center" src="https://github-readme-stats-one-theta-17.vercel.app/api/pin/?username=YoraiLevi&repo=Problems_From_The_Discrete_To_The_Continuous_Chapter_3_Probabilistic_Packing_Problem&theme=github_dark&max_lines=2" /></a>
 
-
-<!--
-**YoraiLevi/YoraiLevi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](resources/README/header_image.jpg)
