@@ -55,6 +55,9 @@ for repo in repos[:6]:
 <img align="center" src="https://github-readme-stats-one-theta-17.vercel.app/api/pin/?username={owner['login']}&repo={name}&theme=github_dark&max_lines=2" />\
 </a>'''
     repo_cards+=repo_card
+
+print("<p align="center">")
 print(repo_cards)
 print()
 print("![](resources/README/header_image.jpg)")
+print("</p>")
