@@ -5,7 +5,7 @@ def get_github_user_repositories(username):
     repos = []
     urls = [
         'https://api.github.com/users/{}/repos'.format(username),
-        'https://api.github.com/users/{}/gists'.format(username)
+#         'https://api.github.com/users/{}/gists'.format(username)
         ]
     for url in urls:
         webUrl  = urllib.request.urlopen(url)
