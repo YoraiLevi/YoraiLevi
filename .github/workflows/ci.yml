@@ -45,5 +45,10 @@ jobs:
       # Run python entry point
       - name: CI entrypoint
         run: python3 ./.github/workflows/ci.py
-        
+      - run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "ci build"
+          git push
       
