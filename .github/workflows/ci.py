@@ -7,3 +7,4 @@ for pyfile in glob("*.py"):
     p = Path(pyfile)
     with open(p.stem,"wb+") as f:
         f.write(subp.stdout)
+        print(subp.stderr)
