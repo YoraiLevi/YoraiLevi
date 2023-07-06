@@ -1,3 +1,4 @@
+[advanced_broadcasting](https://github.com/YoraiLevi/advanced_broadcasting)  
 [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 [ansible_collections](https://github.com/YoraiLevi/ansible_collections) - A collection of ansible windows modules that I deem missing for personal usage   
 [MyFuckingWikiOfEverything](https://github.com/YoraiLevi/MyFuckingWikiOfEverything) - This is where I write all the things I need organized but don't seem to be able to organize  
@@ -19,6 +20,9 @@ Archived: [PyMetaMath](https://github.com/YoraiLevi/PyMetaMath)
 Archived: [DNA_Noam](https://github.com/YoraiLevi/DNA_Noam)  
 Archived: [Url2Pdf](https://github.com/YoraiLevi/Url2Pdf) - batch download urls and websites as pdf easily  
 # Forks:
+[numpy-100](https://github.com/YoraiLevi/numpy-100) - 100 numpy exercises (with solutions)  
+[PythonDataScienceHandbook](https://github.com/YoraiLevi/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks  
+[nextjs-github-pages](https://github.com/YoraiLevi/nextjs-github-pages) - 🚀 Deploy a Next.js app to Github Pages via Github Actions.  
 [github-readme-stats](https://github.com/YoraiLevi/github-readme-stats) - :zap: Dynamically generated stats for your github readmes  
 [wsl-sudo](https://github.com/YoraiLevi/wsl-sudo) - WSL tool to run wsl commands in in an elevated process  
 [GitHub-Action-Ahk2Exe](https://github.com/YoraiLevi/GitHub-Action-Ahk2Exe) - GitHub Action to compile AutoHotKey scripts using Ahk2Exe  
