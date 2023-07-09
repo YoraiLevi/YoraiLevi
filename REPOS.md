@@ -8,7 +8,7 @@
 [RedditAnalysis](https://github.com/YoraiLevi/RedditAnalysis) - Using pushshift.io data dumps, attempt to analyze trends of people and posts  
 [nordic_app_dfu_playzone](https://github.com/YoraiLevi/nordic_app_dfu_playzone) - example project for adding secure ble dfu for an existing app  
 [MyLinting](https://github.com/YoraiLevi/MyLinting) - a collection of linting setups and explanations   
-[scripts](https://github.com/YoraiLevi/scripts) - A collection of my scripts and system setup  
+[YoraiLevi.github.io](https://github.com/YoraiLevi/YoraiLevi.github.io) - Github Pages  
 [My-Tech-Wearables](https://github.com/YoraiLevi/My-Tech-Wearables) - Cloth cat ears wearable with led strips! and more!  
 Archived: [AutoJobFind](https://github.com/YoraiLevi/AutoJobFind) - Javascript/Typescript based web-automation tool for submitting resumes  
 Archived: [pysubsync](https://github.com/YoraiLevi/pysubsync) - A utility to sync subtitles, designed for anime  
@@ -19,9 +19,9 @@ Archived: [PyMetaMath](https://github.com/YoraiLevi/PyMetaMath)
 Archived: [DNA_Noam](https://github.com/YoraiLevi/DNA_Noam)  
 Archived: [Url2Pdf](https://github.com/YoraiLevi/Url2Pdf) - batch download urls and websites as pdf easily  
 # Forks:
-[diffusers](https://github.com/YoraiLevi/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch  
 [numpy-100](https://github.com/YoraiLevi/numpy-100) - 100 numpy exercises (with solutions)  
 [PythonDataScienceHandbook](https://github.com/YoraiLevi/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks  
+[youtube-cast-receiver](https://github.com/YoraiLevi/youtube-cast-receiver) - Grants access to youtube.com/tv normally reserved for use with smart TVs  
 [nextjs-github-pages](https://github.com/YoraiLevi/nextjs-github-pages) - 🚀 Deploy a Next.js app to Github Pages via Github Actions.  
 [github-readme-stats](https://github.com/YoraiLevi/github-readme-stats) - :zap: Dynamically generated stats for your github readmes  
 [wsl-sudo](https://github.com/YoraiLevi/wsl-sudo) - WSL tool to run wsl commands in in an elevated process  
