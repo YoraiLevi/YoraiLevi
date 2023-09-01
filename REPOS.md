@@ -1,6 +1,6 @@
+[Intro-to-Deep-Learning-Final-Project-CS236781](https://github.com/YoraiLevi/Intro-to-Deep-Learning-Final-Project-CS236781) - object detection fintuning with huggingface  
 [assistant](https://github.com/YoraiLevi/assistant) - An assistant project for windows  
 [advanced_broadcasting](https://github.com/YoraiLevi/advanced_broadcasting)  
-[YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 [ansible_collections](https://github.com/YoraiLevi/ansible_collections) - A collection of ansible windows modules that I deem missing for personal usage   
 [MyFuckingWikiOfEverything](https://github.com/YoraiLevi/MyFuckingWikiOfEverything) - This is where I write all the things I need organized but don't seem to be able to organize  
 [ansible_playbooks](https://github.com/YoraiLevi/ansible_playbooks)  
