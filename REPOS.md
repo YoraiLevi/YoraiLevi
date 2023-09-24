@@ -5,7 +5,6 @@
 [MyFuckingWikiOfEverything](https://github.com/YoraiLevi/MyFuckingWikiOfEverything) - This is where I write all the things I need organized but don't seem to be able to organize  
 [ansible_playbooks](https://github.com/YoraiLevi/ansible_playbooks)  
 [autohotkeys](https://github.com/YoraiLevi/autohotkeys)  
-[WikiAnalysis](https://github.com/YoraiLevi/WikiAnalysis)  
 [RedditAnalysis](https://github.com/YoraiLevi/RedditAnalysis) - Using pushshift.io data dumps, attempt to analyze trends of people and posts  
 [nordic_app_dfu_playzone](https://github.com/YoraiLevi/nordic_app_dfu_playzone) - example project for adding secure ble dfu for an existing app  
 [MyLinting](https://github.com/YoraiLevi/MyLinting) - a collection of linting setups and explanations   
@@ -19,6 +18,7 @@ Archived: [PyMetaMath](https://github.com/YoraiLevi/PyMetaMath)
 Archived: [DNA_Noam](https://github.com/YoraiLevi/DNA_Noam)  
 Archived: [Url2Pdf](https://github.com/YoraiLevi/Url2Pdf) - batch download urls and websites as pdf easily  
 # Forks:
+[PsDownload](https://github.com/YoraiLevi/PsDownload) - A PowerShell module for downloading files.  
 [transformers](https://github.com/YoraiLevi/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.  
 [TACO](https://github.com/YoraiLevi/TACO) - 🌮 Trash Annotations in Context Dataset Toolkit  
 [numpy-100](https://github.com/YoraiLevi/numpy-100) - 100 numpy exercises (with solutions)  
