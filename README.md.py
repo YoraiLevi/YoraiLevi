@@ -1,11 +1,12 @@
 # Creates README.md
 import urllib.request
 import json
-
+#documentation of endpoints https://docs.github.com/en/rest/overview/endpoints-available-for-fine-grained-personal-access-tokens
 def get_github_user_repositories(username):
     repos = []
     urls = [
-        'https://api.github.com/users/{}/repos'.format(username),
+        #documentation of endpoint https://docs.github.com/en/rest/repos/repos
+        'https://api.github.com/users/{}/repos?sort=pushed&per_page=100&direction=desc'.format(username),
         # 'https://api.github.com/users/{}/gists'.format(username)
         ]
     for url in urls:
