@@ -4,7 +4,7 @@ import json
 def get_github_user_repositories(username):
     repos = []
     urls = [
-        'https://api.github.com/users/{}/repos'.format(username),
+        'https://api.github.com/users/{}/repos?sort=pushed&per_page=100&direction=desc'.format(username),
 #         'https://api.github.com/users/{}/gists'.format(username)
         ]
     for url in urls:
