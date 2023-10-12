@@ -1,3 +1,4 @@
+[regedit.ps1](https://github.com/YoraiLevi/regedit.ps1) - regedit.ps1 is a pure PowerShell implementation for regedit.exe, backed by a fully tested and idempotent cmdlets.   
 [assistant](https://github.com/YoraiLevi/assistant) - An assistant project for windows  
 [Intro-to-Deep-Learning-Final-Project-CS236781](https://github.com/YoraiLevi/Intro-to-Deep-Learning-Final-Project-CS236781) - object detection fintuning with huggingface  
 [advanced_broadcasting](https://github.com/YoraiLevi/advanced_broadcasting)  
@@ -16,7 +17,6 @@ Archived: [MonkeyAutomations](https://github.com/YoraiLevi/MonkeyAutomations) - 
 Archived: [SetFacebookPostsPrivate](https://github.com/YoraiLevi/SetFacebookPostsPrivate) - Automation tool that sets posts in facebook's activity log to private (public or friends) for the new 2020 design. using Tampermonkey  
 Archived: [PyMetaMath](https://github.com/YoraiLevi/PyMetaMath)  
 Archived: [DNA_Noam](https://github.com/YoraiLevi/DNA_Noam)  
-Archived: [Url2Pdf](https://github.com/YoraiLevi/Url2Pdf) - batch download urls and websites as pdf easily  
 # Forks:
 [PsDownload](https://github.com/YoraiLevi/PsDownload) - A PowerShell module for downloading files.  
 [transformers](https://github.com/YoraiLevi/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.  
