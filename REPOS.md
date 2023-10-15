@@ -2,12 +2,10 @@
 [regedit.ps1](https://github.com/YoraiLevi/regedit.ps1) - regedit.ps1 is a pure PowerShell implementation for regedit.exe, backed by a fully tested and idempotent cmdlets.   
 [winutil_tweaks_cli](https://github.com/YoraiLevi/winutil_tweaks_cli) - a CLI script only for the tweaks of Chris Titus's winutil  
 [windows_registry_modifications](https://github.com/YoraiLevi/windows_registry_modifications)  
-[assistant](https://github.com/YoraiLevi/assistant) - An assistant project for windows  
 [Intro-to-Deep-Learning-Final-Project-CS236781](https://github.com/YoraiLevi/Intro-to-Deep-Learning-Final-Project-CS236781) - object detection fintuning with huggingface  
 [advanced_broadcasting](https://github.com/YoraiLevi/advanced_broadcasting)  
 [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 [ansible_collections](https://github.com/YoraiLevi/ansible_collections) - A collection of ansible windows modules that I deem missing for personal usage   
-[MyFuckingWikiOfEverything](https://github.com/YoraiLevi/MyFuckingWikiOfEverything) - This is where I write all the things I need organized but don't seem to be able to organize  
 [ansible_playbooks](https://github.com/YoraiLevi/ansible_playbooks)  
 [autohotkeys](https://github.com/YoraiLevi/autohotkeys)  
 [WikiAnalysis](https://github.com/YoraiLevi/WikiAnalysis)  
@@ -25,17 +23,12 @@ Archived: [PyMetaMath](https://github.com/YoraiLevi/PyMetaMath)
 Archived: [DNA_Noam](https://github.com/YoraiLevi/DNA_Noam)  
 Archived: [Url2Pdf](https://github.com/YoraiLevi/Url2Pdf) - batch download urls and websites as pdf easily  
 # Forks:
-[winutil](https://github.com/YoraiLevi/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates  
 [PsDownload](https://github.com/YoraiLevi/PsDownload) - A PowerShell module for downloading files.  
 [transformers](https://github.com/YoraiLevi/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.  
-[TACO](https://github.com/YoraiLevi/TACO) - 🌮 Trash Annotations in Context Dataset Toolkit  
 [numpy-100](https://github.com/YoraiLevi/numpy-100) - 100 numpy exercises (with solutions)  
 [PythonDataScienceHandbook](https://github.com/YoraiLevi/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks  
-[youtube-cast-receiver](https://github.com/YoraiLevi/youtube-cast-receiver) - Grants access to youtube.com/tv normally reserved for use with smart TVs  
-[nextjs-github-pages](https://github.com/YoraiLevi/nextjs-github-pages) - 🚀 Deploy a Next.js app to Github Pages via Github Actions.  
 [github-readme-stats](https://github.com/YoraiLevi/github-readme-stats) - :zap: Dynamically generated stats for your github readmes  
 [wsl-sudo](https://github.com/YoraiLevi/wsl-sudo) - WSL tool to run wsl commands in in an elevated process  
 [GitHub-Action-Ahk2Exe](https://github.com/YoraiLevi/GitHub-Action-Ahk2Exe) - GitHub Action to compile AutoHotKey scripts using Ahk2Exe  
-[headless-chrome-crawler](https://github.com/YoraiLevi/headless-chrome-crawler) - Distributed crawler powered by Headless Chrome  
 [GM_SuperValue](https://github.com/YoraiLevi/GM_SuperValue) - Improved, error-free and readable version of GreaseMonkey/TamperMonkey storage script "GM_SuperValue"  
 [chrome](https://github.com/YoraiLevi/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own  
