@@ -1,3 +1,4 @@
+[ahk-autohotkeys](https://github.com/YoraiLevi/ahk-autohotkeys)  
 [plotly_dash](https://github.com/YoraiLevi/plotly_dash)  
 [Intro-to-NLP-236299-CS187](https://github.com/YoraiLevi/Intro-to-NLP-236299-CS187) - Code for course "Intro to NLP" (236299) Technion Spring 2023, "Introduction to Computational Linguistic" (CS 187) Harvard Fall 2020  
 [regedit.ps1](https://github.com/YoraiLevi/regedit.ps1) - regedit.ps1 is a pure PowerShell implementation for regedit.exe, backed by a fully tested and idempotent cmdlets.   
@@ -8,7 +9,6 @@
 [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 [ansible_collections](https://github.com/YoraiLevi/ansible_collections) - A collection of ansible windows modules that I deem missing for personal usage   
 [ansible_playbooks](https://github.com/YoraiLevi/ansible_playbooks)  
-[autohotkeys](https://github.com/YoraiLevi/autohotkeys)  
 [WikiAnalysis](https://github.com/YoraiLevi/WikiAnalysis)  
 [RedditAnalysis](https://github.com/YoraiLevi/RedditAnalysis) - Using pushshift.io data dumps, attempt to analyze trends of people and posts  
 [nordic_app_dfu_playzone](https://github.com/YoraiLevi/nordic_app_dfu_playzone) - example project for adding secure ble dfu for an existing app  
