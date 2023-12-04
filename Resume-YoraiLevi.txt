@@ -1,55 +1,17 @@
-
+PS > Get-Help Yorai-Levi -Examples
 NAME
-    YoraiLevi
+    Yorai-Levi
     
 SYNOPSIS
     Mitigate challenges through software.
     
-SYNTAX
-    YoraiLevi [-Phone <String>] [-Email <String>] [-EmploymentType <String>] [-Location <String>] [-Languages <String[]>] [-AwardsAndEducation] [[-FromDate] <DateTime>] [[-ToDate] <DateTime>] [-WhatIf] [-Confirm] [<CommonParameters>]
-    
-PARAMETERS
-    -Phone <String>
-        Default value                +972-525602337
-        
-    -Email <String>
-        Default value                contact@yorailevi.com
-        
-    -EmploymentType <String>
-        Validate Set                 Full Time, Part Time
-        Default value                Full Time
-        
-    -Location <String>
-        Validate Set                 Israel, Remote
-        
-    -Languages <String[]>
-        Validate Set                 English, Hebrew
-        
-    -AwardsAndEducation [<SwitchParameter>]
-        Default value                True
-        
-    -FromDate <DateTime>
-        
-    -ToDate <DateTime>
-        
-    -WhatIf [<SwitchParameter>]
-        
-    -Confirm [<SwitchParameter>]
-        
-    <CommonParameters>
-        This cmdlet supports the common parameters: Verbose, Debug,
-        ErrorAction, ErrorVariable, WarningAction, WarningVariable,
-        OutBuffer, PipelineVariable, and OutVariable. For more information, see
-        about_CommonParameters (https://go.microsoft.com/fwlink/?LinkID=113216).
-    
     -------------------------- EXAMPLE 1 --------------------------
     
-    PS > YoraiLevi -WhatIf
-    What if: Performing the operation "Innovate" on target "Your product".
+    PS > Yorai-Levi -Contact -Phone '+972-525602337' -Email 'contact@yorailevi.com' -Location 'Israel', 'Remote'
     
     -------------------------- EXAMPLE 2 --------------------------
     
-    PS > YoraiLevi
+    PS > Yorai-Levi -Experience
     Sanolla - AI Powered Primary Care Diagnostic Solutions (Startup). 
     Software Engineer | Jun 21 - Present
         Lead tooling and quality assurance efforts for R&D and seamless UI/UX experience.
@@ -71,10 +33,9 @@ PARAMETERS
         Efficient diagnosis and resolution of software and hardware mishaps and malfunctions General IT support and asisstance
         Proficiency: Knowledge in consumer hardware Windows Linux
     
-    
     -------------------------- EXAMPLE 3 --------------------------
     
-    PS > YoraiLevi -AwardsAndEducation
+    PS > Yorai-Levi -AwardsAndEducation
     Technion. 
     B.Sc. Mathematics with Statistics and Operations Research | Oct 18 - Oct 23
         Extra curriculum in deep machine learning and natural language processing (NLP)
@@ -89,10 +50,6 @@ PARAMETERS
     Curious Learner | Jan 01 - Dec 99
         Focused on improving skills in Data Science, Mathematics, Physics, Statistics, Software Engineering, DevOps, Cloud Computing, and more.
     
-    
-NOTES
-    ai ansible arduino automation bash big data c c# c++ cloud computing crawling data science deployment develop devops embedded java javascript kotlin linux mathematics matlab optimization physics powershell puppeteer extra stealth puppeteer python react native react redhat software engineering statistics tools typescript web windows wpf wsl2
 RELATED LINKS
     resume.yorailevi.com 
     pdf.resume.yorailevi.com 
-

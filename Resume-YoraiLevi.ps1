@@ -1,4 +1,4 @@
-function YoraiLevi {
+function Yorai-Levi {
     <#
     .SYNOPSIS
     Mitigate challenges through software.
@@ -7,27 +7,51 @@ function YoraiLevi {
     .LINK
     pdf.resume.yorailevi.com
     #>
-    [CmdletBinding(PositionalBinding = $false, SupportsShouldProcess = $true)]
+    [CmdletBinding(PositionalBinding = $false, SupportsShouldProcess = $false, DefaultParameterSetName = 'Default', HelpURI='https://resume.yorailevi.com')]
     param (
-        [string]$Phone = '+972-525602337',
-        [string]$Email = 'contact@yorailevi.com',
-        [ValidateSet('Full Time', 'Part Time')]
-        [string]$EmploymentType = 'Full Time',
-        [ValidateSet('Israel', 'Remote')]
-        [string]$Location,
-        [ValidateSet('English', 'Hebrew')]
-        [string[]]$Languages,
-        [Parameter(ParameterSetName = 'AwardsAndEducation')]
-        [switch]$AwardsAndEducation = $true,
-        [Parameter(Position = 0)]
+        [Parameter(Mandatory = $false, Position = 0, ParameterSetName = 'Experience')]
         [datetime]$FromDate,
-        [Parameter(Position = 1)]
-        [datetime]$ToDate
+        [Parameter(Mandatory = $false, Position = 1, ParameterSetName = 'Experience')]
+        [datetime]$ToDate,
+        [Parameter(Mandatory = $false, ParameterSetName = 'Experience')]
+        [switch]$Experience,
+        [Parameter(Mandatory = $false, ParameterSetName = 'Contact')]
+        [switch]$Contact,
+        [Parameter(Mandatory = $false, ParameterSetName = 'Contact')]
+        [string]$Phone,
+        [Parameter(Mandatory = $false, ParameterSetName = 'Contact')]
+        [string]$Email,
+        [Parameter(Mandatory = $false, ParameterSetName = 'Contact')]
+        [string[]]$Location,
+        [Parameter(Mandatory = $false, ParameterSetName = 'AwardsAndEducation')]
+        [switch]$AwardsAndEducation
+        # [Parameter(Mandatory = $false, ParameterSetName = 'Contact')]
+        # [switch]$Contact,
+        # [Parameter(Mandatory = $false, ParameterSetName = 'Contact')]
+        # [string]$Phone = '+972-525602337',
+        # [Parameter(Mandatory = $false, ParameterSetName = 'Contact')]
+        # [string]$Email = 'contact@yorailevi.com',
+
+        # [ValidateSet('Full Time', 'Part Time')]
+        # [Parameter(Mandatory = $false, ParameterSetName = 'Contact')]
+        # [string]$EmploymentType = 'Full Time',
+        # [ValidateSet('Israel', 'Remote')]
+        # [Parameter(Mandatory = $false, ParameterSetName = 'Contact')]
+        # [string]$Location,
+        # [ValidateSet('English', 'Hebrew')]
+        # [Parameter(Mandatory = $false, ParameterSetName = 'Contact')]
+        # [string[]]$Languages,
+        # [Parameter(Mandatory = $false, ParameterSetName = 'AwardsAndEducation')]
+        # [switch]$AwardsAndEducation = $true,
+        # [Parameter(Mandatory = $false, Position = 0, ParameterSetName = 'Default')]
+        # [datetime]$FromDate,
+        # [Parameter(Mandatory = $false, Position = 1, ParameterSetName = 'Default')]
+        # [datetime]$ToDate
     )
     $FromDate = $FromDate ?? ([datetime]::MinValue)
     $ToDate = $ToDate ?? ([datetime]::MaxValue)
 
-    $experience = @(
+    $_experience = @(
         @{
             AwardsAndEducation = 'Education'
             Title              = 'B.Sc. Mathematics with Statistics and Operations Research'
@@ -35,7 +59,7 @@ function YoraiLevi {
             Accomplishments    = 'Extra curriculum in deep machine learning and natural language processing (NLP)'
             FromDate           = (Get-Date -Month 10 -Year 2018)
             ToDate             = (Get-Date -Month 10 -Year 2023)
-        }
+        },
         @{
             AwardsAndEducation = 'Education'
             Title              = 'Curious Learner'
@@ -43,7 +67,7 @@ function YoraiLevi {
             Accomplishments    = 'Focused on improving skills in Data Science, Mathematics, Physics, Statistics, Software Engineering, DevOps, Cloud Computing, and more.'
             FromDate           = [datetime]::MinValue
             ToDate             = [datetime]::MaxValue
-        }
+        },
         @{
             AwardsAndEducation = 'Award'
             Title              = 'Belkin Energy Disaggregation Competition'
@@ -53,7 +77,7 @@ function YoraiLevi {
             Technologies       = @('Matlab')
             FromDate           = (Get-Date -Month 7 -Year 2013)
             ToDate             = (Get-Date -Month 10 -Year 2013)
-        }
+        },
         @{
             Title        = 'IT specialist'
             Company      = 'Axiom Computers (self employed)'
@@ -78,7 +102,7 @@ function YoraiLevi {
             Duties   = @('Expert tutoring in mathematics and physics for Technion pre-university and high school students.')
             FromDate = (Get-Date -Month 10 -Year 2020)
             ToDate   = (Get-Date -Month 6 -Year 2021)
-        }
+        },
         @{
             Title           = 'Software Engineer'
             Company         = 'Sanolla - AI Powered Primary Care Diagnostic Solutions (Startup)'
@@ -92,7 +116,7 @@ function YoraiLevi {
     if ($PSCmdlet.ShouldProcess('Your product', 'Innovate')) {
         switch ($PSCmdlet.ParameterSetName) {
             'AwardsAndEducation' {
-                $learning = $experience | Where-Object { $_.AwardsAndEducation }
+                $learning = $_experience | Where-Object { $_.AwardsAndEducation }
                 $learning | Sort-Object -Property FromDate -Descending | ForEach-Object {
                     $_FromDate = $(Get-Date -Date $_.FromDate -UFormat '%b %y')
                     $_ToDate = $(Get-Date -Date $_.ToDate -UFormat '%b %y')
@@ -105,8 +129,8 @@ function YoraiLevi {
                     ''
                 }
             }
-            Default {
-                $jobs = $experience | Where-Object { -not $_.AwardsAndEducation }
+            'Experience' {
+                $jobs = $_experience | Where-Object { -not $_.AwardsAndEducation }
                 $jobs | Where-Object { $FromDate -le $_.FromDate.AddDays(1) -and $_.ToDate.AddDays(-1) -le $ToDate } | Sort-Object -Property FromDate -Descending | ForEach-Object {
                     $_FromDate = $(Get-Date -Date $_.FromDate -UFormat '%b %y')
                     $_ToDate = if ($_.ToDate -eq [datetime]::Today) { 'Present' } else { $(Get-Date -Date $_.ToDate -UFormat '%b %y') }
@@ -117,6 +141,8 @@ function YoraiLevi {
                     if (-not [string]::IsNullOrEmpty($_.Technologies)) { "    Proficiency: $($_.Technologies)" }
                     ''
                 }
+            }
+            'Contact' {
 
             }
         }
@@ -126,72 +152,72 @@ function YoraiLevi {
     }
 }
 function Resume-YoraiLevi {
-    (Get-Help YoraiLevi -Full | Out-String) -replace '\s+DESCRIPTION', '' -replace '\s+INPUTS', '' -replace '\s+OUTPUTS', '' -replace '\s+Required\?.*', '' -replace '\s+Position\?.*', '' -replace "\s+Default value\s*`n", '' -replace '\s+Accept pipeline input\?.*', '' -replace '\s+Accept wildcard characters\?.*', '' -replace "(`r`n){2,}", "`r`n" -replace "(    `r`n){2,}", "    `r`n" -split "`r*`n" | ForEach-Object {
-        if ($_ -match 'RELATED LINKS') {
-            $Keywords = @(
-                'ai',
-                'ansible',
-                'arduino',
-                'automation',
-                'bash',
-                'big data',
-                'c',
-                'c#',
-                'c++',
-                'cloud computing',
-                'crawling',
-                'data science',
-                'deployment',
-                'develop',
-                'devops',
-                'embedded',
-                'java',
-                'javascript',
-                'kotlin',
-                'linux',
-                'mathematics',
-                'matlab',
-                'optimization',
-                'physics',
-                'powershell',
-                'puppeteer extra stealth',
-                'puppeteer',
-                'python',
-                'react native',
-                'react',
-                'redhat',
-                'software engineering'
-                'statistics',
-                'tools',
-                'typescript',
-                'web',
-                'windows',
-                'wpf',
-                'wsl2'
-            )
-            $examples = @(
-                { YoraiLevi -WhatIf }
-                { YoraiLevi},
-                { YoraiLevi -AwardsAndEducation }
-            )
-            $i = 1
-            $examples | ForEach-Object {
-                $scriptblock = $_
-                $executed_code = $scriptblock.ToString().Trim()
-                $output = (& $scriptblock) -join "`r`n    "
-                @"
+    $Keywords = @(
+        'ai',
+        'ansible',
+        'arduino',
+        'automation',
+        'bash',
+        'big data',
+        'c',
+        'c#',
+        'c++',
+        'cloud computing',
+        'crawling',
+        'data science',
+        'deployment',
+        'develop',
+        'devops',
+        'embedded',
+        'java',
+        'javascript',
+        'kotlin',
+        'linux',
+        'mathematics',
+        'matlab',
+        'optimization',
+        'physics',
+        'powershell',
+        'puppeteer extra stealth',
+        'puppeteer',
+        'python',
+        'react native',
+        'react',
+        'redhat',
+        'software engineering'
+        'statistics',
+        'tools',
+        'typescript',
+        'web',
+        'windows',
+        'wpf',
+        'wsl2'
+    )
+    $examples = @(
+        { Yorai-Levi -Contact -Phone '+972-525602337' -Email 'contact@yorailevi.com' -Location 'Israel', 'Remote'}
+        { Yorai-Levi -Experience },
+        { Yorai-Levi -AwardsAndEducation }
+    )
+    'PS > Get-Help Yorai-Levi -Examples'
+    (Get-Help Yorai-Levi -Examples | Out-String).Trim()
+    "    "
+    $i = 1
+    $examples | ForEach-Object {
+        $scriptblock = $_
+        $executed_code = $scriptblock.ToString().Trim()
+        $output = (& $scriptblock) -join "`r`n    "
+        @"
     -------------------------- EXAMPLE $i --------------------------
     
     PS > $executed_code
     $output
-    
 "@
-                $i++
-            } | Write-Output
-            'NOTES'
-            "    $($Keywords -join ' ')"
+        $i++
+    } | Write-Output
+    # 'NOTES'
+    # "    $($Keywords -join ' ')"
 
-        }
+    <#(Get-Help YoraiLevi -Examples | Out-String) <#-replace '\s+DESCRIPTION', '' -replace '\s+INPUTS', '' -replace '\s+OUTPUTS', '' -replace '\s+Required\?.*', '' -replace '\s+Position\?.*', '' -replace "\s+Default value\s*`n", '' -replace '\s+Accept pipeline input\?.*', '' -replace '\s+Accept wildcard characters\?.*', '' -replace "(`r`n){2,}", "`r`n" -replace "(    `r`n){2,}", "    `r`n" -split "`r*`n" | ForEach-Object {
         $_
         if ($_ -match '\s+-(?<Parameter>\w+)') {
             $set = (Get-Command YoraiLevi).Parameters[$Matches.Parameter].Attributes.ValidValues | Join-String -Separator ', '
@@ -200,6 +226,12 @@ function Resume-YoraiLevi {
             }
         }
         
-    }
+    }#>
+    @"
+RELATED LINKS
+    resume.yorailevi.com 
+    pdf.resume.yorailevi.com 
+"@
+
 }
 Resume-YoraiLevi
