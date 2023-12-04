@@ -1,3 +1,4 @@
+[YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 [pester5-tutorial](https://github.com/YoraiLevi/pester5-tutorial)  
 [ahk-autohotkeys](https://github.com/YoraiLevi/ahk-autohotkeys)  
 [plotly_dash](https://github.com/YoraiLevi/plotly_dash)  
@@ -7,7 +8,6 @@
 [windows_registry_modifications](https://github.com/YoraiLevi/windows_registry_modifications)  
 [Intro-to-Deep-Learning-Final-Project-CS236781](https://github.com/YoraiLevi/Intro-to-Deep-Learning-Final-Project-CS236781) - object detection fintuning with huggingface  
 [advanced_broadcasting](https://github.com/YoraiLevi/advanced_broadcasting)  
-[YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 [ansible_collections](https://github.com/YoraiLevi/ansible_collections) - A collection of ansible windows modules that I deem missing for personal usage   
 [ansible_playbooks](https://github.com/YoraiLevi/ansible_playbooks)  
 [WikiAnalysis](https://github.com/YoraiLevi/WikiAnalysis)  
