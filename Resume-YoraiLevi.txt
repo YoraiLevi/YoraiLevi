@@ -69,7 +69,7 @@ PARAMETERS
     
     PS > YoraiLevi -AwardsAndEducation
     Technion. 
-    Mathematics with Statistics and Operations Research | Oct 18 - Oct 23
+    B.Sc. Mathematics with Statistics and Operations Research | Oct 18 - Oct 23
         Extra curriculum in deep machine learning and natural language processing (NLP)
     Kaggle. 
     Belkin Energy Disaggregation Competition | Jul 13 - Oct 13
