@@ -28,7 +28,7 @@ function YoraiLevi {
     $experience = @(
         @{
             AwardsAndEducation = 'Education'
-            Title              = 'Mathematics with Statistics and Operations Research'
+            Title              = 'B.Sc. Mathematics with Statistics and Operations Research'
             Company            = 'Technion'
             Accomplishments    = 'Extra curriculum in deep machine learning and natural language processing (NLP)'
             FromDate           = (Get-Date -Month 10 -Year 2018)
