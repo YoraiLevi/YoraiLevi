@@ -11,29 +11,31 @@ SYNOPSIS
     
     -------------------------- EXAMPLE 2 --------------------------
     
-    PS > Yorai-Levi -Experience
+    PS > Yorai-Levi -Experience Dev
     Sanolla - AI Powered Primary Care Diagnostic Solutions (Startup). 
     Software Engineer | Jun 21 - Present
         Lead tooling and quality assurance efforts for R&D and seamless UI/UX experience.
         Spearhead development of companion apps for embedded devices, contributing to diagnostic solutions.
         Proficiency: C Android Java Kotlin React React Native C# WPF Python PowerShell Bash Matlab AI technologies
     
-    Technion & Nachshon Project. 
-    Personal & Group Tutor | Oct 20 - Jun 21
-        Expert tutoring in mathematics and physics for Technion pre-university and high school students.
-    
     Intel. Temporary project
-    IT specialist | Oct 16 - Apr 17
+    IT Specialist | Oct 16 - Apr 17
         Delivered tooling and technical support for dynamic and evolving projects using Python and Linux.
         QA automation scripts General lab support and asisstance
         Proficiency: Python Linux Redhat
     
-    Axiom Computers (self employed). 
-    IT specialist | Jul 15 - Sep 17
-        Efficient diagnosis and resolution of software and hardware mishaps and malfunctions General IT support and asisstance
-        Proficiency: Knowledge in consumer hardware Windows Linux
-    
     -------------------------- EXAMPLE 3 --------------------------
+    
+    PS > Yorai-Levi -Experience Teaching
+    Technion. 
+    Personal Tutor | Oct 20 - Jan 23
+        Expert tutoring in mathematics and physics for Technion pre-university students.
+    
+    Nachshon Project. 
+    Group Tutor | Oct 20 - Jun 21
+        After school supplementary mathematic lessons for high school students.
+    
+    -------------------------- EXAMPLE 4 --------------------------
     
     PS > Yorai-Levi -AwardsAndEducation
     Technion. 

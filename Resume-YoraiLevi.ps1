@@ -7,14 +7,16 @@ function Yorai-Levi {
     .LINK
     pdf.resume.yorailevi.com
     #>
-    [CmdletBinding(PositionalBinding = $false, SupportsShouldProcess = $false, DefaultParameterSetName = 'Default', HelpURI='https://resume.yorailevi.com')]
+    [CmdletBinding(PositionalBinding = $false, SupportsShouldProcess = $false, DefaultParameterSetName = 'Default', HelpURI = 'https://resume.yorailevi.com')]
     param (
-        [Parameter(Mandatory = $false, Position = 0, ParameterSetName = 'Experience')]
+        [Parameter(Mandatory = $false, ParameterSetName = 'Experience')]
         [datetime]$FromDate,
-        [Parameter(Mandatory = $false, Position = 1, ParameterSetName = 'Experience')]
+        [Parameter(Mandatory = $false, ParameterSetName = 'Experience')]
         [datetime]$ToDate,
         [Parameter(Mandatory = $false, ParameterSetName = 'Experience')]
         [switch]$Experience,
+        [Parameter(ValueFromRemainingArguments = $true, ParameterSetName = 'Experience')]
+        [string[]]$Tags,
         [Parameter(Mandatory = $false, ParameterSetName = 'Contact')]
         [switch]$Contact,
         [Parameter(Mandatory = $false, ParameterSetName = 'Contact')]
@@ -79,7 +81,8 @@ function Yorai-Levi {
             ToDate             = (Get-Date -Month 10 -Year 2013)
         },
         @{
-            Title        = 'IT specialist'
+            Title        = 'IT Specialist'
+            Tags         = @('IT')
             Company      = 'Axiom Computers (self employed)'
             Duties       = @('Efficient diagnosis and resolution of software and hardware mishaps and malfunctions', 'General IT support and asisstance')
             Technologies = @('Knowledge in consumer hardware', 'Windows', 'Linux')
@@ -87,8 +90,9 @@ function Yorai-Levi {
             ToDate       = (Get-Date -Month 9 -Year 2017)
         },
         @{
-            Title           = 'IT specialist'
+            Title           = 'IT Specialist'
             Company         = 'Intel'
+            Tags            = @( 'IT', 'Dev', 'Automation')
             EmploymentType  = 'Temporary project'
             Duties          = @('QA automation scripts', 'General lab support and asisstance')
             Technologies    = @('Python', 'Linux', 'Redhat')
@@ -97,15 +101,25 @@ function Yorai-Levi {
             ToDate          = (Get-Date -Month 4 -Year 2017)
         },
         @{
-            Title    = 'Personal & Group Tutor'
-            Company  = 'Technion & Nachshon Project'
-            Duties   = @('Expert tutoring in mathematics and physics for Technion pre-university and high school students.')
+            Title    = 'Group Tutor'
+            Tags     = @('Teaching')
+            Company  = 'Nachshon Project'
+            Duties   = @('After school supplementary mathematic lessons for high school students.')
             FromDate = (Get-Date -Month 10 -Year 2020)
             ToDate   = (Get-Date -Month 6 -Year 2021)
         },
         @{
+            Title    = 'Personal Tutor'
+            Tags     = @('Teaching')
+            Company  = 'Technion'
+            Duties   = @('Expert tutoring in mathematics and physics for Technion pre-university students.')
+            FromDate = (Get-Date -Month 10 -Year 2020)
+            ToDate   = (Get-Date -Month 1 -Year 2023)
+        },
+        @{
             Title           = 'Software Engineer'
             Company         = 'Sanolla - AI Powered Primary Care Diagnostic Solutions (Startup)'
+            Tags            = @('Dev', 'AI', 'Automation')
             Duties          = @('Spearhead development of companion apps for embedded devices, contributing to diagnostic solutions.')
             Technologies    = @('C', 'Android', 'Java', 'Kotlin', 'React', 'React Native', 'C#', 'WPF', 'Python', 'PowerShell', 'Bash', 'Matlab', 'AI technologies')
             Accomplishments = @('Lead tooling and quality assurance efforts for R&D and seamless UI/UX experience.')
@@ -130,7 +144,7 @@ function Yorai-Levi {
                 }
             }
             'Experience' {
-                $jobs = $_experience | Where-Object { -not $_.AwardsAndEducation }
+                $jobs = $_experience | Where-Object { -not $_.AwardsAndEducation } | Where-Object { -not $Tags -or ($_.Tags | Where-Object { $Tags -contains $_ }).Length -gt 0 }
                 $jobs | Where-Object { $FromDate -le $_.FromDate.AddDays(1) -and $_.ToDate.AddDays(-1) -le $ToDate } | Sort-Object -Property FromDate -Descending | ForEach-Object {
                     $_FromDate = $(Get-Date -Date $_.FromDate -UFormat '%b %y')
                     $_ToDate = if ($_.ToDate -eq [datetime]::Today) { 'Present' } else { $(Get-Date -Date $_.ToDate -UFormat '%b %y') }
@@ -143,7 +157,7 @@ function Yorai-Levi {
                 }
             }
             'Contact' {
-
+                # Nope note sending an email, this is beyond this cute thing
             }
         }
     }
@@ -194,13 +208,14 @@ function Resume-YoraiLevi {
         'wsl2'
     )
     $examples = @(
-        { Yorai-Levi -Contact -Phone '+972-525602337' -Email 'contact@yorailevi.com' -Location 'Israel', 'Remote'}
-        { Yorai-Levi -Experience },
+        { Yorai-Levi -Contact -Phone '+972-525602337' -Email 'contact@yorailevi.com' -Location 'Israel', 'Remote' }
+        { Yorai-Levi -Experience Dev },
+        { Yorai-Levi -Experience Teaching },
         { Yorai-Levi -AwardsAndEducation }
     )
     'PS > Get-Help Yorai-Levi -Examples'
     (Get-Help Yorai-Levi -Examples | Out-String).Trim()
-    "    "
+    '    '
     $i = 1
     $examples | ForEach-Object {
         $scriptblock = $_
@@ -227,11 +242,11 @@ function Resume-YoraiLevi {
         }
         
     }#>
-    @"
+    @'
 RELATED LINKS
     resume.yorailevi.com 
     pdf.resume.yorailevi.com 
-"@
+'@
 
 }
 Resume-YoraiLevi
