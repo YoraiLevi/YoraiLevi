@@ -19,7 +19,9 @@ function YoraiLevi {
         [string[]]$Languages,
         [Parameter(ParameterSetName = 'AwardsAndEducation')]
         [switch]$AwardsAndEducation = $true,
+        [Parameter(Position = 0)]
         [datetime]$FromDate,
+        [Parameter(Position = 1)]
         [datetime]$ToDate
     )
     $FromDate = $FromDate ?? ([datetime]::MinValue)
@@ -100,6 +102,7 @@ function YoraiLevi {
                     if (-not [string]::IsNullOrEmpty($_.Accomplishments)) { "    $($_.Accomplishments)" }
                     if (-not [string]::IsNullOrEmpty($_.Duties)) { "    $($_.Duties)" }
                     if (-not [string]::IsNullOrEmpty($_.Technologies)) { "    Proficiency: $($_.Technologies)" }
+                    ''
                 }
             }
             Default {
@@ -112,6 +115,7 @@ function YoraiLevi {
                     if (-not [string]::IsNullOrEmpty($_.Accomplishments)) { "    $($_.Accomplishments)" }
                     if (-not [string]::IsNullOrEmpty($_.Duties)) { "    $($_.Duties)" }
                     if (-not [string]::IsNullOrEmpty($_.Technologies)) { "    Proficiency: $($_.Technologies)" }
+                    ''
                 }
 
             }
@@ -167,8 +171,7 @@ function Resume-YoraiLevi {
             )
             $examples = @(
                 { YoraiLevi -WhatIf }
-                { YoraiLevi -FromDate (Get-Date -Month 6 -Year 2021) -ToDate ([datetime]::Today) },
-                { YoraiLevi -FromDate (Get-Date -Month 10 -Year 2016) -ToDate (Get-Date -Month 4 -Year 2017) },
+                { YoraiLevi},
                 { YoraiLevi -AwardsAndEducation }
             )
             $i = 1

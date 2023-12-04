@@ -6,7 +6,7 @@ SYNOPSIS
     Mitigate challenges through software.
     
 SYNTAX
-    YoraiLevi [-Phone <String>] [-Email <String>] [-EmploymentType <String>] [-Location <String>] [-Languages <String[]>] [-AwardsAndEducation] [-FromDate <DateTime>] [-ToDate <DateTime>] [-WhatIf] [-Confirm] [<CommonParameters>]
+    YoraiLevi [-Phone <String>] [-Email <String>] [-EmploymentType <String>] [-Location <String>] [-Languages <String[]>] [-AwardsAndEducation] [[-FromDate] <DateTime>] [[-ToDate] <DateTime>] [-WhatIf] [-Confirm] [<CommonParameters>]
     
 PARAMETERS
     -Phone <String>
@@ -49,36 +49,46 @@ PARAMETERS
     
     -------------------------- EXAMPLE 2 --------------------------
     
-    PS > YoraiLevi -FromDate (Get-Date -Month 6 -Year 2021) -ToDate ([datetime]::Today)
+    PS > YoraiLevi
     Sanolla - AI Powered Primary Care Diagnostic Solutions (Startup). 
     Software Engineer | Jun 21 - Present
         Lead tooling and quality assurance efforts for R&D and seamless UI/UX experience.
         Spearhead development of companion apps for embedded devices, contributing to diagnostic solutions.
         Proficiency: C Android Java Kotlin React React Native C# WPF Python PowerShell Bash Matlab AI technologies
     
-    -------------------------- EXAMPLE 3 --------------------------
+    Technion & Nachshon Project. 
+    Personal & Group Tutor | Oct 20 - Jun 21
+        Expert tutoring in mathematics and physics for Technion pre-university and high school students.
     
-    PS > YoraiLevi -FromDate (Get-Date -Month 10 -Year 2016) -ToDate (Get-Date -Month 4 -Year 2017)
     Intel. Temporary project
     IT specialist | Oct 16 - Apr 17
         Delivered tooling and technical support for dynamic and evolving projects using Python and Linux.
         QA automation scripts General lab support and asisstance
         Proficiency: Python Linux Redhat
     
-    -------------------------- EXAMPLE 4 --------------------------
+    Axiom Computers (self employed). 
+    IT specialist | Jul 15 - Sep 17
+        Efficient diagnosis and resolution of software and hardware mishaps and malfunctions General IT support and asisstance
+        Proficiency: Knowledge in consumer hardware Windows Linux
+    
+    
+    -------------------------- EXAMPLE 3 --------------------------
     
     PS > YoraiLevi -AwardsAndEducation
     Technion. 
     B.Sc. Mathematics with Statistics and Operations Research | Oct 18 - Oct 23
         Extra curriculum in deep machine learning and natural language processing (NLP)
+    
     Kaggle. 
     Belkin Energy Disaggregation Competition | Jul 13 - Oct 13
         Achieved 3rd place, winning $2500
         Supervised electrical data analysis, classifying the electrical state of non-smart appliances through time based on grid data.
         Proficiency: Matlab
+    
     Actively pursuing ongoing education through platforms like MIT OpenCourseWare, edX, Coursera, Udemy, Youtube, etc.. 
     Curious Learner | Jan 01 - Dec 99
         Focused on improving skills in Data Science, Mathematics, Physics, Statistics, Software Engineering, DevOps, Cloud Computing, and more.
+    
     
 NOTES
     ai ansible arduino automation bash big data c c# c++ cloud computing crawling data science deployment develop devops embedded java javascript kotlin linux mathematics matlab optimization physics powershell puppeteer extra stealth puppeteer python react native react redhat software engineering statistics tools typescript web windows wpf wsl2
