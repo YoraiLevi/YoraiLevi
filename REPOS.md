@@ -25,6 +25,7 @@ Archived: [PyMetaMath](https://github.com/YoraiLevi/PyMetaMath)
 Archived: [DNA_Noam](https://github.com/YoraiLevi/DNA_Noam)  
 Archived: [Url2Pdf](https://github.com/YoraiLevi/Url2Pdf) - batch download urls and websites as pdf easily  
 # Forks:
+[israeli-bank-scrapers](https://github.com/YoraiLevi/israeli-bank-scrapers) - Provide scrapers for all major Israeli banks and credit card companies  
 [Pipe](https://github.com/YoraiLevi/Pipe) - A Python library to use infix notation in Python  
 [keyboard-layout-editor](https://github.com/YoraiLevi/keyboard-layout-editor) - Web application to enable the design & editing of keyboard layouts  
 [Pscx](https://github.com/YoraiLevi/Pscx) - PowerShell Community Extensions module repository  
