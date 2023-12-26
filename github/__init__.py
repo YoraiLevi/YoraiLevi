@@ -131,7 +131,6 @@ class User(TypedDict):
 
 def _fetch_json(url):
     api_token = os.getenv("GITHUB_TOKEN")
-    api_token = "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"
     req = urllib.request.Request(url)
     req.add_header("Authorization", f"Bearer {api_token}")
     req.add_header("X-GitHub-Api-Version", "2022-11-28")
