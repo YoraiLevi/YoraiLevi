@@ -29,7 +29,7 @@
                                         class="min-width-0 Link text-bold flex-auto"
                                     >
                                         <span class="repo">
-                                            regedit.ps111
+                                            regedit.ps1
                                         </span>
                                     </a>
                                     <tool-tip
@@ -37,7 +37,7 @@
                                         data-type="description" data-view-component="true"
                                         class="position-absolute sr-only" role="tooltip"
                                         style="--tool-tip-position-top: 707.75px; --tool-tip-position-left: 368.625px;">
-                                        regedit.ps1111</tool-tip>
+                                        regedit.ps1</tool-tip>
                                 </span>
                                 <span class=" flex-auto text-right">
                                     <span></span>
