@@ -1,11 +1,11 @@
 # Creates README.md
 import urllib.request
 import json
-from github import get_user_repositories
+import github
 from svg import populate_svg_template
 
 username = 'YoraiLevi'
-repos = get_user_repositories(username)
+repos = github.get_authenticated_repositories()
 repos = list(filter(lambda repo: not repo.get("fork", False), repos))
 repos = list(filter(lambda repo: not repo.get("archived", False), repos))
 repos.sort(key=lambda repo: (repo.get("updated_at", None)), reverse=True)

@@ -130,10 +130,10 @@ class User(TypedDict):
     # site_admin: bool
 
 def _fetch_json(url):
-    # api_token = os.getenv("GITHUB_TOKEN")
+    api_token = os.getenv("USER_TOKEN")
     req = urllib.request.Request(url)
-    # req.add_header("Authorization", f"Bearer {api_token}")
-    # req.add_header("X-GitHub-Api-Version", "2022-11-28")
+    req.add_header("Authorization", f"Bearer {api_token}")
+    req.add_header("X-GitHub-Api-Version", "2022-11-28")
     data = urllib.request.urlopen(req).read()
     json_data = json.loads(data)
     return json_data
