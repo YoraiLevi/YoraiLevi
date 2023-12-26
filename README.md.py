@@ -6,6 +6,7 @@ from svg import populate_svg_template
 
 username = 'YoraiLevi'
 repos = get_user_repositories(username)
+repos = list(filter(lambda repo: not repo.get("fork", False), repos))
 repos = list(filter(lambda repo: not repo.get("archived", False), repos))
 repos.sort(key=lambda repo: (repo.get("updated_at", None)), reverse=True)
 repo_cards = ""
