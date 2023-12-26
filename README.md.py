@@ -36,11 +36,17 @@ for index, repo in enumerate(repos[:6]):
     has_pages = repo.get("has_pages", False)
     archived = repo.get("archived", False)
 
-    with open(f"card-{index}.svg", "w") as f:
-        f.write(populate_svg_template(repo))
+    with open(f"card-dark-{index}.svg", "w") as f:
+        f.write(populate_svg_template(repo, dark_mode=True))
+    with open(f"card-light-{index}.svg", "w") as f:
+        f.write(populate_svg_template(repo, dark_mode=False))
     repo_card = f"""
 <a href="{html_url}">
-<img align="center" src="card-{index}.svg" />\
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./card-dark-{index}.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./card-light-{index}.svg">
+  <img align="center" src="./card-dark-{index}.svg" />
+</picture>\
 </a>"""
     repo_cards += repo_card
 print("[repository list](REPOS.md)")
