@@ -2,17 +2,17 @@
 <p align="center">
 
 <a href="https://github.com/YoraiLevi/YoraiLevi">
-<img align="center" src="https://github-readme-stats-one-theta-17.vercel.app/api/pin/?username=YoraiLevi&repo=YoraiLevi&theme=github_dark&max_lines=2" /></a>
+<img align="center" src="card-0.svg" /></a>
 <a href="https://github.com/YoraiLevi/pester5-tutorial">
-<img align="center" src="https://github-readme-stats-one-theta-17.vercel.app/api/pin/?username=YoraiLevi&repo=pester5-tutorial&theme=github_dark&max_lines=2" /></a>
+<img align="center" src="card-1.svg" /></a>
 <a href="https://github.com/YoraiLevi/ahk-autohotkeys">
-<img align="center" src="https://github-readme-stats-one-theta-17.vercel.app/api/pin/?username=YoraiLevi&repo=ahk-autohotkeys&theme=github_dark&max_lines=2" /></a>
+<img align="center" src="card-2.svg" /></a>
 <a href="https://github.com/YoraiLevi/plotly_dash">
-<img align="center" src="https://github-readme-stats-one-theta-17.vercel.app/api/pin/?username=YoraiLevi&repo=plotly_dash&theme=github_dark&max_lines=2" /></a>
+<img align="center" src="card-3.svg" /></a>
 <a href="https://github.com/YoraiLevi/Intro-to-NLP-236299-CS187">
-<img align="center" src="https://github-readme-stats-one-theta-17.vercel.app/api/pin/?username=YoraiLevi&repo=Intro-to-NLP-236299-CS187&theme=github_dark&max_lines=2" /></a>
+<img align="center" src="card-4.svg" /></a>
 <a href="https://github.com/YoraiLevi/regedit.ps1">
-<img align="center" src="https://github-readme-stats-one-theta-17.vercel.app/api/pin/?username=YoraiLevi&repo=regedit.ps1&theme=github_dark&max_lines=2" /></a>
+<img align="center" src="card-5.svg" /></a>
 
 ![](resources/README/header_image.jpg)
 </p>
