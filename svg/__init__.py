@@ -1,6 +1,6 @@
 import urllib.request
 import json
-
+from github import Repository
 url = "https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/src/common/languageColors.json"
 webUrl = urllib.request.urlopen(url)
 data = webUrl.read()
@@ -16,16 +16,15 @@ with open("./svg/light_mode.css", "r") as f:
     light_mode_css = f.read()
 
 
-def populate_svg_template(repo, dark_mode=True):
-    name = repo.get("name") or "gist: " + repr(list(repo["files"].keys()))
+def populate_svg_template(repo : Repository, dark_mode=True):
+    name = repo.get("name")
     description = repo.get("description") or ""
     language = repo.get("language") or ""
     archived = repo.get("archived", False)
-    # # Popularities and stats
     stargazers_count = repo.get("stargazers_count", 0)
     forks_count = repo.get("forks_count", 0)
 
-    repo = {
+    _repo = {
         "name": name,
         "description": description,
         "language": language,
@@ -36,4 +35,4 @@ def populate_svg_template(repo, dark_mode=True):
         "not_archived": "hide" if archived else "",
         "color_scheme": dark_mode_css if dark_mode else light_mode_css,
     }
-    return card_svg_template.substitute(repo)
+    return card_svg_template.substitute(_repo)
