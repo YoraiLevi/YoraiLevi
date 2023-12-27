@@ -24,13 +24,13 @@ if __name__ == "__main__":
         with open(f"card-light-{index}.svg", "w") as f:
             f.write(populate_svg_template(repo, dark_mode=False))
         repo_card = f"""
-    <a href="{html_url}">
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./card-dark-{index}.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./card-light-{index}.svg">
-    <img align="center" src="./card-dark-{index}.svg" />
-    </picture>\
-    </a>"""
+<a href="{html_url}">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./card-dark-{index}.svg">
+<source media="(prefers-color-scheme: light)" srcset="./card-light-{index}.svg">
+<img align="center" src="./card-dark-{index}.svg" />
+</picture>\
+</a>"""
         repo_cards += repo_card
     print("[repository list](REPOS.md)")
     print('<p align="center">')
