@@ -60,7 +60,7 @@ function Yorai-Levi {
             Company            = 'Technion'
             Accomplishments    = 'Extra curriculum in deep machine learning and natural language processing (NLP)'
             FromDate           = (Get-Date -Month 10 -Year 2018)
-            ToDate             = (Get-Date -Month 10 -Year 2023)
+            ToDate             = (Get-Date -Month 10 -Year 2024)
         },
         @{
             AwardsAndEducation = 'Education'
@@ -120,9 +120,9 @@ function Yorai-Levi {
             Title           = 'Software Engineer'
             Company         = 'Sanolla - AI Powered Primary Care Diagnostic Solutions (Startup)'
             Tags            = @('Dev', 'AI', 'Automation')
-            Duties          = @('Spearhead development of companion apps for embedded devices, contributing to diagnostic solutions.')
+            Duties          = @('Spearhead development of companion apps for embedded devices', 'Responsibilies vary from simple software development and automation to technical setup and electronic manipulation and soldering')
             Technologies    = @('C', 'Android', 'Java', 'Kotlin', 'React', 'React Native', 'C#', 'WPF', 'Python', 'PowerShell', 'Bash', 'Matlab', 'AI technologies')
-            Accomplishments = @('Lead tooling and quality assurance efforts for R&D and seamless UI/UX experience.')
+            Accomplishments = @('Tooling, automation and quality assurance efforts for R&D and seamless UI/UX experience.')
             FromDate        = (Get-Date -Month 6 -Year 2021)
             ToDate          = ([datetime]::Today)
         }
@@ -150,8 +150,8 @@ function Yorai-Levi {
                     $_ToDate = if ($_.ToDate -eq [datetime]::Today) { 'Present' } else { $(Get-Date -Date $_.ToDate -UFormat '%b %y') }
                     "$($_.Company). $($_.EmploymentType)"
                     "$($_.Title) | $_FromDate - $_ToDate"
-                    if (-not [string]::IsNullOrEmpty($_.Accomplishments)) { "    $($_.Accomplishments)" }
-                    if (-not [string]::IsNullOrEmpty($_.Duties)) { "    $($_.Duties)" }
+                    if (-not [string]::IsNullOrEmpty($_.Accomplishments)) { $_.Accomplishments | %{"    $($_)"} }
+                    if (-not [string]::IsNullOrEmpty($_.Duties)) { $_.Duties | %{"    $($_)"} }
                     if (-not [string]::IsNullOrEmpty($_.Technologies)) { "    Proficiency: $($_.Technologies)" }
                     ''
                 }
@@ -167,45 +167,46 @@ function Yorai-Levi {
 }
 function Resume-YoraiLevi {
     $Keywords = @(
-        'ai',
-        'ansible',
-        'arduino',
+        # 'ai',
+        # 'ansible',
+        # 'arduino',
         'automation',
-        'bash',
-        'big data',
-        'c',
-        'c#',
-        'c++',
-        'cloud computing',
-        'crawling',
+        # 'bash',
+        # 'big data',
+        # 'c',
+        # 'c#',
+        # 'c++',
+        # 'cloud computing',
+        # 'crawling',
         'data science',
-        'deployment',
-        'develop',
-        'devops',
-        'embedded',
-        'java',
-        'javascript',
-        'kotlin',
-        'linux',
+        # 'deployment',
+        # 'develop',
+        # 'devops',
+        # 'embedded',
+        # 'java',
+        # 'javascript',
+        # 'kotlin',
+        # 'linux',
         'mathematics',
-        'matlab',
+        # 'matlab',
         'optimization',
-        'physics',
+        # 'physics',
         'powershell',
-        'puppeteer extra stealth',
-        'puppeteer',
+        # 'puppeteer extra stealth',
+        # 'puppeteer',
         'python',
-        'react native',
-        'react',
-        'redhat',
-        'software engineering'
+        # 'react native',
+        # 'react',
+        # 'redhat',
+        'software development',
         'statistics',
-        'tools',
-        'typescript',
-        'web',
-        'windows',
-        'wpf',
-        'wsl2'
+        # 'tools',
+        # 'typescript',
+        # 'web',
+        # 'windows',
+        # 'wpf',
+        # 'wsl2'
+        ''
     )
     $examples = @(
         { Yorai-Levi -Contact -Phone '+972-525602337' -Email 'contact@yorailevi.com' -Location 'Israel', 'Remote' }
@@ -229,8 +230,9 @@ function Resume-YoraiLevi {
 "@
         $i++
     } | Write-Output
-    # 'NOTES'
-    # "    $($Keywords -join ' ')"
+    'NOTES'
+    "    $($Keywords -join ' ')"
+    # "    "
 
     <#(Get-Help YoraiLevi -Examples | Out-String) <#-replace '\s+DESCRIPTION', '' -replace '\s+INPUTS', '' -replace '\s+OUTPUTS', '' -replace '\s+Required\?.*', '' -replace '\s+Position\?.*', '' -replace "\s+Default value\s*`n", '' -replace '\s+Accept pipeline input\?.*', '' -replace '\s+Accept wildcard characters\?.*', '' -replace "(`r`n){2,}", "`r`n" -replace "(    `r`n){2,}", "    `r`n" -split "`r*`n" | ForEach-Object {
         $_
@@ -244,8 +246,10 @@ function Resume-YoraiLevi {
     }#>
     @'
 RELATED LINKS
-    resume.yorailevi.com 
-    pdf.resume.yorailevi.com 
+    http://resume.yorailevi.com
+    http://pdf.resume.yorailevi.com
+    https://github.com/YoraiLevi
+    https://www.linkedin.com/in/yorai-levi-76a95b11a/
 '@
 
 }
