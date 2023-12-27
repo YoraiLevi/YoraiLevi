@@ -26,20 +26,15 @@ def repolike2str(repo: Repository):
 
 
 if __name__ == "__main__":
-    user_gists: list[Gist] = github.get_authenticated_gists()
-    repos: list[Repository] = github.get_authenticated_repositories()
+    starred_gists: list[Gist] = github.get_authenticated_starred_gists()
+    starred_repos: list[Repository] = github.get_authenticated_starred_repositories()
 
-    user_repos = list(filter(lambda repo: not repo.get("fork", False), repos))
-    user_forks = list(filter(lambda repo: repo.get("fork", False), repos))
-    for gist in user_gists:
+    for gist in starred_gists:
         gist["name"] = next(iter(gist["files"].keys()))
 
-    user_items = user_repos + user_gists
+    user_starred = starred_repos + starred_gists
 
-    user_items.sort(key=lambda item: (item.get("updated_at", None)), reverse=True)
-    print("## Repositories and Gists")
-    for repo in user_items:
-        print(f"- {repolike2str(repo)}  ")
-    print("## Forks")
-    for repo in user_forks:
+    user_starred.sort(key=lambda item: (item.get("updated_at", None)), reverse=True)
+    print("## Starred")
+    for repo in user_starred:
         print(f"- {repolike2str(repo)}  ")

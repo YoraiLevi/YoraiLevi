@@ -77,7 +77,7 @@ if __name__ == "__main__":
             f.write(light_svg)
         most_starred_repo_cards += markdown_display_string
     
-    links = "[📘repositories](REPOS.md#repositories-and-gists)    [⭐starred](REPOS.md#starred)"
+    links = "[📘repositories](REPOS.md#repositories-and-gists)    [⭐starred](STARRED.md#starred)"
     print(links)
     ###
     print()
