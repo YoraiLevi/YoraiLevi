@@ -41,6 +41,7 @@ if __name__ == "__main__":
     user_items = user_repos + user_gists
 
     user_items.sort(key=lambda item: (item.get("updated_at", None)), reverse=True)
+    user_starred.sort(key=lambda item: (item.get("updated_at", None)), reverse=True)
     print("## Repositories and Gists")
     for repo in user_items:
         print(f"- {repolike2str(repo)}  ")
