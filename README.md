@@ -61,6 +61,7 @@
 </p>
 
 <p align="center">
+
 ![](resources/README/header_image.jpg)
 
 </p>
