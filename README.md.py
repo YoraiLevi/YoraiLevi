@@ -80,15 +80,21 @@ if __name__ == "__main__":
     links = "[📘repositories](REPOS.md#repositories-and-gists)    [⭐starred](REPOS.md#starred)"
     print(links)
     ###
+    print()
     print('<p align="center">')
     print(recently_updated_repo_cards)
     print()
+    print("</p>")
     ###
     print("# Most Starred")
+    print()
+    print('<p align="center">')
     print(most_starred_repo_cards)
     print()
+    print("</p>")
     ###
+    print('<p align="center">')
     print("![](resources/README/header_image.jpg)")
     print()
-    ###
     print("</p>")
+    ###
