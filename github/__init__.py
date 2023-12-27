@@ -28,7 +28,8 @@ class Gist(TypedDict):
     # comments_url: str
     owner: dict
     # truncated: bool
-    stargazers_count: int  # populated by _populate_gist_stargazersCount
+    stargazers_count: int  # populated by _populate_gist_stargazersCount_forks
+    forks_count: int # populated by _populate_gist_stargazersCount_forks
 
 
 class Repository(TypedDict):
@@ -160,11 +161,14 @@ def _query_graphql(graphql_query):
         raise json_data
 
 
-def _populate_gist_stargazersCount(gists: list[Gist]):
+def _populate_gist_stargazersCount_forks(gists: list[Gist]):
     def _gists_stargzers_graphql_query(gists: list[Gist]):
         template_gist_query = Template(
             """gist_$id : gist(name : "$id"){
         stargazerCount
+        forks {
+            totalCount
+        }
     }"""
         )
         template_query = Template(
@@ -182,9 +186,9 @@ def _populate_gist_stargazersCount(gists: list[Gist]):
     graphql_query = _gists_stargzers_graphql_query(gists)
     graphql_data = _query_graphql(graphql_query)
     for gist in gists:
-        gist["stargazers_count"] = graphql_data["viewer"]["gist_" + gist["id"]][
-            "stargazerCount"
-        ]
+        data = graphql_data["viewer"]["gist_" + gist["id"]]
+        gist["stargazers_count"] = data["stargazerCount"]
+        gist["forks_count"] = data["forks"]["totalCount"]
     return gists
 
 
@@ -215,7 +219,7 @@ def get_user_gists(username) -> list[Gist]:
     url_template = Template("https://api.github.com/users/$username/gists?per_page=100")
     url = url_template.substitute(username=username)
     json_data = _fetch_json(url)
-    json_data = _populate_gist_stargazersCount(json_data)
+    json_data = _populate_gist_stargazersCount_forks(json_data)
     json_data = list(filter(lambda gist: gist.get("public", False), json_data))
     return list(map(partial(_filter_keys, annotated_type), json_data))
 
@@ -280,7 +284,7 @@ def get_authenticated_gists() -> list[Gist]:
     url_template = Template("https://api.github.com/gists?per_page=100")
     url = url_template.substitute()
     json_data = _fetch_json(url)
-    json_data = _populate_gist_stargazersCount(json_data)
+    json_data = _populate_gist_stargazersCount_forks(json_data)
     json_data = list(filter(lambda gist: gist.get("public", False), json_data))
     return list(map(partial(_filter_keys, annotated_type), json_data))
 
@@ -293,7 +297,7 @@ def get_authenticated_starred_gists() -> list[Gist]:
     url_template = Template("https://api.github.com/gists/starred?per_page=100")
     url = url_template.substitute()
     json_data = _fetch_json(url)
-    json_data = _populate_gist_stargazersCount(json_data)
+    json_data = _populate_gist_stargazersCount_forks(json_data)
     json_data = list(filter(lambda gist: gist.get("public", False), json_data))
     return list(map(partial(_filter_keys, annotated_type), json_data))
 
