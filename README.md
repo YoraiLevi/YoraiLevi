@@ -1,4 +1,4 @@
-[📘repositories](./REPOS.md#repositories-and-gists)    [⭐starred](https://github.com/YoraiLevi?direction=desc&sort=updated&tab=stars)    [🔒private](https://github.com/YoraiLevi?tab=repositories&q=&type=private&language=&sort=,,)
+[📘repositories](./REPOS.md#repositories-and-gists)    [⭐starred](./STARRED.md#starred)
 
 <p align="center">
 
@@ -41,21 +41,33 @@
 
 </p>
 
-# Most Starred
+# My Most Starred
 
 <p align="center">
 
-<a href="https://github.com/YoraiLevi/SetFacebookPostsPrivate">
+<a href="https://gist.github.com/YoraiLevi/0f333d520f502fdb1244cdf0524db6d2">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./card-dark-starred-0.svg/">
 <source media="(prefers-color-scheme: light)" srcset="./card-light-starred-0.svg/">
 <img align="center" src="./card-dark-starred-0.svg" />
 </picture></a>
-<a href="https://github.com/YoraiLevi/pysubsync">
+<a href="https://gist.github.com/YoraiLevi/e1888ee1c06b34cb02d4b58b739301af">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./card-dark-starred-1.svg/">
 <source media="(prefers-color-scheme: light)" srcset="./card-light-starred-1.svg/">
 <img align="center" src="./card-dark-starred-1.svg" />
+</picture></a>
+<a href="https://github.com/YoraiLevi/SetFacebookPostsPrivate">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./card-dark-starred-2.svg/">
+<source media="(prefers-color-scheme: light)" srcset="./card-light-starred-2.svg/">
+<img align="center" src="./card-dark-starred-2.svg" />
+</picture></a>
+<a href="https://github.com/YoraiLevi/pysubsync">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./card-dark-starred-3.svg/">
+<source media="(prefers-color-scheme: light)" srcset="./card-light-starred-3.svg/">
+<img align="center" src="./card-dark-starred-3.svg" />
 </picture></a>
 
 </p>

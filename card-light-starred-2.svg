@@ -31,19 +31,19 @@
                                 <span data-view-component="true" class="position-relative">
                                     <a href="" data-view-component="true" class="min-width-0 Link text-bold flex-auto">
                                         <span class="repo">
-                                            Download-AppxPackage.ps1
+                                            SetFacebookPostsPrivate
                                         </span>
                                     </a>
                                     <tool-tip for="2544889" popover="manual" data-direction="s" data-type="description"
                                         data-view-component="true" class="position-absolute sr-only" role="tooltip"
                                         style="--tool-tip-position-top: 707.75px; --tool-tip-position-left: 368.625px;">
-                                        Download-AppxPackage.ps1</tool-tip>
+                                        SetFacebookPostsPrivate</tool-tip>
                                 </span>
-                                <span class=" flex-auto text-right">
+                                <span class="hide flex-auto text-right">
                                     <span></span>
                                     <span class="Label Label--secondary v-align-middle ">Public</span>
                                 </span>
-                                <span class="hide flex-auto text-right">
+                                <span class=" flex-auto text-right">
                                     <span></span>
                                     <span class="Label Label--attention v-align-middle ">Public
                                         archive</span>
@@ -52,14 +52,14 @@
 
 
                             <p class="three-lines pinned-item-desc color-fg-muted text-small d-block mt-2 mb-3">
-                                Download Windows Store Apps with Powershell
+                                Automation tool that sets posts in facebook's activity log to private (public or friends) for the new 2020 design. using Tampermonkey
                             </p>
 
                             <p class="mb-0 f6 color-fg-muted">
                                 <span class="d-inline-block mr-3">
                                     <span class="repo-language-color"
-                                        style="background-color: #012456"></span>
-                                    <span itemprop="programmingLanguage">PowerShell</span>
+                                        style="background-color: #f1e05a"></span>
+                                    <span itemprop="programmingLanguage">JavaScript</span>
                                 </span>
 
                                 <a href="" class="pinned-item-meta Link--muted">
@@ -70,7 +70,7 @@
                                             d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z">
                                         </path>
                                     </svg>
-                                    10 </a>
+                                    4 </a>
                                 <a href="" class="pinned-item-meta Link--muted">
                                     <svg xmlns="http://www.w3.org/2000/svg" aria-label="forks" role="img" height="16"
                                         viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"

@@ -1,69 +1,69 @@
 ## Starred
 - [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (December 2023)  
-- [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.  
-- [nbfc](https://github.com/hirschmann/nbfc) - NoteBook FanControl  
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.  
-- [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs  
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.  
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.  
-- [qbt-theme](https://github.com/jagannatharjun/qbt-theme) - collection of themes for qbittorrent  
-- [uYouPlus](https://github.com/qnblackcat/uYouPlus) - uYou+ is a modified version of uYou (made by @MiRO92) with additional features and mainly made for non jailbroken users!  
-- [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks  
-- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF  
-- [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) - OpenCore bootloader  
-- [lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run linters on git staged files  
-- [Watusi-for-WhatsApp](https://github.com/FouadRaheb/Watusi-for-WhatsApp) - Your all-in-one tweak for WhatsApp Messenger!  
-- [TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs) - A collection of IPA files from many different sources, for TrollStore!  
-- [nextjs-github-pages](https://github.com/gregrickaby/nextjs-github-pages) - 🚀 Deploy a Next.js app to Github Pages via Github Actions.  
 - [rivet](https://github.com/Ironclad/rivet) - The open-source visual AI programming environment and TypeScript library  
-- [WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.  
-- [lm-hackers](https://github.com/fastai/lm-hackers) - Hackers' Guide to Language Models  
-- [optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework  
-- [tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.   
+- [israeli-bank-scrapers](https://github.com/eshaham/israeli-bank-scrapers) - Provide scrapers for all major Israeli banks and credit card companies  
 - [Pscx](https://github.com/Pscx/Pscx) - PowerShell Community Extensions module repository  
-- [numpy-100](https://github.com/rougier/numpy-100) - 100 numpy exercises (with solutions)  
-- [vlmcsd](https://github.com/Wind4/vlmcsd) - KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin)  
+- [RestartableSession](https://github.com/mdgrs-mei/RestartableSession) - A PowerShell module to instantly and properly reflect the code changes to the module you are making.   
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.  
+- [pipe-fn](https://github.com/Xython/pipe-fn) - A functional style Pipe for CPython. Inspired by https://github.com/JulienPalard/Pipe, but the implementation could be quite different.  
+- [Pipe](https://github.com/JulienPalard/Pipe) - A Python library to use infix notation in Python  
+- [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) - OpenCore bootloader  
+- [MacHyperVSupport](https://github.com/acidanthera/MacHyperVSupport) - Hyper-V integration support for macOS  
+- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF  
+- [npm-trends](https://github.com/uidotdev/npm-trends) - NPM package comparison  
+- [lm-hackers](https://github.com/fastai/lm-hackers) - Hackers' Guide to Language Models  
+- [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs  
+- [PsDownload](https://github.com/DanGough/PsDownload) - A PowerShell module for downloading files.  
 - [PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN) - PyTorch implementations of Generative Adversarial Networks.  
+- [WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.  
+- [numpy-100](https://github.com/rougier/numpy-100) - 100 numpy exercises (with solutions)  
+- [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks  
+- [optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework  
+- [nextjs-github-pages](https://github.com/gregrickaby/nextjs-github-pages) - 🚀 Deploy a Next.js app to Github Pages via Github Actions.  
+- [uYouPlus](https://github.com/qnblackcat/uYouPlus) - uYou+ is a modified version of uYou (made by @MiRO92) with additional features and mainly made for non jailbroken users!  
+- [Watusi-for-WhatsApp](https://github.com/FouadRaheb/Watusi-for-WhatsApp) - Your all-in-one tweak for WhatsApp Messenger!  
+- [cs236781](https://github.com/vistalab-technion/cs236781) - Deep Learning course website  
+- [cs236781-tutorials](https://github.com/vistalab-technion/cs236781-tutorials) - Deep Learning course tutorials  
+- [TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs) - A collection of IPA files from many different sources, for TrollStore!  
+- [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.  
+- [unity-android-native](https://github.com/Suvitruf/unity-android-native) - A Unity plugin to work with Android native sdk  
+- [tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.   
+- [wsl-sudo](https://github.com/Chronial/wsl-sudo) - WSL tool to run wsl commands in in an elevated process  
+- [comp-genomics-class](https://github.com/BenLangmead/comp-genomics-class) - Code and examples for JHU Computational Genomics class  
+- [genomicspapers](https://github.com/jtleek/genomicspapers) - The Leek group guide to genomics papers  
+- [vg](https://github.com/vgteam/vg) - tools for working with genome variation graphs  
+- [node](https://github.com/mysteriumnetwork/node) - Mysterium Network Node -  official implementation of distributed VPN network (dVPN) protocol  
 - [dvpn-node](https://github.com/sentinel-official/dvpn-node) - The official Sentinel dVPN node  
-- [grpc-js-typescript](https://github.com/badsyntax/grpc-js-typescript) - Generate gRPC TypeScript definitions for use with gRPC (@grpc/grpc-js).  
+- [BLEProof-collection](https://github.com/alexanderlavrushko/BLEProof-collection) - Example of complete BLE application: Central and Peripheral for Android, iOS, ESP32, Arduino Nano 33  
+- Archived: [npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) - :rocket: Upgrade npm on Windows  
+- [PowerShell-WSL-Interop](https://github.com/mikebattista/PowerShell-WSL-Interop) - Integrate Linux commands into Windows with PowerShell and the Windows Subsystem for Linux (WSL).  
+- [psutils](https://github.com/lukesampson/psutils) - Command line utilities written in Powershell  
+- [platformio-arduino-rust](https://github.com/dzervas/platformio-arduino-rust) - Arduino Framework bindings for Rust using PlatformIO  
+- [nrf52-OTA-BLE-Linux](https://github.com/chiararuggeri/nrf52-OTA-BLE-Linux)  
+- [segger-rtt-viewer](https://github.com/bojanpotocnik/segger-rtt-viewer) - Python tool for connecting to J-Link RTT Client  
+- [mutation-summary](https://github.com/rafaelw/mutation-summary) - A JavaScript library that makes observing changes to the DOM easy  
+- [mutation-summary](https://github.com/mmacfadden/mutation-summary) - A JavaScript library that makes observing changes to the DOM easy  
+- [lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run linters on git staged files  
 - [ts-proto](https://github.com/stephenh/ts-proto) - An idiomatic protobuf generator for TypeScript  
 - [super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to install as a GitHub Action  
-- [headless-chrome-crawler](https://github.com/yujiosaka/headless-chrome-crawler) - Distributed crawler powered by Headless Chrome  
-- [KMS_VL_ALL](https://github.com/kkkgo/KMS_VL_ALL) - 🔑KMS_VL_ALL - Smart Activation Script  
-- [israeli-bank-scrapers](https://github.com/eshaham/israeli-bank-scrapers) - Provide scrapers for all major Israeli banks and credit card companies  
-- [vg](https://github.com/vgteam/vg) - tools for working with genome variation graphs  
-- [npm-trends](https://github.com/uidotdev/npm-trends) - NPM package comparison  
-- [rdfind](https://github.com/pauldreik/rdfind) - find duplicate files utility  
-- [node](https://github.com/mysteriumnetwork/node) - Mysterium Network Node -  official implementation of distributed VPN network (dVPN) protocol  
-- [Pipe](https://github.com/JulienPalard/Pipe) - A Python library to use infix notation in Python  
-- [PowerShell-WSL-Interop](https://github.com/mikebattista/PowerShell-WSL-Interop) - Integrate Linux commands into Windows with PowerShell and the Windows Subsystem for Linux (WSL).  
-- [MacHyperVSupport](https://github.com/acidanthera/MacHyperVSupport) - Hyper-V integration support for macOS  
-- Archived: [npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) - :rocket: Upgrade npm on Windows  
-- [wsl-sudo](https://github.com/Chronial/wsl-sudo) - WSL tool to run wsl commands in in an elevated process  
-- [seqanpy](https://github.com/iosonofabio/seqanpy) - Fast pairwise sequence alignment using SeqAn, in Python.  
-- [eslint-config-auto](https://github.com/davidjbradshaw/eslint-config-auto) - Automatically configure ESLint based on project dependencies  
-- Archived: [docker-puppeteer](https://github.com/buildkite/docker-puppeteer) - A minimal Docker image for Puppeteer  
 - [docker-puppeteer](https://github.com/alekzonder/docker-puppeteer) - docker image with Google Puppeteer installed  
-- [BLEProof-collection](https://github.com/alexanderlavrushko/BLEProof-collection) - Example of complete BLE application: Central and Peripheral for Android, iOS, ESP32, Arduino Nano 33  
-- [KMS-activator](https://github.com/CHEF-KOCH/KMS-activator) - Windows activation research project.  
+- Archived: [docker-puppeteer](https://github.com/buildkite/docker-puppeteer) - A minimal Docker image for Puppeteer  
+- [eslint-config-auto](https://github.com/davidjbradshaw/eslint-config-auto) - Automatically configure ESLint based on project dependencies  
+- [grpc-js-typescript](https://github.com/badsyntax/grpc-js-typescript) - Generate gRPC TypeScript definitions for use with gRPC (@grpc/grpc-js).  
+- [headless-chrome-crawler](https://github.com/yujiosaka/headless-chrome-crawler) - Distributed crawler powered by Headless Chrome  
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.  
+- [KMS_VL_ALL](https://github.com/kkkgo/KMS_VL_ALL) - 🔑KMS_VL_ALL - Smart Activation Script  
+- [nbfc](https://github.com/hirschmann/nbfc) - NoteBook FanControl  
 - [nohost](https://github.com/humphd/nohost) - A web server in your web browser  
-- [psutils](https://github.com/lukesampson/psutils) - Command line utilities written in Powershell  
-- [mutation-summary](https://github.com/rafaelw/mutation-summary) - A JavaScript library that makes observing changes to the DOM easy  
-- [segger-rtt-viewer](https://github.com/bojanpotocnik/segger-rtt-viewer) - Python tool for connecting to J-Link RTT Client  
-- [genomicspapers](https://github.com/jtleek/genomicspapers) - The Leek group guide to genomics papers  
-- [PsDownload](https://github.com/DanGough/PsDownload) - A PowerShell module for downloading files.  
-- [RestartableSession](https://github.com/mdgrs-mei/RestartableSession) - A PowerShell module to instantly and properly reflect the code changes to the module you are making.   
-- [platformio-arduino-rust](https://github.com/dzervas/platformio-arduino-rust) - Arduino Framework bindings for Rust using PlatformIO  
-- [pipe-fn](https://github.com/Xython/pipe-fn) - A functional style Pipe for CPython. Inspired by https://github.com/JulienPalard/Pipe, but the implementation could be quite different.  
-- [comp-genomics-class](https://github.com/BenLangmead/comp-genomics-class) - Code and examples for JHU Computational Genomics class  
-- [cs236781-tutorials](https://github.com/vistalab-technion/cs236781-tutorials) - Deep Learning course tutorials  
-- [nrf52-OTA-BLE-Linux](https://github.com/chiararuggeri/nrf52-OTA-BLE-Linux)  
-- [unity-android-native](https://github.com/Suvitruf/unity-android-native) - A Unity plugin to work with Android native sdk  
-- [beautiful_idiomatic_python.md](https://gist.github.com/0x4D31/f0b633548d8e0cfb66ee3bea6a0deff9) - [Beautiful Idiomatic Python] Transforming Code into Beautiful, Idiomatic Python #python  
-- [Export-Chocolatey.ps1](https://gist.github.com/alimbada/449ddf65b4ef9752eff3) - Export installed Chocolatey packages as packages.config - thanks to Matty666  
-- [wsl2.md](https://gist.github.com/hucsmn/da1dbc2eb5903cb3143c35313623e7b0) - A collection of WSL2 hacks  
-- [tts-gratis](https://github.com/afkar-zoldyck/tts-gratis) - Text To Speech 100% Gratis  
-- [mutation-summary](https://github.com/mmacfadden/mutation-summary) - A JavaScript library that makes observing changes to the DOM easy  
-- [cs236781](https://github.com/vistalab-technion/cs236781) - Deep Learning course website  
 - [technion-histograms](https://github.com/michael-maltsev/technion-histograms) - Histograms of Technion courses  
+- [rdfind](https://github.com/pauldreik/rdfind) - find duplicate files utility  
+- [KMS-activator](https://github.com/CHEF-KOCH/KMS-activator) - Windows activation research project.  
+- [vlmcsd](https://github.com/Wind4/vlmcsd) - KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin)  
+- [qbt-theme](https://github.com/jagannatharjun/qbt-theme) - collection of themes for qbittorrent  
+- [tts-gratis](https://github.com/afkar-zoldyck/tts-gratis) - Text To Speech 100% Gratis  
+- [seqanpy](https://github.com/iosonofabio/seqanpy) - Fast pairwise sequence alignment using SeqAn, in Python.  
+- [wsl2.md](https://gist.github.com/hucsmn/da1dbc2eb5903cb3143c35313623e7b0) - A collection of WSL2 hacks  
+- [beautiful_idiomatic_python.md](https://gist.github.com/0x4D31/f0b633548d8e0cfb66ee3bea6a0deff9) - [Beautiful Idiomatic Python] Transforming Code into Beautiful, Idiomatic Python #python  
 - [Pok3r.ahk](https://gist.github.com/JarvisPrestidge/189ffb4da71397f221c1) - Personal AutoHotKey script that turns any keyboard into a Pok3r.  
+- [Export-Chocolatey.ps1](https://gist.github.com/alimbada/449ddf65b4ef9752eff3) - Export installed Chocolatey packages as packages.config - thanks to Matty666  
