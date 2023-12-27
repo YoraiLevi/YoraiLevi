@@ -96,6 +96,7 @@ if __name__ == "__main__":
     print()
     ###
     print('<p align="center">')
+    print()
     print("![](resources/README/header_image.jpg)")
     print()
     print("</p>")
