@@ -1,4 +1,4 @@
-[📘repositories](REPOS.md#repositories-and-gists)    [⭐starred](REPOS.md#starred)
+[📘repositories](REPOS.md#repositories-and-gists)    [⭐starred](STARRED.md#starred)
 
 <p align="center">
 
