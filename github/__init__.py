@@ -10,14 +10,14 @@ documentation of endpoints https://docs.github.com/en/rest/overview/endpoints-av
 """
 
 class Gist(TypedDict):
-    url: str
+    # url: str
     # forks_url: str
     # commits_url: str
     # id: str
     # node_id: str
     # git_pull_url: str
     # git_push_url: str
-    # html_url: str
+    html_url: str
     files: dict
     public: bool
     created_at: str
@@ -143,7 +143,7 @@ def _filter_keys(annotated_type, d):
     return {key: d[key] for key in annotated_type.__annotations__.keys()}
 
 
-def get_user_repositories(username):
+def get_user_repositories(username) -> list[Repository]:
     """
     https://docs.github.com/en/rest/repos/repos#list-repositories-for-a-user
     """
@@ -158,7 +158,7 @@ def get_user_repositories(username):
     return list(map(partial(_filter_keys,annotated_type),json_data))
 
 
-def get_user_gists(username):
+def get_user_gists(username)-> list[Gist]:
     """
     https://docs.github.com/en/rest/gists/gists#list-gists-for-a-user
     """
@@ -170,7 +170,7 @@ def get_user_gists(username):
     return list(map(partial(_filter_keys,annotated_type),json_data))
 
 
-def get_user_starred_repositories(username):
+def get_user_starred_repositories(username) -> list[Repository]:
     """
     https://docs.github.com/en/rest/activity/starring#list-repositories-starred-by-a-user
     """
@@ -183,7 +183,7 @@ def get_user_starred_repositories(username):
     return list(map(partial(_filter_keys,annotated_type),json_data))
 
 
-def get_user_followers(username):
+def get_user_followers(username) -> list[User]:
     """
     https://docs.github.com/en/rest/users/followers#list-followers-of-a-user
     """
@@ -196,7 +196,7 @@ def get_user_followers(username):
     return list(map(partial(_filter_keys,annotated_type),json_data))
 
 
-def get_user_following(username):
+def get_user_following(username) -> list[User]:
     """
     https://docs.github.com/en/rest/users/followers#list-the-people-a-user-follows
     """
@@ -222,7 +222,7 @@ def get_user_social_accounts(username):
     return list(map(partial(_filter_keys,annotated_type),json_data))
 
 
-def get_authenticated_gists():
+def get_authenticated_gists() -> list[Gist]:
     """
     https://docs.github.com/en/rest/gists/gists#list-gists-for-the-authenticated-user
     """
@@ -234,7 +234,7 @@ def get_authenticated_gists():
     return list(map(partial(_filter_keys,annotated_type),json_data))
 
 
-def get_authenticated_starred_gists():
+def get_authenticated_starred_gists() -> list[Gist]:
     """
     https://docs.github.com/en/rest/gists/gists#list-starred-gists
     """
@@ -246,7 +246,7 @@ def get_authenticated_starred_gists():
     return list(map(partial(_filter_keys,annotated_type),json_data))
 
 
-def get_authenticated_repositories():
+def get_authenticated_repositories()-> list[Repository]:
     """
     https://docs.github.com/en/rest/repos/repos#list-repositories-for-the-authenticated-user
     """
@@ -259,7 +259,7 @@ def get_authenticated_repositories():
     return list(map(partial(_filter_keys,annotated_type),json_data))
 
 
-def get_authenticated_starred_repositories():
+def get_authenticated_starred_repositories() -> list[Repository]:
     """
     https://docs.github.com/en/rest/activity/starring#list-repositories-starred-by-the-authenticated-user
     """
