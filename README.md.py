@@ -32,7 +32,7 @@ if __name__ == "__main__":
 </picture>\
 </a>"""
         repo_cards += repo_card
-    print("[repository list](REPOS.md)")
+    print("[repository list](REPOS.md#repositories-and-gists)    [starred](REPOS.md#starred)")
     print('<p align="center">')
     print(repo_cards)
     print()
