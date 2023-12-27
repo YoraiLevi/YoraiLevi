@@ -12,9 +12,9 @@ from svg import populate_svg_template
 def repolike_card(repolike, card_name_suffix):
     html_url = repo.get("html_url")
     dark_svg = populate_svg_template(repolike, dark_mode=True)
-    dark_svg_name = f"card-dark-{card_name_suffix}.svg"
+    dark_svg_name = f"assets/card-dark-{card_name_suffix}.svg"
     light_svg = populate_svg_template(repolike, dark_mode=False)
-    light_svg_name = f"card-light-{card_name_suffix}.svg"
+    light_svg_name = f"assets/card-light-{card_name_suffix}.svg"
 
     markdown_display_string = f"""
 <a href="{html_url}">
@@ -92,7 +92,7 @@ if __name__ == "__main__":
     print("</p>")
     print()
     ###
-    print("# My Most Starred")
+    print("# My Most Starred🌟")
     print()
     print('<p align="center">')
     print(most_starred_repo_cards)
