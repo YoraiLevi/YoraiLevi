@@ -85,6 +85,7 @@ if __name__ == "__main__":
     print(recently_updated_repo_cards)
     print()
     print("</p>")
+    print()
     ###
     print("# Most Starred")
     print()
@@ -92,9 +93,11 @@ if __name__ == "__main__":
     print(most_starred_repo_cards)
     print()
     print("</p>")
+    print()
     ###
     print('<p align="center">')
     print("![](resources/README/header_image.jpg)")
     print()
     print("</p>")
+    print()
     ###
