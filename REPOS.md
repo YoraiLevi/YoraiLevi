@@ -1,42 +1,118 @@
-[YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
-[pester5-tutorial](https://github.com/YoraiLevi/pester5-tutorial)  
-[ahk-autohotkeys](https://github.com/YoraiLevi/ahk-autohotkeys)  
-[plotly_dash](https://github.com/YoraiLevi/plotly_dash)  
-[Intro-to-NLP-236299-CS187](https://github.com/YoraiLevi/Intro-to-NLP-236299-CS187) - Code for course "Intro to NLP" (236299) Technion Spring 2023, "Introduction to Computational Linguistic" (CS 187) Harvard Fall 2020  
-[regedit.ps1](https://github.com/YoraiLevi/regedit.ps1) - regedit.ps1 is a pure PowerShell implementation for regedit.exe, backed by a fully tested and idempotent cmdlets.   
-[winutil_tweaks_cli](https://github.com/YoraiLevi/winutil_tweaks_cli) - a CLI script only for the tweaks of Chris Titus's winutil  
-[windows_registry_modifications](https://github.com/YoraiLevi/windows_registry_modifications)  
-[Intro-to-Deep-Learning-Final-Project-CS236781](https://github.com/YoraiLevi/Intro-to-Deep-Learning-Final-Project-CS236781) - object detection fintuning with huggingface  
-[advanced_broadcasting](https://github.com/YoraiLevi/advanced_broadcasting)  
-[ansible_collections](https://github.com/YoraiLevi/ansible_collections) - A collection of ansible windows modules that I deem missing for personal usage   
-[ansible_playbooks](https://github.com/YoraiLevi/ansible_playbooks)  
-[WikiAnalysis](https://github.com/YoraiLevi/WikiAnalysis)  
-[RedditAnalysis](https://github.com/YoraiLevi/RedditAnalysis) - Using pushshift.io data dumps, attempt to analyze trends of people and posts  
-[nordic_app_dfu_playzone](https://github.com/YoraiLevi/nordic_app_dfu_playzone) - example project for adding secure ble dfu for an existing app  
-[MyLinting](https://github.com/YoraiLevi/MyLinting) - a collection of linting setups and explanations   
-[YoraiLevi.github.io](https://github.com/YoraiLevi/YoraiLevi.github.io) - Github Pages  
-[My-Tech-Wearables](https://github.com/YoraiLevi/My-Tech-Wearables) - Cloth cat ears wearable with led strips! and more!  
-Archived: [AutoJobFind](https://github.com/YoraiLevi/AutoJobFind) - Javascript/Typescript based web-automation tool for submitting resumes  
-Archived: [pysubsync](https://github.com/YoraiLevi/pysubsync) - A utility to sync subtitles, designed for anime  
-Archived: [Problems_From_The_Discrete_To_The_Continuous_Chapter_3_Probabilistic_Packing_Problem](https://github.com/YoraiLevi/Problems_From_The_Discrete_To_The_Continuous_Chapter_3_Probabilistic_Packing_Problem) - Problems from  the Discrete to  the Continuous describes a number of probability, number theory, graph  theory, and combinatoric problems. this repository showcases chapter 3  
-Archived: [MonkeyAutomations](https://github.com/YoraiLevi/MonkeyAutomations) - my personal collection of Tampermonkey/Greesemonkey automation scripts  
-Archived: [SetFacebookPostsPrivate](https://github.com/YoraiLevi/SetFacebookPostsPrivate) - Automation tool that sets posts in facebook's activity log to private (public or friends) for the new 2020 design. using Tampermonkey  
-Archived: [PyMetaMath](https://github.com/YoraiLevi/PyMetaMath)  
-Archived: [DNA_Noam](https://github.com/YoraiLevi/DNA_Noam)  
-Archived: [Url2Pdf](https://github.com/YoraiLevi/Url2Pdf) - batch download urls and websites as pdf easily  
-# Forks:
-[Heat](https://github.com/YoraiLevi/Heat) - Program to make your computer generate heat  
-[israeli-bank-scrapers](https://github.com/YoraiLevi/israeli-bank-scrapers) - Provide scrapers for all major Israeli banks and credit card companies  
-[Pipe](https://github.com/YoraiLevi/Pipe) - A Python library to use infix notation in Python  
-[keyboard-layout-editor](https://github.com/YoraiLevi/keyboard-layout-editor) - Web application to enable the design & editing of keyboard layouts  
-[Pscx](https://github.com/YoraiLevi/Pscx) - PowerShell Community Extensions module repository  
-[youtube-cast-receiver](https://github.com/YoraiLevi/youtube-cast-receiver) - Grants access to youtube.com/tv normally reserved for use with smart TVs  
-[PsDownload](https://github.com/YoraiLevi/PsDownload) - A PowerShell module for downloading files.  
-[transformers](https://github.com/YoraiLevi/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.  
-[numpy-100](https://github.com/YoraiLevi/numpy-100) - 100 numpy exercises (with solutions)  
-[PythonDataScienceHandbook](https://github.com/YoraiLevi/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks  
-[github-readme-stats](https://github.com/YoraiLevi/github-readme-stats) - :zap: Dynamically generated stats for your github readmes  
-[wsl-sudo](https://github.com/YoraiLevi/wsl-sudo) - WSL tool to run wsl commands in in an elevated process  
-[GitHub-Action-Ahk2Exe](https://github.com/YoraiLevi/GitHub-Action-Ahk2Exe) - GitHub Action to compile AutoHotKey scripts using Ahk2Exe  
-[GM_SuperValue](https://github.com/YoraiLevi/GM_SuperValue) - Improved, error-free and readable version of GreaseMonkey/TamperMonkey storage script "GM_SuperValue"  
-[chrome](https://github.com/YoraiLevi/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own  
+## Repositories and Gists
+- [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
+- [KnownFolderPathPS5.ps1](https://gist.github.com/YoraiLevi/0f333d520f502fdb1244cdf0524db6d2) - Change windows user folders with powershell  
+- [pester5-tutorial](https://github.com/YoraiLevi/pester5-tutorial)  
+- [ahk-autohotkeys](https://github.com/YoraiLevi/ahk-autohotkeys)  
+- [plotly_dash](https://github.com/YoraiLevi/plotly_dash)  
+- [Intro-to-NLP-236299-CS187](https://github.com/YoraiLevi/Intro-to-NLP-236299-CS187) - Code for course "Intro to NLP" (236299) Technion Spring 2023, "Introduction to Computational Linguistic" (CS 187) Harvard Fall 2020  
+- [ConvertTo-Hashtable.ps1](https://gist.github.com/YoraiLevi/292bb8d0e2ce0f87d37e5d5d735fff16) - ConvertTo-Hashtable.ps1  
+- [regedit.ps1](https://github.com/YoraiLevi/regedit.ps1) - regedit.ps1 is a pure PowerShell implementation for regedit.exe, backed by a fully tested and idempotent cmdlets.   
+- [Download-AppxPackage.ps1](https://gist.github.com/YoraiLevi/e1888ee1c06b34cb02d4b58b739301af) - Download Windows Store Apps with Powershell  
+- [winutil_tweaks_cli](https://github.com/YoraiLevi/winutil_tweaks_cli) - a CLI script only for the tweaks of Chris Titus's winutil  
+- [Test-ShouldProcess.ps1](https://gist.github.com/YoraiLevi/db0a84ff7be60a974f87a527a6ecfe87) - Everything you wanted to know about ShouldProcess  
+- [windows_registry_modifications](https://github.com/YoraiLevi/windows_registry_modifications)  
+- [Intro-to-Deep-Learning-Final-Project-CS236781](https://github.com/YoraiLevi/Intro-to-Deep-Learning-Final-Project-CS236781) - object detection fintuning with huggingface  
+- [advanced_broadcasting](https://github.com/YoraiLevi/advanced_broadcasting)  
+- Archived: [AutoJobFind](https://github.com/YoraiLevi/AutoJobFind) - Javascript/Typescript based web-automation tool for submitting resumes  
+- Archived: [pysubsync](https://github.com/YoraiLevi/pysubsync) - A utility to sync subtitles, designed for anime  
+- Archived: [Problems_From_The_Discrete_To_The_Continuous_Chapter_3_Probabilistic_Packing_Problem](https://github.com/YoraiLevi/Problems_From_The_Discrete_To_The_Continuous_Chapter_3_Probabilistic_Packing_Problem) - Problems from  the Discrete to  the Continuous describes a number of probability, number theory, graph  theory, and combinatoric problems. this repository showcases chapter 3  
+- Archived: [MonkeyAutomations](https://github.com/YoraiLevi/MonkeyAutomations) - my personal collection of Tampermonkey/Greesemonkey automation scripts  
+- Archived: [SetFacebookPostsPrivate](https://github.com/YoraiLevi/SetFacebookPostsPrivate) - Automation tool that sets posts in facebook's activity log to private (public or friends) for the new 2020 design. using Tampermonkey  
+- Archived: [PyMetaMath](https://github.com/YoraiLevi/PyMetaMath)  
+- Archived: [DNA_Noam](https://github.com/YoraiLevi/DNA_Noam)  
+- Archived: [Url2Pdf](https://github.com/YoraiLevi/Url2Pdf) - batch download urls and websites as pdf easily  
+- [ansible_collections](https://github.com/YoraiLevi/ansible_collections) - A collection of ansible windows modules that I deem missing for personal usage   
+- [ansible_playbooks](https://github.com/YoraiLevi/ansible_playbooks)  
+- [WikiAnalysis](https://github.com/YoraiLevi/WikiAnalysis)  
+- [RedditAnalysis](https://github.com/YoraiLevi/RedditAnalysis) - Using pushshift.io data dumps, attempt to analyze trends of people and posts  
+- [nordic_app_dfu_playzone](https://github.com/YoraiLevi/nordic_app_dfu_playzone) - example project for adding secure ble dfu for an existing app  
+- [MyLinting](https://github.com/YoraiLevi/MyLinting) - a collection of linting setups and explanations   
+- [YoraiLevi.github.io](https://github.com/YoraiLevi/YoraiLevi.github.io) - Github Pages  
+- [pasteconsole.js](https://gist.github.com/YoraiLevi/3365f9a60c8033d8c797dc409acbb26e) - this code is obsolete since the 2020 new facebook design. refer to: https://github.com/YoraiLevi/SetFacebookPostsPrivate make all facebook posts private(activity log) very dumb code.  
+- [libary_vscode_context_menu.reg](https://gist.github.com/YoraiLevi/418c973a319008fb2f5c1ebbbd38bad2) - "Open with Code" inside windows `libaries` on right click context menu  
+- [My-Tech-Wearables](https://github.com/YoraiLevi/My-Tech-Wearables) - Cloth cat ears wearable with led strips! and more!  
+## Forks
+- [israeli-bank-scrapers](https://github.com/YoraiLevi/israeli-bank-scrapers) - Provide scrapers for all major Israeli banks and credit card companies  
+- [Pipe](https://github.com/YoraiLevi/Pipe) - A Python library to use infix notation in Python  
+- [PsDownload](https://github.com/YoraiLevi/PsDownload) - A PowerShell module for downloading files.  
+- [transformers](https://github.com/YoraiLevi/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.  
+- [PythonDataScienceHandbook](https://github.com/YoraiLevi/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks  
+- [numpy-100](https://github.com/YoraiLevi/numpy-100) - 100 numpy exercises (with solutions)  
+- [Pscx](https://github.com/YoraiLevi/Pscx) - PowerShell Community Extensions module repository  
+- [github-readme-stats](https://github.com/YoraiLevi/github-readme-stats) - :zap: Dynamically generated stats for your github readmes  
+- [GitHub-Action-Ahk2Exe](https://github.com/YoraiLevi/GitHub-Action-Ahk2Exe) - GitHub Action to compile AutoHotKey scripts using Ahk2Exe  
+- [youtube-cast-receiver](https://github.com/YoraiLevi/youtube-cast-receiver) - Grants access to youtube.com/tv normally reserved for use with smart TVs  
+- [wsl-sudo](https://github.com/YoraiLevi/wsl-sudo) - WSL tool to run wsl commands in in an elevated process  
+- [keyboard-layout-editor](https://github.com/YoraiLevi/keyboard-layout-editor) - Web application to enable the design & editing of keyboard layouts  
+- [chrome](https://github.com/YoraiLevi/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own  
+- [GM_SuperValue](https://github.com/YoraiLevi/GM_SuperValue) - Improved, error-free and readable version of GreaseMonkey/TamperMonkey storage script "GM_SuperValue"  
+- [Heat](https://github.com/YoraiLevi/Heat) - Program to make your computer generate heat  
+## Starred
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (December 2023)  
+- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.  
+- [rivet](https://github.com/Ironclad/rivet) - The open-source visual AI programming environment and TypeScript library  
+- [israeli-bank-scrapers](https://github.com/eshaham/israeli-bank-scrapers) - Provide scrapers for all major Israeli banks and credit card companies  
+- [Pscx](https://github.com/Pscx/Pscx) - PowerShell Community Extensions module repository  
+- [RestartableSession](https://github.com/mdgrs-mei/RestartableSession) - A PowerShell module to instantly and properly reflect the code changes to the module you are making.   
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.  
+- [pipe-fn](https://github.com/Xython/pipe-fn) - A functional style Pipe for CPython. Inspired by https://github.com/JulienPalard/Pipe, but the implementation could be quite different.  
+- [Pipe](https://github.com/JulienPalard/Pipe) - A Python library to use infix notation in Python  
+- [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) - OpenCore bootloader  
+- [MacHyperVSupport](https://github.com/acidanthera/MacHyperVSupport) - Hyper-V integration support for macOS  
+- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF  
+- [npm-trends](https://github.com/uidotdev/npm-trends) - NPM package comparison  
+- [lm-hackers](https://github.com/fastai/lm-hackers) - Hackers' Guide to Language Models  
+- [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs  
+- [PsDownload](https://github.com/DanGough/PsDownload) - A PowerShell module for downloading files.  
+- [PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN) - PyTorch implementations of Generative Adversarial Networks.  
+- [WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.  
+- [numpy-100](https://github.com/rougier/numpy-100) - 100 numpy exercises (with solutions)  
+- [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks  
+- [optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework  
+- [nextjs-github-pages](https://github.com/gregrickaby/nextjs-github-pages) - 🚀 Deploy a Next.js app to Github Pages via Github Actions.  
+- [uYouPlus](https://github.com/qnblackcat/uYouPlus) - uYou+ is a modified version of uYou (made by @MiRO92) with additional features and mainly made for non jailbroken users!  
+- [Watusi-for-WhatsApp](https://github.com/FouadRaheb/Watusi-for-WhatsApp) - Your all-in-one tweak for WhatsApp Messenger!  
+- [cs236781](https://github.com/vistalab-technion/cs236781) - Deep Learning course website  
+- [cs236781-tutorials](https://github.com/vistalab-technion/cs236781-tutorials) - Deep Learning course tutorials  
+- [TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs) - A collection of IPA files from many different sources, for TrollStore!  
+- [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.  
+- [unity-android-native](https://github.com/Suvitruf/unity-android-native) - A Unity plugin to work with Android native sdk  
+- [tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.   
+- [wsl-sudo](https://github.com/Chronial/wsl-sudo) - WSL tool to run wsl commands in in an elevated process  
+- [comp-genomics-class](https://github.com/BenLangmead/comp-genomics-class) - Code and examples for JHU Computational Genomics class  
+- [genomicspapers](https://github.com/jtleek/genomicspapers) - The Leek group guide to genomics papers  
+- [vg](https://github.com/vgteam/vg) - tools for working with genome variation graphs  
+- [node](https://github.com/mysteriumnetwork/node) - Mysterium Network Node -  official implementation of distributed VPN network (dVPN) protocol  
+- [dvpn-node](https://github.com/sentinel-official/dvpn-node) - The official Sentinel dVPN node  
+- [BLEProof-collection](https://github.com/alexanderlavrushko/BLEProof-collection) - Example of complete BLE application: Central and Peripheral for Android, iOS, ESP32, Arduino Nano 33  
+- Archived: [npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) - :rocket: Upgrade npm on Windows  
+- [PowerShell-WSL-Interop](https://github.com/mikebattista/PowerShell-WSL-Interop) - Integrate Linux commands into Windows with PowerShell and the Windows Subsystem for Linux (WSL).  
+- [psutils](https://github.com/lukesampson/psutils) - Command line utilities written in Powershell  
+- [platformio-arduino-rust](https://github.com/dzervas/platformio-arduino-rust) - Arduino Framework bindings for Rust using PlatformIO  
+- [nrf52-OTA-BLE-Linux](https://github.com/chiararuggeri/nrf52-OTA-BLE-Linux)  
+- [segger-rtt-viewer](https://github.com/bojanpotocnik/segger-rtt-viewer) - Python tool for connecting to J-Link RTT Client  
+- [mutation-summary](https://github.com/rafaelw/mutation-summary) - A JavaScript library that makes observing changes to the DOM easy  
+- [mutation-summary](https://github.com/mmacfadden/mutation-summary) - A JavaScript library that makes observing changes to the DOM easy  
+- [lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run linters on git staged files  
+- [ts-proto](https://github.com/stephenh/ts-proto) - An idiomatic protobuf generator for TypeScript  
+- [super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to install as a GitHub Action  
+- [docker-puppeteer](https://github.com/alekzonder/docker-puppeteer) - docker image with Google Puppeteer installed  
+- Archived: [docker-puppeteer](https://github.com/buildkite/docker-puppeteer) - A minimal Docker image for Puppeteer  
+- [eslint-config-auto](https://github.com/davidjbradshaw/eslint-config-auto) - Automatically configure ESLint based on project dependencies  
+- [grpc-js-typescript](https://github.com/badsyntax/grpc-js-typescript) - Generate gRPC TypeScript definitions for use with gRPC (@grpc/grpc-js).  
+- [headless-chrome-crawler](https://github.com/yujiosaka/headless-chrome-crawler) - Distributed crawler powered by Headless Chrome  
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.  
+- [KMS_VL_ALL](https://github.com/kkkgo/KMS_VL_ALL) - 🔑KMS_VL_ALL - Smart Activation Script  
+- [nbfc](https://github.com/hirschmann/nbfc) - NoteBook FanControl  
+- [nohost](https://github.com/humphd/nohost) - A web server in your web browser  
+- [technion-histograms](https://github.com/michael-maltsev/technion-histograms) - Histograms of Technion courses  
+- [rdfind](https://github.com/pauldreik/rdfind) - find duplicate files utility  
+- [KMS-activator](https://github.com/CHEF-KOCH/KMS-activator) - Windows activation research project.  
+- [vlmcsd](https://github.com/Wind4/vlmcsd) - KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin)  
+- [qbt-theme](https://github.com/jagannatharjun/qbt-theme) - collection of themes for qbittorrent  
+- [tts-gratis](https://github.com/afkar-zoldyck/tts-gratis) - Text To Speech 100% Gratis  
+- [seqanpy](https://github.com/iosonofabio/seqanpy) - Fast pairwise sequence alignment using SeqAn, in Python.  
+- [wsl2.md](https://gist.github.com/hucsmn/da1dbc2eb5903cb3143c35313623e7b0) - A collection of WSL2 hacks  
+- [beautiful_idiomatic_python.md](https://gist.github.com/0x4D31/f0b633548d8e0cfb66ee3bea6a0deff9) - [Beautiful Idiomatic Python] Transforming Code into Beautiful, Idiomatic Python #python  
+- [Pok3r.ahk](https://gist.github.com/JarvisPrestidge/189ffb4da71397f221c1) - Personal AutoHotKey script that turns any keyboard into a Pok3r.  
+- [Export-Chocolatey.ps1](https://gist.github.com/alimbada/449ddf65b4ef9752eff3) - Export installed Chocolatey packages as packages.config - thanks to Matty666  

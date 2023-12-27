@@ -58,8 +58,8 @@
                             <p class="mb-0 f6 color-fg-muted">
                                 <span class="d-inline-block mr-3">
                                     <span class="repo-language-color"
-                                        style="background-color: #3572A5"></span>
-                                    <span itemprop="programmingLanguage">Python</span>
+                                        style="background-color: #012456"></span>
+                                    <span itemprop="programmingLanguage">PowerShell</span>
                                 </span>
 
                                 <a href="" class="pinned-item-meta Link--muted">
