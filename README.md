@@ -1,4 +1,5 @@
 [📘repositories](REPOS.md#repositories-and-gists)    [⭐starred](REPOS.md#starred)
+
 <p align="center">
 
 <a href="https://github.com/YoraiLevi/YoraiLevi">
@@ -38,7 +39,10 @@
 <img align="center" src="./card-dark-5.svg" />
 </picture></a>
 
+</p>
 # Most Starred
+
+<p align="center">
 
 <a href="https://github.com/YoraiLevi/SetFacebookPostsPrivate">
 <picture>
@@ -53,6 +57,8 @@
 <img align="center" src="./card-dark-starred-1.svg" />
 </picture></a>
 
+</p>
+<p align="center">
 ![](resources/README/header_image.jpg)
 
 </p>
