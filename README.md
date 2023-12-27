@@ -1,4 +1,4 @@
-[repository list](REPOS.md)
+[repository list](REPOS.md#repositories-and-gists)    [starred](REPOS.md#starred)
 <p align="center">
 
 <a href="https://github.com/YoraiLevi/YoraiLevi">
