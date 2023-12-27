@@ -31,19 +31,19 @@
                                 <span data-view-component="true" class="position-relative">
                                     <a href="" data-view-component="true" class="min-width-0 Link text-bold flex-auto">
                                         <span class="repo">
-                                            KnownFolderPathPS5.ps1
+                                            SetFacebookPostsPrivate
                                         </span>
                                     </a>
                                     <tool-tip for="2544889" popover="manual" data-direction="s" data-type="description"
                                         data-view-component="true" class="position-absolute sr-only" role="tooltip"
                                         style="--tool-tip-position-top: 707.75px; --tool-tip-position-left: 368.625px;">
-                                        KnownFolderPathPS5.ps1</tool-tip>
+                                        SetFacebookPostsPrivate</tool-tip>
                                 </span>
-                                <span class=" flex-auto text-right">
+                                <span class="hide flex-auto text-right">
                                     <span></span>
                                     <span class="Label Label--secondary v-align-middle ">Public</span>
                                 </span>
-                                <span class="hide flex-auto text-right">
+                                <span class=" flex-auto text-right">
                                     <span></span>
                                     <span class="Label Label--attention v-align-middle ">Public
                                         archive</span>
@@ -52,14 +52,14 @@
 
 
                             <p class="three-lines pinned-item-desc color-fg-muted text-small d-block mt-2 mb-3">
-                                Change windows user folders with powershell
+                                Automation tool that sets posts in facebook's activity log to private (public or friends) for the new 2020 design. using Tampermonkey
                             </p>
 
                             <p class="mb-0 f6 color-fg-muted">
                                 <span class="d-inline-block mr-3">
                                     <span class="repo-language-color"
-                                        style="background-color: None"></span>
-                                    <span itemprop="programmingLanguage"></span>
+                                        style="background-color: #f1e05a"></span>
+                                    <span itemprop="programmingLanguage">JavaScript</span>
                                 </span>
 
                                 <a href="" class="pinned-item-meta Link--muted">
@@ -70,7 +70,7 @@
                                             d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z">
                                         </path>
                                     </svg>
-                                    0 </a>
+                                    4 </a>
                                 <a href="" class="pinned-item-meta Link--muted">
                                     <svg xmlns="http://www.w3.org/2000/svg" aria-label="forks" role="img" height="16"
                                         viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"
@@ -89,30 +89,30 @@
     </foreignObject>
     <style>
         :root {
-    --color-canvas-default-transparent: rgba(13, 17, 23, 0);
-    --color-btn-active-bg: hsla(212, 12%, 18%, 1);
-    --color-btn-active-border: #6e7681;
-    --color-btn-primary-selected-bg: #238636;
-    --color-btn-primary-selected-shadow: 0 0 transparent;
-    --color-btn-danger-selected-bg: #b62324;
-    --color-btn-danger-selected-border: #ff7b72;
-    --color-btn-danger-selected-shadow: 0 0 transparent;
-    --color-action-list-item-default-hover-bg: rgba(177, 186, 196, 0.12);
-    --color-action-list-item-default-active-bg: rgba(177, 186, 196, 0.2);
-    --color-fg-default: #e6edf3;
-    --color-fg-muted: #848d97;
-    --color-canvas-default: #0d1117;
-    --color-canvas-subtle: #161b22;
-    --color-border-default: #30363d;
-    --color-neutral-muted: rgba(110, 118, 129, 0.4);
-    --color-neutral-subtle: rgba(110, 118, 129, 0.1);
-    --color-accent-fg: #2f81f7;
-    --color-accent-emphasis: #1f6feb;
-    --color-success-emphasis: #238636;
-    --color-attention-emphasis: #9e6a03;
-    --color-attention-fg: #d29922;
-    --color-danger-emphasis: #da3633;
-    --color-primer-border-contrast: rgba(255, 255, 255, 0.2);
+    --color-canvas-default-transparent: rgba(255, 255, 255, 0);
+    --color-btn-active-bg: hsla(220, 14%, 93%, 1);
+    --color-btn-active-border: rgba(31, 35, 40, 0.15);
+    --color-btn-primary-selected-bg: hsla(137, 66%, 28%, 1);
+    --color-btn-primary-selected-shadow: inset 0 1px 0 rgba(0, 45, 17, 0.2);
+    --color-btn-danger-selected-bg: hsla(356, 72%, 44%, 1);
+    --color-btn-danger-selected-border: rgba(31, 35, 40, 0.15);
+    --color-btn-danger-selected-shadow: inset 0 1px 0 rgba(76, 0, 20, 0.2);
+    --color-action-list-item-default-hover-bg: rgba(208, 215, 222, 0.32);
+    --color-action-list-item-default-active-bg: rgba(208, 215, 222, 0.48);
+    --color-fg-default: #1F2328;
+    --color-fg-muted: #656d76;
+    --color-canvas-default: #ffffff;
+    --color-canvas-subtle: #f6f8fa;
+    --color-border-default: #d0d7de;
+    --color-neutral-muted: rgba(114, 128, 143, 0.2);
+    --color-neutral-subtle: rgba(234, 238, 242, 0.5);
+    --color-accent-fg: #0969da;
+    --color-accent-emphasis: #0969da;
+    --color-success-emphasis: #1f883d;
+    --color-attention-fg: #9a6700;
+    --color-attention-emphasis: #9a6700;
+    --color-danger-emphasis: #cf222e;
+    --color-primer-border-contrast: rgba(31, 35, 40, 0.1);
 }
         @media (prefers-color-scheme: dark) {}
         @media (prefers-color-scheme: light) {}

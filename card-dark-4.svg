@@ -31,13 +31,13 @@
                                 <span data-view-component="true" class="position-relative">
                                     <a href="" data-view-component="true" class="min-width-0 Link text-bold flex-auto">
                                         <span class="repo">
-                                            Intro-to-NLP-236299-CS187
+                                            plotly_dash
                                         </span>
                                     </a>
                                     <tool-tip for="2544889" popover="manual" data-direction="s" data-type="description"
                                         data-view-component="true" class="position-absolute sr-only" role="tooltip"
                                         style="--tool-tip-position-top: 707.75px; --tool-tip-position-left: 368.625px;">
-                                        Intro-to-NLP-236299-CS187</tool-tip>
+                                        plotly_dash</tool-tip>
                                 </span>
                                 <span class=" flex-auto text-right">
                                     <span></span>
@@ -52,7 +52,7 @@
 
 
                             <p class="three-lines pinned-item-desc color-fg-muted text-small d-block mt-2 mb-3">
-                                Code for course "Intro to NLP" (236299) Technion Spring 2023, "Introduction to Computational Linguistic" (CS 187) Harvard Fall 2020
+                                
                             </p>
 
                             <p class="mb-0 f6 color-fg-muted">
