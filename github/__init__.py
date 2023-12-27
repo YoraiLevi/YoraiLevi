@@ -9,6 +9,7 @@ import os
 documentation of endpoints https://docs.github.com/en/rest/overview/endpoints-available-for-fine-grained-personal-access-tokens
 """
 
+
 class Gist(TypedDict):
     # url: str
     # forks_url: str
@@ -27,6 +28,8 @@ class Gist(TypedDict):
     # comments_url: str
     owner: dict
     # truncated: bool
+    stargazers_count: int  # populated by _populate_gist_stargazersCount
+
 
 class Repository(TypedDict):
     # id: int
@@ -109,6 +112,7 @@ class Repository(TypedDict):
     default_branch: str
     # permissions: dict
 
+
 class User(TypedDict):
     login: str
     # id: int
@@ -129,6 +133,7 @@ class User(TypedDict):
     # type: str
     # site_admin: bool
 
+
 def _fetch_json(url):
     api_token = os.getenv("USER_TOKEN")
     req = urllib.request.Request(url)
@@ -137,6 +142,50 @@ def _fetch_json(url):
     data = urllib.request.urlopen(req).read()
     json_data = json.loads(data)
     return json_data
+
+
+def _query_graphql(graphql_query):
+    url = "https://api.github.com/graphql"
+    api_token = os.getenv("USER_TOKEN")
+    query = {"query": graphql_query}
+    headers = {"Accept": "application/json", "Content-Type": "application/json"}
+    req = urllib.request.Request(url, json.dumps(query).encode("utf-8"), headers)
+    req.add_header("Authorization", f"Bearer {api_token}")
+    req.add_header("X-GitHub-Api-Version", "2022-11-28")
+    data = urllib.request.urlopen(req).read()
+    json_data = json.loads(data)
+    try:
+        return json_data["data"]
+    except KeyError:
+        raise json_data
+
+
+def _populate_gist_stargazersCount(gists: list[Gist]):
+    def _gists_stargzers_graphql_query(gists: list[Gist]):
+        template_gist_query = Template(
+            """gist_$id : gist(name : "$id"){
+        stargazerCount
+    }"""
+        )
+        template_query = Template(
+            """query {
+        viewer {
+    $query
+        }
+    }"""
+        )
+        graphql_query = template_query.substitute(
+            query="\n".join(template_gist_query.substitute(**gist) for gist in gists)
+        )
+        return graphql_query
+
+    graphql_query = _gists_stargzers_graphql_query(gists)
+    graphql_data = _query_graphql(graphql_query)
+    for gist in gists:
+        gist["stargazers_count"] = graphql_data["viewer"]["gist_" + gist["id"]][
+            "stargazerCount"
+        ]
+    return gists
 
 
 def _filter_keys(annotated_type, d):
@@ -155,10 +204,10 @@ def get_user_repositories(username) -> list[Repository]:
     json_data = _fetch_json(url)
     for repo in json_data:
         repo.pop("owner", None)
-    return list(map(partial(_filter_keys,annotated_type),json_data))
+    return list(map(partial(_filter_keys, annotated_type), json_data))
 
 
-def get_user_gists(username)-> list[Gist]:
+def get_user_gists(username) -> list[Gist]:
     """
     https://docs.github.com/en/rest/gists/gists#list-gists-for-a-user
     """
@@ -166,8 +215,9 @@ def get_user_gists(username)-> list[Gist]:
     url_template = Template("https://api.github.com/users/$username/gists?per_page=100")
     url = url_template.substitute(username=username)
     json_data = _fetch_json(url)
+    json_data = _populate_gist_stargazersCount(json_data)
     json_data = list(filter(lambda gist: gist.get("public", False), json_data))
-    return list(map(partial(_filter_keys,annotated_type),json_data))
+    return list(map(partial(_filter_keys, annotated_type), json_data))
 
 
 def get_user_starred_repositories(username) -> list[Repository]:
@@ -180,7 +230,7 @@ def get_user_starred_repositories(username) -> list[Repository]:
     )
     url = url_template.substitute(username=username)
     json_data = _fetch_json(url)
-    return list(map(partial(_filter_keys,annotated_type),json_data))
+    return list(map(partial(_filter_keys, annotated_type), json_data))
 
 
 def get_user_followers(username) -> list[User]:
@@ -193,7 +243,7 @@ def get_user_followers(username) -> list[User]:
     )
     url = url_template.substitute(username=username)
     json_data = _fetch_json(url)
-    return list(map(partial(_filter_keys,annotated_type),json_data))
+    return list(map(partial(_filter_keys, annotated_type), json_data))
 
 
 def get_user_following(username) -> list[User]:
@@ -206,7 +256,7 @@ def get_user_following(username) -> list[User]:
     annotated_type = User
     url = url_template.substitute(username=username)
     json_data = _fetch_json(url)
-    return list(map(partial(_filter_keys,annotated_type),json_data))
+    return list(map(partial(_filter_keys, annotated_type), json_data))
 
 
 def get_user_social_accounts(username):
@@ -219,7 +269,7 @@ def get_user_social_accounts(username):
     )
     url = url_template.substitute(username=username)
     json_data = _fetch_json(url)
-    return list(map(partial(_filter_keys,annotated_type),json_data))
+    return list(map(partial(_filter_keys, annotated_type), json_data))
 
 
 def get_authenticated_gists() -> list[Gist]:
@@ -230,8 +280,9 @@ def get_authenticated_gists() -> list[Gist]:
     url_template = Template("https://api.github.com/gists?per_page=100")
     url = url_template.substitute()
     json_data = _fetch_json(url)
+    json_data = _populate_gist_stargazersCount(json_data)
     json_data = list(filter(lambda gist: gist.get("public", False), json_data))
-    return list(map(partial(_filter_keys,annotated_type),json_data))
+    return list(map(partial(_filter_keys, annotated_type), json_data))
 
 
 def get_authenticated_starred_gists() -> list[Gist]:
@@ -242,11 +293,12 @@ def get_authenticated_starred_gists() -> list[Gist]:
     url_template = Template("https://api.github.com/gists/starred?per_page=100")
     url = url_template.substitute()
     json_data = _fetch_json(url)
+    json_data = _populate_gist_stargazersCount(json_data)
     json_data = list(filter(lambda gist: gist.get("public", False), json_data))
-    return list(map(partial(_filter_keys,annotated_type),json_data))
+    return list(map(partial(_filter_keys, annotated_type), json_data))
 
 
-def get_authenticated_repositories()-> list[Repository]:
+def get_authenticated_repositories() -> list[Repository]:
     """
     https://docs.github.com/en/rest/repos/repos#list-repositories-for-the-authenticated-user
     """
@@ -256,7 +308,7 @@ def get_authenticated_repositories()-> list[Repository]:
     )
     url = url_template.substitute()
     json_data = _fetch_json(url)
-    return list(map(partial(_filter_keys,annotated_type),json_data))
+    return list(map(partial(_filter_keys, annotated_type), json_data))
 
 
 def get_authenticated_starred_repositories() -> list[Repository]:
@@ -270,4 +322,4 @@ def get_authenticated_starred_repositories() -> list[Repository]:
     url = url_template.substitute()
     json_data = _fetch_json(url)
     json_data = list(filter(lambda gist: not gist.get("private", False), json_data))
-    return list(map(partial(_filter_keys,annotated_type),json_data))
+    return list(map(partial(_filter_keys, annotated_type), json_data))

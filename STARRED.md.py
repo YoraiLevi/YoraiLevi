@@ -34,7 +34,7 @@ if __name__ == "__main__":
 
     user_starred = starred_repos + starred_gists
 
-    user_starred.sort(key=lambda item: (item.get("updated_at", None)), reverse=True)
+    # user_starred.sort(key=lambda item: (item.get("forks_count", None)), reverse=True)
     print("## Starred")
     for repo in user_starred:
         print(f"- {repolike2str(repo)}  ")

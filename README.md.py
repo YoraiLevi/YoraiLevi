@@ -38,7 +38,9 @@ if __name__ == "__main__":
     gists = github.get_authenticated_gists()
 
     for gist in gists:
-        gist["name"] = next(iter(gist["files"].keys()))
+        file = next(iter(gist["files"].items()))
+        gist["name"] = file[0]
+        gist["language"] = file[1]["language"]
 
     user_items = repos + gists
     user_items = list(filter(lambda repo: not repo.get("fork", False), user_items))
@@ -62,7 +64,7 @@ if __name__ == "__main__":
     # gists don't show stars :(
     user_items.sort(key=lambda repo: (repo.get("stargazers_count", 0)), reverse=True)
     most_starred_repo_cards = ""
-    for index, repo in enumerate(user_items[:2]):
+    for index, repo in enumerate(user_items[:4]):
         (
             dark_svg,
             dark_svg_name,
@@ -78,8 +80,7 @@ if __name__ == "__main__":
         most_starred_repo_cards += markdown_display_string
     links = {
         "📘repositories": "./REPOS.md#repositories-and-gists",
-        "⭐starred": "https://github.com/YoraiLevi?direction=desc&sort=updated&tab=stars",
-        "🔒private": "https://github.com/YoraiLevi?tab=repositories&q=&type=private&language=&sort=,,"
+        "⭐starred": "./STARRED.md#starred",
     }
     links_menu = "    ".join([f"[{key}]({value})" for key, value in links.items()])
     print(links_menu)
@@ -91,7 +92,7 @@ if __name__ == "__main__":
     print("</p>")
     print()
     ###
-    print("# Most Starred")
+    print("# My Most Starred")
     print()
     print('<p align="center">')
     print(most_starred_repo_cards)
