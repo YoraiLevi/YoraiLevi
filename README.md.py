@@ -44,7 +44,7 @@ if __name__ == "__main__":
     user_items = list(filter(lambda repo: not repo.get("fork", False), user_items))
     # user_items = list(filter(lambda repo: not repo.get("archived", False), user_items))
     user_items.sort(key=lambda repo: (repo.get("updated_at", None)), reverse=True)
-    recently_updated_repo_cards = ''
+    recently_updated_repo_cards = ""
     for index, repo in enumerate(user_items[:6]):
         (
             dark_svg,
@@ -60,8 +60,8 @@ if __name__ == "__main__":
             f.write(light_svg)
         recently_updated_repo_cards += markdown_display_string
     # gists don't show stars :(
-    user_items.sort(key=lambda repo: (repo.get("stargazers_count",0)), reverse=True)
-    most_starred_repo_cards = ''
+    user_items.sort(key=lambda repo: (repo.get("stargazers_count", 0)), reverse=True)
+    most_starred_repo_cards = ""
     for index, repo in enumerate(user_items[:2]):
         (
             dark_svg,
@@ -76,9 +76,13 @@ if __name__ == "__main__":
         with open(light_svg_name, "w") as f:
             f.write(light_svg)
         most_starred_repo_cards += markdown_display_string
-    
-    links = "[📘repositories](REPOS.md#repositories-and-gists)    [⭐starred](STARRED.md#starred)"
-    print(links)
+    links = {
+        "📘repositories": "./REPOS.md#repositories-and-gists",
+        "⭐starred": "https://github.com/YoraiLevi?direction=desc&sort=updated&tab=stars",
+        "🔒private": "https://github.com/YoraiLevi?tab=repositories&q=&type=private&language=&sort=,,"
+    }
+    links_menu = "    ".join([f"[{key}]({value})" for key, value in links.items()])
+    print(links_menu)
     ###
     print()
     print('<p align="center">')
