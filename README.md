@@ -40,6 +40,7 @@
 </picture></a>
 
 </p>
+
 # Most Starred
 
 <p align="center">
@@ -58,7 +59,9 @@
 </picture></a>
 
 </p>
+
 <p align="center">
 ![](resources/README/header_image.jpg)
 
 </p>
+
