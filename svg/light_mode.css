@@ -11,7 +11,7 @@
     --color-action-list-item-default-active-bg: rgba(208, 215, 222, 0.48);
     --color-fg-default: #1F2328;
     --color-fg-muted: #656d76;
-    --color-canvas-default: #ffffff;
+    /* --color-canvas-default: #ffffff; */
     --color-canvas-subtle: #f6f8fa;
     --color-border-default: #d0d7de;
     --color-neutral-muted: rgba(114, 128, 143, 0.2);
