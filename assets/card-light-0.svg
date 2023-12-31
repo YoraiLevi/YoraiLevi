@@ -101,7 +101,7 @@
     --color-action-list-item-default-active-bg: rgba(208, 215, 222, 0.48);
     --color-fg-default: #1F2328;
     --color-fg-muted: #656d76;
-    --color-canvas-default: #ffffff;
+    /* --color-canvas-default: #ffffff; */
     --color-canvas-subtle: #f6f8fa;
     --color-border-default: #d0d7de;
     --color-neutral-muted: rgba(114, 128, 143, 0.2);
@@ -114,6 +114,7 @@
     --color-danger-emphasis: #cf222e;
     --color-primer-border-contrast: rgba(31, 35, 40, 0.1);
 }
+
         @media (prefers-color-scheme: dark) {}
         @media (prefers-color-scheme: light) {}
         :root {
