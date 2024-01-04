@@ -1,4 +1,5 @@
 ## Repositories and Gists
+- [YoraiLevi.github.io](https://github.com/YoraiLevi/YoraiLevi.github.io) - Github Pages  
 - [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [KnownFolderPathPS5.ps1](https://gist.github.com/YoraiLevi/0f333d520f502fdb1244cdf0524db6d2) - Change windows user folders with powershell  
 - [pester5-tutorial](https://github.com/YoraiLevi/pester5-tutorial)  
@@ -27,7 +28,6 @@
 - [RedditAnalysis](https://github.com/YoraiLevi/RedditAnalysis) - Using pushshift.io data dumps, attempt to analyze trends of people and posts  
 - [nordic_app_dfu_playzone](https://github.com/YoraiLevi/nordic_app_dfu_playzone) - example project for adding secure ble dfu for an existing app  
 - [MyLinting](https://github.com/YoraiLevi/MyLinting) - a collection of linting setups and explanations   
-- [YoraiLevi.github.io](https://github.com/YoraiLevi/YoraiLevi.github.io) - Github Pages  
 - [pasteconsole.js](https://gist.github.com/YoraiLevi/3365f9a60c8033d8c797dc409acbb26e) - this code is obsolete since the 2020 new facebook design. refer to: https://github.com/YoraiLevi/SetFacebookPostsPrivate make all facebook posts private(activity log) very dumb code.  
 - [libary_vscode_context_menu.reg](https://gist.github.com/YoraiLevi/418c973a319008fb2f5c1ebbbd38bad2) - "Open with Code" inside windows `libaries` on right click context menu  
 - [My-Tech-Wearables](https://github.com/YoraiLevi/My-Tech-Wearables) - Cloth cat ears wearable with led strips! and more!  
