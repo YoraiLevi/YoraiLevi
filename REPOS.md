@@ -46,4 +46,3 @@
 - [keyboard-layout-editor](https://github.com/YoraiLevi/keyboard-layout-editor) - Web application to enable the design & editing of keyboard layouts  
 - [chrome](https://github.com/YoraiLevi/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own  
 - [GM_SuperValue](https://github.com/YoraiLevi/GM_SuperValue) - Improved, error-free and readable version of GreaseMonkey/TamperMonkey storage script "GM_SuperValue"  
-- [Heat](https://github.com/YoraiLevi/Heat) - Program to make your computer generate heat  
