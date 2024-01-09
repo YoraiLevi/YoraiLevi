@@ -44,6 +44,7 @@ if __name__ == "__main__":
 
     user_items = repos + gists
     user_items = list(filter(lambda repo: not repo.get("fork", False), user_items))
+    user_items = list(filter(lambda repo: "Yorai" not in repo.get("name", ""), user_items))
     # user_items = list(filter(lambda repo: not repo.get("archived", False), user_items))
     user_items.sort(key=lambda repo: (repo.get("updated_at", None)), reverse=True)
     recently_updated_repo_cards = ""
