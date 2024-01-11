@@ -1,4 +1,5 @@
 ## Starred
+- [machine-learning-and-simulation](https://github.com/Ceyron/machine-learning-and-simulation) - All the handwritten notes 📝 and source code files 🖥️ used in my YouTube Videos on Machine Learning & Simulation (https://www.youtube.com/channel/UCh0P7KwJhuQ4vrzc3IRuw4Q)  
 - [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (December 2023)  
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.  
 - [rivet](https://github.com/Ironclad/rivet) - The open-source visual AI programming environment and TypeScript library  
