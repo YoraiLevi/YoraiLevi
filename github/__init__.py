@@ -342,6 +342,7 @@ query {
         additions
         deletions
         repository {
+          isPrivate
           nameWithOwner
           name
           owner {
@@ -357,4 +358,5 @@ query {
     authenticated_login = data['viewer']['login']
     pull_requests = data['viewer']['pullRequests']['nodes']
     pull_requests = list(filter(lambda x: x['repository']['owner']['login'] != authenticated_login, pull_requests))
+    pull_requests = list(filter(lambda x: x['repository']['isPrivate'] == False, pull_requests))
     return pull_requests
