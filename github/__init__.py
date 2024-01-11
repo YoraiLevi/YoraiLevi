@@ -327,3 +327,34 @@ def get_authenticated_starred_repositories() -> list[Repository]:
     json_data = _fetch_json(url)
     json_data = list(filter(lambda gist: not gist.get("private", False), json_data))
     return list(map(partial(_filter_keys, annotated_type), json_data))
+
+def get_authenticated_pullrequests(status: str):
+    # MERGED, OPEN, CLOSED
+    graphql_query_template = Template("""
+query {
+  viewer {
+    login
+    pullRequests (last :100, states: $status) {
+      nodes {
+        url
+        title
+        changedFiles
+        additions
+        deletions
+        repository {
+          nameWithOwner
+          name
+          owner {
+            login
+          }
+        }
+      }
+    }
+  }
+}""")
+    graphql_query = graphql_query_template.substitute(status=status)
+    data = _query_graphql(graphql_query)
+    authenticated_login = data['viewer']['login']
+    pull_requests = data['viewer']['pullRequests']['nodes']
+    pull_requests = list(filter(lambda x: x['repository']['owner']['login'] != authenticated_login, pull_requests))
+    return pull_requests
