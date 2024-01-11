@@ -46,3 +46,7 @@
 - [keyboard-layout-editor](https://github.com/YoraiLevi/keyboard-layout-editor) - Web application to enable the design & editing of keyboard layouts  
 - [chrome](https://github.com/YoraiLevi/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own  
 - [GM_SuperValue](https://github.com/YoraiLevi/GM_SuperValue) - Improved, error-free and readable version of GreaseMonkey/TamperMonkey storage script "GM_SuperValue"  
+## My Contributions
+[huggingface/diffusers](https://github.com/huggingface/diffusers/pull/3976) 3 files changed, 8 insertions(+), 8 deletions(-)  
+[ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil/pull/1087) 1 files changed, 22 insertions(+), 22 deletions(-)  
+[JulienPalard/Pipe](https://github.com/JulienPalard/Pipe/pull/94) 2 files changed, 39 insertions(+), 2 deletions(-)  
