@@ -1,4 +1,9 @@
 ## Starred
+- [codedown](https://github.com/earldouglas/codedown) - Extract code blocks from Markdown files  
+- [MarkdownPS](https://github.com/Sarafian/MarkdownPS) - A powershell module to render markdown files  
+- [act-dockerimage](https://github.com/JustinGrote/act-dockerimage)  
+- [runner.server](https://github.com/ChristopherHX/runner.server) - An unofficial Local GitHub Actions and Azure Pipelines Emulator  
+- [postgresml](https://github.com/postgresml/postgresml) - The GPU-powered AI application database. Get your app to market faster using the simplicity of SQL and the latest NLP, ML + LLM models.  
 - [machine-learning-and-simulation](https://github.com/Ceyron/machine-learning-and-simulation) - All the handwritten notes 📝 and source code files 🖥️ used in my YouTube Videos on Machine Learning & Simulation (https://www.youtube.com/channel/UCh0P7KwJhuQ4vrzc3IRuw4Q)  
 - [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (December 2023)  
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.  
@@ -47,7 +52,7 @@
 - [mutation-summary](https://github.com/mmacfadden/mutation-summary) - A JavaScript library that makes observing changes to the DOM easy  
 - [lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run linters on git staged files  
 - [ts-proto](https://github.com/stephenh/ts-proto) - An idiomatic protobuf generator for TypeScript  
-- [super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to install as a GitHub Action  
+- [super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to run as a GitHub Action or standalone  
 - [docker-puppeteer](https://github.com/alekzonder/docker-puppeteer) - docker image with Google Puppeteer installed  
 - Archived: [docker-puppeteer](https://github.com/buildkite/docker-puppeteer) - A minimal Docker image for Puppeteer  
 - [eslint-config-auto](https://github.com/davidjbradshaw/eslint-config-auto) - Automatically configure ESLint based on project dependencies  
