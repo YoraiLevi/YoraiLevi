@@ -1,4 +1,5 @@
 ## Repositories and Gists
+- [Quotes-and-References-Yorai](https://github.com/YoraiLevi/Quotes-and-References-Yorai) - I collects quotes and references here  
 - [YoraiLevi.github.io](https://github.com/YoraiLevi/YoraiLevi.github.io) - Github Pages  
 - [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [KnownFolderPathPS5.ps1](https://gist.github.com/YoraiLevi/0f333d520f502fdb1244cdf0524db6d2) - Change windows user folders with powershell  

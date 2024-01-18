@@ -1,4 +1,8 @@
 ## Starred
+- [sympy-nondim](https://github.com/cheind/sympy-nondim) - Non-dimensionalization of physical equations using sympy.  
+- [coq_jupyter](https://github.com/EugeneLoy/coq_jupyter) - Jupyter kernel for Coq  
+- [nadia](https://github.com/daviromero/nadia) - Natural Deduction Proof Assistant (NADIA) is a tool for teaching Natural Deduction in Fitch-Style  
+- [logia](https://github.com/siladitya-basu/logia) - A simple theorem prover for Coq.  
 - [codedown](https://github.com/earldouglas/codedown) - Extract code blocks from Markdown files  
 - [MarkdownPS](https://github.com/Sarafian/MarkdownPS) - A powershell module to render markdown files  
 - [act-dockerimage](https://github.com/JustinGrote/act-dockerimage)  
