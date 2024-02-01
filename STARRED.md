@@ -1,4 +1,5 @@
 ## Starred
+- [fitter](https://github.com/cokelaer/fitter) - Fit data to many distributions   
 - [alexshtf.github.io](https://github.com/alexshtf/alexshtf.github.io) - My personal webpage  
 - [DataDrivenDynSyst](https://github.com/jbramburger/DataDrivenDynSyst) - Scripts and notebooks to accompany the book Data-Driven Methods for Dynamic Systems  
 - [sympy-nondim](https://github.com/cheind/sympy-nondim) - Non-dimensionalization of physical equations using sympy.  
