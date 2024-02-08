@@ -1,4 +1,7 @@
 ## Starred
+- [TikTok-Api](https://github.com/davidteather/TikTok-Api) - The Unofficial TikTok API Wrapper In Python  
+- [strictyaml](https://github.com/crdoconnor/strictyaml) - Type-safe YAML parser and validator.  
+- [dynamax](https://github.com/probml/dynamax) - State Space Models library in JAX  
 - [fitter](https://github.com/cokelaer/fitter) - Fit data to many distributions   
 - [alexshtf.github.io](https://github.com/alexshtf/alexshtf.github.io) - My personal webpage  
 - [DataDrivenDynSyst](https://github.com/jbramburger/DataDrivenDynSyst) - Scripts and notebooks to accompany the book Data-Driven Methods for Dynamic Systems  
@@ -12,7 +15,7 @@
 - [runner.server](https://github.com/ChristopherHX/runner.server) - An unofficial Local GitHub Actions and Azure Pipelines Emulator  
 - [postgresml](https://github.com/postgresml/postgresml) - The GPU-powered AI application database. Get your app to market faster using the simplicity of SQL and the latest NLP, ML + LLM models.  
 - [machine-learning-and-simulation](https://github.com/Ceyron/machine-learning-and-simulation) - All the handwritten notes 📝 and source code files 🖥️ used in my YouTube Videos on Machine Learning & Simulation (https://www.youtube.com/channel/UCh0P7KwJhuQ4vrzc3IRuw4Q)  
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (December 2023)  
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2024)  
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.  
 - [rivet](https://github.com/Ironclad/rivet) - The open-source visual AI programming environment and TypeScript library  
 - [israeli-bank-scrapers](https://github.com/eshaham/israeli-bank-scrapers) - Provide scrapers for all major Israeli banks and credit card companies  
