@@ -2,37 +2,37 @@
 
 <p align="center">
 
-<a href="https://gist.github.com/YoraiLevi/db0a84ff7be60a974f87a527a6ecfe87">
+<a href="https://github.com/YoraiLevi/Intro-to-NLP-236299-CS187">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-0.svg/">
 <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-0.svg/">
 <img align="center" src="./assets/card-dark-0.svg" />
 </picture></a>
-<a href="https://github.com/YoraiLevi/SetFacebookPostsPrivate">
+<a href="https://gist.github.com/YoraiLevi/db0a84ff7be60a974f87a527a6ecfe87">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-1.svg/">
 <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-1.svg/">
 <img align="center" src="./assets/card-dark-1.svg" />
 </picture></a>
-<a href="https://gist.github.com/YoraiLevi/0f333d520f502fdb1244cdf0524db6d2">
+<a href="https://github.com/YoraiLevi/SetFacebookPostsPrivate">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-2.svg/">
 <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-2.svg/">
 <img align="center" src="./assets/card-dark-2.svg" />
 </picture></a>
-<a href="https://github.com/YoraiLevi/pester5-tutorial">
+<a href="https://gist.github.com/YoraiLevi/0f333d520f502fdb1244cdf0524db6d2">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-3.svg/">
 <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-3.svg/">
 <img align="center" src="./assets/card-dark-3.svg" />
 </picture></a>
-<a href="https://github.com/YoraiLevi/ahk-autohotkeys">
+<a href="https://github.com/YoraiLevi/pester5-tutorial">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-4.svg/">
 <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-4.svg/">
 <img align="center" src="./assets/card-dark-4.svg" />
 </picture></a>
-<a href="https://github.com/YoraiLevi/plotly_dash">
+<a href="https://github.com/YoraiLevi/ahk-autohotkeys">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-5.svg/">
 <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-5.svg/">
@@ -63,7 +63,7 @@
 <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-starred-2.svg/">
 <img align="center" src="./assets/card-dark-starred-2.svg" />
 </picture></a>
-<a href="https://github.com/YoraiLevi/pysubsync">
+<a href="https://github.com/YoraiLevi/Intro-to-NLP-236299-CS187">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-starred-3.svg/">
 <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-starred-3.svg/">
