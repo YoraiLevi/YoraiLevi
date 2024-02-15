@@ -63,7 +63,7 @@
 <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-starred-2.svg/">
 <img align="center" src="./assets/card-dark-starred-2.svg" />
 </picture></a>
-<a href="https://github.com/YoraiLevi/Intro-to-NLP-236299-CS187">
+<a href="https://github.com/YoraiLevi/pysubsync">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-starred-3.svg/">
 <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-starred-3.svg/">
