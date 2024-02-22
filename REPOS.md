@@ -1,4 +1,5 @@
 ## Repositories and Gists
+- [Download-AppxPackage.ps1](https://gist.github.com/YoraiLevi/e1888ee1c06b34cb02d4b58b739301af) - Download Windows Store Apps with Powershell  
 - [Intro-to-NLP-236299-CS187](https://github.com/YoraiLevi/Intro-to-NLP-236299-CS187) - Code for course "Intro to NLP" (236299) Technion Spring 2023, "Introduction to Computational Linguistic" (CS 187) Harvard Fall 2020  
 - [Test-ShouldProcess.ps1](https://gist.github.com/YoraiLevi/db0a84ff7be60a974f87a527a6ecfe87) - Everything you wanted to know about ShouldProcess  
 - Archived: [SetFacebookPostsPrivate](https://github.com/YoraiLevi/SetFacebookPostsPrivate) - Automation tool that sets posts in facebook's activity log to private (public or friends) for the new 2020 design. using Tampermonkey  
@@ -11,7 +12,6 @@
 - [plotly_dash](https://github.com/YoraiLevi/plotly_dash)  
 - [ConvertTo-Hashtable.ps1](https://gist.github.com/YoraiLevi/292bb8d0e2ce0f87d37e5d5d735fff16) - ConvertTo-Hashtable.ps1  
 - [regedit.ps1](https://github.com/YoraiLevi/regedit.ps1) - regedit.ps1 is a pure PowerShell implementation for regedit.exe, backed by a fully tested and idempotent cmdlets.   
-- [Download-AppxPackage.ps1](https://gist.github.com/YoraiLevi/e1888ee1c06b34cb02d4b58b739301af) - Download Windows Store Apps with Powershell  
 - [winutil_tweaks_cli](https://github.com/YoraiLevi/winutil_tweaks_cli) - a CLI script only for the tweaks of Chris Titus's winutil  
 - [windows_registry_modifications](https://github.com/YoraiLevi/windows_registry_modifications)  
 - [Intro-to-Deep-Learning-Final-Project-CS236781](https://github.com/YoraiLevi/Intro-to-Deep-Learning-Final-Project-CS236781) - object detection fintuning with huggingface  
