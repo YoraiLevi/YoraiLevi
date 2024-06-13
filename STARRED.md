@@ -1,4 +1,9 @@
 ## Starred
+- [dotfiles](https://github.com/mimikun/dotfiles) - mimikun's dotfiles  
+- [winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).  
+- [winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository  
+- [plotnine](https://github.com/has2k1/plotnine) - A Grammar of Graphics for Python  
+- [numerical-veliz](https://github.com/osveliz/numerical-veliz) - Numerical Analysis code from the Oscar Veliz YouTube Channel  
 - [TikTok-Api](https://github.com/davidteather/TikTok-Api) - The Unofficial TikTok API Wrapper In Python  
 - [strictyaml](https://github.com/crdoconnor/strictyaml) - Type-safe YAML parser and validator.  
 - [dynamax](https://github.com/probml/dynamax) - State Space Models library in JAX  

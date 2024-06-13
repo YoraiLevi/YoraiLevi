@@ -1,4 +1,7 @@
 ## Repositories and Gists
+- [ahk-autohotkeys](https://github.com/YoraiLevi/ahk-autohotkeys)  
+- [Optimization_and_Dynamical_systems_Fixed_point_iterations_and_Implicit_Bias](https://github.com/YoraiLevi/Optimization_and_Dynamical_systems_Fixed_point_iterations_and_Implicit_Bias)  
+- Archived: [pysubsync](https://github.com/YoraiLevi/pysubsync) - A utility to sync subtitles, designed for anime  
 - [Intro-to-NLP-236299-CS187](https://github.com/YoraiLevi/Intro-to-NLP-236299-CS187) - Code for course "Intro to NLP" (236299) Technion Spring 2023, "Introduction to Computational Linguistic" (CS 187) Harvard Fall 2020  
 - [Download-AppxPackage.ps1](https://gist.github.com/YoraiLevi/e1888ee1c06b34cb02d4b58b739301af) - Download Windows Store Apps with Powershell  
 - [Test-ShouldProcess.ps1](https://gist.github.com/YoraiLevi/db0a84ff7be60a974f87a527a6ecfe87) - Everything you wanted to know about ShouldProcess  
@@ -8,7 +11,6 @@
 - [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [KnownFolderPathPS5.ps1](https://gist.github.com/YoraiLevi/0f333d520f502fdb1244cdf0524db6d2) - Change windows user folders with powershell  
 - [pester5-tutorial](https://github.com/YoraiLevi/pester5-tutorial)  
-- [ahk-autohotkeys](https://github.com/YoraiLevi/ahk-autohotkeys)  
 - [plotly_dash](https://github.com/YoraiLevi/plotly_dash)  
 - [ConvertTo-Hashtable.ps1](https://gist.github.com/YoraiLevi/292bb8d0e2ce0f87d37e5d5d735fff16) - ConvertTo-Hashtable.ps1  
 - [regedit.ps1](https://github.com/YoraiLevi/regedit.ps1) - regedit.ps1 is a pure PowerShell implementation for regedit.exe, backed by a fully tested and idempotent cmdlets.   
@@ -17,7 +19,6 @@
 - [Intro-to-Deep-Learning-Final-Project-CS236781](https://github.com/YoraiLevi/Intro-to-Deep-Learning-Final-Project-CS236781) - object detection fintuning with huggingface  
 - [advanced_broadcasting](https://github.com/YoraiLevi/advanced_broadcasting)  
 - Archived: [AutoJobFind](https://github.com/YoraiLevi/AutoJobFind) - Javascript/Typescript based web-automation tool for submitting resumes  
-- Archived: [pysubsync](https://github.com/YoraiLevi/pysubsync) - A utility to sync subtitles, designed for anime  
 - Archived: [Problems_From_The_Discrete_To_The_Continuous_Chapter_3_Probabilistic_Packing_Problem](https://github.com/YoraiLevi/Problems_From_The_Discrete_To_The_Continuous_Chapter_3_Probabilistic_Packing_Problem) - Problems from  the Discrete to  the Continuous describes a number of probability, number theory, graph  theory, and combinatoric problems. this repository showcases chapter 3  
 - Archived: [MonkeyAutomations](https://github.com/YoraiLevi/MonkeyAutomations) - my personal collection of Tampermonkey/Greesemonkey automation scripts  
 - Archived: [PyMetaMath](https://github.com/YoraiLevi/PyMetaMath)  
@@ -33,6 +34,7 @@
 - [libary_vscode_context_menu.reg](https://gist.github.com/YoraiLevi/418c973a319008fb2f5c1ebbbd38bad2) - "Open with Code" inside windows `libaries` on right click context menu  
 - [My-Tech-Wearables](https://github.com/YoraiLevi/My-Tech-Wearables) - Cloth cat ears wearable with led strips! and more!  
 ## Forks
+- [mpl-interactions](https://github.com/YoraiLevi/mpl-interactions) - Sliders to control matplotlib and other interactive goodies. Works in any interactive backend and even uses ipywidgets when in a Jupyter notebook  
 - [Pipe](https://github.com/YoraiLevi/Pipe) - A Python library to use infix notation in Python  
 - [wg-easy](https://github.com/YoraiLevi/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.  
 - [israeli-bank-scrapers](https://github.com/YoraiLevi/israeli-bank-scrapers) - Provide scrapers for all major Israeli banks and credit card companies  
