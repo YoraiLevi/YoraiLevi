@@ -84,6 +84,7 @@
 - [qbt-theme](https://github.com/jagannatharjun/qbt-theme) - collection of themes for qbittorrent  
 - [tts-gratis](https://github.com/afkar-zoldyck/tts-gratis) - Text To Speech 100% Gratis  
 - [seqanpy](https://github.com/iosonofabio/seqanpy) - Fast pairwise sequence alignment using SeqAn, in Python.  
+- [EnvPaths.psm1](https://gist.github.com/jaw/4d1d858b87a5c208fbe42fd4d4aa97a4)  
 - [wsl2.md](https://gist.github.com/hucsmn/da1dbc2eb5903cb3143c35313623e7b0) - A collection of WSL2 hacks  
 - [beautiful_idiomatic_python.md](https://gist.github.com/0x4D31/f0b633548d8e0cfb66ee3bea6a0deff9) - [Beautiful Idiomatic Python] Transforming Code into Beautiful, Idiomatic Python #python  
 - [Pok3r.ahk](https://gist.github.com/JarvisPrestidge/189ffb4da71397f221c1) - Personal AutoHotKey script that turns any keyboard into a Pok3r.  
