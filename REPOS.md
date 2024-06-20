@@ -1,11 +1,11 @@
 ## Repositories and Gists
+- [Optimization_and_Dynamical_systems_Fixed_point_iterations_and_Implicit_Bias](https://github.com/YoraiLevi/Optimization_and_Dynamical_systems_Fixed_point_iterations_and_Implicit_Bias)  
 - [dotfiles](https://github.com/YoraiLevi/dotfiles) - dotfiles  
+- [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [Get-TemporaryDirectory.ps1](https://gist.github.com/YoraiLevi/ee4394992d820c05b9f820a166eaf987) - Get temporary directories not just files  
 - [regedit.ps1](https://github.com/YoraiLevi/regedit.ps1) - regedit.ps1 is a pure PowerShell implementation for regedit.exe, backed by a fully tested and idempotent cmdlets.   
 - [winutil_tweaks_cli](https://github.com/YoraiLevi/winutil_tweaks_cli) - a CLI script only for the tweaks of Chris Titus's winutil  
-- [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [ahk-autohotkeys](https://github.com/YoraiLevi/ahk-autohotkeys)  
-- [Optimization_and_Dynamical_systems_Fixed_point_iterations_and_Implicit_Bias](https://github.com/YoraiLevi/Optimization_and_Dynamical_systems_Fixed_point_iterations_and_Implicit_Bias)  
 - Archived: [pysubsync](https://github.com/YoraiLevi/pysubsync) - A utility to sync subtitles, designed for anime  
 - [Intro-to-NLP-236299-CS187](https://github.com/YoraiLevi/Intro-to-NLP-236299-CS187) - Code for course "Intro to NLP" (236299) Technion Spring 2023, "Introduction to Computational Linguistic" (CS 187) Harvard Fall 2020  
 - [Download-AppxPackage.ps1](https://gist.github.com/YoraiLevi/e1888ee1c06b34cb02d4b58b739301af) - Download Windows Store Apps with Powershell  
@@ -36,6 +36,7 @@
 - [libary_vscode_context_menu.reg](https://gist.github.com/YoraiLevi/418c973a319008fb2f5c1ebbbd38bad2) - "Open with Code" inside windows `libaries` on right click context menu  
 - [My-Tech-Wearables](https://github.com/YoraiLevi/My-Tech-Wearables) - Cloth cat ears wearable with led strips! and more!  
 ## Forks
+- [bing-wallpapers-for-linux](https://github.com/YoraiLevi/bing-wallpapers-for-linux) - This enables bing wallpaper on linux, specifically debian based distros.  
 - [mpl-interactions](https://github.com/YoraiLevi/mpl-interactions) - Sliders to control matplotlib and other interactive goodies. Works in any interactive backend and even uses ipywidgets when in a Jupyter notebook  
 - [Pipe](https://github.com/YoraiLevi/Pipe) - A Python library to use infix notation in Python  
 - [wg-easy](https://github.com/YoraiLevi/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.  

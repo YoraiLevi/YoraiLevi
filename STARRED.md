@@ -1,4 +1,5 @@
 ## Starred
+- [bing-wallpapers-for-linux](https://github.com/whizzzkid/bing-wallpapers-for-linux) - This enables bing wallpaper on linux, specifically debian based distros.  
 - [dotfiles](https://github.com/mimikun/dotfiles) - mimikun's dotfiles  
 - [winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).  
 - [winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository  
