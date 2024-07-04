@@ -1,10 +1,12 @@
 ## Starred
+- [AzureOpenAI-PowerShell](https://github.com/voytas75/AzureOpenAI-PowerShell) - This repository provides PowerShell scripts for interacting with Azure resources. It explores the potential of Azure OpenAI through side projects (PSAOAI, AI Windows Event Analyzer, IntellectHub).  
+- [baybe](https://github.com/emdgroup/baybe) - Bayesian Optimization and Design of Experiments  
+- [bsuite](https://github.com/google-deepmind/bsuite) - bsuite is a collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent  
+- [Design-of-experiment-Python](https://github.com/tirthajyoti/Design-of-experiment-Python) - Design-of-experiment (DOE) generator for science, engineering, and statistics  
 - [hawck](https://github.com/snyball/hawck) - Key-rebinding daemon for Linux (Wayland/X11/Console)  
 - [winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).  
 - [bing-wallpapers-for-linux](https://github.com/whizzzkid/bing-wallpapers-for-linux) - This enables bing wallpaper on linux, specifically debian based distros.  
-- [dotfiles](https://github.com/mimikun/dotfiles) - mimikun's dotfiles  
 - [winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository  
-- [plotnine](https://github.com/has2k1/plotnine) - A Grammar of Graphics for Python  
 - [numerical-veliz](https://github.com/osveliz/numerical-veliz) - Numerical Analysis code from the Oscar Veliz YouTube Channel  
 - [TikTok-Api](https://github.com/davidteather/TikTok-Api) - The Unofficial TikTok API Wrapper In Python  
 - [strictyaml](https://github.com/crdoconnor/strictyaml) - Type-safe YAML parser and validator.  
@@ -29,7 +31,6 @@
 - [Pscx](https://github.com/Pscx/Pscx) - PowerShell Community Extensions module repository  
 - [RestartableSession](https://github.com/mdgrs-mei/RestartableSession) - A PowerShell module to instantly and properly reflect the code changes to the module you are making.   
 - [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.  
-- [pipe-fn](https://github.com/Xython/pipe-fn) - A functional style Pipe for CPython. Inspired by https://github.com/JulienPalard/Pipe, but the implementation could be quite different.  
 - [Pipe](https://github.com/JulienPalard/Pipe) - A Python library to use infix notation in Python  
 - [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) - OpenCore bootloader  
 - [MacHyperVSupport](https://github.com/acidanthera/MacHyperVSupport) - Hyper-V integration support for macOS  
