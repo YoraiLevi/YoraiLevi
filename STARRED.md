@@ -1,4 +1,9 @@
 ## Starred
+- [cyipopt](https://github.com/mechmotum/cyipopt) - Cython interface for the interior point optimzer IPOPT  
+- [learn-multibody-dynamics](https://github.com/moorepants/learn-multibody-dynamics) - Interactive computational book on multibody dynamics  
+- [pydy](https://github.com/pydy/pydy) - Multibody dynamics tool kit.  
+- [opty](https://github.com/csu-hmc/opty) - A library for using direct collocation in the optimization of dynamic systems.  
+- [yeadon](https://github.com/chrisdembia/yeadon) - The human inertia model developed by Fred Yeadon in 1990.  
 - [AzureOpenAI-PowerShell](https://github.com/voytas75/AzureOpenAI-PowerShell) - This repository provides PowerShell scripts for interacting with Azure resources. It explores the potential of Azure OpenAI through side projects (PSAOAI, AI Windows Event Analyzer, IntellectHub).  
 - [baybe](https://github.com/emdgroup/baybe) - Bayesian Optimization and Design of Experiments  
 - [bsuite](https://github.com/google-deepmind/bsuite) - bsuite is a collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent  
