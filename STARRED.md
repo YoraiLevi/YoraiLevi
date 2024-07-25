@@ -1,4 +1,5 @@
 ## Starred
+- [CompAssistedMath2024](https://github.com/matematiflo/CompAssistedMath2024) - GitHub repository for the seminar on Computer-assisted mathematics held at the University of Heidelberg during the Summer Semester of 2024.  
 - [cyipopt](https://github.com/mechmotum/cyipopt) - Cython interface for the interior point optimzer IPOPT  
 - [learn-multibody-dynamics](https://github.com/moorepants/learn-multibody-dynamics) - Interactive computational book on multibody dynamics  
 - [pydy](https://github.com/pydy/pydy) - Multibody dynamics tool kit.  
