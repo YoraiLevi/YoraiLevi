@@ -1,4 +1,5 @@
 ## Repositories and Gists
+- [windows_registry_modifications](https://github.com/YoraiLevi/windows_registry_modifications)  
 - [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [Download-AppxPackage.ps1](https://gist.github.com/YoraiLevi/e1888ee1c06b34cb02d4b58b739301af) - Download Windows Store Apps with Powershell  
 - [dotfiles](https://github.com/YoraiLevi/dotfiles) - dotfiles  
@@ -16,7 +17,6 @@
 - [pester5-tutorial](https://github.com/YoraiLevi/pester5-tutorial)  
 - [plotly_dash](https://github.com/YoraiLevi/plotly_dash)  
 - [ConvertTo-Hashtable.ps1](https://gist.github.com/YoraiLevi/292bb8d0e2ce0f87d37e5d5d735fff16) - ConvertTo-Hashtable.ps1  
-- [windows_registry_modifications](https://github.com/YoraiLevi/windows_registry_modifications)  
 - [Intro-to-Deep-Learning-Final-Project-CS236781](https://github.com/YoraiLevi/Intro-to-Deep-Learning-Final-Project-CS236781) - object detection fintuning with huggingface  
 - [advanced_broadcasting](https://github.com/YoraiLevi/advanced_broadcasting)  
 - Archived: [AutoJobFind](https://github.com/YoraiLevi/AutoJobFind) - Javascript/Typescript based web-automation tool for submitting resumes  
