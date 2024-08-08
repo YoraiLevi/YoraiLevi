@@ -31,13 +31,13 @@
                                 <span data-view-component="true" class="position-relative">
                                     <a href="" data-view-component="true" class="min-width-0 Link text-bold flex-auto">
                                         <span class="repo">
-                                            Get-TemporaryDirectory.ps1
+                                            Optimization_and_Dynamical_systems_Fixed_point_iterations_and_Implicit_Bias
                                         </span>
                                     </a>
                                     <tool-tip for="2544889" popover="manual" data-direction="s" data-type="description"
                                         data-view-component="true" class="position-absolute sr-only" role="tooltip"
                                         style="--tool-tip-position-top: 707.75px; --tool-tip-position-left: 368.625px;">
-                                        Get-TemporaryDirectory.ps1</tool-tip>
+                                        Optimization_and_Dynamical_systems_Fixed_point_iterations_and_Implicit_Bias</tool-tip>
                                 </span>
                                 <span class=" flex-auto text-right">
                                     <span></span>
@@ -52,14 +52,14 @@
 
 
                             <p class="three-lines pinned-item-desc color-fg-muted text-small d-block mt-2 mb-3">
-                                Get temporary directories not just files
+                                
                             </p>
 
                             <p class="mb-0 f6 color-fg-muted">
                                 <span class="d-inline-block mr-3">
                                     <span class="repo-language-color"
-                                        style="background-color: #012456"></span>
-                                    <span itemprop="programmingLanguage">PowerShell</span>
+                                        style="background-color: #DA5B0B"></span>
+                                    <span itemprop="programmingLanguage">Jupyter Notebook</span>
                                 </span>
 
                                 <a href="" class="pinned-item-meta Link--muted">
