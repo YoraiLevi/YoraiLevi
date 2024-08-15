@@ -30,7 +30,7 @@
 - [MarkdownPS](https://github.com/Sarafian/MarkdownPS) - A powershell module to render markdown files  
 - [act-dockerimage](https://github.com/JustinGrote/act-dockerimage)  
 - [runner.server](https://github.com/ChristopherHX/runner.server) - An unofficial Local GitHub Actions and Azure Pipelines Emulator  
-- [postgresml](https://github.com/postgresml/postgresml) - The GPU-powered AI application database. Get your app to market faster using the simplicity of SQL and the latest NLP, ML + LLM models.  
+- [postgresml](https://github.com/postgresml/postgresml) - Postgres with GPUs for ML/AI apps.  
 - [machine-learning-and-simulation](https://github.com/Ceyron/machine-learning-and-simulation) - All the handwritten notes 📝 and source code files 🖥️ used in my YouTube Videos on Machine Learning & Simulation (https://www.youtube.com/channel/UCh0P7KwJhuQ4vrzc3IRuw4Q)  
 - [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)  
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.  
@@ -91,7 +91,7 @@
 - [technion-histograms](https://github.com/michael-maltsev/technion-histograms) - Histograms of Technion courses  
 - [rdfind](https://github.com/pauldreik/rdfind) - find duplicate files utility  
 - [KMS-activator](https://github.com/CHEF-KOCH/KMS-activator) - Windows activation research project.  
-- [vlmcsd](https://github.com/Wind4/vlmcsd) - KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin)  
+- Archived: [vlmcsd](https://github.com/Wind4/vlmcsd) - KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin)  
 - [qbt-theme](https://github.com/jagannatharjun/qbt-theme) - collection of themes for qbittorrent  
 - [tts-gratis](https://github.com/afkar-zoldyck/tts-gratis) - Text To Speech 100% Gratis  
 - [seqanpy](https://github.com/iosonofabio/seqanpy) - Fast pairwise sequence alignment using SeqAn, in Python.  
