@@ -1,4 +1,5 @@
 ## Starred
+- [bulk](https://github.com/koaning/bulk) - A Simple Bulk Labelling Tool  
 - [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust  
 - [RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.  
 - [CompAssistedMath2024](https://github.com/matematiflo/CompAssistedMath2024) - GitHub repository for the seminar on Computer-assisted mathematics held at the University of Heidelberg during the Summer Semester of 2024.  
