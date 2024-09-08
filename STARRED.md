@@ -39,7 +39,7 @@
 - [israeli-bank-scrapers](https://github.com/eshaham/israeli-bank-scrapers) - Provide scrapers for all major Israeli banks and credit card companies  
 - [Pscx](https://github.com/Pscx/Pscx) - PowerShell Community Extensions module repository  
 - [RestartableSession](https://github.com/mdgrs-mei/RestartableSession) - A PowerShell module to instantly and properly reflect the code changes to the module you are making.   
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.  
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.  
 - [Pipe](https://github.com/JulienPalard/Pipe) - A Python library to use infix notation in Python  
 - [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) - OpenCore bootloader  
 - [MacHyperVSupport](https://github.com/acidanthera/MacHyperVSupport) - Hyper-V integration support for macOS  
