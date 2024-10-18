@@ -1,13 +1,15 @@
 ## Repositories and Gists
-- [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
-- [KnownFolderPathPS5.ps1](https://gist.github.com/YoraiLevi/0f333d520f502fdb1244cdf0524db6d2) - Change windows user folders with powershell  
-- [windows_registry_modifications](https://github.com/YoraiLevi/windows_registry_modifications)  
-- [Download-AppxPackage.ps1](https://gist.github.com/YoraiLevi/e1888ee1c06b34cb02d4b58b739301af) - Download Windows Store Apps with Powershell  
 - [dotfiles](https://github.com/YoraiLevi/dotfiles) - dotfiles  
-- [Optimization_and_Dynamical_systems_Fixed_point_iterations_and_Implicit_Bias](https://github.com/YoraiLevi/Optimization_and_Dynamical_systems_Fixed_point_iterations_and_Implicit_Bias)  
-- [Get-TemporaryDirectory.ps1](https://gist.github.com/YoraiLevi/ee4394992d820c05b9f820a166eaf987) - Get temporary directories not just files  
+- [interactive_matplotlib](https://github.com/YoraiLevi/interactive_matplotlib)  
+- [windows_registry_modifications](https://github.com/YoraiLevi/windows_registry_modifications)  
 - [regedit.ps1](https://github.com/YoraiLevi/regedit.ps1) - regedit.ps1 is a pure PowerShell implementation for regedit.exe, backed by a fully tested and idempotent cmdlets.   
 - [winutil_tweaks_cli](https://github.com/YoraiLevi/winutil_tweaks_cli) - a CLI script only for the tweaks of Chris Titus's winutil  
+- [libary_vscode_context_menu.reg](https://gist.github.com/YoraiLevi/418c973a319008fb2f5c1ebbbd38bad2) - "Open with Code" inside windows `libaries` on right click context menu  
+- [Download-AppxPackage.ps1](https://gist.github.com/YoraiLevi/e1888ee1c06b34cb02d4b58b739301af) - Download Windows Store Apps with Powershell  
+- [Get-TemporaryDirectory.ps1](https://gist.github.com/YoraiLevi/ee4394992d820c05b9f820a166eaf987) - Get temporary directories not just files  
+- [KnownFolderPathPS5.ps1](https://gist.github.com/YoraiLevi/0f333d520f502fdb1244cdf0524db6d2) - Change windows user folders with powershell  
+- [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
+- [Optimization_and_Dynamical_systems_Fixed_point_iterations_and_Implicit_Bias](https://github.com/YoraiLevi/Optimization_and_Dynamical_systems_Fixed_point_iterations_and_Implicit_Bias)  
 - [ahk-autohotkeys](https://github.com/YoraiLevi/ahk-autohotkeys)  
 - Archived: [pysubsync](https://github.com/YoraiLevi/pysubsync) - A utility to sync subtitles, designed for anime  
 - [Intro-to-NLP-236299-CS187](https://github.com/YoraiLevi/Intro-to-NLP-236299-CS187) - Code for course "Intro to NLP" (236299) Technion Spring 2023, "Introduction to Computational Linguistic" (CS 187) Harvard Fall 2020  
@@ -32,7 +34,6 @@
 - [nordic_app_dfu_playzone](https://github.com/YoraiLevi/nordic_app_dfu_playzone) - example project for adding secure ble dfu for an existing app  
 - [MyLinting](https://github.com/YoraiLevi/MyLinting) - a collection of linting setups and explanations   
 - [pasteconsole.js](https://gist.github.com/YoraiLevi/3365f9a60c8033d8c797dc409acbb26e) - this code is obsolete since the 2020 new facebook design. refer to: https://github.com/YoraiLevi/SetFacebookPostsPrivate make all facebook posts private(activity log) very dumb code.  
-- [libary_vscode_context_menu.reg](https://gist.github.com/YoraiLevi/418c973a319008fb2f5c1ebbbd38bad2) - "Open with Code" inside windows `libaries` on right click context menu  
 - [My-Tech-Wearables](https://github.com/YoraiLevi/My-Tech-Wearables) - Cloth cat ears wearable with led strips! and more!  
 ## Forks
 - [Pipe](https://github.com/YoraiLevi/Pipe) - A Python library to use infix notation in Python  

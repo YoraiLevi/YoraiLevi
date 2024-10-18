@@ -1,4 +1,21 @@
 ## Starred
+- [jupyter_compare_view](https://github.com/Octoframes/jupyter_compare_view) - Blend Between Multiple Images in JupyterLab.  
+- [LinkedIn-Easy-Apply-Bot](https://github.com/nicolomantini/LinkedIn-Easy-Apply-Bot) - Automate the application process on LinkedIn  
+- [linkedin-easy-apply-bot](https://github.com/joaosilvalopes/linkedin-easy-apply-bot)  
+- [USB-Unattended-Proxmox](https://github.com/YosefCohen877/USB-Unattended-Proxmox) - Automated Proxmox on Debian 12  
+- [nixos-unattended-installer](https://github.com/chrillefkr/nixos-unattended-installer) - Create unattended NixOS installer images  
+- [just](https://github.com/casey/just) - 🤖 Just a command runner  
+- [TabPy](https://github.com/tableau/TabPy) - Execute Python code on the fly and display results in Tableau visualizations:  
+- [Jupytab](https://github.com/CFMTech/Jupytab) - Display in Tableau data from Jupyter notebooks  
+- [Ryven](https://github.com/leon-thomm/Ryven) - Flow-based visual scripting for Python  
+- [youtube-watchmarker](https://github.com/sniklaus/youtube-watchmarker) - a browser extension that keeps track of your YouTube watch history and marks videos that you have already watched  
+- [cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library   
+- [github-search](https://github.com/gwen001/github-search) - A collection of tools to perform searches on GitHub.  
+- [SpeedTorch](https://github.com/Santosh-Gupta/SpeedTorch) - Library for faster pinned CPU <-> GPU transfer in Pytorch   
+- [elevation_mapping_cupy](https://github.com/leggedrobotics/elevation_mapping_cupy) - Elevation Mapping on GPU.  
+- [cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU  
+- [ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.  
+- [paper-qa](https://github.com/Future-House/paper-qa) - High accuracy RAG for answering questions from scientific documents with citations  
 - [bulk](https://github.com/koaning/bulk) - A Simple Bulk Labelling Tool  
 - [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust  
 - [RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.  
@@ -10,7 +27,7 @@
 - [yeadon](https://github.com/chrisdembia/yeadon) - The human inertia model developed by Fred Yeadon in 1990.  
 - [AzureOpenAI-PowerShell](https://github.com/voytas75/AzureOpenAI-PowerShell) - PowerShell scripts for interacting with Azure resources. It explores the potential of Azure OpenAI through side projects (PSAOAI, AI Windows Event Analyzer, AIPSTeam, AIPyTeam).  
 - [baybe](https://github.com/emdgroup/baybe) - Bayesian Optimization and Design of Experiments  
-- [bsuite](https://github.com/google-deepmind/bsuite) - bsuite is a collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent  
+- Archived: [bsuite](https://github.com/google-deepmind/bsuite) - bsuite is a collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent  
 - [Design-of-experiment-Python](https://github.com/tirthajyoti/Design-of-experiment-Python) - Design-of-experiment (DOE) generator for science, engineering, and statistics  
 - [hawck](https://github.com/snyball/hawck) - Key-rebinding daemon for Linux (Wayland/X11/Console)  
 - [winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).  
@@ -44,7 +61,6 @@
 - [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) - OpenCore bootloader  
 - [MacHyperVSupport](https://github.com/acidanthera/MacHyperVSupport) - Hyper-V integration support for macOS  
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF  
-- [npm-trends](https://github.com/uidotdev/npm-trends) - NPM package comparison  
 - [lm-hackers](https://github.com/fastai/lm-hackers) - Hackers' Guide to Language Models  
 - [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs  
 - [PsDownload](https://github.com/DanGough/PsDownload) - A PowerShell module for downloading files.  
@@ -83,20 +99,8 @@
 - [docker-puppeteer](https://github.com/alekzonder/docker-puppeteer) - docker image with Google Puppeteer installed  
 - Archived: [docker-puppeteer](https://github.com/buildkite/docker-puppeteer) - A minimal Docker image for Puppeteer  
 - [eslint-config-auto](https://github.com/davidjbradshaw/eslint-config-auto) - Automatically configure ESLint based on project dependencies  
-- [grpc-js-typescript](https://github.com/badsyntax/grpc-js-typescript) - Generate gRPC TypeScript definitions for use with gRPC (@grpc/grpc-js).  
-- [headless-chrome-crawler](https://github.com/yujiosaka/headless-chrome-crawler) - Distributed crawler powered by Headless Chrome  
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.  
-- [KMS_VL_ALL](https://github.com/kkkgo/KMS_VL_ALL) - 🔑KMS_VL_ALL - Smart Activation Script  
-- [nbfc](https://github.com/hirschmann/nbfc) - NoteBook FanControl  
-- [nohost](https://github.com/humphd/nohost) - A web server in your web browser  
-- [technion-histograms](https://github.com/michael-maltsev/technion-histograms) - Histograms of Technion courses  
-- [rdfind](https://github.com/pauldreik/rdfind) - find duplicate files utility  
-- [KMS-activator](https://github.com/CHEF-KOCH/KMS-activator) - Windows activation research project.  
-- Archived: [vlmcsd](https://github.com/Wind4/vlmcsd) - KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin)  
-- [qbt-theme](https://github.com/jagannatharjun/qbt-theme) - collection of themes for qbittorrent  
-- [tts-gratis](https://github.com/afkar-zoldyck/tts-gratis) - Text To Speech 100% Gratis  
-- [seqanpy](https://github.com/iosonofabio/seqanpy) - Fast pairwise sequence alignment using SeqAn, in Python.  
 - [EnvPaths.psm1](https://gist.github.com/jaw/4d1d858b87a5c208fbe42fd4d4aa97a4)  
+- [mandelbrot-on-all-accelerators.ipynb](https://gist.github.com/jpivarski/da343abd8024834ee8c5aaba691aafc7)  
 - [wsl2.md](https://gist.github.com/hucsmn/da1dbc2eb5903cb3143c35313623e7b0) - A collection of WSL2 hacks  
 - [beautiful_idiomatic_python.md](https://gist.github.com/0x4D31/f0b633548d8e0cfb66ee3bea6a0deff9) - [Beautiful Idiomatic Python] Transforming Code into Beautiful, Idiomatic Python #python  
 - [Pok3r.ahk](https://gist.github.com/JarvisPrestidge/189ffb4da71397f221c1) - Personal AutoHotKey script that turns any keyboard into a Pok3r.  
