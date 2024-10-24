@@ -1,6 +1,6 @@
 ## Repositories and Gists
-- [dotfiles](https://github.com/YoraiLevi/dotfiles) - dotfiles  
 - [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
+- [dotfiles](https://github.com/YoraiLevi/dotfiles) - dotfiles  
 - [interactive_matplotlib](https://github.com/YoraiLevi/interactive_matplotlib)  
 - [windows_registry_modifications](https://github.com/YoraiLevi/windows_registry_modifications)  
 - [regedit.ps1](https://github.com/YoraiLevi/regedit.ps1) - regedit.ps1 is a pure PowerShell implementation for regedit.exe, backed by a fully tested and idempotent cmdlets.   
