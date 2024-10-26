@@ -83,6 +83,7 @@ if __name__ == "__main__":
         "📘repositories": "./REPOS.md#repositories-and-gists",
         "⭐starred": "./STARRED.md#starred",
         "➕contributions": "./CONTRIBUTIONS.md#my-contributions",
+        "🖼️project gallery": "./PROJECT_GALLERY.md#project-gallery", 
     }
     links_menu = "    ".join([f"[{key}]({value})" for key, value in links.items()])
     print(links_menu)
