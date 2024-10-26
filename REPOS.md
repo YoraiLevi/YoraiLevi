@@ -1,5 +1,6 @@
 ## Repositories and Gists
 - [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
+- [Intro-to-NLP-236299-CS187](https://github.com/YoraiLevi/Intro-to-NLP-236299-CS187) - Code for course "Intro to NLP" (236299) Technion Spring 2023, "Introduction to Computational Linguistic" (CS 187) Harvard Fall 2020  
 - [dotfiles](https://github.com/YoraiLevi/dotfiles) - dotfiles  
 - [interactive_matplotlib](https://github.com/YoraiLevi/interactive_matplotlib)  
 - [windows_registry_modifications](https://github.com/YoraiLevi/windows_registry_modifications)  
@@ -12,7 +13,6 @@
 - [Optimization_and_Dynamical_systems_Fixed_point_iterations_and_Implicit_Bias](https://github.com/YoraiLevi/Optimization_and_Dynamical_systems_Fixed_point_iterations_and_Implicit_Bias)  
 - [ahk-autohotkeys](https://github.com/YoraiLevi/ahk-autohotkeys)  
 - Archived: [pysubsync](https://github.com/YoraiLevi/pysubsync) - A utility to sync subtitles, designed for anime  
-- [Intro-to-NLP-236299-CS187](https://github.com/YoraiLevi/Intro-to-NLP-236299-CS187) - Code for course "Intro to NLP" (236299) Technion Spring 2023, "Introduction to Computational Linguistic" (CS 187) Harvard Fall 2020  
 - [Test-ShouldProcess.ps1](https://gist.github.com/YoraiLevi/db0a84ff7be60a974f87a527a6ecfe87) - Everything you wanted to know about ShouldProcess  
 - Archived: [SetFacebookPostsPrivate](https://github.com/YoraiLevi/SetFacebookPostsPrivate) - Automation tool that sets posts in facebook's activity log to private (public or friends) for the new 2020 design. using Tampermonkey  
 - [YoraiLevi.github.io](https://github.com/YoraiLevi/YoraiLevi.github.io) - Github Pages  

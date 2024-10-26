@@ -31,13 +31,13 @@
                                 <span data-view-component="true" class="position-relative">
                                     <a href="" data-view-component="true" class="min-width-0 Link text-bold flex-auto">
                                         <span class="repo">
-                                            winutil_tweaks_cli
+                                            regedit.ps1
                                         </span>
                                     </a>
                                     <tool-tip for="2544889" popover="manual" data-direction="s" data-type="description"
                                         data-view-component="true" class="position-absolute sr-only" role="tooltip"
                                         style="--tool-tip-position-top: 707.75px; --tool-tip-position-left: 368.625px;">
-                                        winutil_tweaks_cli</tool-tip>
+                                        regedit.ps1</tool-tip>
                                 </span>
                                 <span class=" flex-auto text-right">
                                     <span></span>
@@ -52,7 +52,7 @@
 
 
                             <p class="three-lines pinned-item-desc color-fg-muted text-small d-block mt-2 mb-3">
-                                a CLI script only for the tweaks of Chris Titus's winutil
+                                regedit.ps1 is a pure PowerShell implementation for regedit.exe, backed by a fully tested and idempotent cmdlets. 
                             </p>
 
                             <p class="mb-0 f6 color-fg-muted">
@@ -79,7 +79,7 @@
                                             d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z">
                                         </path>
                                     </svg>
-                                    2 </a>
+                                    0 </a>
                             </p>
                         </div>
                     </div>
