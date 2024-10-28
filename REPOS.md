@@ -1,5 +1,7 @@
 ## Repositories and Gists
 - [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
+- [pip_installable_module](https://github.com/YoraiLevi/pip_installable_module)  
+- [check_in_vscode_colab_pyodide.ipynb](https://gist.github.com/YoraiLevi/b1ef408b50fd60ac1cbf90621b60b0bd) - Check if the notebook is executed in vscode colab or pyodide based platform  
 - [Intro-to-NLP-236299-CS187](https://github.com/YoraiLevi/Intro-to-NLP-236299-CS187) - Code for course "Intro to NLP" (236299) Technion Spring 2023, "Introduction to Computational Linguistic" (CS 187) Harvard Fall 2020  
 - [dotfiles](https://github.com/YoraiLevi/dotfiles) - dotfiles  
 - [interactive_matplotlib](https://github.com/YoraiLevi/interactive_matplotlib)  
