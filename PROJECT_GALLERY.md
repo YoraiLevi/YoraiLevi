@@ -17,7 +17,7 @@ A journey demonstrating how to use huggingface🤗 apis and some struggles once 
 
 
 ## [An automation tool that sets posts in facebook's activity log to private,public or friends for the new 2020 design.](https://github.com/YoraiLevi/SetFacebookPostsPrivate)  
-With the new decade a log has changed, so did facebook's interface making it harder to automate interactions. This was tampermonkey script to automate post audience with configurations not allowed by facebook's own audience managment tools  
+With the new decade a lot has changed, so did facebook's interface making it harder to automate interactions. This was tampermonkey script to automate post audience with configurations not allowed by facebook's own audience managment tools  
 <img src="https://github.com/user-attachments/assets/95497fb6-c79c-48ca-b97c-40e6aa346f6c" width="200"/>
 
 
