@@ -1,4 +1,7 @@
 ## Starred
+- [kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization  
+- [keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.  
+- [autokey](https://github.com/autokey/autokey) - AutoKey, a desktop automation utility for Linux and X11.  
 - [open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)  
 - [ansible-role-proxmox](https://github.com/lae/ansible-role-proxmox) - IaC for Proxmox VE clusters.  
 - [acme-dns](https://github.com/joohoi/acme-dns) - Limited DNS server with RESTful HTTP API to handle ACME DNS challenges easily and securely.  
@@ -96,9 +99,6 @@
 - [segger-rtt-viewer](https://github.com/bojanpotocnik/segger-rtt-viewer) - Python tool for connecting to J-Link RTT Client  
 - [mutation-summary](https://github.com/rafaelw/mutation-summary) - A JavaScript library that makes observing changes to the DOM easy  
 - [mutation-summary](https://github.com/mmacfadden/mutation-summary) - A JavaScript library that makes observing changes to the DOM easy  
-- [lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run linters on git staged files  
-- [ts-proto](https://github.com/stephenh/ts-proto) - An idiomatic protobuf generator for TypeScript  
-- [super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to run as a GitHub Action or standalone  
 - [EnvPaths.psm1](https://gist.github.com/jaw/4d1d858b87a5c208fbe42fd4d4aa97a4)  
 - [mandelbrot-on-all-accelerators.ipynb](https://gist.github.com/jpivarski/da343abd8024834ee8c5aaba691aafc7)  
 - [wsl2.md](https://gist.github.com/hucsmn/da1dbc2eb5903cb3143c35313623e7b0) - A collection of WSL2 hacks  
