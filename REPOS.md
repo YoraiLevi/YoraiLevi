@@ -1,8 +1,10 @@
 ## Repositories and Gists
+- [container_tooling_survey](https://github.com/YoraiLevi/container_tooling_survey)  
+- [python_tooling_survey](https://github.com/YoraiLevi/python_tooling_survey)  
 - [pip_installable_module](https://github.com/YoraiLevi/pip_installable_module)  
+- [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [dotfiles](https://github.com/YoraiLevi/dotfiles) - dotfiles  
 - [ahk-autohotkeys](https://github.com/YoraiLevi/ahk-autohotkeys)  
-- [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [Download-AppxPackage.ps1](https://gist.github.com/YoraiLevi/e1888ee1c06b34cb02d4b58b739301af) - Download Windows Store Apps with Powershell  
 - [check_in_vscode_colab_pyodide.ipynb](https://gist.github.com/YoraiLevi/b1ef408b50fd60ac1cbf90621b60b0bd) - Check if the notebook is executed in vscode colab or pyodide based platform  
 - [Intro-to-NLP-236299-CS187](https://github.com/YoraiLevi/Intro-to-NLP-236299-CS187) - Code for course "Intro to NLP" (236299) Technion Spring 2023, "Introduction to Computational Linguistic" (CS 187) Harvard Fall 2020  

@@ -1,4 +1,8 @@
 ## Starred
+- [useful_types](https://github.com/hauntsaninja/useful_types) - Useful types for Python  
+- [awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub  
+- [awesome-proxmox-ve](https://github.com/Corsinvest/awesome-proxmox-ve) - A collection of awesome Proxmox VE documentation, tools, api, blogs, site  
+- [setup-matrix](https://github.com/druzsan/setup-matrix) - GitHub action to create a reusable and potentially dynamic matrix for workflow jobs.  
 - [kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization  
 - [keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.  
 - [autokey](https://github.com/autokey/autokey) - AutoKey, a desktop automation utility for Linux and X11.  
@@ -95,10 +99,6 @@
 - [PowerShell-WSL-Interop](https://github.com/mikebattista/PowerShell-WSL-Interop) - Integrate Linux commands into Windows with PowerShell and the Windows Subsystem for Linux (WSL).  
 - [psutils](https://github.com/lukesampson/psutils) - Command line utilities written in Powershell  
 - [platformio-arduino-rust](https://github.com/dzervas/platformio-arduino-rust) - Arduino Framework bindings for Rust using PlatformIO  
-- [nrf52-OTA-BLE-Linux](https://github.com/chiararuggeri/nrf52-OTA-BLE-Linux)  
-- [segger-rtt-viewer](https://github.com/bojanpotocnik/segger-rtt-viewer) - Python tool for connecting to J-Link RTT Client  
-- [mutation-summary](https://github.com/rafaelw/mutation-summary) - A JavaScript library that makes observing changes to the DOM easy  
-- [mutation-summary](https://github.com/mmacfadden/mutation-summary) - A JavaScript library that makes observing changes to the DOM easy  
 - [EnvPaths.psm1](https://gist.github.com/jaw/4d1d858b87a5c208fbe42fd4d4aa97a4)  
 - [mandelbrot-on-all-accelerators.ipynb](https://gist.github.com/jpivarski/da343abd8024834ee8c5aaba691aafc7)  
 - [wsl2.md](https://gist.github.com/hucsmn/da1dbc2eb5903cb3143c35313623e7b0) - A collection of WSL2 hacks  
