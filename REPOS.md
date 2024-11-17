@@ -41,6 +41,7 @@
 - [My-Tech-Wearables](https://github.com/YoraiLevi/My-Tech-Wearables) - Cloth cat ears wearable with led strips! and more!  
 ## Forks
 - [GitHub-Action-Ahk2Exe](https://github.com/YoraiLevi/GitHub-Action-Ahk2Exe) - GitHub Action to compile AutoHotKey scripts using Ahk2Exe  
+- [data-engineering-home-assignment](https://github.com/YoraiLevi/data-engineering-home-assignment) - Vi's Data Engineering Home Assignment  
 - [Pipe](https://github.com/YoraiLevi/Pipe) - A Python library to use infix notation in Python  
 - [bing-wallpapers-for-linux](https://github.com/YoraiLevi/bing-wallpapers-for-linux) - This enables bing wallpaper on linux, specifically debian based distros.  
 - [mpl-interactions](https://github.com/YoraiLevi/mpl-interactions) - Sliders to control matplotlib and other interactive goodies. Works in any interactive backend and even uses ipywidgets when in a Jupyter notebook  
