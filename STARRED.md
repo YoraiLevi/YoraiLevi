@@ -1,4 +1,5 @@
 ## Starred
+- [yt-python-ci](https://github.com/timvancann/yt-python-ci)  
 - [useful_types](https://github.com/hauntsaninja/useful_types) - Useful types for Python  
 - [awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub  
 - [awesome-proxmox-ve](https://github.com/Corsinvest/awesome-proxmox-ve) - A collection of awesome Proxmox VE documentation, tools, api, blogs, site  
@@ -98,7 +99,6 @@
 - Archived: [npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) - :rocket: Upgrade npm on Windows  
 - [PowerShell-WSL-Interop](https://github.com/mikebattista/PowerShell-WSL-Interop) - Integrate Linux commands into Windows with PowerShell and the Windows Subsystem for Linux (WSL).  
 - [psutils](https://github.com/lukesampson/psutils) - Command line utilities written in Powershell  
-- [platformio-arduino-rust](https://github.com/dzervas/platformio-arduino-rust) - Arduino Framework bindings for Rust using PlatformIO  
 - [EnvPaths.psm1](https://gist.github.com/jaw/4d1d858b87a5c208fbe42fd4d4aa97a4)  
 - [mandelbrot-on-all-accelerators.ipynb](https://gist.github.com/jpivarski/da343abd8024834ee8c5aaba691aafc7)  
 - [wsl2.md](https://gist.github.com/hucsmn/da1dbc2eb5903cb3143c35313623e7b0) - A collection of WSL2 hacks  
