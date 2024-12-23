@@ -1,6 +1,28 @@
 # Project Gallery  
 
-## [Optimization and Implicit bias - A lecture for dynamical systems course relating the field of optimization to fractals, computer aided maths and ultimately separability and implicit bias](https://github.com/YoraiLevi/Optimization_and_Dynamical_systems_Fixed_point_iterations_and_Implicit_Bias)
+## [Modular Monolith Fast API - implementing a modular monolith architecture with multiple services via FastAPI](https://github.com/YoraiLevi/modular-monolith-fastapi)
+[<img src="https://foojay.io/wp-content/uploads/2024/02/microservices-part2-4-700x390.png" height="300"></img>](https://foojay.io/today/microservices-design-principles-for-well-crafted-architecture/)  
+This project implements a pet adoption system that showcases how to build a well-structured modular application. Here are the requirements that guided the implementation:
+#### Core Requirements
+
+* **FastAPI and Uvicorn**: The application must be built using FastAPI framework and served with Uvicorn
+* **REST API**: Expose a clean, RESTful API interface
+* **Multiple Services**: Support multiple responsibilities through different endpoints
+* **Internal Communication**: Services must communicate through their public REST API endpoints
+* **Logging**: Implement a robust logging system for debugging and monitoring
+* **Testing**: Comprehensive test coverage for routes, services, and custom functionality
+
+#### Additional Features
+
+* **Service Separation**: Although monolithic, the application should be designed to be easily split into microservices
+* **API Documentation**: Well-defined and typed API with automatic documentation
+* **Code Generation**: Auto-generated API clients from service specifications using Pydantic models
+* **Modern Async**: Leverage FastAPI and AsyncIO for efficient asynchronous operations
+* **Isolated Logging**: Each service maintains its own logging configuration
+
+
+## [Optimization and Implicit bias - Lecture](https://github.com/YoraiLevi/Optimization_and_Dynamical_systems_Fixed_point_iterations_and_Implicit_Bias)
+A lecture for dynamical systems course relating the field of optimization to fractals, computer aided maths and ultimately separability and implicit bias  
 The lecture's code also includes interactive fractal/julia set explorer with python and matplotlib in jupyter notebook (runs locally)
 <img src="https://github.com/user-attachments/assets/ee288951-d84c-44b5-89d8-cba00d6a0c03" width="400"/>
 
