@@ -1,7 +1,7 @@
 # Project Gallery  
 
 ## [Modular Monolith Fast API - implementing a modular monolith architecture with multiple services via FastAPI](https://github.com/YoraiLevi/modular-monolith-fastapi)
-[<img src="https://foojay.io/wp-content/uploads/2024/02/microservices-part2-4-700x390.png" height="300"></img>](https://foojay.io/today/microservices-design-principles-for-well-crafted-architecture/)  
+[<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*3YmRKPhEPGF0FZ8cR7J9sw.png" height="300"></img>](https://foojay.io/today/microservices-design-principles-for-well-crafted-architecture/)  
 This project implements a pet adoption system that showcases how to build a well-structured modular application. Here are the requirements that guided the implementation:
 #### Core Requirements
 
