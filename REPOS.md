@@ -1,6 +1,6 @@
 ## Repositories and Gists
-- [modular-monolith-fastapi](https://github.com/YoraiLevi/modular-monolith-fastapi) - This is a modular monolith Fast API project that uses the latest and greatest tooling (uv, ruff, pyright, pydantic, pytest, fastapi, sqlmodel, etc) attempting to implement a modular monolith architecture. The repository include pre-commit hooks for ruff, pyright, and uv.  
 - [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
+- [modular-monolith-fastapi](https://github.com/YoraiLevi/modular-monolith-fastapi) - This is a modular monolith Fast API project that uses the latest and greatest tooling (uv, ruff, pyright, pydantic, pytest, fastapi, sqlmodel, etc) attempting to implement a modular monolith architecture. The repository include pre-commit hooks for ruff, pyright, and uv.  
 - [multiplayer-tictactoe](https://github.com/YoraiLevi/multiplayer-tictactoe) - A real-time multiplayer Tic-tac-toe game built with FastAPI (backend) and React,Vite (frontend). The game supports multiple concurrent games and provides a clean, modern interface.    
 - [keyboard_layout](https://github.com/YoraiLevi/keyboard_layout)  
 - [winutil_tweaks_cli](https://github.com/YoraiLevi/winutil_tweaks_cli) - a CLI script only for the tweaks of Chris Titus's winutil  
@@ -43,6 +43,7 @@
 - [pasteconsole.js](https://gist.github.com/YoraiLevi/3365f9a60c8033d8c797dc409acbb26e) - this code is obsolete since the 2020 new facebook design. refer to: https://github.com/YoraiLevi/SetFacebookPostsPrivate make all facebook posts private(activity log) very dumb code.  
 - [My-Tech-Wearables](https://github.com/YoraiLevi/My-Tech-Wearables) - Cloth cat ears wearable with led strips! and more!  
 ## Forks
+- [code-settings-sync](https://github.com/YoraiLevi/code-settings-sync) - 🌴💪 Synchronize your Visual Studio Code Settings Across Multiple Machines using GitHub GIST 💪🌴  
 - [GitHub-Action-Ahk2Exe](https://github.com/YoraiLevi/GitHub-Action-Ahk2Exe) - GitHub Action to compile AutoHotKey scripts using Ahk2Exe  
 - [data-engineering-home-assignment](https://github.com/YoraiLevi/data-engineering-home-assignment) - Vi's Data Engineering Home Assignment  
 - [Pipe](https://github.com/YoraiLevi/Pipe) - A Python library to use infix notation in Python  
