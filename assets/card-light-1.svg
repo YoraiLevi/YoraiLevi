@@ -31,13 +31,13 @@
                                 <span data-view-component="true" class="position-relative">
                                     <a href="" data-view-component="true" class="min-width-0 Link text-bold flex-auto">
                                         <span class="repo">
-                                            multiplayer-tictactoe
+                                            modular-monolith-fastapi
                                         </span>
                                     </a>
                                     <tool-tip for="2544889" popover="manual" data-direction="s" data-type="description"
                                         data-view-component="true" class="position-absolute sr-only" role="tooltip"
                                         style="--tool-tip-position-top: 707.75px; --tool-tip-position-left: 368.625px;">
-                                        multiplayer-tictactoe</tool-tip>
+                                        modular-monolith-fastapi</tool-tip>
                                 </span>
                                 <span class=" flex-auto text-right">
                                     <span></span>
@@ -52,7 +52,7 @@
 
 
                             <p class="three-lines pinned-item-desc color-fg-muted text-small d-block mt-2 mb-3">
-                                A real-time multiplayer Tic-tac-toe game built with FastAPI (backend) and React,Vite (frontend). The game supports multiple concurrent games and provides a clean, modern interface.  
+                                This is a modular monolith Fast API project that uses the latest and greatest tooling (uv, ruff, pyright, pydantic, pytest, fastapi, sqlmodel, etc) attempting to implement a modular monolith architecture. The repository include pre-commit hooks for ruff, pyright, and uv.
                             </p>
 
                             <p class="mb-0 f6 color-fg-muted">
