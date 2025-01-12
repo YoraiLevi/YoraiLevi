@@ -1,4 +1,6 @@
 ## Starred
+- [patch-package](https://github.com/ds300/patch-package) - Fix broken node modules instantly  🏃🏽‍♀️💨  
+- [pdftris](https://github.com/ThomasRinsma/pdftris)  
 - [yt-python-ci](https://github.com/timvancann/yt-python-ci)  
 - [useful_types](https://github.com/hauntsaninja/useful_types) - Useful types for Python  
 - [awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub  
@@ -97,8 +99,6 @@
 - [dvpn-node](https://github.com/sentinel-official/dvpn-node) - The official Sentinel dVPN node  
 - [BLEProof-collection](https://github.com/alexanderlavrushko/BLEProof-collection) - Example of complete BLE application: Central and Peripheral for Android, iOS, ESP32, Arduino Nano 33  
 - Archived: [npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) - :rocket: Upgrade npm on Windows  
-- [PowerShell-WSL-Interop](https://github.com/mikebattista/PowerShell-WSL-Interop) - Integrate Linux commands into Windows with PowerShell and the Windows Subsystem for Linux (WSL).  
-- [psutils](https://github.com/lukesampson/psutils) - Command line utilities written in Powershell  
 - [EnvPaths.psm1](https://gist.github.com/jaw/4d1d858b87a5c208fbe42fd4d4aa97a4)  
 - [mandelbrot-on-all-accelerators.ipynb](https://gist.github.com/jpivarski/da343abd8024834ee8c5aaba691aafc7)  
 - [wsl2.md](https://gist.github.com/hucsmn/da1dbc2eb5903cb3143c35313623e7b0) - A collection of WSL2 hacks  

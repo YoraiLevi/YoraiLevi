@@ -1,6 +1,7 @@
 ## Repositories and Gists
-- [sync-settings-with-github](https://github.com/YoraiLevi/sync-settings-with-github) - vscode extension to sync files and settings with github repositories  
+- [dotfiles](https://github.com/YoraiLevi/dotfiles) - dotfiles  
 - [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
+- [sync-settings-with-github](https://github.com/YoraiLevi/sync-settings-with-github) - vscode extension to sync files and settings with github repositories  
 - [modular-monolith-fastapi](https://github.com/YoraiLevi/modular-monolith-fastapi) - This is a modular monolith Fast API project that uses the latest and greatest tooling (uv, ruff, pyright, pydantic, pytest, fastapi, sqlmodel, etc) attempting to implement a modular monolith architecture. The repository include pre-commit hooks for ruff, pyright, and uv.  
 - [multiplayer-tictactoe](https://github.com/YoraiLevi/multiplayer-tictactoe) - A real-time multiplayer Tic-tac-toe game built with FastAPI (backend) and React,Vite (frontend). The game supports multiple concurrent games and provides a clean, modern interface.    
 - [keyboard_layout](https://github.com/YoraiLevi/keyboard_layout)  
@@ -9,7 +10,6 @@
 - [container_tooling_survey](https://github.com/YoraiLevi/container_tooling_survey)  
 - [python_tooling_survey](https://github.com/YoraiLevi/python_tooling_survey)  
 - [pip_installable_module](https://github.com/YoraiLevi/pip_installable_module)  
-- [dotfiles](https://github.com/YoraiLevi/dotfiles) - dotfiles  
 - [ahk-autohotkeys](https://github.com/YoraiLevi/ahk-autohotkeys)  
 - [Download-AppxPackage.ps1](https://gist.github.com/YoraiLevi/e1888ee1c06b34cb02d4b58b739301af) - Download Windows Store Apps with Powershell  
 - [check_in_vscode_colab_pyodide.ipynb](https://gist.github.com/YoraiLevi/b1ef408b50fd60ac1cbf90621b60b0bd) - Check if the notebook is executed in vscode colab or pyodide based platform  
