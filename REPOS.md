@@ -1,6 +1,6 @@
 ## Repositories and Gists
-- [dotfiles](https://github.com/YoraiLevi/dotfiles) - dotfiles  
 - [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
+- [dotfiles](https://github.com/YoraiLevi/dotfiles) - dotfiles  
 - [sync-settings-with-github](https://github.com/YoraiLevi/sync-settings-with-github) - vscode extension to sync files and settings with github repositories  
 - [modular-monolith-fastapi](https://github.com/YoraiLevi/modular-monolith-fastapi) - This is a modular monolith Fast API project that uses the latest and greatest tooling (uv, ruff, pyright, pydantic, pytest, fastapi, sqlmodel, etc) attempting to implement a modular monolith architecture. The repository include pre-commit hooks for ruff, pyright, and uv.  
 - [multiplayer-tictactoe](https://github.com/YoraiLevi/multiplayer-tictactoe) - A real-time multiplayer Tic-tac-toe game built with FastAPI (backend) and React,Vite (frontend). The game supports multiple concurrent games and provides a clean, modern interface.    
@@ -50,6 +50,7 @@
 - [Pipe](https://github.com/YoraiLevi/Pipe) - A Python library to use infix notation in Python  
 - [bing-wallpapers-for-linux](https://github.com/YoraiLevi/bing-wallpapers-for-linux) - This enables bing wallpaper on linux, specifically debian based distros.  
 - [mpl-interactions](https://github.com/YoraiLevi/mpl-interactions) - Sliders to control matplotlib and other interactive goodies. Works in any interactive backend and even uses ipywidgets when in a Jupyter notebook  
+- [vscode-color-blocks](https://github.com/YoraiLevi/vscode-color-blocks) - VSCode extension for coloring ranges of comments.  
 - [wg-easy](https://github.com/YoraiLevi/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.  
 - [israeli-bank-scrapers](https://github.com/YoraiLevi/israeli-bank-scrapers) - Provide scrapers for all major Israeli banks and credit card companies  
 - [PsDownload](https://github.com/YoraiLevi/PsDownload) - A PowerShell module for downloading files.  

@@ -1,4 +1,6 @@
 ## Starred
+- [import-ipynb](https://github.com/axil/import-ipynb) - import an ipynb into an ipynb (or into just a py)  
+- [nbimporter](https://github.com/grst/nbimporter) - Import ipython notebooks as modules  
 - [patch-package](https://github.com/ds300/patch-package) - Fix broken node modules instantly  🏃🏽‍♀️💨  
 - [pdftris](https://github.com/ThomasRinsma/pdftris)  
 - [yt-python-ci](https://github.com/timvancann/yt-python-ci)  
@@ -97,8 +99,6 @@
 - [vg](https://github.com/vgteam/vg) - tools for working with genome variation graphs  
 - [node](https://github.com/mysteriumnetwork/node) - Mysterium Network Node -  official implementation of distributed VPN network (dVPN) protocol  
 - [dvpn-node](https://github.com/sentinel-official/dvpn-node) - The official Sentinel dVPN node  
-- [BLEProof-collection](https://github.com/alexanderlavrushko/BLEProof-collection) - Example of complete BLE application: Central and Peripheral for Android, iOS, ESP32, Arduino Nano 33  
-- Archived: [npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) - :rocket: Upgrade npm on Windows  
 - [EnvPaths.psm1](https://gist.github.com/jaw/4d1d858b87a5c208fbe42fd4d4aa97a4)  
 - [mandelbrot-on-all-accelerators.ipynb](https://gist.github.com/jpivarski/da343abd8024834ee8c5aaba691aafc7)  
 - [wsl2.md](https://gist.github.com/hucsmn/da1dbc2eb5903cb3143c35313623e7b0) - A collection of WSL2 hacks  
