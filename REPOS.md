@@ -1,7 +1,7 @@
 ## Repositories and Gists
+- [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [modular-monolith-fastapi](https://github.com/YoraiLevi/modular-monolith-fastapi) - This is a modular monolith Fast API project that uses the latest and greatest tooling (uv, ruff, pyright, pydantic, pytest, fastapi, sqlmodel, etc) attempting to implement a modular monolith architecture. The repository include pre-commit hooks for ruff, pyright, and uv.  
 - [ahk-autohotkeys](https://github.com/YoraiLevi/ahk-autohotkeys)  
-- [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [dotfiles](https://github.com/YoraiLevi/dotfiles) - dotfiles  
 - [sync-settings-with-github](https://github.com/YoraiLevi/sync-settings-with-github) - vscode extension to sync files and settings with github repositories  
 - [multiplayer-tictactoe](https://github.com/YoraiLevi/multiplayer-tictactoe) - A real-time multiplayer Tic-tac-toe game built with FastAPI (backend) and React,Vite (frontend). The game supports multiple concurrent games and provides a clean, modern interface.    
