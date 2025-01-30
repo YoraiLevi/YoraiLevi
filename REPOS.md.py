@@ -5,6 +5,7 @@ try:
 except ModuleNotFoundError:
     pass
 
+import datetime
 import github
 from github import Gist, Repository
 
@@ -43,3 +44,6 @@ if __name__ == "__main__":
     print("## Forks")
     for repo in user_forks:
         print(f"- {repolike2str(repo)}  ")
+    
+    print("  ")
+    print(datetime.datetime.now(datetime.timezone.utc).isoformat())
