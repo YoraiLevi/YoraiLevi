@@ -1,4 +1,6 @@
 ## Starred
+- [promise](https://github.com/syrusakbary/promise) - Ultra-performant Promise implementation in Python  
+- [promisio](https://github.com/miguelgrinberg/promisio) - JavaScript-style async programming for Python.  
 - [import-ipynb](https://github.com/axil/import-ipynb) - import an ipynb into an ipynb (or into just a py)  
 - [nbimporter](https://github.com/grst/nbimporter) - Import ipython notebooks as modules  
 - [patch-package](https://github.com/ds300/patch-package) - Fix broken node modules instantly  🏃🏽‍♀️💨  
@@ -29,7 +31,7 @@
 - [SpeedTorch](https://github.com/Santosh-Gupta/SpeedTorch) - Library for faster pinned CPU <-> GPU transfer in Pytorch   
 - [elevation_mapping_cupy](https://github.com/leggedrobotics/elevation_mapping_cupy) - Elevation Mapping on GPU.  
 - [cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU  
-- [ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.  
+- [ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.  
 - [paper-qa](https://github.com/Future-House/paper-qa) - High accuracy RAG for answering questions from scientific documents with citations  
 - [bulk](https://github.com/koaning/bulk) - A Simple Bulk Labelling Tool  
 - [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust  
@@ -97,8 +99,6 @@
 - [comp-genomics-class](https://github.com/BenLangmead/comp-genomics-class) - Code and examples for JHU Computational Genomics class  
 - [genomicspapers](https://github.com/jtleek/genomicspapers) - The Leek group guide to genomics papers  
 - [vg](https://github.com/vgteam/vg) - tools for working with genome variation graphs  
-- [node](https://github.com/mysteriumnetwork/node) - Mysterium Network Node -  official implementation of distributed VPN network (dVPN) protocol  
-- [dvpn-node](https://github.com/sentinel-official/dvpn-node) - The official Sentinel dVPN node  
 - [EnvPaths.psm1](https://gist.github.com/jaw/4d1d858b87a5c208fbe42fd4d4aa97a4)  
 - [mandelbrot-on-all-accelerators.ipynb](https://gist.github.com/jpivarski/da343abd8024834ee8c5aaba691aafc7)  
 - [wsl2.md](https://gist.github.com/hucsmn/da1dbc2eb5903cb3143c35313623e7b0) - A collection of WSL2 hacks  
