@@ -1,4 +1,5 @@
 ## Starred
+- [drawdata](https://github.com/koaning/drawdata) - Draw datasets from within Jupyter.  
 - [promise](https://github.com/syrusakbary/promise) - Ultra-performant Promise implementation in Python  
 - [promisio](https://github.com/miguelgrinberg/promisio) - JavaScript-style async programming for Python.  
 - [import-ipynb](https://github.com/axil/import-ipynb) - import an ipynb into an ipynb (or into just a py)  
@@ -98,7 +99,6 @@
 - [wsl-sudo](https://github.com/Chronial/wsl-sudo) - WSL tool to run wsl commands in in an elevated process  
 - [comp-genomics-class](https://github.com/BenLangmead/comp-genomics-class) - Code and examples for JHU Computational Genomics class  
 - [genomicspapers](https://github.com/jtleek/genomicspapers) - The Leek group guide to genomics papers  
-- [vg](https://github.com/vgteam/vg) - tools for working with genome variation graphs  
 - [EnvPaths.psm1](https://gist.github.com/jaw/4d1d858b87a5c208fbe42fd4d4aa97a4)  
 - [mandelbrot-on-all-accelerators.ipynb](https://gist.github.com/jpivarski/da343abd8024834ee8c5aaba691aafc7)  
 - [wsl2.md](https://gist.github.com/hucsmn/da1dbc2eb5903cb3143c35313623e7b0) - A collection of WSL2 hacks  
