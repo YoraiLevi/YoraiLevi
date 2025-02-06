@@ -87,7 +87,7 @@
 - [numpy-100](https://github.com/rougier/numpy-100) - 100 numpy exercises (with solutions)  
 - [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks  
 - [optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework  
-- [nextjs-github-pages](https://github.com/gregrickaby/nextjs-github-pages) - 🚀 Deploy a Next.js app to GitHub Pages via GitHub Actions.  
+- [nextjs-github-pages](https://github.com/gregrickaby/nextjs-github-pages) - 🚀 Deploy a Next.js app to GitHub Pages via GitHub Actions  
 - [uYouPlus](https://github.com/qnblackcat/uYouPlus) - uYou+ is a modified version of uYou (made by @MiRO92) with additional features and mainly made for non jailbroken users!  
 - [Watusi-for-WhatsApp](https://github.com/FouadRaheb/Watusi-for-WhatsApp) - Your all-in-one tweak for WhatsApp Messenger!  
 - [cs236781](https://github.com/vistalab-technion/cs236781) - Deep Learning course website  
