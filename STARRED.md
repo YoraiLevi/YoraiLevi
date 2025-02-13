@@ -1,5 +1,5 @@
 ## Starred
-- [drawdata](https://github.com/koaning/drawdata) - Draw datasets from within Jupyter.  
+- [drawdata](https://github.com/koaning/drawdata) - Draw datasets from within Python notebooks.  
 - [promise](https://github.com/syrusakbary/promise) - Ultra-performant Promise implementation in Python  
 - [promisio](https://github.com/miguelgrinberg/promisio) - JavaScript-style async programming for Python.  
 - [import-ipynb](https://github.com/axil/import-ipynb) - import an ipynb into an ipynb (or into just a py)  
@@ -69,7 +69,7 @@
 - [postgresml](https://github.com/postgresml/postgresml) - Postgres with GPUs for ML/AI apps.  
 - [machine-learning-and-simulation](https://github.com/Ceyron/machine-learning-and-simulation) - All the handwritten notes 📝 and source code files 🖥️ used in my YouTube Videos on Machine Learning & Simulation (https://www.youtube.com/channel/UCh0P7KwJhuQ4vrzc3IRuw4Q)  
 - [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)  
-- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.  
+- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.  
 - [rivet](https://github.com/Ironclad/rivet) - The open-source visual AI programming environment and TypeScript library  
 - [israeli-bank-scrapers](https://github.com/eshaham/israeli-bank-scrapers) - Provide scrapers for all major Israeli banks and credit card companies  
 - [Pscx](https://github.com/Pscx/Pscx) - PowerShell Community Extensions module repository  
