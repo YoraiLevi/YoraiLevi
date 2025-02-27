@@ -1,4 +1,7 @@
 ## Repositories and Gists
+- [Intro-to-NLP-236299-CS187](https://github.com/YoraiLevi/Intro-to-NLP-236299-CS187) - Code for course "Intro to NLP" (236299) Technion Spring 2023, "Introduction to Computational Linguistic" (CS 187) Harvard Fall 2020  
+- [windows_registry_modifications](https://github.com/YoraiLevi/windows_registry_modifications)  
+- [KnownFolderPathPS5.ps1](https://gist.github.com/YoraiLevi/0f333d520f502fdb1244cdf0524db6d2) - Change windows user folders with powershell  
 - [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [ahk-autohotkeys](https://github.com/YoraiLevi/ahk-autohotkeys)  
 - [dotfiles](https://github.com/YoraiLevi/dotfiles) - dotfiles  
@@ -7,15 +10,12 @@
 - [multiplayer-tictactoe](https://github.com/YoraiLevi/multiplayer-tictactoe) - A real-time multiplayer Tic-tac-toe game built with FastAPI (backend) and React,Vite (frontend). The game supports multiple concurrent games and provides a clean, modern interface.    
 - [keyboard_layout](https://github.com/YoraiLevi/keyboard_layout)  
 - [winutil_tweaks_cli](https://github.com/YoraiLevi/winutil_tweaks_cli) - a CLI script only for the tweaks of Chris Titus's winutil  
-- [KnownFolderPathPS5.ps1](https://gist.github.com/YoraiLevi/0f333d520f502fdb1244cdf0524db6d2) - Change windows user folders with powershell  
 - [container_tooling_survey](https://github.com/YoraiLevi/container_tooling_survey)  
 - [python_tooling_survey](https://github.com/YoraiLevi/python_tooling_survey)  
 - [pip_installable_module](https://github.com/YoraiLevi/pip_installable_module)  
 - [Download-AppxPackage.ps1](https://gist.github.com/YoraiLevi/e1888ee1c06b34cb02d4b58b739301af) - Download Windows Store Apps with Powershell  
 - [check_in_vscode_colab_pyodide.ipynb](https://gist.github.com/YoraiLevi/b1ef408b50fd60ac1cbf90621b60b0bd) - Check if the notebook is executed in vscode colab or pyodide based platform  
-- [Intro-to-NLP-236299-CS187](https://github.com/YoraiLevi/Intro-to-NLP-236299-CS187) - Code for course "Intro to NLP" (236299) Technion Spring 2023, "Introduction to Computational Linguistic" (CS 187) Harvard Fall 2020  
 - [interactive_matplotlib](https://github.com/YoraiLevi/interactive_matplotlib)  
-- [windows_registry_modifications](https://github.com/YoraiLevi/windows_registry_modifications)  
 - [regedit.ps1](https://github.com/YoraiLevi/regedit.ps1) - regedit.ps1 is a pure PowerShell implementation for regedit.exe, backed by a fully tested and idempotent cmdlets.   
 - [libary_vscode_context_menu.reg](https://gist.github.com/YoraiLevi/418c973a319008fb2f5c1ebbbd38bad2) - "Open with Code" inside windows `libaries` on right click context menu  
 - [Get-TemporaryDirectory.ps1](https://gist.github.com/YoraiLevi/ee4394992d820c05b9f820a166eaf987) - Get temporary directories not just files  
@@ -65,4 +65,4 @@
 - [chrome](https://github.com/YoraiLevi/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own  
 - [GM_SuperValue](https://github.com/YoraiLevi/GM_SuperValue) - Improved, error-free and readable version of GreaseMonkey/TamperMonkey storage script "GM_SuperValue"  
   
-2025-02-23T01:49:02.200385+00:00
+2025-02-27T00:57:52.739952+00:00
