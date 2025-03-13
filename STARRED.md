@@ -1,4 +1,8 @@
 ## Starred
+- [mustache.github.com](https://github.com/mustache/mustache.github.com) - The {{official}} website  
+- [chevron](https://github.com/noahmorrison/chevron) - A Python implementation of mustache  
+- [mustache.js](https://github.com/janl/mustache.js) - Minimal templating with {{mustaches}} in JavaScript  
+- [spec](https://github.com/mustache/spec) - The Mustache spec.  
 - [drawdata](https://github.com/koaning/drawdata) - Draw datasets from within Python notebooks.  
 - [promise](https://github.com/syrusakbary/promise) - Ultra-performant Promise implementation in Python  
 - [promisio](https://github.com/miguelgrinberg/promisio) - JavaScript-style async programming for Python.  
@@ -32,7 +36,7 @@
 - [SpeedTorch](https://github.com/Santosh-Gupta/SpeedTorch) - Library for faster pinned CPU <-> GPU transfer in Pytorch   
 - [elevation_mapping_cupy](https://github.com/leggedrobotics/elevation_mapping_cupy) - Elevation Mapping on GPU.  
 - [cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU  
-- [ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.  
+- [ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.  
 - [paper-qa](https://github.com/Future-House/paper-qa) - High accuracy RAG for answering questions from scientific documents with citations  
 - [bulk](https://github.com/koaning/bulk) - A Simple Bulk Labelling Tool  
 - [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust  
@@ -95,10 +99,6 @@
 - [TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs) - A collection of IPA files from many different sources, for TrollStore!  
 - [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.  
 - [unity-android-native](https://github.com/Suvitruf/unity-android-native) - A Unity plugin to work with Android native sdk  
-- [tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.   
-- [wsl-sudo](https://github.com/Chronial/wsl-sudo) - WSL tool to run wsl commands in in an elevated process  
-- [comp-genomics-class](https://github.com/BenLangmead/comp-genomics-class) - Code and examples for JHU Computational Genomics class  
-- [genomicspapers](https://github.com/jtleek/genomicspapers) - The Leek group guide to genomics papers  
 - [EnvPaths.psm1](https://gist.github.com/jaw/4d1d858b87a5c208fbe42fd4d4aa97a4)  
 - [mandelbrot-on-all-accelerators.ipynb](https://gist.github.com/jpivarski/da343abd8024834ee8c5aaba691aafc7)  
 - [wsl2.md](https://gist.github.com/hucsmn/da1dbc2eb5903cb3143c35313623e7b0) - A collection of WSL2 hacks  
