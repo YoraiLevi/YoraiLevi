@@ -9,7 +9,7 @@
 - [import-ipynb](https://github.com/axil/import-ipynb) - import an ipynb into an ipynb (or into just a py)  
 - [nbimporter](https://github.com/grst/nbimporter) - Import ipython notebooks as modules  
 - [patch-package](https://github.com/ds300/patch-package) - Fix broken node modules instantly  🏃🏽‍♀️💨  
-- [pdftris](https://github.com/ThomasRinsma/pdftris)  
+- [pdftris](https://github.com/ThomasRinsma/pdftris) - Tetris in a PDF (in most browsers)  
 - [yt-python-ci](https://github.com/timvancann/yt-python-ci)  
 - [useful_types](https://github.com/hauntsaninja/useful_types) - Useful types for Python  
 - [awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub  
