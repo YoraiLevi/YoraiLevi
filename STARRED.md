@@ -58,7 +58,7 @@
 - [numerical-veliz](https://github.com/osveliz/numerical-veliz) - Numerical Analysis code from the Oscar Veliz YouTube Channel  
 - [TikTok-Api](https://github.com/davidteather/TikTok-Api) - The Unofficial TikTok API Wrapper In Python  
 - [strictyaml](https://github.com/crdoconnor/strictyaml) - Type-safe YAML parser and validator.  
-- [dynamax](https://github.com/probml/dynamax) - State Space Models library in JAX  
+- [dynamax](https://github.com/probml/dynamax) - A Python package for probabilistic state space modeling with JAX  
 - [fitter](https://github.com/cokelaer/fitter) - Fit data to many distributions   
 - [alexshtf.github.io](https://github.com/alexshtf/alexshtf.github.io) - My personal webpage  
 - [DataDrivenDynSyst](https://github.com/jbramburger/DataDrivenDynSyst) - Scripts and notebooks to accompany the book Data-Driven Methods for Dynamic Systems  
