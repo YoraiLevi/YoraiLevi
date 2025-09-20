@@ -1,4 +1,17 @@
 ## Starred
+- [windhawk-mods](https://github.com/ramensoftware/windhawk-mods) - The official collection of Windhawk mods  
+- [windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/  
+- [baker-uv-template](https://github.com/dmvianna/baker-uv-template) - Baker template to scaffold new Python projects. Includes common dev dependencies.  
+- [arcade-svg](https://github.com/TechnicallyWeb3/arcade-svg)  
+- [dell_TB16_firmware](https://github.com/flhofer/dell_TB16_firmware) - Firmware and flashing instructions for the (now) affordable TB16 to fix some major issues  
+- [vscode-default-keybindings](https://github.com/jbro/vscode-default-keybindings) - VSCode keybinding extentension that can set any OS default keybindings as the current ones.  
+- [vs-code-default-keybindings](https://github.com/codebling/vs-code-default-keybindings) - Default keyboard shortcuts for VS Code on various OSes  
+- [ESP32-USB-TO-BLE](https://github.com/jmdmahdi/ESP32-USB-TO-BLE) - This project involves the creation of a Bluetooth adapter using an ESP32, enabling wireless connectivity for USB keyboards and mice. By leveraging the ESP32's capabilities, users can effortlessly connect their input devices to various devices without the constraint of physical cables.  
+- [Valetudo](https://github.com/Hypfer/Valetudo) - Cloud replacement for vacuum robots enabling local-only operation  
+- [ioBroker.roborock](https://github.com/copystring/ioBroker.roborock) - Roborock ioBroker Adapter  
+- [ESP32-BLE-Keyboard](https://github.com/T-vK/ESP32-BLE-Keyboard) - Bluetooth LE Keyboard library for the ESP32 (Arduino IDE compatible)  
+- [ESP32-BLE-Gamepad](https://github.com/lemmingDev/ESP32-BLE-Gamepad) - Bluetooth LE Gamepad library for the ESP32  
+- [arikpoz.github.io](https://github.com/arikpoz/arikpoz.github.io)  
 - [mustache.github.com](https://github.com/mustache/mustache.github.com) - The {{official}} website  
 - [chevron](https://github.com/noahmorrison/chevron) - A Python implementation of mustache  
 - [mustache.js](https://github.com/janl/mustache.js) - Minimal templating with {{mustaches}} in JavaScript  
@@ -36,9 +49,9 @@
 - [SpeedTorch](https://github.com/Santosh-Gupta/SpeedTorch) - Library for faster pinned CPU <-> GPU transfer in Pytorch   
 - [elevation_mapping_cupy](https://github.com/leggedrobotics/elevation_mapping_cupy) - Elevation Mapping on GPU.  
 - [cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU  
-- [ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.  
+- [ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.  
 - [paper-qa](https://github.com/Future-House/paper-qa) - High accuracy RAG for answering questions from scientific documents with citations  
-- [bulk](https://github.com/koaning/bulk) - A Simple Bulk Labelling Tool  
+- Archived: [bulk](https://github.com/koaning/bulk) - A Simple Bulk Labelling Tool  
 - [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust  
 - [RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.  
 - [CompAssistedMath2024](https://github.com/matematiflo/CompAssistedMath2024) - GitHub repository for the seminar on Computer-assisted mathematics held at the University of Heidelberg during the Summer Semester of 2024.  
@@ -86,19 +99,6 @@
 - [lm-hackers](https://github.com/fastai/lm-hackers) - Hackers' Guide to Language Models  
 - [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs  
 - [PsDownload](https://github.com/DanGough/PsDownload) - A PowerShell module for downloading files.  
-- [PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN) - PyTorch implementations of Generative Adversarial Networks.  
-- [WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.  
-- [numpy-100](https://github.com/rougier/numpy-100) - 100 numpy exercises (with solutions)  
-- [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks  
-- [optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework  
-- [nextjs-github-pages](https://github.com/gregrickaby/nextjs-github-pages) - 🚀 Deploy a Next.js app to GitHub Pages via GitHub Actions  
-- Archived: [uYouPlus](https://github.com/qnblackcat/uYouPlus) - uYou+ is a modified version of uYou (made by @MiRO92) with additional features and mainly made for non jailbroken users!  
-- [Watusi-for-WhatsApp](https://github.com/FouadRaheb/Watusi-for-WhatsApp) - Your all-in-one tweak for WhatsApp Messenger!  
-- [cs236781](https://github.com/vistalab-technion/cs236781) - Deep Learning course website  
-- [cs236781-tutorials](https://github.com/vistalab-technion/cs236781-tutorials) - Deep Learning course tutorials  
-- [TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs) - A collection of IPA files from many different sources, for TrollStore!  
-- [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.  
-- [unity-android-native](https://github.com/Suvitruf/unity-android-native) - A Unity plugin to work with Android native sdk  
 - [EnvPaths.psm1](https://gist.github.com/jaw/4d1d858b87a5c208fbe42fd4d4aa97a4)  
 - [mandelbrot-on-all-accelerators.ipynb](https://gist.github.com/jpivarski/da343abd8024834ee8c5aaba691aafc7)  
 - [wsl2.md](https://gist.github.com/hucsmn/da1dbc2eb5903cb3143c35313623e7b0) - A collection of WSL2 hacks  
