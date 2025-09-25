@@ -31,19 +31,19 @@
                                 <span data-view-component="true" class="position-relative">
                                     <a href="" data-view-component="true" class="min-width-0 Link text-bold flex-auto">
                                         <span class="repo">
-                                            modular-monolith-fastapi
+                                            SetFacebookPostsPrivate
                                         </span>
                                     </a>
                                     <tool-tip for="2544889" popover="manual" data-direction="s" data-type="description"
                                         data-view-component="true" class="position-absolute sr-only" role="tooltip"
                                         style="--tool-tip-position-top: 707.75px; --tool-tip-position-left: 368.625px;">
-                                        modular-monolith-fastapi</tool-tip>
+                                        SetFacebookPostsPrivate</tool-tip>
                                 </span>
-                                <span class=" flex-auto text-right">
+                                <span class="hide flex-auto text-right">
                                     <span></span>
                                     <span class="Label Label--secondary v-align-middle ">Public</span>
                                 </span>
-                                <span class="hide flex-auto text-right">
+                                <span class=" flex-auto text-right">
                                     <span></span>
                                     <span class="Label Label--attention v-align-middle ">Public
                                         archive</span>
@@ -52,14 +52,14 @@
 
 
                             <p class="three-lines pinned-item-desc color-fg-muted text-small d-block mt-2 mb-3">
-                                This is a modular monolith Fast API project that uses the latest and greatest tooling (uv, ruff, pyright, pydantic, pytest, fastapi, sqlmodel, etc) attempting to implement a modular monolith architecture. The repository include pre-commit hooks for ruff, pyright, and uv.
+                                Automation tool that sets posts in facebook's activity log to private (public or friends) for the new 2020 design. using Tampermonkey
                             </p>
 
                             <p class="mb-0 f6 color-fg-muted">
                                 <span class="d-inline-block mr-3">
                                     <span class="repo-language-color"
-                                        style="background-color: #3572A5"></span>
-                                    <span itemprop="programmingLanguage">Python</span>
+                                        style="background-color: #f1e05a"></span>
+                                    <span itemprop="programmingLanguage">JavaScript</span>
                                 </span>
 
                                 <a href="" class="pinned-item-meta Link--muted">

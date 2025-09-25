@@ -1,4 +1,5 @@
 ## Starred
+- [Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python  
 - [windhawk-mods](https://github.com/ramensoftware/windhawk-mods) - The official collection of Windhawk mods  
 - [windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/  
 - [baker-uv-template](https://github.com/dmvianna/baker-uv-template) - Baker template to scaffold new Python projects. Includes common dev dependencies.  
@@ -98,7 +99,6 @@
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF  
 - [lm-hackers](https://github.com/fastai/lm-hackers) - Hackers' Guide to Language Models  
 - [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs  
-- [PsDownload](https://github.com/DanGough/PsDownload) - A PowerShell module for downloading files.  
 - [EnvPaths.psm1](https://gist.github.com/jaw/4d1d858b87a5c208fbe42fd4d4aa97a4)  
 - [mandelbrot-on-all-accelerators.ipynb](https://gist.github.com/jpivarski/da343abd8024834ee8c5aaba691aafc7)  
 - [wsl2.md](https://gist.github.com/hucsmn/da1dbc2eb5903cb3143c35313623e7b0) - A collection of WSL2 hacks  
