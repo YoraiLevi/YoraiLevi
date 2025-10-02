@@ -1,10 +1,11 @@
 ## Starred
+- [AltSnap](https://github.com/RamonUnch/AltSnap) - Maintained continuation of Stefan Sundin's AltDrag  
+- [cursor-ai-downloads](https://github.com/oslook/cursor-ai-downloads) - All Cursor AI's official download links for both the latest and older versions, making it easy for you to update, downgrade, and choose any version. 🚀  
 - [Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python  
 - [windhawk-mods](https://github.com/ramensoftware/windhawk-mods) - The official collection of Windhawk mods  
 - [windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/  
 - [baker-uv-template](https://github.com/dmvianna/baker-uv-template) - Baker template to scaffold new Python projects. Includes common dev dependencies.  
 - [arcade-svg](https://github.com/TechnicallyWeb3/arcade-svg)  
-- [dell_TB16_firmware](https://github.com/flhofer/dell_TB16_firmware) - Firmware and flashing instructions for the (now) affordable TB16 to fix some major issues  
 - [vscode-default-keybindings](https://github.com/jbro/vscode-default-keybindings) - VSCode keybinding extentension that can set any OS default keybindings as the current ones.  
 - [vs-code-default-keybindings](https://github.com/codebling/vs-code-default-keybindings) - Default keyboard shortcuts for VS Code on various OSes  
 - [ESP32-USB-TO-BLE](https://github.com/jmdmahdi/ESP32-USB-TO-BLE) - This project involves the creation of a Bluetooth adapter using an ESP32, enabling wireless connectivity for USB keyboards and mice. By leveraging the ESP32's capabilities, users can effortlessly connect their input devices to various devices without the constraint of physical cables.  
@@ -98,7 +99,6 @@
 - [MacHyperVSupport](https://github.com/acidanthera/MacHyperVSupport) - Hyper-V integration support for macOS  
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF  
 - [lm-hackers](https://github.com/fastai/lm-hackers) - Hackers' Guide to Language Models  
-- [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs  
 - [EnvPaths.psm1](https://gist.github.com/jaw/4d1d858b87a5c208fbe42fd4d4aa97a4)  
 - [mandelbrot-on-all-accelerators.ipynb](https://gist.github.com/jpivarski/da343abd8024834ee8c5aaba691aafc7)  
 - [wsl2.md](https://gist.github.com/hucsmn/da1dbc2eb5903cb3143c35313623e7b0) - A collection of WSL2 hacks  
