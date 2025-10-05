@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<a href="https://github.com/YoraiLevi/ahk-autohotkeys">
+<a href="https://github.com/YoraiLevi/windows_registry_modifications">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-0.svg/">
 <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-0.svg/">
@@ -14,25 +14,25 @@
 <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-1.svg/">
 <img align="center" src="./assets/card-dark-1.svg" />
 </picture></a>
-<a href="https://github.com/YoraiLevi/modular-monolith-fastapi">
+<a href="https://github.com/YoraiLevi/regedit.ps1">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-2.svg/">
 <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-2.svg/">
 <img align="center" src="./assets/card-dark-2.svg" />
 </picture></a>
-<a href="https://gist.github.com/YoraiLevi/d0d95011bed792dff57a301dbc2780ec">
+<a href="https://github.com/YoraiLevi/winutil_tweaks_cli">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-3.svg/">
 <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-3.svg/">
 <img align="center" src="./assets/card-dark-3.svg" />
 </picture></a>
-<a href="https://github.com/YoraiLevi/windows_registry_modifications">
+<a href="https://github.com/YoraiLevi/ahk-autohotkeys">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-4.svg/">
 <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-4.svg/">
 <img align="center" src="./assets/card-dark-4.svg" />
 </picture></a>
-<a href="https://github.com/YoraiLevi/container_tooling_survey">
+<a href="https://github.com/YoraiLevi/modular-monolith-fastapi">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-5.svg/">
 <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-5.svg/">

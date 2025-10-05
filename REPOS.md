@@ -1,10 +1,12 @@
 ## Repositories and Gists
-- [ahk-autohotkeys](https://github.com/YoraiLevi/ahk-autohotkeys)  
-- [dotfiles](https://github.com/YoraiLevi/dotfiles) - dotfiles  
-- [modular-monolith-fastapi](https://github.com/YoraiLevi/modular-monolith-fastapi) - This is a modular monolith Fast API project that uses the latest and greatest tooling (uv, ruff, pyright, pydantic, pytest, fastapi, sqlmodel, etc) attempting to implement a modular monolith architecture. The repository include pre-commit hooks for ruff, pyright, and uv.  
-- [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
-- [Invoke-Process.ps1](https://gist.github.com/YoraiLevi/d0d95011bed792dff57a301dbc2780ec) -     Starts a process with optional redirected stdout and stderr streams for better output handling. Allow to wait for the process to exit or forcefully kill it with timeout.  
 - [windows_registry_modifications](https://github.com/YoraiLevi/windows_registry_modifications)  
+- [dotfiles](https://github.com/YoraiLevi/dotfiles) - dotfiles  
+- [regedit.ps1](https://github.com/YoraiLevi/regedit.ps1) - regedit.ps1 is a pure PowerShell implementation for regedit.exe, backed by a fully tested and idempotent cmdlets.   
+- [winutil_tweaks_cli](https://github.com/YoraiLevi/winutil_tweaks_cli) - a CLI script only for the tweaks of Chris Titus's winutil  
+- [ahk-autohotkeys](https://github.com/YoraiLevi/ahk-autohotkeys)  
+- [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
+- [modular-monolith-fastapi](https://github.com/YoraiLevi/modular-monolith-fastapi) - This is a modular monolith Fast API project that uses the latest and greatest tooling (uv, ruff, pyright, pydantic, pytest, fastapi, sqlmodel, etc) attempting to implement a modular monolith architecture. The repository include pre-commit hooks for ruff, pyright, and uv.  
+- [Invoke-Process.ps1](https://gist.github.com/YoraiLevi/d0d95011bed792dff57a301dbc2780ec) -     Starts a process with optional redirected stdout and stderr streams for better output handling. Allow to wait for the process to exit or forcefully kill it with timeout.  
 - [container_tooling_survey](https://github.com/YoraiLevi/container_tooling_survey)  
 - Archived: [SetFacebookPostsPrivate](https://github.com/YoraiLevi/SetFacebookPostsPrivate) - Automation tool that sets posts in facebook's activity log to private (public or friends) for the new 2020 design. using Tampermonkey  
 - [Download-AppxPackage.ps1](https://gist.github.com/YoraiLevi/e1888ee1c06b34cb02d4b58b739301af) - Download Windows Store Apps with Powershell  
@@ -14,12 +16,10 @@
 - [.github](https://github.com/ForkYoraiLevi/.github) - This organization was created so i can fork my own github repositories and get updated history   
 - [multiplayer-tictactoe](https://github.com/YoraiLevi/multiplayer-tictactoe) - A real-time multiplayer Tic-tac-toe game built with FastAPI (backend) and React,Vite (frontend). The game supports multiple concurrent games and provides a clean, modern interface.    
 - [keyboard_layout](https://github.com/YoraiLevi/keyboard_layout)  
-- [winutil_tweaks_cli](https://github.com/YoraiLevi/winutil_tweaks_cli) - a CLI script only for the tweaks of Chris Titus's winutil  
 - [python_tooling_survey](https://github.com/YoraiLevi/python_tooling_survey)  
 - [pip_installable_module](https://github.com/YoraiLevi/pip_installable_module)  
 - [check_in_vscode_colab_pyodide.ipynb](https://gist.github.com/YoraiLevi/b1ef408b50fd60ac1cbf90621b60b0bd) - Check if the notebook is executed in vscode colab or pyodide based platform  
 - [interactive_matplotlib](https://github.com/YoraiLevi/interactive_matplotlib)  
-- [regedit.ps1](https://github.com/YoraiLevi/regedit.ps1) - regedit.ps1 is a pure PowerShell implementation for regedit.exe, backed by a fully tested and idempotent cmdlets.   
 - [libary_vscode_context_menu.reg](https://gist.github.com/YoraiLevi/418c973a319008fb2f5c1ebbbd38bad2) - "Open with Code" inside windows `libaries` on right click context menu  
 - [Get-TemporaryDirectory.ps1](https://gist.github.com/YoraiLevi/ee4394992d820c05b9f820a166eaf987) - Get temporary directories not just files  
 - [experience-primer-copilot-YoraiLevi](https://github.com/Exp-Primer-Copilot-Cohort-1/experience-primer-copilot-YoraiLevi) - experience-primer-copilot-YoraiLevi created by GitHub Classroom  
@@ -48,8 +48,11 @@
 - [My-Tech-Wearables](https://github.com/YoraiLevi/My-Tech-Wearables) - Cloth cat ears wearable with led strips! and more!  
 ## Forks
 - [Pscx](https://github.com/YoraiLevi/Pscx) - PowerShell Community Extensions module repository  
+- [best-of-python-dev](https://github.com/YoraiLevi/best-of-python-dev) - 🏆 A ranked list of awesome python developer tools and libraries. Updated weekly.  
+- [awesome-python](https://github.com/YoraiLevi/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.  
 - [vscode-default-keybindings](https://github.com/YoraiLevi/vscode-default-keybindings) - VSCode keybinding extentension that can set any OS default keybindings as the current ones.  
 - [vscode-classic-experience](https://github.com/YoraiLevi/vscode-classic-experience) - Restore familiar VSCode keybindings in Cursor editor. Smooth transition for VSCode users.  
+- [awesome-mlops](https://github.com/YoraiLevi/awesome-mlops) - :sunglasses: A curated list of awesome MLOps tools  
 - [GitHub-Action-Ahk2Exe](https://github.com/YoraiLevi/GitHub-Action-Ahk2Exe) - GitHub Action to compile AutoHotKey scripts using Ahk2Exe  
 - [code-settings-sync](https://github.com/YoraiLevi/code-settings-sync) - 🌴💪 Synchronize your Visual Studio Code Settings Across Multiple Machines using GitHub GIST 💪🌴  
 - [data-engineering-home-assignment](https://github.com/YoraiLevi/data-engineering-home-assignment) - Vi's Data Engineering Home Assignment  
@@ -70,4 +73,4 @@
 - [chrome](https://github.com/YoraiLevi/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own  
 - [GM_SuperValue](https://github.com/YoraiLevi/GM_SuperValue) - Improved, error-free and readable version of GreaseMonkey/TamperMonkey storage script "GM_SuperValue"  
   
-2025-10-02T01:10:36.760702+00:00
+2025-10-05T01:57:56.710521+00:00
