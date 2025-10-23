@@ -19,7 +19,7 @@
 - [Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python  
 - [windhawk-mods](https://github.com/ramensoftware/windhawk-mods) - The official collection of Windhawk mods  
 - [windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/  
-- [baker-uv-template](https://github.com/dmvianna/baker-uv-template) - Baker template to scaffold new Python projects. Includes common dev dependencies.  
+- [baker-uv-template](https://github.com/pasunboneleve/baker-uv-template) - Baker template to scaffold new Python projects. Includes common dev dependencies.  
 - [arcade-svg](https://github.com/TechnicallyWeb3/arcade-svg)  
 - [vscode-default-keybindings](https://github.com/jbro/vscode-default-keybindings) - VSCode keybinding extentension that can set any OS default keybindings as the current ones.  
 - [vs-code-default-keybindings](https://github.com/codebling/vs-code-default-keybindings) - Default keyboard shortcuts for VS Code on various OSes  
