@@ -47,6 +47,7 @@
 - [pasteconsole.js](https://gist.github.com/YoraiLevi/3365f9a60c8033d8c797dc409acbb26e) - this code is obsolete since the 2020 new facebook design. refer to: https://github.com/YoraiLevi/SetFacebookPostsPrivate make all facebook posts private(activity log) very dumb code.  
 - [My-Tech-Wearables](https://github.com/YoraiLevi/My-Tech-Wearables) - Cloth cat ears wearable with led strips! and more!  
 ## Forks
+- [arjancodes-examples](https://github.com/YoraiLevi/arjancodes-examples) - All the code examples I use in my videos  
 - [Pscx](https://github.com/YoraiLevi/Pscx) - PowerShell Community Extensions module repository  
 - [best-of-python-dev](https://github.com/YoraiLevi/best-of-python-dev) - 🏆 A ranked list of awesome python developer tools and libraries. Updated weekly.  
 - [awesome-python](https://github.com/YoraiLevi/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.  
@@ -73,4 +74,4 @@
 - [chrome](https://github.com/YoraiLevi/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own  
 - [GM_SuperValue](https://github.com/YoraiLevi/GM_SuperValue) - Improved, error-free and readable version of GreaseMonkey/TamperMonkey storage script "GM_SuperValue"  
   
-2025-10-26T01:59:12.595981+00:00
+2025-10-30T01:18:20.952497+00:00
