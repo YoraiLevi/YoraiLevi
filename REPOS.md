@@ -1,8 +1,8 @@
 ## Repositories and Gists
-- [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [modular-monolith-fastapi](https://github.com/YoraiLevi/modular-monolith-fastapi) - This is a modular monolith Fast API project that uses the latest and greatest tooling (uv, ruff, pyright, pydantic, pytest, fastapi, sqlmodel, etc) attempting to implement a modular monolith architecture. The repository include pre-commit hooks for ruff, pyright, and uv.  
-- [KnownFolderPathPS5.ps1](https://gist.github.com/YoraiLevi/0f333d520f502fdb1244cdf0524db6d2) - Change windows user folders with powershell  
 - [dotfiles](https://github.com/YoraiLevi/dotfiles) - dotfiles  
+- [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
+- [KnownFolderPathPS5.ps1](https://gist.github.com/YoraiLevi/0f333d520f502fdb1244cdf0524db6d2) - Change windows user folders with powershell  
 - [ahk-autohotkeys](https://github.com/YoraiLevi/ahk-autohotkeys)  
 - [windows_registry_modifications](https://github.com/YoraiLevi/windows_registry_modifications)  
 - [regedit.ps1](https://github.com/YoraiLevi/regedit.ps1) - regedit.ps1 is a pure PowerShell implementation for regedit.exe, backed by a fully tested and idempotent cmdlets.   
@@ -65,6 +65,7 @@
 - [israeli-bank-scrapers](https://github.com/YoraiLevi/israeli-bank-scrapers) - Provide scrapers for all major Israeli banks and credit card companies  
 - [PsDownload](https://github.com/YoraiLevi/PsDownload) - A PowerShell module for downloading files.  
 - [transformers](https://github.com/YoraiLevi/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.  
+- [doomgeneric-rs-inkbox](https://github.com/YoraiLevi/doomgeneric-rs-inkbox) - Using doomgeneric from rust  
 - [PythonDataScienceHandbook](https://github.com/YoraiLevi/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks  
 - [numpy-100](https://github.com/YoraiLevi/numpy-100) - 100 numpy exercises (with solutions)  
 - [github-readme-stats](https://github.com/YoraiLevi/github-readme-stats) - :zap: Dynamically generated stats for your github readmes  
@@ -74,4 +75,4 @@
 - [chrome](https://github.com/YoraiLevi/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own  
 - [GM_SuperValue](https://github.com/YoraiLevi/GM_SuperValue) - Improved, error-free and readable version of GreaseMonkey/TamperMonkey storage script "GM_SuperValue"  
   
-2025-10-30T01:18:20.952497+00:00
+2025-11-02T02:02:07.077630+00:00
