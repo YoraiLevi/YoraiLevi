@@ -80,7 +80,7 @@
 - [yeadon](https://github.com/chrisdembia/yeadon) - The human inertia model developed by Fred Yeadon in 1990.  
 - [AzureOpenAI-PowerShell](https://github.com/voytas75/AzureOpenAI-PowerShell) - PowerShell scripts for interacting with Azure resources. It explores the potential of Azure OpenAI through side projects (PSAOAI, AI Windows Event Analyzer, AIPSTeam, AIPyTeam).  
 - [baybe](https://github.com/emdgroup/baybe) - Bayesian Optimization and Design of Experiments  
-- Archived: [bsuite](https://github.com/google-deepmind/bsuite) - bsuite is a collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent  
+- [bsuite](https://github.com/google-deepmind/bsuite) - bsuite is a collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent  
 - [Design-of-experiment-Python](https://github.com/tirthajyoti/Design-of-experiment-Python) - Design-of-experiment (DOE) generator for science, engineering, and statistics  
 - [hawck](https://github.com/snyball/hawck) - Key-rebinding daemon for Linux (Wayland/X11/Console)  
 - [winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).  
