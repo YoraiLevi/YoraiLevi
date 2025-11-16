@@ -1,4 +1,5 @@
 ## Starred
+- [examples](https://github.com/ArjanCodes/examples) - All the code examples I use in my videos  
 - [KOReader-Plato](https://github.com/id1945/KOReader-Plato) - Install Packages for KOReader & Plato  
 - [understanding-the-python-ecosystem](https://github.com/brunocampos01/understanding-the-python-ecosystem) - This project focuses on understanding the language ecosystem  
 - [awesome-mlops](https://github.com/kelvins/awesome-mlops) - :sunglasses: A curated list of awesome MLOps tools  
@@ -98,7 +99,6 @@
 - [nadia](https://github.com/daviromero/nadia) - Natural Deduction Proof Assistant (NADIA) is a tool for teaching Natural Deduction in Fitch-Style  
 - [logia](https://github.com/siladitya-basu/logia) - A simple theorem prover for Coq.  
 - [codedown](https://github.com/earldouglas/codedown) - Extract code blocks from Markdown files  
-- [MarkdownPS](https://github.com/Sarafian/MarkdownPS) - A powershell module to render markdown files  
 - [EnvPaths.psm1](https://gist.github.com/jaw/4d1d858b87a5c208fbe42fd4d4aa97a4)  
 - [mandelbrot-on-all-accelerators.ipynb](https://gist.github.com/jpivarski/da343abd8024834ee8c5aaba691aafc7)  
 - [wsl2.md](https://gist.github.com/hucsmn/da1dbc2eb5903cb3143c35313623e7b0) - A collection of WSL2 hacks  
