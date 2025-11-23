@@ -2,19 +2,19 @@
 
 <p align="center">
 
-<a href="https://github.com/YoraiLevi/modular-monolith-fastapi">
+<a href="https://gist.github.com/YoraiLevi/0f333d520f502fdb1244cdf0524db6d2">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-0.svg/">
 <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-0.svg/">
 <img align="center" src="./assets/card-dark-0.svg" />
 </picture></a>
-<a href="https://github.com/YoraiLevi/dotfiles">
+<a href="https://github.com/YoraiLevi/modular-monolith-fastapi">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-1.svg/">
 <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-1.svg/">
 <img align="center" src="./assets/card-dark-1.svg" />
 </picture></a>
-<a href="https://gist.github.com/YoraiLevi/0f333d520f502fdb1244cdf0524db6d2">
+<a href="https://github.com/YoraiLevi/dotfiles">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-2.svg/">
 <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-2.svg/">
