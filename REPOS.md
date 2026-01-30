@@ -1,19 +1,19 @@
 ## Repositories and Gists
+- [dotfiles](https://github.com/YoraiLevi/dotfiles) - dotfiles  
+- [ahk-autohotkeys](https://github.com/YoraiLevi/ahk-autohotkeys)  
+- [Intro-to-NLP-236299-CS187](https://github.com/YoraiLevi/Intro-to-NLP-236299-CS187) - Code for course "Intro to NLP" (236299) Technion Spring 2023, "Introduction to Computational Linguistic" (CS 187) Harvard Fall 2020  
+- [regedit.ps1](https://github.com/YoraiLevi/regedit.ps1) - regedit.ps1 is a pure PowerShell implementation for regedit.exe, backed by a fully tested and idempotent cmdlets.   
+- [windows_registry_modifications](https://github.com/YoraiLevi/windows_registry_modifications)  
+- [winutil_tweaks_cli](https://github.com/YoraiLevi/winutil_tweaks_cli) - a CLI script only for the tweaks of Chris Titus's winutil  
+- [modular-monolith-fastapi](https://github.com/YoraiLevi/modular-monolith-fastapi) - This is a modular monolith Fast API project that uses the latest and greatest tooling (uv, ruff, pyright, pydantic, pytest, fastapi, sqlmodel, etc) attempting to implement a modular monolith architecture. The repository include pre-commit hooks for ruff, pyright, and uv.  
 - [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [container_tooling_survey](https://github.com/YoraiLevi/container_tooling_survey)  
 - [KnownFolderPathPS5.ps1](https://gist.github.com/YoraiLevi/0f333d520f502fdb1244cdf0524db6d2) - Change windows user folders with powershell  
-- [modular-monolith-fastapi](https://github.com/YoraiLevi/modular-monolith-fastapi) - This is a modular monolith Fast API project that uses the latest and greatest tooling (uv, ruff, pyright, pydantic, pytest, fastapi, sqlmodel, etc) attempting to implement a modular monolith architecture. The repository include pre-commit hooks for ruff, pyright, and uv.  
-- [dotfiles](https://github.com/YoraiLevi/dotfiles) - dotfiles  
-- [ahk-autohotkeys](https://github.com/YoraiLevi/ahk-autohotkeys)  
-- [windows_registry_modifications](https://github.com/YoraiLevi/windows_registry_modifications)  
-- [regedit.ps1](https://github.com/YoraiLevi/regedit.ps1) - regedit.ps1 is a pure PowerShell implementation for regedit.exe, backed by a fully tested and idempotent cmdlets.   
-- [winutil_tweaks_cli](https://github.com/YoraiLevi/winutil_tweaks_cli) - a CLI script only for the tweaks of Chris Titus's winutil  
 - [Invoke-Process.ps1](https://gist.github.com/YoraiLevi/d0d95011bed792dff57a301dbc2780ec) -     Starts a process with optional redirected stdout and stderr streams for better output handling. Allow to wait for the process to exit or forcefully kill it with timeout.  
 - Archived: [SetFacebookPostsPrivate](https://github.com/YoraiLevi/SetFacebookPostsPrivate) - Automation tool that sets posts in facebook's activity log to private (public or friends) for the new 2020 design. using Tampermonkey  
 - [Download-AppxPackage.ps1](https://gist.github.com/YoraiLevi/e1888ee1c06b34cb02d4b58b739301af) - Download Windows Store Apps with Powershell  
-- [Intro-to-NLP-236299-CS187](https://github.com/YoraiLevi/Intro-to-NLP-236299-CS187) - Code for course "Intro to NLP" (236299) Technion Spring 2023, "Introduction to Computational Linguistic" (CS 187) Harvard Fall 2020  
+- [GitHub-Action-Ahk2Exe](https://github.com/YoraiLevi/GitHub-Action-Ahk2Exe) - GitHub Action to compile AutoHotKey scripts using Ahk2Exe  
 - [sync-settings-with-github](https://github.com/YoraiLevi/sync-settings-with-github) - vscode extension to sync files and settings with github repositories  
-- [.github](https://github.com/ForkYoraiLevi/.github) - This organization was created so i can fork my own github repositories and get updated history   
 - [multiplayer-tictactoe](https://github.com/YoraiLevi/multiplayer-tictactoe) - A real-time multiplayer Tic-tac-toe game built with FastAPI (backend) and React,Vite (frontend). The game supports multiple concurrent games and provides a clean, modern interface.    
 - [keyboard_layout](https://github.com/YoraiLevi/keyboard_layout)  
 - [python_tooling_survey](https://github.com/YoraiLevi/python_tooling_survey)  
@@ -22,7 +22,6 @@
 - [interactive_matplotlib](https://github.com/YoraiLevi/interactive_matplotlib)  
 - [libary_vscode_context_menu.reg](https://gist.github.com/YoraiLevi/418c973a319008fb2f5c1ebbbd38bad2) - "Open with Code" inside windows `libaries` on right click context menu  
 - [Get-TemporaryDirectory.ps1](https://gist.github.com/YoraiLevi/ee4394992d820c05b9f820a166eaf987) - Get temporary directories not just files  
-- [experience-primer-copilot-YoraiLevi](https://github.com/Exp-Primer-Copilot-Cohort-1/experience-primer-copilot-YoraiLevi) - experience-primer-copilot-YoraiLevi created by GitHub Classroom  
 - [Optimization_and_Dynamical_systems_Fixed_point_iterations_and_Implicit_Bias](https://github.com/YoraiLevi/Optimization_and_Dynamical_systems_Fixed_point_iterations_and_Implicit_Bias)  
 - Archived: [pysubsync](https://github.com/YoraiLevi/pysubsync) - A utility to sync subtitles, designed for anime  
 - [Test-ShouldProcess.ps1](https://gist.github.com/YoraiLevi/db0a84ff7be60a974f87a527a6ecfe87) - Everything you wanted to know about ShouldProcess  
@@ -47,6 +46,7 @@
 - [pasteconsole.js](https://gist.github.com/YoraiLevi/3365f9a60c8033d8c797dc409acbb26e) - this code is obsolete since the 2020 new facebook design. refer to: https://github.com/YoraiLevi/SetFacebookPostsPrivate make all facebook posts private(activity log) very dumb code.  
 - [My-Tech-Wearables](https://github.com/YoraiLevi/My-Tech-Wearables) - Cloth cat ears wearable with led strips! and more!  
 ## Forks
+- [proxmox-enhanced-configuration-utility](https://github.com/YoraiLevi/proxmox-enhanced-configuration-utility) - Is a comprehensive and versatile Bash script designed to simplify and optimize the configuration and management of Proxmox Virtual Environment (VE) systems.   
 - [lejepa](https://github.com/YoraiLevi/lejepa)  
 - [arjancodes-examples](https://github.com/YoraiLevi/arjancodes-examples) - All the code examples I use in my videos  
 - [Pscx](https://github.com/YoraiLevi/Pscx) - PowerShell Community Extensions module repository  
@@ -55,7 +55,6 @@
 - [vscode-default-keybindings](https://github.com/YoraiLevi/vscode-default-keybindings) - VSCode keybinding extentension that can set any OS default keybindings as the current ones.  
 - [vscode-classic-experience](https://github.com/YoraiLevi/vscode-classic-experience) - Restore familiar VSCode keybindings in Cursor editor. Smooth transition for VSCode users.  
 - [awesome-mlops](https://github.com/YoraiLevi/awesome-mlops) - :sunglasses: A curated list of awesome MLOps tools  
-- [GitHub-Action-Ahk2Exe](https://github.com/YoraiLevi/GitHub-Action-Ahk2Exe) - GitHub Action to compile AutoHotKey scripts using Ahk2Exe  
 - [code-settings-sync](https://github.com/YoraiLevi/code-settings-sync) - 🌴💪 Synchronize your Visual Studio Code Settings Across Multiple Machines using GitHub GIST 💪🌴  
 - [data-engineering-home-assignment](https://github.com/YoraiLevi/data-engineering-home-assignment) - Vi's Data Engineering Home Assignment  
 - [Pipe](https://github.com/YoraiLevi/Pipe) - A Python library to use infix notation in Python  
@@ -76,4 +75,4 @@
 - [chrome](https://github.com/YoraiLevi/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own  
 - [GM_SuperValue](https://github.com/YoraiLevi/GM_SuperValue) - Improved, error-free and readable version of GreaseMonkey/TamperMonkey storage script "GM_SuperValue"  
   
-2025-12-18T01:18:24.470712+00:00
+2026-01-30T21:15:21.577913+00:00

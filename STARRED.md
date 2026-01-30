@@ -1,4 +1,11 @@
 ## Starred
+- [ahk](https://github.com/spyoungtech/ahk) - Python wrapper for AutoHotkey with full type support. Harness the automation power of AutoHotkey with the beauty of Python.  
+- [spark-vllm-docker](https://github.com/eugr/spark-vllm-docker) - Docker configuration for running VLLM on dual DGX Sparks  
+- [airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU  
+- [Proxmox-Enhanced-Configuration-Utility](https://github.com/Danilop95/Proxmox-Enhanced-Configuration-Utility) - Is a comprehensive and versatile Bash script designed to simplify and optimize the configuration and management of Proxmox Virtual Environment (VE) systems.   
+- [OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX) - Voilà, install macOS on ANY Computer! This is really and magic easiest way! PVE 7.XX ~ 8.XX Support and macOS High Sierra ~ macOS Sequoia Support.  
+- [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.  
+- [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models  
 - [examples](https://github.com/ArjanCodes/examples) - All the code examples I use in my videos  
 - [KOReader-Plato](https://github.com/id1945/KOReader-Plato) - Install Packages for KOReader & Plato  
 - [understanding-the-python-ecosystem](https://github.com/brunocampos01/understanding-the-python-ecosystem) - This project focuses on understanding the language ecosystem  
@@ -14,7 +21,7 @@
 - [ISP-Guide](https://github.com/mikeroyal/ISP-Guide) - Image Signal Processing (ISP) Guide. Learn all about the process of converting an image/video into digital form by performing tasks like noise reduction, filtering, auto exposure, autofocus, HDR correction, and image sharpening with a Specialized type of media processor.  
 - [awesome-scientific-python](https://github.com/rossant/awesome-scientific-python) - A curated list of awesome scientific Python resources  
 - [xonsh-cheatsheet](https://github.com/anki-code/xonsh-cheatsheet) - Cheat sheet for xonsh shell with copy-pastable examples. The best doc for the new users.  
-- [xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.  
+- [xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured, cross-platform and AI-friendly.  
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers  
 - [AltSnap](https://github.com/RamonUnch/AltSnap) - Maintained continuation of Stefan Sundin's AltDrag  
 - [cursor-ai-downloads](https://github.com/oslook/cursor-ai-downloads) - All Cursor AI's official download links for both the latest and older versions, making it easy for you to update, downgrade, and choose any version. 🚀  
@@ -68,7 +75,7 @@
 - [SpeedTorch](https://github.com/Santosh-Gupta/SpeedTorch) - Library for faster pinned CPU <-> GPU transfer in Pytorch   
 - [elevation_mapping_cupy](https://github.com/leggedrobotics/elevation_mapping_cupy) - Elevation Mapping on GPU.  
 - [cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU  
-- [ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.  
+- [ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.  
 - [paper-qa](https://github.com/Future-House/paper-qa) - High accuracy RAG for answering questions from scientific documents with citations  
 - Archived: [bulk](https://github.com/koaning/bulk) - A Simple Bulk Labelling Tool  
 - [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust  
@@ -92,16 +99,10 @@
 - [strictyaml](https://github.com/crdoconnor/strictyaml) - Type-safe YAML parser and validator.  
 - [dynamax](https://github.com/probml/dynamax) - A Python package for probabilistic state space modeling with JAX  
 - [fitter](https://github.com/cokelaer/fitter) - Fit data to many distributions   
-- [alexshtf.github.io](https://github.com/alexshtf/alexshtf.github.io) - My personal webpage  
-- [DataDrivenDynSyst](https://github.com/jbramburger/DataDrivenDynSyst) - Scripts and notebooks to accompany the book Data-Driven Methods for Dynamic Systems  
-- [sympy-nondim](https://github.com/cheind/sympy-nondim) - Non-dimensionalization of physical equations using sympy.  
-- [coq_jupyter](https://github.com/EugeneLoy/coq_jupyter) - Jupyter kernel for Coq  
-- [nadia](https://github.com/daviromero/nadia) - Natural Deduction Proof Assistant (NADIA) is a tool for teaching Natural Deduction in Fitch-Style  
-- [logia](https://github.com/siladitya-basu/logia) - A simple theorem prover for Coq.  
-- [codedown](https://github.com/earldouglas/codedown) - Extract code blocks from Markdown files  
 - [EnvPaths.psm1](https://gist.github.com/jaw/4d1d858b87a5c208fbe42fd4d4aa97a4)  
 - [mandelbrot-on-all-accelerators.ipynb](https://gist.github.com/jpivarski/da343abd8024834ee8c5aaba691aafc7)  
 - [wsl2.md](https://gist.github.com/hucsmn/da1dbc2eb5903cb3143c35313623e7b0) - A collection of WSL2 hacks  
 - [beautiful_idiomatic_python.md](https://gist.github.com/0x4D31/f0b633548d8e0cfb66ee3bea6a0deff9) - [Beautiful Idiomatic Python] Transforming Code into Beautiful, Idiomatic Python #python  
+- [SO-7zip-extract-icon](https://gist.github.com/Stevoisiak/1ede59568ba58f7bda78613fcfc15542) - Extract .ico icon file from .exe with 7zip  
 - [Pok3r.ahk](https://gist.github.com/JarvisPrestidge/189ffb4da71397f221c1) - Personal AutoHotKey script that turns any keyboard into a Pok3r.  
 - [Export-Chocolatey.ps1](https://gist.github.com/alimbada/449ddf65b4ef9752eff3) - Export installed Chocolatey packages as packages.config - thanks to Matty666  
