@@ -1,8 +1,8 @@
 ## Repositories and Gists
 - [dotfiles](https://github.com/YoraiLevi/dotfiles) - dotfiles  
-- [a](https://github.com/YoraiLevi/a)  
-- [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [ahk-autohotkeys](https://github.com/YoraiLevi/ahk-autohotkeys)  
+- [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
+- [a](https://github.com/YoraiLevi/a)  
 - [Intro-to-NLP-236299-CS187](https://github.com/YoraiLevi/Intro-to-NLP-236299-CS187) - Code for course "Intro to NLP" (236299) Technion Spring 2023, "Introduction to Computational Linguistic" (CS 187) Harvard Fall 2020  
 - [regedit.ps1](https://github.com/YoraiLevi/regedit.ps1) - regedit.ps1 is a pure PowerShell implementation for regedit.exe, backed by a fully tested and idempotent cmdlets.   
 - [windows_registry_modifications](https://github.com/YoraiLevi/windows_registry_modifications)  
@@ -47,12 +47,15 @@
 - [pasteconsole.js](https://gist.github.com/YoraiLevi/3365f9a60c8033d8c797dc409acbb26e) - this code is obsolete since the 2020 new facebook design. refer to: https://github.com/YoraiLevi/SetFacebookPostsPrivate make all facebook posts private(activity log) very dumb code.  
 - [My-Tech-Wearables](https://github.com/YoraiLevi/My-Tech-Wearables) - Cloth cat ears wearable with led strips! and more!  
 ## Forks
+- [pocket-tts](https://github.com/YoraiLevi/pocket-tts) - A TTS that fits in your CPU (and pocket)  
 - [proxmox-enhanced-configuration-utility](https://github.com/YoraiLevi/proxmox-enhanced-configuration-utility) - Is a comprehensive and versatile Bash script designed to simplify and optimize the configuration and management of Proxmox Virtual Environment (VE) systems.   
+- [Packer](https://github.com/YoraiLevi/Packer) - Contains all Packer Automation files  
 - [lejepa](https://github.com/YoraiLevi/lejepa)  
 - [arjancodes-examples](https://github.com/YoraiLevi/arjancodes-examples) - All the code examples I use in my videos  
 - [Pscx](https://github.com/YoraiLevi/Pscx) - PowerShell Community Extensions module repository  
 - [best-of-python-dev](https://github.com/YoraiLevi/best-of-python-dev) - 🏆 A ranked list of awesome python developer tools and libraries. Updated weekly.  
 - [awesome-python](https://github.com/YoraiLevi/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.  
+- [Multi-Keyboard-For-AutoHotkey](https://github.com/YoraiLevi/Multi-Keyboard-For-AutoHotkey) - Multi unique keyboard support for AutoHotkey  
 - [vscode-default-keybindings](https://github.com/YoraiLevi/vscode-default-keybindings) - VSCode keybinding extentension that can set any OS default keybindings as the current ones.  
 - [vscode-classic-experience](https://github.com/YoraiLevi/vscode-classic-experience) - Restore familiar VSCode keybindings in Cursor editor. Smooth transition for VSCode users.  
 - [awesome-mlops](https://github.com/YoraiLevi/awesome-mlops) - :sunglasses: A curated list of awesome MLOps tools  
@@ -62,6 +65,8 @@
 - [bing-wallpapers-for-linux](https://github.com/YoraiLevi/bing-wallpapers-for-linux) - This enables bing wallpaper on linux, specifically debian based distros.  
 - [mpl-interactions](https://github.com/YoraiLevi/mpl-interactions) - Sliders to control matplotlib and other interactive goodies. Works in any interactive backend and even uses ipywidgets when in a Jupyter notebook  
 - [vscode-color-blocks](https://github.com/YoraiLevi/vscode-color-blocks) - VSCode extension for coloring ranges of comments.  
+- [proxmox-packer](https://github.com/YoraiLevi/proxmox-packer) - Packer files for building CentOS 7, 8, Rocky Linux 8, 9 and Ubuntu 20.04 and 22.04 images for Proxmox  
+- [packer-windows-proxmox](https://github.com/YoraiLevi/packer-windows-proxmox) - Build a Windows Server 2022 template with Packer on Proxmox  
 - [wg-easy](https://github.com/YoraiLevi/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.  
 - [israeli-bank-scrapers](https://github.com/YoraiLevi/israeli-bank-scrapers) - Provide scrapers for all major Israeli banks and credit card companies  
 - [PsDownload](https://github.com/YoraiLevi/PsDownload) - A PowerShell module for downloading files.  
@@ -70,10 +75,12 @@
 - [PythonDataScienceHandbook](https://github.com/YoraiLevi/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks  
 - [numpy-100](https://github.com/YoraiLevi/numpy-100) - 100 numpy exercises (with solutions)  
 - [github-readme-stats](https://github.com/YoraiLevi/github-readme-stats) - :zap: Dynamically generated stats for your github readmes  
+- [NotEnoughHotkeys](https://github.com/YoraiLevi/NotEnoughHotkeys) - This is an Application to block input from a secondary keyboard and instead run custom defined Macros  
 - [youtube-cast-receiver](https://github.com/YoraiLevi/youtube-cast-receiver) - Grants access to youtube.com/tv normally reserved for use with smart TVs  
+- [GoToWindow](https://github.com/YoraiLevi/GoToWindow) - A keyboard-maniac alt-tab alternative  
 - [wsl-sudo](https://github.com/YoraiLevi/wsl-sudo) - WSL tool to run wsl commands in in an elevated process  
 - [keyboard-layout-editor](https://github.com/YoraiLevi/keyboard-layout-editor) - Web application to enable the design & editing of keyboard layouts  
 - [chrome](https://github.com/YoraiLevi/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own  
 - [GM_SuperValue](https://github.com/YoraiLevi/GM_SuperValue) - Improved, error-free and readable version of GreaseMonkey/TamperMonkey storage script "GM_SuperValue"  
   
-2026-02-05T01:50:25.470409+00:00
+2026-02-08T03:17:16.772552+00:00

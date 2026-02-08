@@ -1,4 +1,12 @@
 ## Starred
+- [NotEnoughHotkeys](https://github.com/VollRahm/NotEnoughHotkeys) - This is an Application to block input from a secondary keyboard and instead run custom defined Macros  
+- [Multi-Keyboard-For-AutoHotkey](https://github.com/sebeksd/Multi-Keyboard-For-AutoHotkey) - Multi unique keyboard support for AutoHotkey  
+- [GoToWindow](https://github.com/christianrondeau/GoToWindow) - A keyboard-maniac alt-tab alternative  
+- [pocket-tts](https://github.com/babybirdprd/pocket-tts) - A TTS that fits in your CPU (and pocket)  
+- [pocket-tts](https://github.com/kyutai-labs/pocket-tts) - A TTS that fits in your CPU (and pocket)  
+- [Packer](https://github.com/mfgjwaterman/Packer) - Contains all Packer Automation files  
+- [packer-windows-proxmox](https://github.com/EnsoIT/packer-windows-proxmox) - Build a Windows Server 2022 template with Packer on Proxmox  
+- [proxmox-packer](https://github.com/dustinrue/proxmox-packer) - Packer files for building CentOS 7, 8, Rocky Linux 8, 9 and Ubuntu 20.04 and 22.04 images for Proxmox  
 - [ahk](https://github.com/spyoungtech/ahk) - Python wrapper for AutoHotkey with full type support. Harness the automation power of AutoHotkey with the beauty of Python.  
 - [spark-vllm-docker](https://github.com/eugr/spark-vllm-docker) - Docker configuration for running VLLM on dual DGX Sparks  
 - [airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU  
@@ -59,7 +67,7 @@
 - [autokey](https://github.com/autokey/autokey) - AutoKey, a desktop automation utility for Linux and X11.  
 - [open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)  
 - [ansible-role-proxmox](https://github.com/lae/ansible-role-proxmox) - IaC for Proxmox VE clusters.  
-- [acme-dns](https://github.com/joohoi/acme-dns) - Limited DNS server with RESTful HTTP API to handle ACME DNS challenges easily and securely.  
+- [acme-dns](https://github.com/acme-dns/acme-dns) - Limited DNS server with RESTful HTTP API to handle ACME DNS challenges easily and securely.  
 - [jupyter_compare_view](https://github.com/Octoframes/jupyter_compare_view) - Blend Between Multiple Images in JupyterLab.  
 - [LinkedIn-Easy-Apply-Bot](https://github.com/nicolomantini/LinkedIn-Easy-Apply-Bot) - Automate the application process on LinkedIn  
 - [linkedin-easy-apply-bot](https://github.com/joaosilvalopes/linkedin-easy-apply-bot)  
@@ -91,14 +99,6 @@
 - [bsuite](https://github.com/google-deepmind/bsuite) - bsuite is a collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent  
 - [Design-of-experiment-Python](https://github.com/tirthajyoti/Design-of-experiment-Python) - Design-of-experiment (DOE) generator for science, engineering, and statistics  
 - [hawck](https://github.com/snyball/hawck) - Key-rebinding daemon for Linux (Wayland/X11/Console)  
-- [winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).  
-- [bing-wallpapers-for-linux](https://github.com/whizzzkid/bing-wallpapers-for-linux) - This enables bing wallpaper on linux, specifically debian based distros.  
-- [winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository  
-- [numerical-veliz](https://github.com/osveliz/numerical-veliz) - Numerical Analysis code from the Oscar Veliz YouTube Channel  
-- [TikTok-Api](https://github.com/davidteather/TikTok-Api) - The Unofficial TikTok API Wrapper In Python  
-- [strictyaml](https://github.com/crdoconnor/strictyaml) - Type-safe YAML parser and validator.  
-- [dynamax](https://github.com/probml/dynamax) - A Python package for probabilistic state space modeling with JAX  
-- [fitter](https://github.com/cokelaer/fitter) - Fit data to many distributions   
 - [EnvPaths.psm1](https://gist.github.com/jaw/4d1d858b87a5c208fbe42fd4d4aa97a4)  
 - [mandelbrot-on-all-accelerators.ipynb](https://gist.github.com/jpivarski/da343abd8024834ee8c5aaba691aafc7)  
 - [wsl2.md](https://gist.github.com/hucsmn/da1dbc2eb5903cb3143c35313623e7b0) - A collection of WSL2 hacks  
