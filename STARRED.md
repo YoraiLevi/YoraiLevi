@@ -1,4 +1,16 @@
 ## Starred
+- [cloudbase-init](https://github.com/davidhood2/cloudbase-init) - Instructions and config for running Cloudbase-Init on a Windows 11 client via Proxmox PVE8.4.1  
+- [pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.  
+- [terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox) - Terraform provider plugin for proxmox  
+- [proxmox-packer-bitwarden](https://github.com/modem7/proxmox-packer-bitwarden) - Packer Image Build Template Code For Proxmox with Bitwarden-CLI support  
+- [cloudbase-init-installer](https://github.com/cloudbase/cloudbase-init-installer) - Cloudbase-Init MSI installer  
+- [cloudbase-init](https://github.com/cloudbase/cloudbase-init) - Cross-platform instance initialization  
+- [new-vm-from-iso](https://github.com/greyhamwoohoo/new-vm-from-iso) - Provision a Hyper-V VM with Windows automatically installed from an ISO using PowerShell; on first boot, the Unattend.Xml (OOBE) will automatically configure the installation and Windows will boot as far as the Login Screen. Windows Updates will then be automatically installed.   
+- [windows-sysprep-playground](https://github.com/rgl/windows-sysprep-playground) - A Windows sysprep playground  
+- [terraform-proxmox-windows-example](https://github.com/rgl/terraform-proxmox-windows-example) - example on how to launch a windows vm using terraform in proxmox  
+- [vagrant-proxmox](https://github.com/telcat/vagrant-proxmox) - Use Vagrant to manage Proxmox virtual machines  
+- [claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.  
+- [Linx](https://github.com/feos7c5/Linx) - Linx is a lightweight proxy that connects local models (via Ollama or Llama.cpp) or OpenRouter models as standard OpenAI-compatible endpoints. Available in both GUI and CLI versions for flexible model management.  
 - [NotEnoughHotkeys](https://github.com/VollRahm/NotEnoughHotkeys) - This is an Application to block input from a secondary keyboard and instead run custom defined Macros  
 - [Multi-Keyboard-For-AutoHotkey](https://github.com/sebeksd/Multi-Keyboard-For-AutoHotkey) - Multi unique keyboard support for AutoHotkey  
 - [GoToWindow](https://github.com/christianrondeau/GoToWindow) - A keyboard-maniac alt-tab alternative  
@@ -87,18 +99,6 @@
 - [paper-qa](https://github.com/Future-House/paper-qa) - High accuracy RAG for answering questions from scientific documents with citations  
 - Archived: [bulk](https://github.com/koaning/bulk) - A Simple Bulk Labelling Tool  
 - [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust  
-- [RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.  
-- [CompAssistedMath2024](https://github.com/matematiflo/CompAssistedMath2024) - GitHub repository for the seminar on Computer-assisted mathematics held at the University of Heidelberg during the Summer Semester of 2024.  
-- [cyipopt](https://github.com/mechmotum/cyipopt) - Cython interface for the interior point optimzer IPOPT  
-- [learn-multibody-dynamics](https://github.com/moorepants/learn-multibody-dynamics) - Interactive computational book on multibody dynamics  
-- [pydy](https://github.com/pydy/pydy) - Multibody dynamics tool kit.  
-- [opty](https://github.com/csu-hmc/opty) - A library for using direct collocation in the optimization of dynamic systems.  
-- [yeadon](https://github.com/chrisdembia/yeadon) - The human inertia model developed by Fred Yeadon in 1990.  
-- [AzureOpenAI-PowerShell](https://github.com/voytas75/AzureOpenAI-PowerShell) - PowerShell scripts for interacting with Azure resources. It explores the potential of Azure OpenAI through side projects (PSAOAI, AI Windows Event Analyzer, AIPSTeam, AIPyTeam).  
-- [baybe](https://github.com/emdgroup/baybe) - Bayesian Optimization and Design of Experiments  
-- [bsuite](https://github.com/google-deepmind/bsuite) - bsuite is a collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent  
-- [Design-of-experiment-Python](https://github.com/tirthajyoti/Design-of-experiment-Python) - Design-of-experiment (DOE) generator for science, engineering, and statistics  
-- [hawck](https://github.com/snyball/hawck) - Key-rebinding daemon for Linux (Wayland/X11/Console)  
 - [EnvPaths.psm1](https://gist.github.com/jaw/4d1d858b87a5c208fbe42fd4d4aa97a4)  
 - [mandelbrot-on-all-accelerators.ipynb](https://gist.github.com/jpivarski/da343abd8024834ee8c5aaba691aafc7)  
 - [wsl2.md](https://gist.github.com/hucsmn/da1dbc2eb5903cb3143c35313623e7b0) - A collection of WSL2 hacks  

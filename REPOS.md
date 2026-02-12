@@ -1,13 +1,12 @@
 ## Repositories and Gists
 - [dotfiles](https://github.com/YoraiLevi/dotfiles) - dotfiles  
-- [ahk-autohotkeys](https://github.com/YoraiLevi/ahk-autohotkeys)  
+- [modular-monolith-fastapi](https://github.com/YoraiLevi/modular-monolith-fastapi) - This is a modular monolith Fast API project that uses the latest and greatest tooling (uv, ruff, pyright, pydantic, pytest, fastapi, sqlmodel, etc) attempting to implement a modular monolith architecture. The repository include pre-commit hooks for ruff, pyright, and uv.  
 - [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
-- [a](https://github.com/YoraiLevi/a)  
+- [ahk-autohotkeys](https://github.com/YoraiLevi/ahk-autohotkeys)  
 - [Intro-to-NLP-236299-CS187](https://github.com/YoraiLevi/Intro-to-NLP-236299-CS187) - Code for course "Intro to NLP" (236299) Technion Spring 2023, "Introduction to Computational Linguistic" (CS 187) Harvard Fall 2020  
 - [regedit.ps1](https://github.com/YoraiLevi/regedit.ps1) - regedit.ps1 is a pure PowerShell implementation for regedit.exe, backed by a fully tested and idempotent cmdlets.   
 - [windows_registry_modifications](https://github.com/YoraiLevi/windows_registry_modifications)  
 - [winutil_tweaks_cli](https://github.com/YoraiLevi/winutil_tweaks_cli) - a CLI script only for the tweaks of Chris Titus's winutil  
-- [modular-monolith-fastapi](https://github.com/YoraiLevi/modular-monolith-fastapi) - This is a modular monolith Fast API project that uses the latest and greatest tooling (uv, ruff, pyright, pydantic, pytest, fastapi, sqlmodel, etc) attempting to implement a modular monolith architecture. The repository include pre-commit hooks for ruff, pyright, and uv.  
 - [container_tooling_survey](https://github.com/YoraiLevi/container_tooling_survey)  
 - [KnownFolderPathPS5.ps1](https://gist.github.com/YoraiLevi/0f333d520f502fdb1244cdf0524db6d2) - Change windows user folders with powershell  
 - [Invoke-Process.ps1](https://gist.github.com/YoraiLevi/d0d95011bed792dff57a301dbc2780ec) -     Starts a process with optional redirected stdout and stderr streams for better output handling. Allow to wait for the process to exit or forcefully kill it with timeout.  
@@ -47,9 +46,10 @@
 - [pasteconsole.js](https://gist.github.com/YoraiLevi/3365f9a60c8033d8c797dc409acbb26e) - this code is obsolete since the 2020 new facebook design. refer to: https://github.com/YoraiLevi/SetFacebookPostsPrivate make all facebook posts private(activity log) very dumb code.  
 - [My-Tech-Wearables](https://github.com/YoraiLevi/My-Tech-Wearables) - Cloth cat ears wearable with led strips! and more!  
 ## Forks
+- [Packer](https://github.com/YoraiLevi/Packer) - Contains all Packer Automation files  
 - [pocket-tts](https://github.com/YoraiLevi/pocket-tts) - A TTS that fits in your CPU (and pocket)  
 - [proxmox-enhanced-configuration-utility](https://github.com/YoraiLevi/proxmox-enhanced-configuration-utility) - Is a comprehensive and versatile Bash script designed to simplify and optimize the configuration and management of Proxmox Virtual Environment (VE) systems.   
-- [Packer](https://github.com/YoraiLevi/Packer) - Contains all Packer Automation files  
+- [Linx](https://github.com/YoraiLevi/Linx) - Linx is a lightweight proxy that connects local models (via Ollama or Llama.cpp) or OpenRouter models as standard OpenAI-compatible endpoints. Available in both GUI and CLI versions for flexible model management.  
 - [lejepa](https://github.com/YoraiLevi/lejepa)  
 - [arjancodes-examples](https://github.com/YoraiLevi/arjancodes-examples) - All the code examples I use in my videos  
 - [Pscx](https://github.com/YoraiLevi/Pscx) - PowerShell Community Extensions module repository  
@@ -83,4 +83,4 @@
 - [chrome](https://github.com/YoraiLevi/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own  
 - [GM_SuperValue](https://github.com/YoraiLevi/GM_SuperValue) - Improved, error-free and readable version of GreaseMonkey/TamperMonkey storage script "GM_SuperValue"  
   
-2026-02-08T03:17:16.772552+00:00
+2026-02-12T01:56:18.909606+00:00
