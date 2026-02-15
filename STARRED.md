@@ -1,4 +1,5 @@
 ## Starred
+- [llm-openrouter](https://github.com/simonw/llm-openrouter) - LLM plugin for models hosted by OpenRouter  
 - [cloudbase-init](https://github.com/davidhood2/cloudbase-init) - Instructions and config for running Cloudbase-Init on a Windows 11 client via Proxmox PVE8.4.1  
 - [pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.  
 - [terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox) - Terraform provider plugin for proxmox  
@@ -95,10 +96,9 @@
 - [SpeedTorch](https://github.com/Santosh-Gupta/SpeedTorch) - Library for faster pinned CPU <-> GPU transfer in Pytorch   
 - [elevation_mapping_cupy](https://github.com/leggedrobotics/elevation_mapping_cupy) - Elevation Mapping on GPU.  
 - [cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU  
-- [ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.  
+- [ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.  
 - [paper-qa](https://github.com/Future-House/paper-qa) - High accuracy RAG for answering questions from scientific documents with citations  
 - Archived: [bulk](https://github.com/koaning/bulk) - A Simple Bulk Labelling Tool  
-- [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust  
 - [EnvPaths.psm1](https://gist.github.com/jaw/4d1d858b87a5c208fbe42fd4d4aa97a4)  
 - [mandelbrot-on-all-accelerators.ipynb](https://gist.github.com/jpivarski/da343abd8024834ee8c5aaba691aafc7)  
 - [wsl2.md](https://gist.github.com/hucsmn/da1dbc2eb5903cb3143c35313623e7b0) - A collection of WSL2 hacks  
