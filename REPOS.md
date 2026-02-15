@@ -1,9 +1,9 @@
 ## Repositories and Gists
+- [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [ahk-autohotkeys](https://github.com/YoraiLevi/ahk-autohotkeys)  
 - [dotfiles](https://github.com/YoraiLevi/dotfiles) - dotfiles  
 - Archived: [SetFacebookPostsPrivate](https://github.com/YoraiLevi/SetFacebookPostsPrivate) - Automation tool that sets posts in facebook's activity log to private (public or friends) for the new 2020 design. using Tampermonkey  
 - [modular-monolith-fastapi](https://github.com/YoraiLevi/modular-monolith-fastapi) - This is a modular monolith Fast API project that uses the latest and greatest tooling (uv, ruff, pyright, pydantic, pytest, fastapi, sqlmodel, etc) attempting to implement a modular monolith architecture. The repository include pre-commit hooks for ruff, pyright, and uv.  
-- [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [Intro-to-NLP-236299-CS187](https://github.com/YoraiLevi/Intro-to-NLP-236299-CS187) - Code for course "Intro to NLP" (236299) Technion Spring 2023, "Introduction to Computational Linguistic" (CS 187) Harvard Fall 2020  
 - [regedit.ps1](https://github.com/YoraiLevi/regedit.ps1) - regedit.ps1 is a pure PowerShell implementation for regedit.exe, backed by a fully tested and idempotent cmdlets.   
 - [windows_registry_modifications](https://github.com/YoraiLevi/windows_registry_modifications)  
@@ -85,4 +85,4 @@
 - [chrome](https://github.com/YoraiLevi/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own  
 - [GM_SuperValue](https://github.com/YoraiLevi/GM_SuperValue) - Improved, error-free and readable version of GreaseMonkey/TamperMonkey storage script "GM_SuperValue"  
   
-2026-02-15T02:49:27.361758+00:00
+2026-02-15T04:26:31.604787+00:00
