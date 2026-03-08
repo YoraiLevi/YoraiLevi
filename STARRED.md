@@ -1,4 +1,8 @@
 ## Starred
+- [python-extended-enum](https://github.com/ilichev-andrey/python-extended-enum) - Extends the capabilities of the standard Enum.  
+- [aenum](https://github.com/ethanfurman/aenum) - Advanced Enumerations for Python  
+- [expanen_py](https://github.com/pasparsw/expanen_py) - Expandable enum utility for Python  
+- [extendable-enum](https://github.com/gweesip/extendable-enum) - Extend, subclass and reuse python Enums!  
 - [Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) - Agentic AI Infrastructure for magnifying HUMAN capabilities.  
 - [Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison) - Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc.  
 - [Kubernetes-Image-Builder](https://github.com/SneakyBugs/Kubernetes-Image-Builder)  
@@ -95,10 +99,6 @@
 - [Jupytab](https://github.com/CFMTech/Jupytab) - Display in Tableau data from Jupyter notebooks  
 - [Ryven](https://github.com/leon-thomm/Ryven) - Flow-based visual scripting for Python  
 - [youtube-watchmarker](https://github.com/sniklaus/youtube-watchmarker) - a browser extension that keeps track of your YouTube watch history and marks videos that you have already watched  
-- [cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library   
-- [github-search](https://github.com/gwen001/github-search) - A collection of tools to perform searches on GitHub.  
-- [SpeedTorch](https://github.com/Santosh-Gupta/SpeedTorch) - Library for faster pinned CPU <-> GPU transfer in Pytorch   
-- [elevation_mapping_cupy](https://github.com/leggedrobotics/elevation_mapping_cupy) - Elevation Mapping on GPU.  
 - [EnvPaths.psm1](https://gist.github.com/jaw/4d1d858b87a5c208fbe42fd4d4aa97a4)  
 - [mandelbrot-on-all-accelerators.ipynb](https://gist.github.com/jpivarski/da343abd8024834ee8c5aaba691aafc7)  
 - [wsl2.md](https://gist.github.com/hucsmn/da1dbc2eb5903cb3143c35313623e7b0) - A collection of WSL2 hacks  

@@ -1,8 +1,8 @@
 ## Repositories and Gists
 - [dotfiles](https://github.com/YoraiLevi/dotfiles) - dotfiles  
+- [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [ahk-autohotkeys](https://github.com/YoraiLevi/ahk-autohotkeys)  
 - [modular-monolith-fastapi](https://github.com/YoraiLevi/modular-monolith-fastapi) - This is a modular monolith Fast API project that uses the latest and greatest tooling (uv, ruff, pyright, pydantic, pytest, fastapi, sqlmodel, etc) attempting to implement a modular monolith architecture. The repository include pre-commit hooks for ruff, pyright, and uv.  
-- [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [plogbosts](https://github.com/YoraiLevi/plogbosts) - blog posts drafts and random scribbles  
 - Archived: [SetFacebookPostsPrivate](https://github.com/YoraiLevi/SetFacebookPostsPrivate) - Automation tool that sets posts in facebook's activity log to private (public or friends) for the new 2020 design. using Tampermonkey  
 - [Intro-to-NLP-236299-CS187](https://github.com/YoraiLevi/Intro-to-NLP-236299-CS187) - Code for course "Intro to NLP" (236299) Technion Spring 2023, "Introduction to Computational Linguistic" (CS 187) Harvard Fall 2020  
@@ -86,4 +86,4 @@
 - [chrome](https://github.com/YoraiLevi/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own  
 - [GM_SuperValue](https://github.com/YoraiLevi/GM_SuperValue) - Improved, error-free and readable version of GreaseMonkey/TamperMonkey storage script "GM_SuperValue"  
   
-2026-03-05T01:51:10.115034+00:00
+2026-03-08T02:41:57.253113+00:00
