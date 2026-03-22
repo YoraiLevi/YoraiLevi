@@ -1,8 +1,7 @@
 ## Repositories and Gists
 - [dotfiles](https://github.com/YoraiLevi/dotfiles) - dotfiles  
-- [Packer](https://github.com/YoraiLevi/Packer)  
-- [ahk-autohotkeys](https://github.com/YoraiLevi/ahk-autohotkeys)  
 - [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
+- [ahk-autohotkeys](https://github.com/YoraiLevi/ahk-autohotkeys)  
 - [nvidia-ngc-playgound](https://github.com/YoraiLevi/nvidia-ngc-playgound)  
 - [modular-monolith-fastapi](https://github.com/YoraiLevi/modular-monolith-fastapi) - This is a modular monolith Fast API project that uses the latest and greatest tooling (uv, ruff, pyright, pydantic, pytest, fastapi, sqlmodel, etc) attempting to implement a modular monolith architecture. The repository include pre-commit hooks for ruff, pyright, and uv.  
 - Archived: [SetFacebookPostsPrivate](https://github.com/YoraiLevi/SetFacebookPostsPrivate) - Automation tool that sets posts in facebook's activity log to private (public or friends) for the new 2020 design. using Tampermonkey  
@@ -88,4 +87,4 @@
 - [chrome](https://github.com/YoraiLevi/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own  
 - [GM_SuperValue](https://github.com/YoraiLevi/GM_SuperValue) - Improved, error-free and readable version of GreaseMonkey/TamperMonkey storage script "GM_SuperValue"  
   
-2026-03-19T01:58:08.062447+00:00
+2026-03-22T02:48:23.438096+00:00
