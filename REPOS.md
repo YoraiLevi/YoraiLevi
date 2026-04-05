@@ -1,8 +1,9 @@
 ## Repositories and Gists
 - [dotfiles](https://github.com/YoraiLevi/dotfiles) - dotfiles  
-- [distributed-uvm](https://github.com/talafek96/distributed-uvm) - Middleware making remote and heterogeneous memory transparently available to unmodified applications  
-- [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [modular-monolith-fastapi](https://github.com/YoraiLevi/modular-monolith-fastapi) - This is a modular monolith Fast API project that uses the latest and greatest tooling (uv, ruff, pyright, pydantic, pytest, fastapi, sqlmodel, etc) attempting to implement a modular monolith architecture. The repository include pre-commit hooks for ruff, pyright, and uv.  
+- [sync-settings-with-github](https://github.com/YoraiLevi/sync-settings-with-github) - vscode extension to sync files and settings with github repositories  
+- [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
+- [distributed-uvm](https://github.com/talafek96/distributed-uvm) - Middleware making remote and heterogeneous memory transparently available to unmodified applications  
 - [ahk-autohotkeys](https://github.com/YoraiLevi/ahk-autohotkeys)  
 - [nvidia-ngc-playgound](https://github.com/YoraiLevi/nvidia-ngc-playgound)  
 - Archived: [SetFacebookPostsPrivate](https://github.com/YoraiLevi/SetFacebookPostsPrivate) - Automation tool that sets posts in facebook's activity log to private (public or friends) for the new 2020 design. using Tampermonkey  
@@ -16,7 +17,6 @@
 - [Invoke-Process.ps1](https://gist.github.com/YoraiLevi/d0d95011bed792dff57a301dbc2780ec) -     Starts a process with optional redirected stdout and stderr streams for better output handling. Allow to wait for the process to exit or forcefully kill it with timeout.  
 - [Download-AppxPackage.ps1](https://gist.github.com/YoraiLevi/e1888ee1c06b34cb02d4b58b739301af) - Download Windows Store Apps with Powershell  
 - [GitHub-Action-Ahk2Exe](https://github.com/YoraiLevi/GitHub-Action-Ahk2Exe) - GitHub Action to compile AutoHotKey scripts using Ahk2Exe  
-- [sync-settings-with-github](https://github.com/YoraiLevi/sync-settings-with-github) - vscode extension to sync files and settings with github repositories  
 - [multiplayer-tictactoe](https://github.com/YoraiLevi/multiplayer-tictactoe) - A real-time multiplayer Tic-tac-toe game built with FastAPI (backend) and React,Vite (frontend). The game supports multiple concurrent games and provides a clean, modern interface.    
 - [keyboard_layout](https://github.com/YoraiLevi/keyboard_layout)  
 - [python_tooling_survey](https://github.com/YoraiLevi/python_tooling_survey)  
@@ -88,4 +88,4 @@
 - [chrome](https://github.com/YoraiLevi/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own  
 - [GM_SuperValue](https://github.com/YoraiLevi/GM_SuperValue) - Improved, error-free and readable version of GreaseMonkey/TamperMonkey storage script "GM_SuperValue"  
   
-2026-04-02T02:00:34.298232+00:00
+2026-04-05T03:19:01.383884+00:00

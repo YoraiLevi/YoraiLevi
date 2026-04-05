@@ -1,4 +1,5 @@
 ## Starred
+- [claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.  
 - [promptstats](https://github.com/ianarawjo/promptstats) - Statistical analysis methods for comparing prompt and model performance in LLM evaluations.  
 - [trzsz-ssh](https://github.com/trzsz/trzsz-ssh) - trzsz-ssh ( tssh ) is an ssh client designed as a drop-in replacement for the openssh client. It aims to provide complete compatibility with openssh, mirroring all its features, while also offering additional useful features. Such as login prompt, batch login, remember password, automated interaction, trzsz, zmodem(rz/sz), udp mode like mosh, etc.  
 - [trzsz-go](https://github.com/trzsz/trzsz-go) - trzsz-go is the go version of trzsz, makes all terminals that support local shell to support trzsz ( trz / tsz ).  
@@ -98,7 +99,6 @@
 - [jupyter_compare_view](https://github.com/Octoframes/jupyter_compare_view) - Blend Between Multiple Images in JupyterLab.  
 - [LinkedIn-Easy-Apply-Bot](https://github.com/nicolomantini/LinkedIn-Easy-Apply-Bot) - Automate the application process on LinkedIn  
 - [linkedin-easy-apply-bot](https://github.com/joaosilvalopes/linkedin-easy-apply-bot)  
-- [USB-Unattended-Proxmox](https://github.com/YosefCohen877/USB-Unattended-Proxmox) - Automated Proxmox on Debian 12  
 - [EnvPaths.psm1](https://gist.github.com/jaw/4d1d858b87a5c208fbe42fd4d4aa97a4)  
 - [mandelbrot-on-all-accelerators.ipynb](https://gist.github.com/jpivarski/da343abd8024834ee8c5aaba691aafc7)  
 - [wsl2.md](https://gist.github.com/hucsmn/da1dbc2eb5903cb3143c35313623e7b0) - A collection of WSL2 hacks  
