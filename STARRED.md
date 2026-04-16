@@ -16,7 +16,7 @@
 - [project-pegaprox](https://github.com/PegaProx/project-pegaprox) - The ultimate datacenter management solution for Proxmox VE and XCP-NG. Unified multi-cluster control, intelligent load balancing, and seamless cross-cluster VM migrations — all in one beautiful interface.  
 - [llm-openrouter](https://github.com/simonw/llm-openrouter) - LLM plugin for models hosted by OpenRouter  
 - [cloudbase-init](https://github.com/davidhood2/cloudbase-init) - Instructions and config for running Cloudbase-Init on a Windows 11 client via Proxmox PVE8.4.1  
-- [pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.  
+- [pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and reverse proxy for remote access  
 - [terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox) - Terraform provider plugin for proxmox  
 - [proxmox-packer-bitwarden](https://github.com/modem7/proxmox-packer-bitwarden) - Packer Image Build Template Code For Proxmox with Bitwarden-CLI support  
 - [cloudbase-init-installer](https://github.com/cloudbase/cloudbase-init-installer) - Cloudbase-Init MSI installer  
