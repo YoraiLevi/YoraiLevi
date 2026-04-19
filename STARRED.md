@@ -1,6 +1,6 @@
 ## Starred
 - [claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.  
-- [promptstats](https://github.com/ianarawjo/promptstats) - Statistical analysis methods for comparing prompt and model performance in LLM evaluations.  
+- [evalstats](https://github.com/ianarawjo/evalstats) - Statistical analysis methods for comparing prompt and model performance in LLM evaluations.  
 - [trzsz-ssh](https://github.com/trzsz/trzsz-ssh) - trzsz-ssh ( tssh ) is an ssh client designed as a drop-in replacement for the openssh client. It aims to provide complete compatibility with openssh, mirroring all its features, while also offering additional useful features. Such as login prompt, batch login, remember password, automated interaction, trzsz, zmodem(rz/sz), udp mode like mosh, etc.  
 - [trzsz-go](https://github.com/trzsz/trzsz-go) - trzsz-go is the go version of trzsz, makes all terminals that support local shell to support trzsz ( trz / tsz ).  
 - [cognetivy](https://github.com/meitarbe/cognetivy) - The open-source state layer for AI coding agents. Turn chaotic agent sessions into structured, traceable workflows with a local workspace for runs, events, and collections.  
@@ -11,12 +11,11 @@
 - [expanen_py](https://github.com/pasparsw/expanen_py) - Expandable enum utility for Python  
 - [extendable-enum](https://github.com/gweesip/extendable-enum) - Extend, subclass and reuse python Enums!  
 - [Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) - Agentic AI Infrastructure for magnifying HUMAN capabilities.  
-- [Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison) - Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc.  
 - [Kubernetes-Image-Builder](https://github.com/SneakyBugs/Kubernetes-Image-Builder)  
 - [project-pegaprox](https://github.com/PegaProx/project-pegaprox) - The ultimate datacenter management solution for Proxmox VE and XCP-NG. Unified multi-cluster control, intelligent load balancing, and seamless cross-cluster VM migrations — all in one beautiful interface.  
 - [llm-openrouter](https://github.com/simonw/llm-openrouter) - LLM plugin for models hosted by OpenRouter  
 - [cloudbase-init](https://github.com/davidhood2/cloudbase-init) - Instructions and config for running Cloudbase-Init on a Windows 11 client via Proxmox PVE8.4.1  
-- [pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and reverse proxy for remote access  
+- [pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access.  
 - [terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox) - Terraform provider plugin for proxmox  
 - [proxmox-packer-bitwarden](https://github.com/modem7/proxmox-packer-bitwarden) - Packer Image Build Template Code For Proxmox with Bitwarden-CLI support  
 - [cloudbase-init-installer](https://github.com/cloudbase/cloudbase-init-installer) - Cloudbase-Init MSI installer  
@@ -26,7 +25,7 @@
 - [terraform-proxmox-windows-example](https://github.com/rgl/terraform-proxmox-windows-example) - example on how to launch a windows vm using terraform in proxmox  
 - [vagrant-proxmox](https://github.com/telcat/vagrant-proxmox) - Use Vagrant to manage Proxmox virtual machines  
 - [claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.  
-- [Linx](https://github.com/feos7c5/Linx) - Linx is a lightweight proxy that connects local models (via Ollama or Llama.cpp) or OpenRouter models as standard OpenAI-compatible endpoints. Available in both GUI and CLI versions for flexible model management.  
+- Archived: [Linx](https://github.com/feos7c5/Linx) - Linx is a lightweight proxy that connects local models (via Ollama or Llama.cpp) or OpenRouter models as standard OpenAI-compatible endpoints. Available in both GUI and CLI versions for flexible model management.  
 - [NotEnoughHotkeys](https://github.com/VollRahm/NotEnoughHotkeys) - This is an Application to block input from a secondary keyboard and instead run custom defined Macros  
 - [Multi-Keyboard-For-AutoHotkey](https://github.com/sebeksd/Multi-Keyboard-For-AutoHotkey) - Multi unique keyboard support for AutoHotkey  
 - [GoToWindow](https://github.com/christianrondeau/GoToWindow) - A keyboard-maniac alt-tab alternative  
@@ -99,6 +98,7 @@
 - [jupyter_compare_view](https://github.com/Octoframes/jupyter_compare_view) - Blend Between Multiple Images in JupyterLab.  
 - [LinkedIn-Easy-Apply-Bot](https://github.com/nicolomantini/LinkedIn-Easy-Apply-Bot) - Automate the application process on LinkedIn  
 - [linkedin-easy-apply-bot](https://github.com/joaosilvalopes/linkedin-easy-apply-bot)  
+- [USB-Unattended-Proxmox](https://github.com/YosefCohen877/USB-Unattended-Proxmox) - Automated Proxmox on Debian 12  
 - [EnvPaths.psm1](https://gist.github.com/jaw/4d1d858b87a5c208fbe42fd4d4aa97a4)  
 - [mandelbrot-on-all-accelerators.ipynb](https://gist.github.com/jpivarski/da343abd8024834ee8c5aaba691aafc7)  
 - [wsl2.md](https://gist.github.com/hucsmn/da1dbc2eb5903cb3143c35313623e7b0) - A collection of WSL2 hacks  
