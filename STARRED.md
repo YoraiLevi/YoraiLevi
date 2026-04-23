@@ -1,4 +1,5 @@
 ## Starred
+- [repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.  
 - [claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.  
 - [evalstats](https://github.com/ianarawjo/evalstats) - Statistical analysis methods for comparing prompt and model performance in LLM evaluations.  
 - [trzsz-ssh](https://github.com/trzsz/trzsz-ssh) - trzsz-ssh ( tssh ) is an ssh client designed as a drop-in replacement for the openssh client. It aims to provide complete compatibility with openssh, mirroring all its features, while also offering additional useful features. Such as login prompt, batch login, remember password, automated interaction, trzsz, zmodem(rz/sz), udp mode like mosh, etc.  
@@ -25,7 +26,6 @@
 - [terraform-proxmox-windows-example](https://github.com/rgl/terraform-proxmox-windows-example) - example on how to launch a windows vm using terraform in proxmox  
 - [vagrant-proxmox](https://github.com/telcat/vagrant-proxmox) - Use Vagrant to manage Proxmox virtual machines  
 - [claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.  
-- Archived: [Linx](https://github.com/feos7c5/Linx) - Linx is a lightweight proxy that connects local models (via Ollama or Llama.cpp) or OpenRouter models as standard OpenAI-compatible endpoints. Available in both GUI and CLI versions for flexible model management.  
 - [NotEnoughHotkeys](https://github.com/VollRahm/NotEnoughHotkeys) - This is an Application to block input from a secondary keyboard and instead run custom defined Macros  
 - [Multi-Keyboard-For-AutoHotkey](https://github.com/sebeksd/Multi-Keyboard-For-AutoHotkey) - Multi unique keyboard support for AutoHotkey  
 - [GoToWindow](https://github.com/christianrondeau/GoToWindow) - A keyboard-maniac alt-tab alternative  
