@@ -1,4 +1,6 @@
 ## Starred
+- [Deep-Research-skills](https://github.com/Weizhena/Deep-Research-skills) - Structured deep research skill for Claude Code/Open Code/Codex with human-in-the-loop control  
+- [live-hooks](https://github.com/Taltzipi/live-hooks) - Lightweight hook wrappers for stale-safe async React  
 - [repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.  
 - [claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.  
 - [evalstats](https://github.com/ianarawjo/evalstats) - Statistical analysis methods for comparing prompt and model performance in LLM evaluations.  
@@ -97,8 +99,6 @@
 - [acme-dns](https://github.com/acme-dns/acme-dns) - Limited DNS server with RESTful HTTP API to handle ACME DNS challenges easily and securely.  
 - [jupyter_compare_view](https://github.com/Octoframes/jupyter_compare_view) - Blend Between Multiple Images in JupyterLab.  
 - [LinkedIn-Easy-Apply-Bot](https://github.com/nicolomantini/LinkedIn-Easy-Apply-Bot) - Automate the application process on LinkedIn  
-- [linkedin-easy-apply-bot](https://github.com/joaosilvalopes/linkedin-easy-apply-bot)  
-- [USB-Unattended-Proxmox](https://github.com/YosefCohen877/USB-Unattended-Proxmox) - Automated Proxmox on Debian 12  
 - [EnvPaths.psm1](https://gist.github.com/jaw/4d1d858b87a5c208fbe42fd4d4aa97a4)  
 - [mandelbrot-on-all-accelerators.ipynb](https://gist.github.com/jpivarski/da343abd8024834ee8c5aaba691aafc7)  
 - [wsl2.md](https://gist.github.com/hucsmn/da1dbc2eb5903cb3143c35313623e7b0) - A collection of WSL2 hacks  
