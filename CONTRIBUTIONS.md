@@ -4,6 +4,7 @@
 1 files changed, 22 insertions(+), 22 deletions(-) [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil/pull/1087) -- Update tweaks.json  
 2 files changed, 39 insertions(+), 2 deletions(-) [JulienPalard/Pipe](https://github.com/JulienPalard/Pipe/pull/94) -- One-off pipes  
 1 files changed, 0 insertions(+), 0 deletions(-) [Pscx/Pscx](https://github.com/Pscx/Pscx/pull/104) -- typo: Added missing ' in Edit-File help text  
+14 files changed, 250 insertions(+), 15 deletions(-) [DgxSparkLabs/agent-project-template](https://github.com/DgxSparkLabs/agent-project-template/pull/1) -- Migrate to Claude Code: CLAUDE.md replaces AGENTS.md, add .claude/ infrastructure  
 
 ### Things that didn't see the light of day
 

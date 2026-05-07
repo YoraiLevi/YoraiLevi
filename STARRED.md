@@ -11,7 +11,6 @@
 - [neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.  
 - [python-extended-enum](https://github.com/ilichev-andrey/python-extended-enum) - Extends the capabilities of the standard Enum.  
 - [aenum](https://github.com/ethanfurman/aenum) - Advanced Enumerations for Python  
-- [expanen_py](https://github.com/pasparsw/expanen_py) - Expandable enum utility for Python  
 - [extendable-enum](https://github.com/gweesip/extendable-enum) - Extend, subclass and reuse python Enums!  
 - [Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) - Agentic AI Infrastructure for magnifying HUMAN capabilities.  
 - [Kubernetes-Image-Builder](https://github.com/SneakyBugs/Kubernetes-Image-Builder)  
@@ -99,6 +98,7 @@
 - [acme-dns](https://github.com/acme-dns/acme-dns) - Limited DNS server with RESTful HTTP API to handle ACME DNS challenges easily and securely.  
 - [jupyter_compare_view](https://github.com/Octoframes/jupyter_compare_view) - Blend Between Multiple Images in JupyterLab.  
 - [LinkedIn-Easy-Apply-Bot](https://github.com/nicolomantini/LinkedIn-Easy-Apply-Bot) - Automate the application process on LinkedIn  
+- [linkedin-easy-apply-bot](https://github.com/joaosilvalopes/linkedin-easy-apply-bot)  
 - [EnvPaths.psm1](https://gist.github.com/jaw/4d1d858b87a5c208fbe42fd4d4aa97a4)  
 - [mandelbrot-on-all-accelerators.ipynb](https://gist.github.com/jpivarski/da343abd8024834ee8c5aaba691aafc7)  
 - [wsl2.md](https://gist.github.com/hucsmn/da1dbc2eb5903cb3143c35313623e7b0) - A collection of WSL2 hacks  
