@@ -1,9 +1,13 @@
 ## Repositories and Gists
+- [rfe-v2-and-notebooklm-py-review.md](https://gist.github.com/YoraiLevi/799bf0cd08c801a6a135d5dffdf421c8) - RFE v2 + Defensive Review: notebooklm-py adoption decision and Research-Formalize-Educate methodology refined by running it on itself  
+- [dgx-bootstrap-handbook.md](https://gist.github.com/YoraiLevi/9d26a3514f12b7d32390afd970d44000) - The Bootstrap Handbook: A Rookie's Implementation Manual (Vault, k3s, ESO, backups, SOPS, Renovate, cosign, monitoring, drills)  
+- [dgx-bootstrap-conundrum-book.md](https://gist.github.com/YoraiLevi/d788d3ecbc8545d40c41e0957683ca22) - The Bootstrap Conundrum: A Rookie's Live Book on How Real Companies Solve the Trust Problem  
+- [dgx-fleet-rookie-handoff.md](https://gist.github.com/YoraiLevi/19ef1d8688f21a96753cb85141dc611f) - DGX Spark fleet — rookie agent onboarding (control plane + 2x DGX Sparks via Ansible)  
 - [dotfiles](https://github.com/YoraiLevi/dotfiles) - dotfiles  
-- [Claude-Code-Complete-Research-Report-May-7-2026.md](https://gist.github.com/YoraiLevi/183fde73c8c3be43d9e39df57f3b1f8b) - Complete analysis of Claude Code (30 agents, 200+ sources, all references included)  
-- [Claude-Code-Research-Report-May-7-2026.md](https://gist.github.com/YoraiLevi/98fdead189a39fafd51bc7be8c297c9f) - Complete analysis of Claude Code enhancement ecosystem and pain points (30 agents, 200+ sources)  
 - [move-and-link](https://github.com/YoraiLevi/move-and-link) - Move a file or directory and replace it with a symlink at the source.  
 - [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
+- [Claude-Code-Complete-Research-Report-May-7-2026.md](https://gist.github.com/YoraiLevi/183fde73c8c3be43d9e39df57f3b1f8b) - Complete analysis of Claude Code (30 agents, 200+ sources, all references included)  
+- [Claude-Code-Research-Report-May-7-2026.md](https://gist.github.com/YoraiLevi/98fdead189a39fafd51bc7be8c297c9f) - Complete analysis of Claude Code enhancement ecosystem and pain points (30 agents, 200+ sources)  
 - [modular-monolith-fastapi](https://github.com/YoraiLevi/modular-monolith-fastapi) - This is a modular monolith Fast API project that uses the latest and greatest tooling (uv, ruff, pyright, pydantic, pytest, fastapi, sqlmodel, etc) attempting to implement a modular monolith architecture. The repository include pre-commit hooks for ruff, pyright, and uv.  
 - Archived: [SetFacebookPostsPrivate](https://github.com/YoraiLevi/SetFacebookPostsPrivate) - Automation tool that sets posts in facebook's activity log to private (public or friends) for the new 2020 design. using Tampermonkey  
 - [ahk-autohotkeys](https://github.com/YoraiLevi/ahk-autohotkeys)  
@@ -91,4 +95,4 @@
 - [chrome](https://github.com/YoraiLevi/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own  
 - [GM_SuperValue](https://github.com/YoraiLevi/GM_SuperValue) - Improved, error-free and readable version of GreaseMonkey/TamperMonkey storage script "GM_SuperValue"  
   
-2026-05-10T03:53:19.571091+00:00
+2026-05-14T02:48:40.215691+00:00
