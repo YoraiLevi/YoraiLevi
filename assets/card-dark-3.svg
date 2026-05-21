@@ -31,13 +31,13 @@
                                 <span data-view-component="true" class="position-relative">
                                     <a href="" data-view-component="true" class="min-width-0 Link text-bold flex-auto">
                                         <span class="repo">
-                                            dgx-fleet-rookie-handoff.md
+                                            goal-mechanism.md
                                         </span>
                                     </a>
                                     <tool-tip for="2544889" popover="manual" data-direction="s" data-type="description"
                                         data-view-component="true" class="position-absolute sr-only" role="tooltip"
                                         style="--tool-tip-position-top: 707.75px; --tool-tip-position-left: 368.625px;">
-                                        dgx-fleet-rookie-handoff.md</tool-tip>
+                                        goal-mechanism.md</tool-tip>
                                 </span>
                                 <span class=" flex-auto text-right">
                                     <span></span>
@@ -52,7 +52,7 @@
 
 
                             <p class="three-lines pinned-item-desc color-fg-muted text-small d-block mt-2 mb-3">
-                                DGX Spark fleet — rookie agent onboarding (control plane + 2x DGX Sparks via Ansible)
+                                How Claude Code /goal works under the hood — a static reverse-engineering writeup from the SEA binary, with verbatim system-prompt quotes and offsets
                             </p>
 
                             <p class="mb-0 f6 color-fg-muted">

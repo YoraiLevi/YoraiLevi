@@ -2,37 +2,37 @@
 
 <p align="center">
 
-<a href="https://gist.github.com/YoraiLevi/799bf0cd08c801a6a135d5dffdf421c8">
+<a href="https://gist.github.com/YoraiLevi/ecc015ac60925f1a0496fa5841bf3dd3">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-0.svg/">
 <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-0.svg/">
 <img align="center" src="./assets/card-dark-0.svg" />
 </picture></a>
-<a href="https://gist.github.com/YoraiLevi/9d26a3514f12b7d32390afd970d44000">
+<a href="https://gist.github.com/YoraiLevi/ba3d3b72374153909c0feeeb1b046c32">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-1.svg/">
 <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-1.svg/">
 <img align="center" src="./assets/card-dark-1.svg" />
 </picture></a>
-<a href="https://gist.github.com/YoraiLevi/d788d3ecbc8545d40c41e0957683ca22">
+<a href="https://gist.github.com/YoraiLevi/1e363143b5d01b731787e9d16fc49a7b">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-2.svg/">
 <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-2.svg/">
 <img align="center" src="./assets/card-dark-2.svg" />
 </picture></a>
-<a href="https://gist.github.com/YoraiLevi/19ef1d8688f21a96753cb85141dc611f">
+<a href="https://gist.github.com/YoraiLevi/054ffb7caebe7797293529457b71001d">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-3.svg/">
 <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-3.svg/">
 <img align="center" src="./assets/card-dark-3.svg" />
 </picture></a>
-<a href="https://github.com/YoraiLevi/dotfiles">
+<a href="https://gist.github.com/YoraiLevi/df90d2887aa2e83b49057b4a3cbf0b65">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-4.svg/">
 <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-4.svg/">
 <img align="center" src="./assets/card-dark-4.svg" />
 </picture></a>
-<a href="https://github.com/YoraiLevi/move-and-link">
+<a href="https://gist.github.com/YoraiLevi/c19fa68ff740cdb7dfe8d2c3a0240680">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-5.svg/">
 <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-5.svg/">

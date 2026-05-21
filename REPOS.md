@@ -1,11 +1,16 @@
 ## Repositories and Gists
-- [rfe-v2-and-notebooklm-py-review.md](https://gist.github.com/YoraiLevi/799bf0cd08c801a6a135d5dffdf421c8) - RFE v2 + Defensive Review: notebooklm-py adoption decision and Research-Formalize-Educate methodology refined by running it on itself  
-- [dgx-bootstrap-handbook.md](https://gist.github.com/YoraiLevi/9d26a3514f12b7d32390afd970d44000) - The Bootstrap Handbook: A Rookie's Implementation Manual (Vault, k3s, ESO, backups, SOPS, Renovate, cosign, monitoring, drills)  
-- [dgx-bootstrap-conundrum-book.md](https://gist.github.com/YoraiLevi/d788d3ecbc8545d40c41e0957683ca22) - The Bootstrap Conundrum: A Rookie's Live Book on How Real Companies Solve the Trust Problem  
-- [dgx-fleet-rookie-handoff.md](https://gist.github.com/YoraiLevi/19ef1d8688f21a96753cb85141dc611f) - DGX Spark fleet — rookie agent onboarding (control plane + 2x DGX Sparks via Ansible)  
-- [dotfiles](https://github.com/YoraiLevi/dotfiles) - dotfiles  
+- [ORCHESTRATOR-DESIGN.md](https://gist.github.com/YoraiLevi/ecc015ac60925f1a0496fa5841bf3dd3) - Multi-Channel PTY Broadcast: Design Proposal for a TUI Agent Orchestrator with Web + Terminal Access  
+- [GIST-DRAFT.md](https://gist.github.com/YoraiLevi/ba3d3b72374153909c0feeeb1b046c32) - Controlling Interactive CLI / Agent Harnesses: A Designer's Manual  
+- [zellij-unified-tab-session-picker-and-live-tab-naming.md](https://gist.github.com/YoraiLevi/1e363143b5d01b731787e9d16fc49a7b) - Plan: unified zellij Ctrl+Shift+A tab+session picker (across all sessions) + live tab naming for WSL bash & pwsh on Windows. Includes architectural decisions with inline source citations, schematic diagrams, success/failure criteria, and a component roadmap with ship milestones.  
+- [goal-mechanism.md](https://gist.github.com/YoraiLevi/054ffb7caebe7797293529457b71001d) - How Claude Code /goal works under the hood — a static reverse-engineering writeup from the SEA binary, with verbatim system-prompt quotes and offsets  
+- [explain-what-this-parameter-nested-owl.md](https://gist.github.com/YoraiLevi/df90d2887aa2e83b49057b4a3cbf0b65) - Linux sysctl parameter reference: kernel.* and vm.* tunables (panic/lockup/hung-task detection, overcommit, dirty ratios, swappiness, etc.) — what they mean, defaults, implications, and how to observe them  
+- [README.md](https://gist.github.com/YoraiLevi/c19fa68ff740cdb7dfe8d2c3a0240680) - Install Podman on Windows for current user only — step-by-step guide + PowerShell script  
+- [claude-code-message-queueing.md](https://gist.github.com/YoraiLevi/f7c454a0e3a1e206124004241940f972) - Queueing messages to Claude Code while it's working: diagnosis, escape hatches (with code), Windows reality check, and how Codex/Copilot/Cline/Gemini/opencode/etc. solve it  
 - [move-and-link](https://github.com/YoraiLevi/move-and-link) - Move a file or directory and replace it with a symlink at the source.  
+- [claude-code-in-containers-guide.md](https://gist.github.com/YoraiLevi/a319c347521738969ab1b39bc418134a) - Running Claude Code Inside Isolated Containers with Local-Feeling Persistence — a catalog of approaches, solutions, security caveats, and a recommended recipe  
 - [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
+- [rfe-v2-and-notebooklm-py-review.md](https://gist.github.com/YoraiLevi/799bf0cd08c801a6a135d5dffdf421c8) - RFE v2 + Defensive Review: notebooklm-py adoption decision and Research-Formalize-Educate methodology refined by running it on itself  
+- [dotfiles](https://github.com/YoraiLevi/dotfiles) - dotfiles  
 - [Claude-Code-Complete-Research-Report-May-7-2026.md](https://gist.github.com/YoraiLevi/183fde73c8c3be43d9e39df57f3b1f8b) - Complete analysis of Claude Code (30 agents, 200+ sources, all references included)  
 - [Claude-Code-Research-Report-May-7-2026.md](https://gist.github.com/YoraiLevi/98fdead189a39fafd51bc7be8c297c9f) - Complete analysis of Claude Code enhancement ecosystem and pain points (30 agents, 200+ sources)  
 - [modular-monolith-fastapi](https://github.com/YoraiLevi/modular-monolith-fastapi) - This is a modular monolith Fast API project that uses the latest and greatest tooling (uv, ruff, pyright, pydantic, pytest, fastapi, sqlmodel, etc) attempting to implement a modular monolith architecture. The repository include pre-commit hooks for ruff, pyright, and uv.  
@@ -56,6 +61,11 @@
 - [pasteconsole.js](https://gist.github.com/YoraiLevi/3365f9a60c8033d8c797dc409acbb26e) - this code is obsolete since the 2020 new facebook design. refer to: https://github.com/YoraiLevi/SetFacebookPostsPrivate make all facebook posts private(activity log) very dumb code.  
 - [My-Tech-Wearables](https://github.com/YoraiLevi/My-Tech-Wearables) - Cloth cat ears wearable with led strips! and more!  
 ## Forks
+- [happy](https://github.com/YoraiLevi/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured  
+- [claude-code-kanban](https://github.com/YoraiLevi/claude-code-kanban) - A web-based Kanban Board & Agent Orchestration  
+- [notebooklm-py](https://github.com/YoraiLevi/notebooklm-py) - Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.  
+- [Claude-Code-Dashboard](https://github.com/YoraiLevi/Claude-Code-Dashboard) - A VS Code extension that shows you exactly what Claude is doing — tokens, costs, sessions, and insights across all your projects, right inside VS Code.  
+- [qlaude](https://github.com/YoraiLevi/qlaude) - Stop babysitting Claude Code. Queue tasks, walk away, get Telegram pings when it needs you.  
 - [Packer.old](https://github.com/YoraiLevi/Packer.old) - Contains all Packer Automation files  
 - [windows-vagrant](https://github.com/YoraiLevi/windows-vagrant) - Windows 11/2022/2025 Base Vagrant Box (https://app.vagrantup.com/rgl)  
 - [proxmox-packer-templates](https://github.com/YoraiLevi/proxmox-packer-templates) - Proxmox VM Templates with Packer  
@@ -95,4 +105,4 @@
 - [chrome](https://github.com/YoraiLevi/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own  
 - [GM_SuperValue](https://github.com/YoraiLevi/GM_SuperValue) - Improved, error-free and readable version of GreaseMonkey/TamperMonkey storage script "GM_SuperValue"  
   
-2026-05-14T02:48:40.215691+00:00
+2026-05-21T02:57:02.199212+00:00
