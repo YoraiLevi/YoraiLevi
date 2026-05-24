@@ -1,4 +1,5 @@
 ## Repositories and Gists
+- [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [ORCHESTRATOR-DESIGN.md](https://gist.github.com/YoraiLevi/ecc015ac60925f1a0496fa5841bf3dd3) - Multi-Channel PTY Broadcast: Design Proposal for a TUI Agent Orchestrator with Web + Terminal Access  
 - [GIST-DRAFT.md](https://gist.github.com/YoraiLevi/ba3d3b72374153909c0feeeb1b046c32) - Controlling Interactive CLI / Agent Harnesses: A Designer's Manual  
 - [zellij-unified-tab-session-picker-and-live-tab-naming.md](https://gist.github.com/YoraiLevi/1e363143b5d01b731787e9d16fc49a7b) - Plan: unified zellij Ctrl+Shift+A tab+session picker (across all sessions) + live tab naming for WSL bash & pwsh on Windows. Includes architectural decisions with inline source citations, schematic diagrams, success/failure criteria, and a component roadmap with ship milestones.  
@@ -8,7 +9,6 @@
 - [claude-code-message-queueing.md](https://gist.github.com/YoraiLevi/f7c454a0e3a1e206124004241940f972) - Queueing messages to Claude Code while it's working: diagnosis, escape hatches (with code), Windows reality check, and how Codex/Copilot/Cline/Gemini/opencode/etc. solve it  
 - [move-and-link](https://github.com/YoraiLevi/move-and-link) - Move a file or directory and replace it with a symlink at the source.  
 - [claude-code-in-containers-guide.md](https://gist.github.com/YoraiLevi/a319c347521738969ab1b39bc418134a) - Running Claude Code Inside Isolated Containers with Local-Feeling Persistence — a catalog of approaches, solutions, security caveats, and a recommended recipe  
-- [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [rfe-v2-and-notebooklm-py-review.md](https://gist.github.com/YoraiLevi/799bf0cd08c801a6a135d5dffdf421c8) - RFE v2 + Defensive Review: notebooklm-py adoption decision and Research-Formalize-Educate methodology refined by running it on itself  
 - [dotfiles](https://github.com/YoraiLevi/dotfiles) - dotfiles  
 - [Claude-Code-Complete-Research-Report-May-7-2026.md](https://gist.github.com/YoraiLevi/183fde73c8c3be43d9e39df57f3b1f8b) - Complete analysis of Claude Code (30 agents, 200+ sources, all references included)  
@@ -61,6 +61,7 @@
 - [pasteconsole.js](https://gist.github.com/YoraiLevi/3365f9a60c8033d8c797dc409acbb26e) - this code is obsolete since the 2020 new facebook design. refer to: https://github.com/YoraiLevi/SetFacebookPostsPrivate make all facebook posts private(activity log) very dumb code.  
 - [My-Tech-Wearables](https://github.com/YoraiLevi/My-Tech-Wearables) - Cloth cat ears wearable with led strips! and more!  
 ## Forks
+- [ai-that-works](https://github.com/YoraiLevi/ai-that-works) - 🦄 ai that works - every tuesday 10 AM PST  
 - [happy](https://github.com/YoraiLevi/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured  
 - [claude-code-kanban](https://github.com/YoraiLevi/claude-code-kanban) - A web-based Kanban Board & Agent Orchestration  
 - [notebooklm-py](https://github.com/YoraiLevi/notebooklm-py) - Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.  
@@ -105,4 +106,4 @@
 - [chrome](https://github.com/YoraiLevi/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own  
 - [GM_SuperValue](https://github.com/YoraiLevi/GM_SuperValue) - Improved, error-free and readable version of GreaseMonkey/TamperMonkey storage script "GM_SuperValue"  
   
-2026-05-21T02:57:02.199212+00:00
+2026-05-24T04:10:40.011148+00:00

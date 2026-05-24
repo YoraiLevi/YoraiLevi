@@ -1,4 +1,7 @@
 ## Starred
+- [flue](https://github.com/withastro/flue) - The sandbox agent framework.  
+- [sandcastle](https://github.com/mattpocock/sandcastle) - Orchestrate sandboxed coding agents in TypeScript with sandcastle.run()  
+- [ai-that-works](https://github.com/ai-that-works/ai-that-works) - 🦄 ai that works - every tuesday 10 AM PST  
 - [claude-code-tts](https://github.com/ybouhjira/claude-code-tts) - 🔊 Text-to-Speech MCP plugin for Claude Code - hear audio feedback while coding (OpenAI TTS)  
 - [devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments  
 - [docker-obsidian](https://github.com/linuxserver/docker-obsidian)  
@@ -96,9 +99,6 @@
 - [yt-python-ci](https://github.com/timvancann/yt-python-ci)  
 - [useful_types](https://github.com/hauntsaninja/useful_types) - Useful types for Python  
 - [awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub  
-- [awesome-proxmox-ve](https://github.com/Corsinvest/awesome-proxmox-ve) - A collection of awesome Proxmox VE documentation, tools, api, blogs, site  
-- [setup-matrix](https://github.com/druzsan/setup-matrix) - GitHub action to create a reusable and potentially dynamic matrix for workflow jobs.  
-- [kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization  
 - [EnvPaths.psm1](https://gist.github.com/jaw/4d1d858b87a5c208fbe42fd4d4aa97a4)  
 - [mandelbrot-on-all-accelerators.ipynb](https://gist.github.com/jpivarski/da343abd8024834ee8c5aaba691aafc7)  
 - [wsl2.md](https://gist.github.com/hucsmn/da1dbc2eb5903cb3143c35313623e7b0) - A collection of WSL2 hacks  
