@@ -1,6 +1,6 @@
 ## TBD Contributions
 
-685 files changed, 66845 insertions(+), 5962 deletions(-) [DgxSparkLabs/marketplace](https://github.com/DgxSparkLabs/marketplace/pull/1) -- feat: plugin marketplace compliance + multi-platform validation CI  
+237 files changed, 11960 insertions(+), 964 deletions(-) [DgxSparkLabs/marketplace](https://github.com/DgxSparkLabs/marketplace/pull/10) -- chore: housekeeping cleanup + roadmap + mcp-example name alignment  
 
 ## My Contributions
 
@@ -9,6 +9,15 @@
 2 files changed, 39 insertions(+), 2 deletions(-) [JulienPalard/Pipe](https://github.com/JulienPalard/Pipe/pull/94) -- One-off pipes  
 1 files changed, 0 insertions(+), 0 deletions(-) [Pscx/Pscx](https://github.com/Pscx/Pscx/pull/104) -- typo: Added missing ' in Edit-File help text  
 14 files changed, 250 insertions(+), 15 deletions(-) [DgxSparkLabs/agent-project-template](https://github.com/DgxSparkLabs/agent-project-template/pull/1) -- Migrate to Claude Code: CLAUDE.md replaces AGENTS.md, add .claude/ infrastructure  
+850 files changed, 82010 insertions(+), 5932 deletions(-) [DgxSparkLabs/marketplace](https://github.com/DgxSparkLabs/marketplace/pull/1) -- feat: plugin marketplace compliance + multi-platform validation CI  
+42 files changed, 5700 insertions(+), 121 deletions(-) [DgxSparkLabs/marketplace](https://github.com/DgxSparkLabs/marketplace/pull/2) -- docs(cleanup): post-PR-#1 audit trail + footnote drops + handoff refresh  
+89 files changed, 1684 insertions(+), 475 deletions(-) [DgxSparkLabs/marketplace](https://github.com/DgxSparkLabs/marketplace/pull/3) -- docs: consolidation 2026-05 (master docs + archive 30+ old docs)  
+274 files changed, 3734 insertions(+), 25268 deletions(-) [DgxSparkLabs/marketplace](https://github.com/DgxSparkLabs/marketplace/pull/4) -- refactor: platform feature routing (sub-agents, hooks, CLI shim)  
+91 files changed, 10499 insertions(+), 81 deletions(-) [DgxSparkLabs/marketplace](https://github.com/DgxSparkLabs/marketplace/pull/5) -- fix(platforms): correct per-platform emission bugs from 2026-05-25 QA  
+211 files changed, 12719 insertions(+), 2405 deletions(-) [DgxSparkLabs/marketplace](https://github.com/DgxSparkLabs/marketplace/pull/6) -- fix(claude): verified working state + user guide + QA validation expansion  
+1 files changed, 30 insertions(+), 30 deletions(-) [DgxSparkLabs/marketplace](https://github.com/DgxSparkLabs/marketplace/pull/7) -- docs(test-yourself): point at main as clone target post-merge  
+6 files changed, 531 insertions(+), 10 deletions(-) [DgxSparkLabs/marketplace](https://github.com/DgxSparkLabs/marketplace/pull/8) -- feat(qa): hermetic Claude session via stub server for F5/F7/F9  
+632 files changed, 171 insertions(+), 41566 deletions(-) [DgxSparkLabs/marketplace](https://github.com/DgxSparkLabs/marketplace/pull/9) -- refactor: minimal-stable-state — archive 26 skills + 21 rules, rename example-command -> hello, document naming convention  
 
 ### Things that didn't see the light of day
 

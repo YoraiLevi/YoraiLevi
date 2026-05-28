@@ -31,13 +31,13 @@
                                 <span data-view-component="true" class="position-relative">
                                     <a href="" data-view-component="true" class="min-width-0 Link text-bold flex-auto">
                                         <span class="repo">
-                                            ORCHESTRATOR-DESIGN.md
+                                            obsidian-stack-dyslexic-voice-engineer-2026-05-28.md
                                         </span>
                                     </a>
                                     <tool-tip for="2544889" popover="manual" data-direction="s" data-type="description"
                                         data-view-component="true" class="position-absolute sr-only" role="tooltip"
                                         style="--tool-tip-position-top: 707.75px; --tool-tip-position-left: 368.625px;">
-                                        ORCHESTRATOR-DESIGN.md</tool-tip>
+                                        obsidian-stack-dyslexic-voice-engineer-2026-05-28.md</tool-tip>
                                 </span>
                                 <span class=" flex-auto text-right">
                                     <span></span>
@@ -52,7 +52,7 @@
 
 
                             <p class="three-lines pinned-item-desc color-fg-muted text-small d-block mt-2 mb-3">
-                                Multi-Channel PTY Broadcast: Design Proposal for a TUI Agent Orchestrator with Web + Terminal Access
+                                Obsidian plugin stack + setup recipes for a dyslexic, voice-first engineer working with AI agents. Evidence-backed (PNAS/Annals of Dyslexia/CHI 2023). Includes migration script, anti-recommendations with citations, and book wishlist.
                             </p>
 
                             <p class="mb-0 f6 color-fg-muted">

@@ -52,7 +52,7 @@
 
 
                             <p class="three-lines pinned-item-desc color-fg-muted text-small d-block mt-2 mb-3">
-                                Install Podman on Windows for current user only — step-by-step guide + PowerShell script
+                                Session-scoped hooks in Claude Code: how /goal works and how to get the same effect via settings.local.json hot-reload
                             </p>
 
                             <p class="mb-0 f6 color-fg-muted">
