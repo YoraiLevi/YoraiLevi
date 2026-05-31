@@ -1,4 +1,5 @@
 ## Starred
+- [jiffyreader-plugin](https://github.com/jiffyreader/jiffyreader-plugin) - A Browser Extension for faster reading on ANY website!  
 - [Ghostex](https://github.com/maddada/Ghostex) - Native Agent CLIs manager for macOS. Ghostty + Codex app = Ghostex! Embedded browser. Strong agents support.  
 - [blackwell-gpu-wiki](https://github.com/0xSero/blackwell-gpu-wiki) - Educational reference: NVIDIA Blackwell SM100 vs SM120, NVFP4, tcgen05, MoE inference on consumer Blackwell  
 - [flue](https://github.com/withastro/flue) - The sandbox agent framework.  
@@ -98,7 +99,6 @@
 - [nbimporter](https://github.com/grst/nbimporter) - Import ipython notebooks as modules  
 - [patch-package](https://github.com/ds300/patch-package) - Fix broken node modules instantly  🏃🏽‍♀️💨  
 - [pdftris](https://github.com/ThomasRinsma/pdftris) - Tetris in a PDF (in most browsers)  
-- [yt-python-ci](https://github.com/timvancann/yt-python-ci)  
 - [EnvPaths.psm1](https://gist.github.com/jaw/4d1d858b87a5c208fbe42fd4d4aa97a4)  
 - [mandelbrot-on-all-accelerators.ipynb](https://gist.github.com/jpivarski/da343abd8024834ee8c5aaba691aafc7)  
 - [wsl2.md](https://gist.github.com/hucsmn/da1dbc2eb5903cb3143c35313623e7b0) - A collection of WSL2 hacks  

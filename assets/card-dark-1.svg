@@ -31,13 +31,13 @@
                                 <span data-view-component="true" class="position-relative">
                                     <a href="" data-view-component="true" class="min-width-0 Link text-bold flex-auto">
                                         <span class="repo">
-                                            engineer-agent-workflow-brief.md
+                                            obsidian-stack-dyslexic-voice-engineer-2026-05-28.md
                                         </span>
                                     </a>
                                     <tool-tip for="2544889" popover="manual" data-direction="s" data-type="description"
                                         data-view-component="true" class="position-absolute sr-only" role="tooltip"
                                         style="--tool-tip-position-top: 707.75px; --tool-tip-position-left: 368.625px;">
-                                        engineer-agent-workflow-brief.md</tool-tip>
+                                        obsidian-stack-dyslexic-voice-engineer-2026-05-28.md</tool-tip>
                                 </span>
                                 <span class=" flex-auto text-right">
                                     <span></span>
@@ -52,7 +52,7 @@
 
 
                             <p class="three-lines pinned-item-desc color-fg-muted text-small d-block mt-2 mb-3">
-                                Problem brief: workflow infrastructure for solo engineers using executing AI agents (push status, fresh-eyes voice partner, bidirectional decision signaling) — spec only, not implemented
+                                [MERGED] Content moved to https://gist.github.com/YoraiLevi/893a2e5f0725457685e4cd0664ed9cc6 — the Obsidian plugin recommendations are now embedded inside the broader problem-statement-and-solutions booklet.
                             </p>
 
                             <p class="mb-0 f6 color-fg-muted">

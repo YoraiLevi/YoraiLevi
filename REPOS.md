@@ -1,13 +1,13 @@
 ## Repositories and Gists
-- [obsidian-stack-dyslexic-voice-engineer-2026-05-28.md](https://gist.github.com/YoraiLevi/c45e3c105b85e1fb48eee7f08d7bc27b) - Obsidian plugin stack + setup recipes for a dyslexic, voice-first engineer working with AI agents. Evidence-backed (PNAS/Annals of Dyslexia/CHI 2023). Includes migration script, anti-recommendations with citations, and book wishlist.  
-- [engineer-agent-workflow-brief.md](https://gist.github.com/YoraiLevi/893a2e5f0725457685e4cd0664ed9cc6) - Problem brief: workflow infrastructure for solo engineers using executing AI agents (push status, fresh-eyes voice partner, bidirectional decision signaling) — spec only, not implemented  
+- [engineer-agent-workflow-brief.md](https://gist.github.com/YoraiLevi/893a2e5f0725457685e4cd0664ed9cc6) - Merged problem brief + solution booklet for a dyslexic, voice-first solo engineer working with AI agents. Motivated reasoning + devil's-advocate counter-arguments per recommendation. Evidence-backed (PNAS/Annals of Dyslexia/CHI 2023). Inline citations throughout.  
+- [obsidian-stack-dyslexic-voice-engineer-2026-05-28.md](https://gist.github.com/YoraiLevi/c45e3c105b85e1fb48eee7f08d7bc27b) - [MERGED] Content moved to https://gist.github.com/YoraiLevi/893a2e5f0725457685e4cd0664ed9cc6 — the Obsidian plugin recommendations are now embedded inside the broader problem-statement-and-solutions booklet.  
+- [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [philosophy-2026-05-27.md](https://gist.github.com/YoraiLevi/a0668dc4e0ad1c3c61d3ebe86afe7d69) - A documentation philosophy that survived a long session — reflections on operator templates, research-before-prose, and the discipline of building artifacts that prevent failure modes  
 - [GIST-DRAFT.md](https://gist.github.com/YoraiLevi/ba3d3b72374153909c0feeeb1b046c32) - Controlling Interactive CLI / Agent Harnesses: A Designer's Manual  
 - [ORCHESTRATOR-DESIGN.md](https://gist.github.com/YoraiLevi/ecc015ac60925f1a0496fa5841bf3dd3) - Multi-Channel PTY Broadcast: Design Proposal for a TUI Agent Orchestrator with Web + Terminal Access  
 - [README.md](https://gist.github.com/YoraiLevi/e23a58b63d490d7146a0af51807d1279) - Session-scoped hooks in Claude Code: how /goal works and how to get the same effect via settings.local.json hot-reload  
 - [internet-research-agent-sharded-hopcroft.md](https://gist.github.com/YoraiLevi/3129f407b9556c332f4b7f845059d5ed) - Internet-Research-Agent pain-point introspection + spec refinements (generated via /agent-pain-points meta-pass)  
 - [modular-monolith-fastapi](https://github.com/YoraiLevi/modular-monolith-fastapi) - This is a modular monolith Fast API project that uses the latest and greatest tooling (uv, ruff, pyright, pydantic, pytest, fastapi, sqlmodel, etc) attempting to implement a modular monolith architecture. The repository include pre-commit hooks for ruff, pyright, and uv.  
-- [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [zellij-unified-tab-session-picker-and-live-tab-naming.md](https://gist.github.com/YoraiLevi/1e363143b5d01b731787e9d16fc49a7b) - Plan: unified zellij Ctrl+Shift+A tab+session picker (across all sessions) + live tab naming for WSL bash & pwsh on Windows. Includes architectural decisions with inline source citations, schematic diagrams, success/failure criteria, and a component roadmap with ship milestones.  
 - [goal-mechanism.md](https://gist.github.com/YoraiLevi/054ffb7caebe7797293529457b71001d) - How Claude Code /goal works under the hood — a static reverse-engineering writeup from the SEA binary, with verbatim system-prompt quotes and offsets  
 - [explain-what-this-parameter-nested-owl.md](https://gist.github.com/YoraiLevi/df90d2887aa2e83b49057b4a3cbf0b65) - Linux sysctl parameter reference: kernel.* and vm.* tunables (panic/lockup/hung-task detection, overcommit, dirty ratios, swappiness, etc.) — what they mean, defaults, implications, and how to observe them  
@@ -84,6 +84,7 @@
 - [best-of-python-dev](https://github.com/YoraiLevi/best-of-python-dev) - 🏆 A ranked list of awesome python developer tools and libraries. Updated weekly.  
 - [awesome-python](https://github.com/YoraiLevi/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.  
 - [Multi-Keyboard-For-AutoHotkey](https://github.com/YoraiLevi/Multi-Keyboard-For-AutoHotkey) - Multi unique keyboard support for AutoHotkey  
+- [jiffyreader-plugin](https://github.com/YoraiLevi/jiffyreader-plugin) - A Browser Extension for faster reading on ANY website!  
 - [vscode-default-keybindings](https://github.com/YoraiLevi/vscode-default-keybindings) - VSCode keybinding extentension that can set any OS default keybindings as the current ones.  
 - [vscode-classic-experience](https://github.com/YoraiLevi/vscode-classic-experience) - Restore familiar VSCode keybindings in Cursor editor. Smooth transition for VSCode users.  
 - [awesome-mlops](https://github.com/YoraiLevi/awesome-mlops) - :sunglasses: A curated list of awesome MLOps tools  
@@ -111,4 +112,4 @@
 - [chrome](https://github.com/YoraiLevi/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own  
 - [GM_SuperValue](https://github.com/YoraiLevi/GM_SuperValue) - Improved, error-free and readable version of GreaseMonkey/TamperMonkey storage script "GM_SuperValue"  
   
-2026-05-28T02:48:56.736432+00:00
+2026-05-31T04:23:46.226633+00:00
