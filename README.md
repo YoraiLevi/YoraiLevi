@@ -2,37 +2,37 @@
 
 <p align="center">
 
-<a href="https://gist.github.com/YoraiLevi/893a2e5f0725457685e4cd0664ed9cc6">
+<a href="https://gist.github.com/YoraiLevi/5a18f8cd9545549d2b28bed203496fb3">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-0.svg/">
 <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-0.svg/">
 <img align="center" src="./assets/card-dark-0.svg" />
 </picture></a>
-<a href="https://gist.github.com/YoraiLevi/c45e3c105b85e1fb48eee7f08d7bc27b">
+<a href="https://gist.github.com/YoraiLevi/c7c0f156d4f5016d7f1dac0cada802ca">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-1.svg/">
 <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-1.svg/">
 <img align="center" src="./assets/card-dark-1.svg" />
 </picture></a>
-<a href="https://gist.github.com/YoraiLevi/a0668dc4e0ad1c3c61d3ebe86afe7d69">
+<a href="https://gist.github.com/YoraiLevi/893a2e5f0725457685e4cd0664ed9cc6">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-2.svg/">
 <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-2.svg/">
 <img align="center" src="./assets/card-dark-2.svg" />
 </picture></a>
-<a href="https://gist.github.com/YoraiLevi/ba3d3b72374153909c0feeeb1b046c32">
+<a href="https://gist.github.com/YoraiLevi/c45e3c105b85e1fb48eee7f08d7bc27b">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-3.svg/">
 <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-3.svg/">
 <img align="center" src="./assets/card-dark-3.svg" />
 </picture></a>
-<a href="https://gist.github.com/YoraiLevi/ecc015ac60925f1a0496fa5841bf3dd3">
+<a href="https://gist.github.com/YoraiLevi/a0668dc4e0ad1c3c61d3ebe86afe7d69">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-4.svg/">
 <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-4.svg/">
 <img align="center" src="./assets/card-dark-4.svg" />
 </picture></a>
-<a href="https://gist.github.com/YoraiLevi/e23a58b63d490d7146a0af51807d1279">
+<a href="https://gist.github.com/YoraiLevi/ba3d3b72374153909c0feeeb1b046c32">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-5.svg/">
 <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-5.svg/">

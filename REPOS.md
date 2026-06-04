@@ -1,7 +1,9 @@
 ## Repositories and Gists
+- [proxmox-zfs-storage-setup.md](https://gist.github.com/YoraiLevi/5a18f8cd9545549d2b28bed203496fb3) - Proxmox VE: migrating an LXC off LVM-thin onto ZFS - pools, datasets, zfspool storage, and a recursive snapshot cron (single-node notes)  
+- [smb-zfs-proxmox.md](https://gist.github.com/YoraiLevi/c7c0f156d4f5016d7f1dac0cada802ca) - Exposing a ZFS dataset over SMB on Proxmox with Windows Previous Versions from ZFS snapshots  
+- [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [engineer-agent-workflow-brief.md](https://gist.github.com/YoraiLevi/893a2e5f0725457685e4cd0664ed9cc6) - Merged problem brief + solution booklet for a dyslexic, voice-first solo engineer working with AI agents. Motivated reasoning + devil's-advocate counter-arguments per recommendation. Evidence-backed (PNAS/Annals of Dyslexia/CHI 2023). Inline citations throughout.  
 - [obsidian-stack-dyslexic-voice-engineer-2026-05-28.md](https://gist.github.com/YoraiLevi/c45e3c105b85e1fb48eee7f08d7bc27b) - [MERGED] Content moved to https://gist.github.com/YoraiLevi/893a2e5f0725457685e4cd0664ed9cc6 — the Obsidian plugin recommendations are now embedded inside the broader problem-statement-and-solutions booklet.  
-- [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [philosophy-2026-05-27.md](https://gist.github.com/YoraiLevi/a0668dc4e0ad1c3c61d3ebe86afe7d69) - A documentation philosophy that survived a long session — reflections on operator templates, research-before-prose, and the discipline of building artifacts that prevent failure modes  
 - [GIST-DRAFT.md](https://gist.github.com/YoraiLevi/ba3d3b72374153909c0feeeb1b046c32) - Controlling Interactive CLI / Agent Harnesses: A Designer's Manual  
 - [ORCHESTRATOR-DESIGN.md](https://gist.github.com/YoraiLevi/ecc015ac60925f1a0496fa5841bf3dd3) - Multi-Channel PTY Broadcast: Design Proposal for a TUI Agent Orchestrator with Web + Terminal Access  
@@ -112,4 +114,4 @@
 - [chrome](https://github.com/YoraiLevi/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own  
 - [GM_SuperValue](https://github.com/YoraiLevi/GM_SuperValue) - Improved, error-free and readable version of GreaseMonkey/TamperMonkey storage script "GM_SuperValue"  
   
-2026-05-31T04:23:46.226633+00:00
+2026-06-04T03:39:39.527421+00:00

@@ -1,6 +1,6 @@
 ## TBD Contributions
 
-419 files changed, 15058 insertions(+), 1371 deletions(-) [DgxSparkLabs/marketplace](https://github.com/DgxSparkLabs/marketplace/pull/10) -- chore: housekeeping cleanup + roadmap + mcp-example name alignment  
+228 files changed, 89 insertions(+), 367 deletions(-) [DgxSparkLabs/marketplace](https://github.com/DgxSparkLabs/marketplace/pull/15) -- docs: post-v1.0.0 consolidation — archive settled research, de-drift entry docs  
 
 ## My Contributions
 
@@ -18,6 +18,9 @@
 1 files changed, 30 insertions(+), 30 deletions(-) [DgxSparkLabs/marketplace](https://github.com/DgxSparkLabs/marketplace/pull/7) -- docs(test-yourself): point at main as clone target post-merge  
 6 files changed, 531 insertions(+), 10 deletions(-) [DgxSparkLabs/marketplace](https://github.com/DgxSparkLabs/marketplace/pull/8) -- feat(qa): hermetic Claude session via stub server for F5/F7/F9  
 632 files changed, 171 insertions(+), 41566 deletions(-) [DgxSparkLabs/marketplace](https://github.com/DgxSparkLabs/marketplace/pull/9) -- refactor: minimal-stable-state — archive 26 skills + 21 rules, rename example-command -> hello, document naming convention  
+475 files changed, 20201 insertions(+), 1998 deletions(-) [DgxSparkLabs/marketplace](https://github.com/DgxSparkLabs/marketplace/pull/10) -- release: v1.0.0 — stable, PR-friendly marketplace (Claude-first)  
+2 files changed, 147 insertions(+), 1 deletions(-) [DgxSparkLabs/marketplace](https://github.com/DgxSparkLabs/marketplace/pull/13) -- docs: jump-start brief for the post-v1.0.0 doc-consolidation task  
+1 files changed, 63 insertions(+), 0 deletions(-) [DgxSparkLabs/marketplace](https://github.com/DgxSparkLabs/marketplace/pull/14) -- docs: launch prompt for the doc-consolidation rookie agent  
 
 ### Things that didn't see the light of day
 

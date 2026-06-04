@@ -1,6 +1,12 @@
 ## Starred
+- [dgx-spark-cli](https://github.com/agentculture/dgx-spark-cli) - Agent and CLI for operating an NVIDIA DGX Spark (Grace-Blackwell) workstation — device setup, health/monitoring, and local AI/ML workload management.  
+- [parallel-code](https://github.com/johannesjo/parallel-code) - Run Claude Code, Codex, and Gemini side by side — each in      its own git worktree  
+- [ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration  
+- [claude-tmux](https://github.com/nielsgroen/claude-tmux) - Manage Claude Code within tmux. A tmux popup with session management, git worktree and pull request support.  
+- [pexpect](https://github.com/pexpect/pexpect) - A Python module for controlling interactive programs in a pseudo-terminal  
+- [reple](https://github.com/j3ka/reple) - Reple - wrapper for your repl  
 - [jiffyreader-plugin](https://github.com/jiffyreader/jiffyreader-plugin) - A Browser Extension for faster reading on ANY website!  
-- [Ghostex](https://github.com/maddada/Ghostex) - Native Agent CLIs manager for macOS. Ghostty + Codex app = Ghostex! Embedded browser. Strong agents support.  
+- [Ghostex](https://github.com/maddada/Ghostex) - Native Agent CLIs manager for macOS. Ghostty Terminals + Codex App Features/UX = Ghostex! Embedded browser & IDE. Strong agents support.  
 - [blackwell-gpu-wiki](https://github.com/0xSero/blackwell-gpu-wiki) - Educational reference: NVIDIA Blackwell SM100 vs SM120, NVFP4, tcgen05, MoE inference on consumer Blackwell  
 - [flue](https://github.com/withastro/flue) - The sandbox agent framework.  
 - [sandcastle](https://github.com/mattpocock/sandcastle) - Orchestrate sandboxed coding agents in TypeScript with sandcastle.run()  
@@ -93,12 +99,6 @@
 - [mustache.js](https://github.com/janl/mustache.js) - Minimal templating with {{mustaches}} in JavaScript  
 - [spec](https://github.com/mustache/spec) - The Mustache spec.  
 - [drawdata](https://github.com/koaning/drawdata) - Draw datasets from within Python notebooks.  
-- [promise](https://github.com/syrusakbary/promise) - Ultra-performant Promise implementation in Python  
-- [promisio](https://github.com/miguelgrinberg/promisio) - JavaScript-style async programming for Python.  
-- [import-ipynb](https://github.com/axil/import-ipynb) - import an ipynb into an ipynb (or into just a py)  
-- [nbimporter](https://github.com/grst/nbimporter) - Import ipython notebooks as modules  
-- [patch-package](https://github.com/ds300/patch-package) - Fix broken node modules instantly  🏃🏽‍♀️💨  
-- [pdftris](https://github.com/ThomasRinsma/pdftris) - Tetris in a PDF (in most browsers)  
 - [EnvPaths.psm1](https://gist.github.com/jaw/4d1d858b87a5c208fbe42fd4d4aa97a4)  
 - [mandelbrot-on-all-accelerators.ipynb](https://gist.github.com/jpivarski/da343abd8024834ee8c5aaba691aafc7)  
 - [wsl2.md](https://gist.github.com/hucsmn/da1dbc2eb5903cb3143c35313623e7b0) - A collection of WSL2 hacks  
