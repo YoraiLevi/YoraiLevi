@@ -1,7 +1,8 @@
 ## Repositories and Gists
+- [goal-mechanism.md](https://gist.github.com/YoraiLevi/054ffb7caebe7797293529457b71001d) - How Claude Code /goal works under the hood — a static reverse-engineering writeup from the SEA binary, with verbatim system-prompt quotes and offsets  
+- [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [proxmox-zfs-storage-setup.md](https://gist.github.com/YoraiLevi/5a18f8cd9545549d2b28bed203496fb3) - Proxmox VE: migrating an LXC off LVM-thin onto ZFS - pools, datasets, zfspool storage, and a recursive snapshot cron (single-node notes)  
 - [smb-zfs-proxmox.md](https://gist.github.com/YoraiLevi/c7c0f156d4f5016d7f1dac0cada802ca) - Exposing a ZFS dataset over SMB on Proxmox with Windows Previous Versions from ZFS snapshots  
-- [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [engineer-agent-workflow-brief.md](https://gist.github.com/YoraiLevi/893a2e5f0725457685e4cd0664ed9cc6) - Merged problem brief + solution booklet for a dyslexic, voice-first solo engineer working with AI agents. Motivated reasoning + devil's-advocate counter-arguments per recommendation. Evidence-backed (PNAS/Annals of Dyslexia/CHI 2023). Inline citations throughout.  
 - [obsidian-stack-dyslexic-voice-engineer-2026-05-28.md](https://gist.github.com/YoraiLevi/c45e3c105b85e1fb48eee7f08d7bc27b) - [MERGED] Content moved to https://gist.github.com/YoraiLevi/893a2e5f0725457685e4cd0664ed9cc6 — the Obsidian plugin recommendations are now embedded inside the broader problem-statement-and-solutions booklet.  
 - [philosophy-2026-05-27.md](https://gist.github.com/YoraiLevi/a0668dc4e0ad1c3c61d3ebe86afe7d69) - A documentation philosophy that survived a long session — reflections on operator templates, research-before-prose, and the discipline of building artifacts that prevent failure modes  
@@ -11,7 +12,6 @@
 - [internet-research-agent-sharded-hopcroft.md](https://gist.github.com/YoraiLevi/3129f407b9556c332f4b7f845059d5ed) - Internet-Research-Agent pain-point introspection + spec refinements (generated via /agent-pain-points meta-pass)  
 - [modular-monolith-fastapi](https://github.com/YoraiLevi/modular-monolith-fastapi) - This is a modular monolith Fast API project that uses the latest and greatest tooling (uv, ruff, pyright, pydantic, pytest, fastapi, sqlmodel, etc) attempting to implement a modular monolith architecture. The repository include pre-commit hooks for ruff, pyright, and uv.  
 - [zellij-unified-tab-session-picker-and-live-tab-naming.md](https://gist.github.com/YoraiLevi/1e363143b5d01b731787e9d16fc49a7b) - Plan: unified zellij Ctrl+Shift+A tab+session picker (across all sessions) + live tab naming for WSL bash & pwsh on Windows. Includes architectural decisions with inline source citations, schematic diagrams, success/failure criteria, and a component roadmap with ship milestones.  
-- [goal-mechanism.md](https://gist.github.com/YoraiLevi/054ffb7caebe7797293529457b71001d) - How Claude Code /goal works under the hood — a static reverse-engineering writeup from the SEA binary, with verbatim system-prompt quotes and offsets  
 - [explain-what-this-parameter-nested-owl.md](https://gist.github.com/YoraiLevi/df90d2887aa2e83b49057b4a3cbf0b65) - Linux sysctl parameter reference: kernel.* and vm.* tunables (panic/lockup/hung-task detection, overcommit, dirty ratios, swappiness, etc.) — what they mean, defaults, implications, and how to observe them  
 - [README.md](https://gist.github.com/YoraiLevi/c19fa68ff740cdb7dfe8d2c3a0240680) - Install Podman on Windows for current user only — step-by-step guide + PowerShell script  
 - [claude-code-message-queueing.md](https://gist.github.com/YoraiLevi/f7c454a0e3a1e206124004241940f972) - Queueing messages to Claude Code while it's working: diagnosis, escape hatches (with code), Windows reality check, and how Codex/Copilot/Cline/Gemini/opencode/etc. solve it  
@@ -114,4 +114,4 @@
 - [chrome](https://github.com/YoraiLevi/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own  
 - [GM_SuperValue](https://github.com/YoraiLevi/GM_SuperValue) - Improved, error-free and readable version of GreaseMonkey/TamperMonkey storage script "GM_SuperValue"  
   
-2026-06-04T03:39:39.527421+00:00
+2026-06-07T04:38:35.272885+00:00

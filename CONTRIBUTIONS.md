@@ -1,7 +1,3 @@
-## TBD Contributions
-
-228 files changed, 89 insertions(+), 367 deletions(-) [DgxSparkLabs/marketplace](https://github.com/DgxSparkLabs/marketplace/pull/15) -- docs: post-v1.0.0 consolidation — archive settled research, de-drift entry docs  
-
 ## My Contributions
 
 3 files changed, 8 insertions(+), 8 deletions(-) [huggingface/diffusers](https://github.com/huggingface/diffusers/pull/3976) -- typo in safetensors (safetenstors)  
@@ -21,6 +17,8 @@
 475 files changed, 20201 insertions(+), 1998 deletions(-) [DgxSparkLabs/marketplace](https://github.com/DgxSparkLabs/marketplace/pull/10) -- release: v1.0.0 — stable, PR-friendly marketplace (Claude-first)  
 2 files changed, 147 insertions(+), 1 deletions(-) [DgxSparkLabs/marketplace](https://github.com/DgxSparkLabs/marketplace/pull/13) -- docs: jump-start brief for the post-v1.0.0 doc-consolidation task  
 1 files changed, 63 insertions(+), 0 deletions(-) [DgxSparkLabs/marketplace](https://github.com/DgxSparkLabs/marketplace/pull/14) -- docs: launch prompt for the doc-consolidation rookie agent  
+228 files changed, 89 insertions(+), 367 deletions(-) [DgxSparkLabs/marketplace](https://github.com/DgxSparkLabs/marketplace/pull/15) -- docs: post-v1.0.0 consolidation — archive settled research, de-drift entry docs  
+26 files changed, 268 insertions(+), 356 deletions(-) [DgxSparkLabs/marketplace](https://github.com/DgxSparkLabs/marketplace/pull/16) -- chore+docs: root reorg, documentation sweep, and de-numbering  
 
 ### Things that didn't see the light of day
 
