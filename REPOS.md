@@ -1,6 +1,6 @@
 ## Repositories and Gists
-- [zfs-gist.md](https://gist.github.com/YoraiLevi/5b90600e75b5a8274273200e5596d946) - ZFS on a Proxmox homelab: backup, restore, migrate & day-to-day maintenance (grounded in the yorai cluster, every claim cited inline)  
 - [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
+- [zfs-gist.md](https://gist.github.com/YoraiLevi/5b90600e75b5a8274273200e5596d946) - ZFS on a Proxmox homelab: backup, restore, migrate & day-to-day maintenance (grounded in the yorai cluster, every claim cited inline)  
 - [goal-mechanism.md](https://gist.github.com/YoraiLevi/054ffb7caebe7797293529457b71001d) - How Claude Code /goal works under the hood — a static reverse-engineering writeup from the SEA binary, with verbatim system-prompt quotes and offsets  
 - [proxmox-zfs-storage-setup.md](https://gist.github.com/YoraiLevi/5a18f8cd9545549d2b28bed203496fb3) - Proxmox VE: migrating an LXC off LVM-thin onto ZFS - pools, datasets, zfspool storage, and a recursive snapshot cron (single-node notes)  
 - [smb-zfs-proxmox.md](https://gist.github.com/YoraiLevi/c7c0f156d4f5016d7f1dac0cada802ca) - Exposing a ZFS dataset over SMB on Proxmox with Windows Previous Versions from ZFS snapshots  
@@ -69,6 +69,7 @@
 - [pasteconsole.js](https://gist.github.com/YoraiLevi/3365f9a60c8033d8c797dc409acbb26e) - this code is obsolete since the 2020 new facebook design. refer to: https://github.com/YoraiLevi/SetFacebookPostsPrivate make all facebook posts private(activity log) very dumb code.  
 - [My-Tech-Wearables](https://github.com/YoraiLevi/My-Tech-Wearables) - Cloth cat ears wearable with led strips! and more!  
 ## Forks
+- [cc-director](https://github.com/YoraiLevi/cc-director)  
 - [ai-that-works](https://github.com/YoraiLevi/ai-that-works) - 🦄 ai that works - every tuesday 10 AM PST  
 - [happy](https://github.com/YoraiLevi/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured  
 - [claude-code-kanban](https://github.com/YoraiLevi/claude-code-kanban) - A web-based Kanban Board & Agent Orchestration  
@@ -115,4 +116,4 @@
 - [chrome](https://github.com/YoraiLevi/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own  
 - [GM_SuperValue](https://github.com/YoraiLevi/GM_SuperValue) - Improved, error-free and readable version of GreaseMonkey/TamperMonkey storage script "GM_SuperValue"  
   
-2026-06-11T03:36:42.277080+00:00
+2026-06-14T04:47:52.720621+00:00
