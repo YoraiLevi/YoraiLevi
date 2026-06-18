@@ -19,6 +19,16 @@
 1 files changed, 63 insertions(+), 0 deletions(-) [DgxSparkLabs/marketplace](https://github.com/DgxSparkLabs/marketplace/pull/14) -- docs: launch prompt for the doc-consolidation rookie agent  
 228 files changed, 89 insertions(+), 367 deletions(-) [DgxSparkLabs/marketplace](https://github.com/DgxSparkLabs/marketplace/pull/15) -- docs: post-v1.0.0 consolidation — archive settled research, de-drift entry docs  
 26 files changed, 268 insertions(+), 356 deletions(-) [DgxSparkLabs/marketplace](https://github.com/DgxSparkLabs/marketplace/pull/16) -- chore+docs: root reorg, documentation sweep, and de-numbering  
+1 files changed, 27 insertions(+), 8 deletions(-) [DgxSparkLabs/dotfiles-template](https://github.com/DgxSparkLabs/dotfiles-template/pull/12) -- docs(readme): rewrite master mental model (system baseline + dotfiles update)  
+4 files changed, 114 insertions(+), 0 deletions(-) [DgxSparkLabs/dotfiles-template](https://github.com/DgxSparkLabs/dotfiles-template/pull/13) -- feat(gitconfig): per-machine identity via [include] of ~/.gitconfig.local  
+5 files changed, 156 insertions(+), 76 deletions(-) [DgxSparkLabs/dotfiles-template](https://github.com/DgxSparkLabs/dotfiles-template/pull/14) -- feat(githooks): decorator hook registry (StrEnum) + user_hooks extension point  
+3 files changed, 64 insertions(+), 0 deletions(-) [DgxSparkLabs/dotfiles-template](https://github.com/DgxSparkLabs/dotfiles-template/pull/15) -- feat(timer): last-commit line + staleness hint in status  
+7 files changed, 342 insertions(+), 1 deletions(-) [DgxSparkLabs/dotfiles-template](https://github.com/DgxSparkLabs/dotfiles-template/pull/16) -- feat(completion): shell completion for dotfiles, timer, update, doctor  
+3 files changed, 229 insertions(+), 46 deletions(-) [DgxSparkLabs/dotfiles-template](https://github.com/DgxSparkLabs/dotfiles-template/pull/17) -- feat(timer): macOS launchd backend with CI parity  
+6 files changed, 487 insertions(+), 42 deletions(-) [DgxSparkLabs/dotfiles-template](https://github.com/DgxSparkLabs/dotfiles-template/pull/18) -- feat(bootstrap): tracked bootstrap.{sh,ps1} with CI smoke test  
+6 files changed, 355 insertions(+), 0 deletions(-) [DgxSparkLabs/dotfiles-template](https://github.com/DgxSparkLabs/dotfiles-template/pull/19) -- feat(cli): dotfiles update (one-way system propagation from master)  
+6 files changed, 620 insertions(+), 0 deletions(-) [DgxSparkLabs/dotfiles-template](https://github.com/DgxSparkLabs/dotfiles-template/pull/20) -- feat(cli): dotfiles doctor (setup health-check)  
+1 files changed, 10 insertions(+), 0 deletions(-) [DgxSparkLabs/dotfiles-template](https://github.com/DgxSparkLabs/dotfiles-template/pull/21) -- ci(validate-timer): harden pwsh doctor steps against $LASTEXITCODE leak  
 
 ### Things that didn't see the light of day
 

@@ -1,4 +1,5 @@
 ## Starred
+- [lean-spec](https://github.com/paulch42/lean-spec) - Program Specification in Lean 4  
 - [BetterRDP](https://github.com/Upinel/BetterRDP) - This is to enable 60fps and GPU acceleration on RDP connection  
 - [pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI  
 - [dgx-spark-cli](https://github.com/agentculture/dgx-spark-cli) - Agent and CLI for operating an NVIDIA DGX Spark (Grace-Blackwell) workstation — device setup, health/monitoring, and local AI/ML workload management.  
@@ -98,7 +99,6 @@
 - [arikpoz.github.io](https://github.com/arikpoz/arikpoz.github.io)  
 - [mustache.github.com](https://github.com/mustache/mustache.github.com) - The {{official}} website  
 - [chevron](https://github.com/noahmorrison/chevron) - A Python implementation of mustache  
-- [mustache.js](https://github.com/janl/mustache.js) - Minimal templating with {{mustaches}} in JavaScript  
 - [EnvPaths.psm1](https://gist.github.com/jaw/4d1d858b87a5c208fbe42fd4d4aa97a4)  
 - [mandelbrot-on-all-accelerators.ipynb](https://gist.github.com/jpivarski/da343abd8024834ee8c5aaba691aafc7)  
 - [wsl2.md](https://gist.github.com/hucsmn/da1dbc2eb5903cb3143c35313623e7b0) - A collection of WSL2 hacks  
