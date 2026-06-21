@@ -1,4 +1,7 @@
 ## Repositories and Gists
+- [modular-monolith-fastapi](https://github.com/YoraiLevi/modular-monolith-fastapi) - This is a modular monolith Fast API project that uses the latest and greatest tooling (uv, ruff, pyright, pydantic, pytest, fastapi, sqlmodel, etc) attempting to implement a modular monolith architecture. The repository include pre-commit hooks for ruff, pyright, and uv.  
+- [machine-bound-secret-storage.md](https://gist.github.com/YoraiLevi/c47b64c30e587cd642df4b8122964d58) - Built-in, machine-bound secret storage on Windows, Linux & macOS — a working engineer's guide (DPAPI, systemd-creds, Keychain/Secure Enclave, TPM, kernel keyring + the cross-platform layers): how each works, how to use it, how to verify a secret is really encrypted, and the honest threat model.  
+- [windesk-nested-virt-runbook.md](https://gist.github.com/YoraiLevi/476e3895134d42313d305c05cf4c32c1) - Proxmox VM 301 (windesk) — enable nested virtualization for WSL2 + Docker/Hyper-V (cold-boot runbook)  
 - [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [zfs-gist.md](https://gist.github.com/YoraiLevi/5b90600e75b5a8274273200e5596d946) - ZFS on a Proxmox homelab: backup, restore, migrate & day-to-day maintenance (grounded in the yorai cluster, every claim cited inline)  
 - [goal-mechanism.md](https://gist.github.com/YoraiLevi/054ffb7caebe7797293529457b71001d) - How Claude Code /goal works under the hood — a static reverse-engineering writeup from the SEA binary, with verbatim system-prompt quotes and offsets  
@@ -11,7 +14,6 @@
 - [ORCHESTRATOR-DESIGN.md](https://gist.github.com/YoraiLevi/ecc015ac60925f1a0496fa5841bf3dd3) - Multi-Channel PTY Broadcast: Design Proposal for a TUI Agent Orchestrator with Web + Terminal Access  
 - [README.md](https://gist.github.com/YoraiLevi/e23a58b63d490d7146a0af51807d1279) - Session-scoped hooks in Claude Code: how /goal works and how to get the same effect via settings.local.json hot-reload  
 - [internet-research-agent-sharded-hopcroft.md](https://gist.github.com/YoraiLevi/3129f407b9556c332f4b7f845059d5ed) - Internet-Research-Agent pain-point introspection + spec refinements (generated via /agent-pain-points meta-pass)  
-- [modular-monolith-fastapi](https://github.com/YoraiLevi/modular-monolith-fastapi) - This is a modular monolith Fast API project that uses the latest and greatest tooling (uv, ruff, pyright, pydantic, pytest, fastapi, sqlmodel, etc) attempting to implement a modular monolith architecture. The repository include pre-commit hooks for ruff, pyright, and uv.  
 - [zellij-unified-tab-session-picker-and-live-tab-naming.md](https://gist.github.com/YoraiLevi/1e363143b5d01b731787e9d16fc49a7b) - Plan: unified zellij Ctrl+Shift+A tab+session picker (across all sessions) + live tab naming for WSL bash & pwsh on Windows. Includes architectural decisions with inline source citations, schematic diagrams, success/failure criteria, and a component roadmap with ship milestones.  
 - [explain-what-this-parameter-nested-owl.md](https://gist.github.com/YoraiLevi/df90d2887aa2e83b49057b4a3cbf0b65) - Linux sysctl parameter reference: kernel.* and vm.* tunables (panic/lockup/hung-task detection, overcommit, dirty ratios, swappiness, etc.) — what they mean, defaults, implications, and how to observe them  
 - [README.md](https://gist.github.com/YoraiLevi/c19fa68ff740cdb7dfe8d2c3a0240680) - Install Podman on Windows for current user only — step-by-step guide + PowerShell script  
@@ -116,4 +118,4 @@
 - [chrome](https://github.com/YoraiLevi/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own  
 - [GM_SuperValue](https://github.com/YoraiLevi/GM_SuperValue) - Improved, error-free and readable version of GreaseMonkey/TamperMonkey storage script "GM_SuperValue"  
   
-2026-06-18T03:35:02.437720+00:00
+2026-06-21T04:56:51.696823+00:00

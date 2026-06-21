@@ -2,37 +2,37 @@
 
 <p align="center">
 
-<a href="https://gist.github.com/YoraiLevi/5b90600e75b5a8274273200e5596d946">
+<a href="https://github.com/YoraiLevi/modular-monolith-fastapi">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-0.svg/">
 <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-0.svg/">
 <img align="center" src="./assets/card-dark-0.svg" />
 </picture></a>
-<a href="https://gist.github.com/YoraiLevi/054ffb7caebe7797293529457b71001d">
+<a href="https://gist.github.com/YoraiLevi/c47b64c30e587cd642df4b8122964d58">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-1.svg/">
 <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-1.svg/">
 <img align="center" src="./assets/card-dark-1.svg" />
 </picture></a>
-<a href="https://gist.github.com/YoraiLevi/5a18f8cd9545549d2b28bed203496fb3">
+<a href="https://gist.github.com/YoraiLevi/476e3895134d42313d305c05cf4c32c1">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-2.svg/">
 <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-2.svg/">
 <img align="center" src="./assets/card-dark-2.svg" />
 </picture></a>
-<a href="https://gist.github.com/YoraiLevi/c7c0f156d4f5016d7f1dac0cada802ca">
+<a href="https://gist.github.com/YoraiLevi/5b90600e75b5a8274273200e5596d946">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-3.svg/">
 <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-3.svg/">
 <img align="center" src="./assets/card-dark-3.svg" />
 </picture></a>
-<a href="https://gist.github.com/YoraiLevi/893a2e5f0725457685e4cd0664ed9cc6">
+<a href="https://gist.github.com/YoraiLevi/054ffb7caebe7797293529457b71001d">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-4.svg/">
 <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-4.svg/">
 <img align="center" src="./assets/card-dark-4.svg" />
 </picture></a>
-<a href="https://gist.github.com/YoraiLevi/c45e3c105b85e1fb48eee7f08d7bc27b">
+<a href="https://gist.github.com/YoraiLevi/5a18f8cd9545549d2b28bed203496fb3">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-5.svg/">
 <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-5.svg/">
