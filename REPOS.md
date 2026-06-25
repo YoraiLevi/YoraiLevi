@@ -1,8 +1,8 @@
 ## Repositories and Gists
+- [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [modular-monolith-fastapi](https://github.com/YoraiLevi/modular-monolith-fastapi) - This is a modular monolith Fast API project that uses the latest and greatest tooling (uv, ruff, pyright, pydantic, pytest, fastapi, sqlmodel, etc) attempting to implement a modular monolith architecture. The repository include pre-commit hooks for ruff, pyright, and uv.  
 - [machine-bound-secret-storage.md](https://gist.github.com/YoraiLevi/c47b64c30e587cd642df4b8122964d58) - Built-in, machine-bound secret storage on Windows, Linux & macOS — a working engineer's guide (DPAPI, systemd-creds, Keychain/Secure Enclave, TPM, kernel keyring + the cross-platform layers): how each works, how to use it, how to verify a secret is really encrypted, and the honest threat model.  
 - [windesk-nested-virt-runbook.md](https://gist.github.com/YoraiLevi/476e3895134d42313d305c05cf4c32c1) - Proxmox VM 301 (windesk) — enable nested virtualization for WSL2 + Docker/Hyper-V (cold-boot runbook)  
-- [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [zfs-gist.md](https://gist.github.com/YoraiLevi/5b90600e75b5a8274273200e5596d946) - ZFS on a Proxmox homelab: backup, restore, migrate & day-to-day maintenance (grounded in the yorai cluster, every claim cited inline)  
 - [goal-mechanism.md](https://gist.github.com/YoraiLevi/054ffb7caebe7797293529457b71001d) - How Claude Code /goal works under the hood — a static reverse-engineering writeup from the SEA binary, with verbatim system-prompt quotes and offsets  
 - [proxmox-zfs-storage-setup.md](https://gist.github.com/YoraiLevi/5a18f8cd9545549d2b28bed203496fb3) - Proxmox VE: migrating an LXC off LVM-thin onto ZFS - pools, datasets, zfspool storage, and a recursive snapshot cron (single-node notes)  
@@ -118,4 +118,4 @@
 - [chrome](https://github.com/YoraiLevi/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own  
 - [GM_SuperValue](https://github.com/YoraiLevi/GM_SuperValue) - Improved, error-free and readable version of GreaseMonkey/TamperMonkey storage script "GM_SuperValue"  
   
-2026-06-21T04:56:51.696823+00:00
+2026-06-25T02:53:09.375186+00:00
