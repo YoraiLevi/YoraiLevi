@@ -1,7 +1,15 @@
 ## Repositories and Gists
+- [macos-power-user-setup.md](https://gist.github.com/YoraiLevi/3dfc2ba4bfc134ae4bd12b96ca6070f1) - macOS Power-User Setup — consolidated & deduped from 4 YouTube guides (119 items)  
+- [windows-openssh-tailscale-mesh.md](https://gist.github.com/YoraiLevi/6a798fc49f4b10d688c8690b694eeba3) - Windows OpenSSH server for a Tailscale mesh — per-user keys, key-only, pwsh shell (two-phase runbook)  
+- [multi-agent-github-issues-handoff.md](https://gist.github.com/YoraiLevi/5b4ec926602b348ab549afee7fd27c96) - Multi-agent task queue on GitHub Issues — ENGINEER ON-RAMP / front door (2026-06-27)  
+- [multi-agent-github-issues.md](https://gist.github.com/YoraiLevi/6c0623fca8aea032270806818aede8a1) - Multi-agent task queue on GitHub Issues — DEEP REPORT (homelab, YoraiLevi/project-proposals; 2026-06-27)  
+- [TOOLING-SURVEY.md](https://gist.github.com/YoraiLevi/481b52b2d6308f0ecb2201ea146ccaff) - Command-steering / agent-guardrail tooling survey — flat by popularity, inline refs (2026-06-27)  
+- [jj-gitbutler-handoff.md](https://gist.github.com/YoraiLevi/29c17b6de4b05cb8e00496a40e6f9353) - Multi-machine dev VCS — engineer on-ramp (Option C: GitButler + private mesh-remote + but-CLI automation). Front door to the deep jj-gitbutler research.  
+- [claude-command-policy](https://github.com/YoraiLevi/claude-command-policy) - Data-driven command-steering PreToolUse hook for Claude Code (allow/ask/deny + custom teaching messages)  
+- [machine-bound-secret-storage.md](https://gist.github.com/YoraiLevi/c47b64c30e587cd642df4b8122964d58) - Built-in, machine-bound secret storage on Windows, Linux & macOS — a working engineer's guide (DPAPI, systemd-creds, Keychain/Secure Enclave, TPM, kernel keyring + the cross-platform layers): how each works, how to use it, how to verify a secret is really encrypted, and the honest threat model.  
+- [README.md](https://gist.github.com/YoraiLevi/0f48cfb0d2bedfe9a09e81f3a1a34bbf) - Mac-as-Windows keyboard setup (Karabiner + Ghostty + Rectangle/AltTab/Jump Desktop): make a MacBook feel like Windows by physical key position. Full report, configs, and reproduction script.  
 - [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [modular-monolith-fastapi](https://github.com/YoraiLevi/modular-monolith-fastapi) - This is a modular monolith Fast API project that uses the latest and greatest tooling (uv, ruff, pyright, pydantic, pytest, fastapi, sqlmodel, etc) attempting to implement a modular monolith architecture. The repository include pre-commit hooks for ruff, pyright, and uv.  
-- [machine-bound-secret-storage.md](https://gist.github.com/YoraiLevi/c47b64c30e587cd642df4b8122964d58) - Built-in, machine-bound secret storage on Windows, Linux & macOS — a working engineer's guide (DPAPI, systemd-creds, Keychain/Secure Enclave, TPM, kernel keyring + the cross-platform layers): how each works, how to use it, how to verify a secret is really encrypted, and the honest threat model.  
 - [windesk-nested-virt-runbook.md](https://gist.github.com/YoraiLevi/476e3895134d42313d305c05cf4c32c1) - Proxmox VM 301 (windesk) — enable nested virtualization for WSL2 + Docker/Hyper-V (cold-boot runbook)  
 - [zfs-gist.md](https://gist.github.com/YoraiLevi/5b90600e75b5a8274273200e5596d946) - ZFS on a Proxmox homelab: backup, restore, migrate & day-to-day maintenance (grounded in the yorai cluster, every claim cited inline)  
 - [goal-mechanism.md](https://gist.github.com/YoraiLevi/054ffb7caebe7797293529457b71001d) - How Claude Code /goal works under the hood — a static reverse-engineering writeup from the SEA binary, with verbatim system-prompt quotes and offsets  
@@ -118,4 +126,4 @@
 - [chrome](https://github.com/YoraiLevi/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own  
 - [GM_SuperValue](https://github.com/YoraiLevi/GM_SuperValue) - Improved, error-free and readable version of GreaseMonkey/TamperMonkey storage script "GM_SuperValue"  
   
-2026-06-25T02:53:09.375186+00:00
+2026-06-28T04:22:05.892953+00:00
