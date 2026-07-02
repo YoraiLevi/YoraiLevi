@@ -31,13 +31,13 @@
                                 <span data-view-component="true" class="position-relative">
                                     <a href="" data-view-component="true" class="min-width-0 Link text-bold flex-auto">
                                         <span class="repo">
-                                            macos-power-user-setup.md
+                                            windows-ssh-credential-session.md
                                         </span>
                                     </a>
                                     <tool-tip for="2544889" popover="manual" data-direction="s" data-type="description"
                                         data-view-component="true" class="position-absolute sr-only" role="tooltip"
                                         style="--tool-tip-position-top: 707.75px; --tool-tip-position-left: 368.625px;">
-                                        macos-power-user-setup.md</tool-tip>
+                                        windows-ssh-credential-session.md</tool-tip>
                                 </span>
                                 <span class=" flex-auto text-right">
                                     <span></span>
@@ -52,7 +52,7 @@
 
 
                             <p class="three-lines pinned-item-desc color-fg-muted text-small d-block mt-2 mb-3">
-                                macOS Power-User Setup — consolidated & deduped from 4 YouTube guides (119 items)
+                                Getting a credential-bearing session on Windows over SSH: logon types, why cmdkey/DPAPI/mapped drives fail under OpenSSH, and every fix (sshd-as-user, Cygwin passwd -R, Bitvise, scheduled tasks, Ansible become) with trade-offs to choose by your constraints.
                             </p>
 
                             <p class="mb-0 f6 color-fg-muted">
