@@ -31,13 +31,13 @@
                                 <span data-view-component="true" class="position-relative">
                                     <a href="" data-view-component="true" class="min-width-0 Link text-bold flex-auto">
                                         <span class="repo">
-                                            push-ssh-key-to-server.md
+                                            ssh-symlink-redirectionguard-windows.md
                                         </span>
                                     </a>
                                     <tool-tip for="2544889" popover="manual" data-direction="s" data-type="description"
                                         data-view-component="true" class="position-absolute sr-only" role="tooltip"
                                         style="--tool-tip-position-top: 707.75px; --tool-tip-position-left: 368.625px;">
-                                        push-ssh-key-to-server.md</tool-tip>
+                                        ssh-symlink-redirectionguard-windows.md</tool-tip>
                                 </span>
                                 <span class=" flex-auto text-right">
                                     <span></span>
@@ -52,7 +52,7 @@
 
 
                             <p class="three-lines pinned-item-desc color-fg-muted text-small d-block mt-2 mb-3">
-                                Windows OpenSSH server for a Tailscale mesh — per-user keys, key-only, pwsh shell (two-phase runbook)
+                                Make symbolic links traverse over SSH on Windows 11 — disable RedirectionGuard for sshd (fixes STATUS_UNTRUSTED_MOUNT_POINT), with pre/post verification, a no-security-rollback alternative, and the mechanism.
                             </p>
 
                             <p class="mb-0 f6 color-fg-muted">

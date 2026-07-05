@@ -1,8 +1,12 @@
 ## Repositories and Gists
+- [instructions-a-stranger-can-follow.md](https://gist.github.com/YoraiLevi/1c4571433fa691258884237791a20003) - Writing instructions a stranger can actually follow — a tool-agnostic method for runbooks that reproduce on someone else's machine (practice / failure-prevented / checkable tell).  
+- [researching-without-fooling-yourself.md](https://gist.github.com/YoraiLevi/52a1d64d03fec2bcc5aac3eab332fc7b) - Researching a hard problem without fooling yourself — a tool-agnostic method for depth and honesty (each principle: the practice, the failure it prevents, and the checkable tell).  
+- [ssh-symlink-redirectionguard-windows.md](https://gist.github.com/YoraiLevi/42366196e1b7a6df51afef8f448e79ec) - Make symbolic links traverse over SSH on Windows 11 — disable RedirectionGuard for sshd (fixes STATUS_UNTRUSTED_MOUNT_POINT), with pre/post verification, a no-security-rollback alternative, and the mechanism.  
+- [sshd-as-user-howto.md](https://gist.github.com/YoraiLevi/49da57da5c7bb4724ba3f4e4c694d748) - Run the Windows OpenSSH service as your own user account — and see the SSH logon-session token change (Network -> Service); side effect: cmdkey/DPAPI/mapped drives work over SSH.  
+- [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [windows-ssh-credential-session.md](https://gist.github.com/YoraiLevi/995c7558842d263585a0a6aa3bff5a8a) - Getting a credential-bearing session on Windows over SSH: logon types, why cmdkey/DPAPI/mapped drives fail under OpenSSH, and every fix (sshd-as-user, Cygwin passwd -R, Bitvise, scheduled tasks, Ansible become) with trade-offs to choose by your constraints.  
 - [modular-monolith-fastapi](https://github.com/YoraiLevi/modular-monolith-fastapi) - This is a modular monolith Fast API project that uses the latest and greatest tooling (uv, ruff, pyright, pydantic, pytest, fastapi, sqlmodel, etc) attempting to implement a modular monolith architecture. The repository include pre-commit hooks for ruff, pyright, and uv.  
 - [push-ssh-key-to-server.md](https://gist.github.com/YoraiLevi/6a798fc49f4b10d688c8690b694eeba3) - Windows OpenSSH server for a Tailscale mesh — per-user keys, key-only, pwsh shell (two-phase runbook)  
-- [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [macos-power-user-setup.md](https://gist.github.com/YoraiLevi/3dfc2ba4bfc134ae4bd12b96ca6070f1) - macOS Power-User Setup — consolidated & deduped from 4 YouTube guides (119 items)  
 - [multi-agent-github-issues-handoff.md](https://gist.github.com/YoraiLevi/5b4ec926602b348ab549afee7fd27c96) - Multi-agent task queue on GitHub Issues — ENGINEER ON-RAMP / front door (2026-06-27)  
 - [multi-agent-github-issues.md](https://gist.github.com/YoraiLevi/6c0623fca8aea032270806818aede8a1) - Multi-agent task queue on GitHub Issues — DEEP REPORT (homelab, YoraiLevi/project-proposals; 2026-06-27)  
@@ -80,6 +84,7 @@
 - [pasteconsole.js](https://gist.github.com/YoraiLevi/3365f9a60c8033d8c797dc409acbb26e) - this code is obsolete since the 2020 new facebook design. refer to: https://github.com/YoraiLevi/SetFacebookPostsPrivate make all facebook posts private(activity log) very dumb code.  
 - [My-Tech-Wearables](https://github.com/YoraiLevi/My-Tech-Wearables) - Cloth cat ears wearable with led strips! and more!  
 ## Forks
+- [gsudo](https://github.com/YoraiLevi/gsudo) - Sudo for Windows  
 - [cc-director](https://github.com/YoraiLevi/cc-director)  
 - [ai-that-works](https://github.com/YoraiLevi/ai-that-works) - 🦄 ai that works - every tuesday 10 AM PST  
 - [happy](https://github.com/YoraiLevi/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured  
@@ -127,4 +132,4 @@
 - [chrome](https://github.com/YoraiLevi/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own  
 - [GM_SuperValue](https://github.com/YoraiLevi/GM_SuperValue) - Improved, error-free and readable version of GreaseMonkey/TamperMonkey storage script "GM_SuperValue"  
   
-2026-07-02T02:54:09.304985+00:00
+2026-07-05T04:00:38.777777+00:00
