@@ -31,13 +31,13 @@
                                 <span data-view-component="true" class="position-relative">
                                     <a href="" data-view-component="true" class="min-width-0 Link text-bold flex-auto">
                                         <span class="repo">
-                                            ESP32-CSI-sensing-mesh-antenna-guide.md
+                                            living-agents-1-spec.md
                                         </span>
                                     </a>
                                     <tool-tip for="2544889" popover="manual" data-direction="s" data-type="description"
                                         data-view-component="true" class="position-absolute sr-only" role="tooltip"
                                         style="--tool-tip-position-top: 707.75px; --tool-tip-position-left: 368.625px;">
-                                        ESP32-CSI-sensing-mesh-antenna-guide.md</tool-tip>
+                                        living-agents-1-spec.md</tool-tip>
                                 </span>
                                 <span class=" flex-auto text-right">
                                     <span></span>
@@ -52,7 +52,7 @@
 
 
                             <p class="three-lines pinned-item-desc color-fg-muted text-small d-block mt-2 mb-3">
-                                ESP32 chips for Wi-Fi CSI sensing meshes — a working engineer's guide: what CSI measures, what each chip offers, what's demonstrated vs vendor claim, and how to choose
+                                Living Agents — a full SRS for an AI-agent orchestration system (persistent CLI REPLs in PTYs as workers): problem statement, 65 traced requirements, deep REPL-control mechanics (turn oracles, submit semantics, state detection), interfaces, ideal mission-control UI, verification doctrine. Observed live by the system's own agents, adversarially refuted.
                             </p>
 
                             <p class="mb-0 f6 color-fg-muted">
