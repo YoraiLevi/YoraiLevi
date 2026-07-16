@@ -31,13 +31,13 @@
                                 <span data-view-component="true" class="position-relative">
                                     <a href="" data-view-component="true" class="min-width-0 Link text-bold flex-auto">
                                         <span class="repo">
-                                            Claude-Code-Research-Report-May-7-2026.md
+                                            ESP32-CSI-RF-and-architecture-guide.md
                                         </span>
                                     </a>
                                     <tool-tip for="2544889" popover="manual" data-direction="s" data-type="description"
                                         data-view-component="true" class="position-absolute sr-only" role="tooltip"
                                         style="--tool-tip-position-top: 707.75px; --tool-tip-position-left: 368.625px;">
-                                        Claude-Code-Research-Report-May-7-2026.md</tool-tip>
+                                        ESP32-CSI-RF-and-architecture-guide.md</tool-tip>
                                 </span>
                                 <span class=" flex-auto text-right">
                                     <span></span>
@@ -52,7 +52,7 @@
 
 
                             <p class="three-lines pinned-item-desc color-fg-muted text-small d-block mt-2 mb-3">
-                                Complete analysis of Claude Code enhancement ecosystem and pain points (30 agents, 200+ sources)
+                                ESP32 Wi-Fi-CSI sensing mesh — RF & system-architecture engineer's guide: antennas & ground planes, cross-node phase coherence (the crystal question, adjudicated), what the ESP32-C5/C6 actually expose for CSI (with the 20 MHz-only limit + lltf trap), and survey automation — demonstrated-with-numbers vs vendor claim, primary-source cited, with corrections to the prior chip guide.
                             </p>
 
                             <p class="mb-0 f6 color-fg-muted">

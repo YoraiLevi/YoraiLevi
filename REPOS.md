@@ -1,15 +1,18 @@
 ## Repositories and Gists
+- [ssh-symlink-redirectionguard-windows.md](https://gist.github.com/YoraiLevi/42366196e1b7a6df51afef8f448e79ec) - Make symbolic links traverse over SSH on Windows 11 — disable RedirectionGuard for sshd (fixes STATUS_UNTRUSTED_MOUNT_POINT), with pre/post verification, a no-security-rollback alternative, and the mechanism.  
+- [ESP32-CSI-RF-and-architecture-guide.md](https://gist.github.com/YoraiLevi/efa0ce2b02a26f735ccbf6f7df323de8) - ESP32 Wi-Fi-CSI sensing mesh — RF & system-architecture engineer's guide: antennas & ground planes, cross-node phase coherence (the crystal question, adjudicated), what the ESP32-C5/C6 actually expose for CSI (with the 20 MHz-only limit + lltf trap), and survey automation — demonstrated-with-numbers vs vendor claim, primary-source cited, with corrections to the prior chip guide.  
+- [agent-to-agent-communication-file-mailbox](https://github.com/YoraiLevi/agent-to-agent-communication-file-mailbox) - File-based cross-agent / multi-agent message passing for CLI agents — no server, just shared files. Paste-to-join mailbox protocol (manager + workers).  
+- [ai-voice-reminders-bridge](https://github.com/YoraiLevi/ai-voice-reminders-bridge)  
+- [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [living-agents-1-spec.md](https://gist.github.com/YoraiLevi/01a5001a1dafcf21be1df653769f5a07) - Living Agents — a full SRS for an AI-agent orchestration system (persistent CLI REPLs in PTYs as workers): problem statement, 65 traced requirements, deep REPL-control mechanics (turn oracles, submit semantics, state detection), interfaces, ideal mission-control UI, verification doctrine. Observed live by the system's own agents, adversarially refuted.  
 - [Claude-Code-Research-Report-May-7-2026.md](https://gist.github.com/YoraiLevi/98fdead189a39fafd51bc7be8c297c9f) - Complete analysis of Claude Code enhancement ecosystem and pain points (30 agents, 200+ sources)  
 - [claude-code-in-containers-guide.md](https://gist.github.com/YoraiLevi/a319c347521738969ab1b39bc418134a) - Running Claude Code Inside Isolated Containers with Local-Feeling Persistence — a catalog of approaches, solutions, security caveats, and a recommended recipe  
 - [push-ssh-key-to-server.md](https://gist.github.com/YoraiLevi/6a798fc49f4b10d688c8690b694eeba3) - Windows OpenSSH server for a Tailscale mesh — per-user keys, key-only, pwsh shell (two-phase runbook)  
 - [How-we-work-a-method-for-trustworthy-deliverables.md](https://gist.github.com/YoraiLevi/5b3cbabee8cb045b813d81970024f185) - How we work — a reusable method for producing verified, well-cited, transferable deliverables (research reports, decision docs, technical guides, runbooks, audits). Frame → Scope → Research → Separate → Draft → Review → Harden, with the philosophy and lessons behind each.  
-- [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [ESP32-CSI-sensing-mesh-antenna-guide.md](https://gist.github.com/YoraiLevi/1082b8ac1ff6525acff364f13a7eac17) - ESP32 chips for Wi-Fi CSI sensing meshes — a working engineer's guide: what CSI measures, what each chip offers, what's demonstrated vs vendor claim, and how to choose  
 - [README.md](https://gist.github.com/YoraiLevi/e23a58b63d490d7146a0af51807d1279) - Session-scoped hooks in Claude Code: how /goal works and how to get the same effect via settings.local.json hot-reload  
 - [instructions-a-stranger-can-follow.md](https://gist.github.com/YoraiLevi/1c4571433fa691258884237791a20003) - Writing instructions a stranger can actually follow — a tool-agnostic method for runbooks that reproduce on someone else's machine (practice / failure-prevented / checkable tell).  
 - [researching-without-fooling-yourself.md](https://gist.github.com/YoraiLevi/52a1d64d03fec2bcc5aac3eab332fc7b) - Researching a hard problem without fooling yourself — a tool-agnostic method for depth and honesty (each principle: the practice, the failure it prevents, and the checkable tell).  
-- [ssh-symlink-redirectionguard-windows.md](https://gist.github.com/YoraiLevi/42366196e1b7a6df51afef8f448e79ec) - Make symbolic links traverse over SSH on Windows 11 — disable RedirectionGuard for sshd (fixes STATUS_UNTRUSTED_MOUNT_POINT), with pre/post verification, a no-security-rollback alternative, and the mechanism.  
 - [sshd-as-user-howto.md](https://gist.github.com/YoraiLevi/49da57da5c7bb4724ba3f4e4c694d748) - Run the Windows OpenSSH service as your own user account — and see the SSH logon-session token change (Network -> Service); side effect: cmdkey/DPAPI/mapped drives work over SSH.  
 - [windows-ssh-credential-session.md](https://gist.github.com/YoraiLevi/995c7558842d263585a0a6aa3bff5a8a) - Getting a credential-bearing session on Windows over SSH: logon types, why cmdkey/DPAPI/mapped drives fail under OpenSSH, and every fix (sshd-as-user, Cygwin passwd -R, Bitvise, scheduled tasks, Ansible become) with trade-offs to choose by your constraints.  
 - [modular-monolith-fastapi](https://github.com/YoraiLevi/modular-monolith-fastapi) - This is a modular monolith Fast API project that uses the latest and greatest tooling (uv, ruff, pyright, pydantic, pytest, fastapi, sqlmodel, etc) attempting to implement a modular monolith architecture. The repository include pre-commit hooks for ruff, pyright, and uv.  
@@ -87,6 +90,8 @@
 - [pasteconsole.js](https://gist.github.com/YoraiLevi/3365f9a60c8033d8c797dc409acbb26e) - this code is obsolete since the 2020 new facebook design. refer to: https://github.com/YoraiLevi/SetFacebookPostsPrivate make all facebook posts private(activity log) very dumb code.  
 - [My-Tech-Wearables](https://github.com/YoraiLevi/My-Tech-Wearables) - Cloth cat ears wearable with led strips! and more!  
 ## Forks
+- [destructive_command_guard](https://github.com/YoraiLevi/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.  
+- [rest-pty](https://github.com/YoraiLevi/rest-pty) - Terminals as a service — drive PTY sessions over REST and MCP.  
 - [gsudo](https://github.com/YoraiLevi/gsudo) - Sudo for Windows  
 - [cc-director](https://github.com/YoraiLevi/cc-director)  
 - [ai-that-works](https://github.com/YoraiLevi/ai-that-works) - 🦄 ai that works - every tuesday 10 AM PST  
@@ -135,4 +140,4 @@
 - [chrome](https://github.com/YoraiLevi/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own  
 - [GM_SuperValue](https://github.com/YoraiLevi/GM_SuperValue) - Improved, error-free and readable version of GreaseMonkey/TamperMonkey storage script "GM_SuperValue"  
   
-2026-07-12T03:30:56.074465+00:00
+2026-07-16T02:13:08.644398+00:00

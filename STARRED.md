@@ -1,4 +1,7 @@
 ## Starred
+- [destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.  
+- [napkin](https://github.com/Michaelliv/napkin) - 🧻 Knowledge system for agents. Local-first, file-based, progressively disclosed.  
+- [league-of-agents](https://github.com/agentculture/league-of-agents) - A cooperative/competitive strategy arena where agent teams complete missions, control objectives, manage resources, and out-coordinate opposing teams.  
 - [gsudo](https://github.com/gerardog/gsudo) - Sudo for Windows  
 - [Awesome-Multi-Token-Prediction](https://github.com/Xiaohao-Liu/Awesome-Multi-Token-Prediction) - A curated list of papers, tools, and resources on Multi-Token Prediction (MTP) and related techniques in Large Language Models (LLMs), Speech-Language Models (SLMs), and more.  
 - [lean-spec](https://github.com/paulch42/lean-spec) - Program Specification in Lean 4  
@@ -51,7 +54,7 @@
 - [windows-sysprep-playground](https://github.com/rgl/windows-sysprep-playground) - A Windows sysprep playground  
 - [terraform-proxmox-windows-example](https://github.com/rgl/terraform-proxmox-windows-example) - example on how to launch a windows vm using terraform in proxmox  
 - [vagrant-proxmox](https://github.com/telcat/vagrant-proxmox) - Use Vagrant to manage Proxmox virtual machines  
-- [claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.  
+- [claude-code-router](https://github.com/musistudio/claude-code-router) - One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.  
 - [NotEnoughHotkeys](https://github.com/VollRagm/NotEnoughHotkeys) - This is an Application to block input from a secondary keyboard and instead run custom defined Macros  
 - [Multi-Keyboard-For-AutoHotkey](https://github.com/sebeksd/Multi-Keyboard-For-AutoHotkey) - Multi unique keyboard support for AutoHotkey  
 - [GoToWindow](https://github.com/christianrondeau/GoToWindow) - A keyboard-maniac alt-tab alternative  
@@ -96,9 +99,6 @@
 - [ESP32-USB-TO-BLE](https://github.com/jmdmahdi/ESP32-USB-TO-BLE) - This project involves the creation of a Bluetooth adapter using an ESP32, enabling wireless connectivity for USB keyboards and mice. By leveraging the ESP32's capabilities, users can effortlessly connect their input devices to various devices without the constraint of physical cables.  
 - [Valetudo](https://github.com/Hypfer/Valetudo) - Cloud replacement for vacuum robots enabling local-only operation  
 - [ioBroker.roborock](https://github.com/copystring/ioBroker.roborock) - Roborock ioBroker Adapter  
-- [ESP32-BLE-Keyboard](https://github.com/T-vK/ESP32-BLE-Keyboard) - Bluetooth LE Keyboard library for the ESP32 (Arduino IDE compatible)  
-- [ESP32-BLE-Gamepad](https://github.com/lemmingDev/ESP32-BLE-Gamepad) - Bluetooth LE Gamepad library for the ESP32  
-- [arikpoz.github.io](https://github.com/arikpoz/arikpoz.github.io)  
 - [EnvPaths.psm1](https://gist.github.com/jaw/4d1d858b87a5c208fbe42fd4d4aa97a4)  
 - [mandelbrot-on-all-accelerators.ipynb](https://gist.github.com/jpivarski/da343abd8024834ee8c5aaba691aafc7)  
 - [wsl2.md](https://gist.github.com/hucsmn/da1dbc2eb5903cb3143c35313623e7b0) - A collection of WSL2 hacks  
