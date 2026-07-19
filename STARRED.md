@@ -1,4 +1,8 @@
 ## Starred
+- [froglet](https://github.com/armanas/froglet) - A protocol and node for a bot economy — bots create, publish, discover, buy, sell, and compose remote resources for value.  
+- [grok-build](https://github.com/xai-org/grok-build) - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.  
+- [recon](https://github.com/valk/recon) - Recon: The Ultimate 3-Tier Code Navigation & Mutation Architecture  
+- [Converttree](https://github.com/treebird7/Converttree)  
 - [destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.  
 - [napkin](https://github.com/Michaelliv/napkin) - 🧻 Knowledge system for agents. Local-first, file-based, progressively disclosed.  
 - [league-of-agents](https://github.com/agentculture/league-of-agents) - A cooperative/competitive strategy arena where agent teams complete missions, control objectives, manage resources, and out-coordinate opposing teams.  
@@ -40,7 +44,7 @@
 - [python-extended-enum](https://github.com/ilichev-andrey/python-extended-enum) - Extends the capabilities of the standard Enum.  
 - [aenum](https://github.com/ethanfurman/aenum) - Advanced Enumerations for Python  
 - [extendable-enum](https://github.com/gweesip/extendable-enum) - Extend, subclass and reuse python Enums!  
-- [LifeOS](https://github.com/danielmiessler/LifeOS) - An General Purpose AI Harness for magnifying human capabilities. [CODING, BUILDING, CREATING, BUSINESS, LIFE, WORK, ...]  
+- [LifeOS](https://github.com/danielmiessler/LifeOS) - The AI harness that moves you from current state to ideal state. An intent engineering platform: it conveys what you ultimately want to your AI on every task. [CODING, BUILDING, CREATING, BUSINESS, LIFE, WORK, ...]  
 - [Kubernetes-Image-Builder](https://github.com/SneakyBugs/Kubernetes-Image-Builder)  
 - [project-pegaprox](https://github.com/PegaProx/project-pegaprox) - The ultimate datacenter management solution for Proxmox VE and XCP-NG. Unified multi-cluster control, intelligent load balancing, and seamless cross-cluster VM migrations — all in one beautiful interface.  
 - [llm-openrouter](https://github.com/simonw/llm-openrouter) - LLM plugin for models hosted by OpenRouter  
@@ -95,10 +99,6 @@
 - [baker-uv-template](https://github.com/pasunboneleve/baker-uv-template) - Reproducible Python project bootstrap with uv, tests, linting and type checking preconfigured.  
 - [arcade-svg](https://github.com/TechnicallyWeb3/arcade-svg)  
 - [vscode-default-keybindings](https://github.com/jbro/vscode-default-keybindings) - VSCode keybinding extentension that can set any OS default keybindings as the current ones.  
-- [vs-code-default-keybindings](https://github.com/codebling/vs-code-default-keybindings) - Default keyboard shortcuts for VS Code on various OSes  
-- [ESP32-USB-TO-BLE](https://github.com/jmdmahdi/ESP32-USB-TO-BLE) - This project involves the creation of a Bluetooth adapter using an ESP32, enabling wireless connectivity for USB keyboards and mice. By leveraging the ESP32's capabilities, users can effortlessly connect their input devices to various devices without the constraint of physical cables.  
-- [Valetudo](https://github.com/Hypfer/Valetudo) - Cloud replacement for vacuum robots enabling local-only operation  
-- [ioBroker.roborock](https://github.com/copystring/ioBroker.roborock) - Roborock ioBroker Adapter  
 - [EnvPaths.psm1](https://gist.github.com/jaw/4d1d858b87a5c208fbe42fd4d4aa97a4)  
 - [mandelbrot-on-all-accelerators.ipynb](https://gist.github.com/jpivarski/da343abd8024834ee8c5aaba691aafc7)  
 - [wsl2.md](https://gist.github.com/hucsmn/da1dbc2eb5903cb3143c35313623e7b0) - A collection of WSL2 hacks  

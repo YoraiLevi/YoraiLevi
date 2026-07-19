@@ -1,9 +1,9 @@
 ## Repositories and Gists
+- [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [ssh-symlink-redirectionguard-windows.md](https://gist.github.com/YoraiLevi/42366196e1b7a6df51afef8f448e79ec) - Make symbolic links traverse over SSH on Windows 11 — disable RedirectionGuard for sshd (fixes STATUS_UNTRUSTED_MOUNT_POINT), with pre/post verification, a no-security-rollback alternative, and the mechanism.  
 - [ESP32-CSI-RF-and-architecture-guide.md](https://gist.github.com/YoraiLevi/efa0ce2b02a26f735ccbf6f7df323de8) - ESP32 Wi-Fi-CSI sensing mesh — RF & system-architecture engineer's guide: antennas & ground planes, cross-node phase coherence (the crystal question, adjudicated), what the ESP32-C5/C6 actually expose for CSI (with the 20 MHz-only limit + lltf trap), and survey automation — demonstrated-with-numbers vs vendor claim, primary-source cited, with corrections to the prior chip guide.  
 - [agent-to-agent-communication-file-mailbox](https://github.com/YoraiLevi/agent-to-agent-communication-file-mailbox) - File-based cross-agent / multi-agent message passing for CLI agents — no server, just shared files. Paste-to-join mailbox protocol (manager + workers).  
 - [ai-voice-reminders-bridge](https://github.com/YoraiLevi/ai-voice-reminders-bridge)  
-- [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [living-agents-1-spec.md](https://gist.github.com/YoraiLevi/01a5001a1dafcf21be1df653769f5a07) - Living Agents — a full SRS for an AI-agent orchestration system (persistent CLI REPLs in PTYs as workers): problem statement, 65 traced requirements, deep REPL-control mechanics (turn oracles, submit semantics, state detection), interfaces, ideal mission-control UI, verification doctrine. Observed live by the system's own agents, adversarially refuted.  
 - [Claude-Code-Research-Report-May-7-2026.md](https://gist.github.com/YoraiLevi/98fdead189a39fafd51bc7be8c297c9f) - Complete analysis of Claude Code enhancement ecosystem and pain points (30 agents, 200+ sources)  
 - [claude-code-in-containers-guide.md](https://gist.github.com/YoraiLevi/a319c347521738969ab1b39bc418134a) - Running Claude Code Inside Isolated Containers with Local-Feeling Persistence — a catalog of approaches, solutions, security caveats, and a recommended recipe  
@@ -90,10 +90,14 @@
 - [pasteconsole.js](https://gist.github.com/YoraiLevi/3365f9a60c8033d8c797dc409acbb26e) - this code is obsolete since the 2020 new facebook design. refer to: https://github.com/YoraiLevi/SetFacebookPostsPrivate make all facebook posts private(activity log) very dumb code.  
 - [My-Tech-Wearables](https://github.com/YoraiLevi/My-Tech-Wearables) - Cloth cat ears wearable with led strips! and more!  
 ## Forks
+- [grok-build](https://github.com/YoraiLevi/grok-build) - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.  
 - [destructive_command_guard](https://github.com/YoraiLevi/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.  
 - [rest-pty](https://github.com/YoraiLevi/rest-pty) - Terminals as a service — drive PTY sessions over REST and MCP.  
+- [recon](https://github.com/YoraiLevi/recon) - Recon: The Ultimate 3-Tier Code Navigation & Mutation Architecture  
+- [froglet](https://github.com/YoraiLevi/froglet) - A protocol and node for a bot economy — bots create, publish, discover, buy, sell, and compose remote resources for value.  
 - [gsudo](https://github.com/YoraiLevi/gsudo) - Sudo for Windows  
 - [cc-director](https://github.com/YoraiLevi/cc-director)  
+- [converttree](https://github.com/YoraiLevi/converttree)  
 - [ai-that-works](https://github.com/YoraiLevi/ai-that-works) - 🦄 ai that works - every tuesday 10 AM PST  
 - [happy](https://github.com/YoraiLevi/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured  
 - [claude-code-kanban](https://github.com/YoraiLevi/claude-code-kanban) - A web-based Kanban Board & Agent Orchestration  
@@ -140,4 +144,4 @@
 - [chrome](https://github.com/YoraiLevi/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own  
 - [GM_SuperValue](https://github.com/YoraiLevi/GM_SuperValue) - Improved, error-free and readable version of GreaseMonkey/TamperMonkey storage script "GM_SuperValue"  
   
-2026-07-16T02:13:08.644398+00:00
+2026-07-19T03:26:58.609865+00:00
