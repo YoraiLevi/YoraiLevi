@@ -1,4 +1,11 @@
 ## Starred
+- [voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.  
+- [Orca](https://github.com/junkyard22/Orca) - Multi-role AI orchestration runtime for Windows. Quality-gated pipeline (Brain → Miranda → Pappy → Benson) with MCP support, SQLite persistence, and a self-improving distillation loop. Coding you can trust.  
+- [orca](https://github.com/VirtusLab/orca) - Deterministic, AI-driven development flows.  
+- [hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you  
+- [orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.  
+- [patapim-releases](https://github.com/G3dar/patapim-releases) - PATAPIM releases and installers  
+- [patapim-sdk](https://github.com/G3dar/patapim-sdk) - SDK, OpenAPI spec, docs & examples for the PATAPIM Local API — extend and automate PATAPIM from your own tools  
 - [froglet](https://github.com/armanas/froglet) - A protocol and node for a bot economy — bots create, publish, discover, buy, sell, and compose remote resources for value.  
 - [grok-build](https://github.com/xai-org/grok-build) - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.  
 - [recon](https://github.com/valk/recon) - Recon: The Ultimate 3-Tier Code Navigation & Mutation Architecture  
@@ -26,7 +33,7 @@
 - [claude-code-tts](https://github.com/ybouhjira/claude-code-tts) - 🔊 Text-to-Speech MCP plugin for Claude Code - hear audio feedback while coding (OpenAI TTS)  
 - [devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments  
 - [docker-obsidian](https://github.com/linuxserver/docker-obsidian)  
-- [splitrail](https://github.com/Piebald-AI/splitrail) - Fast, cross-platform, real-time token usage tracker and cost monitor for Gemini CLI / Claude Code / Codex CLI / Qwen Code / Cline / Roo Code / Kilo Code / GitHub Copilot / OpenCode / Pi Agent / Piebald.  
+- [splitrail](https://github.com/Piebald-AI/splitrail) - Fast, cross-platform, real-time token usage tracker and cost monitor for Claude Code / Codex CLI / Antigravity CLI / Qwen Code / Cline / Zoo Code / Kilo Code / GitHub Copilot / OpenCode / Pi Agent / Piebald.  
 - [claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) - All parts of Claude Code's system prompt, 27 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact,  statusline, magic docs, WebFetch, Bash cmd, security review, agent creation).  Updated for each Claude Code version.  
 - [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect  
 - [happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured  
@@ -51,7 +58,7 @@
 - [cloudbase-init](https://github.com/davidhood2/cloudbase-init) - Instructions and config for running Cloudbase-Init on a Windows 11 client via Proxmox PVE8.4.1  
 - [pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.  
 - [terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox) - Terraform provider plugin for proxmox  
-- [proxmox-packer-bitwarden](https://github.com/modem7/proxmox-packer-bitwarden) - Packer Image Build Template Code For Proxmox with Bitwarden-CLI support  
+- [proxmox-packer-bitwarden](https://github.com/modem7/proxmox-packer-bitwarden) - Packer Image Build Template Code For Proxmox  
 - [cloudbase-init-installer](https://github.com/cloudbase/cloudbase-init-installer) - Cloudbase-Init MSI installer  
 - [cloudbase-init](https://github.com/cloudbase/cloudbase-init) - Cross-platform instance initialization  
 - [new-vm-from-iso](https://github.com/greyhamwoohoo/new-vm-from-iso) - Provision a Hyper-V VM with Windows automatically installed from an ISO using PowerShell; on first boot, the Unattend.Xml (OOBE) will automatically configure the installation and Windows will boot as far as the Login Screen. Windows Updates will then be automatically installed.   
@@ -92,13 +99,6 @@
 - [xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured, cross-platform and AI-friendly.  
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers  
 - [AltSnap](https://github.com/RamonUnch/AltSnap) - Maintained continuation of Stefan Sundin's AltDrag  
-- [cursor-ai-downloads](https://github.com/oslook/cursor-ai-downloads) - All Cursor AI's official download links for both the latest and older versions, making it easy for you to update, downgrade, and choose any version. 🚀  
-- [Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python  
-- [windhawk-mods](https://github.com/ramensoftware/windhawk-mods) - The official collection of Windhawk mods  
-- [windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/  
-- [baker-uv-template](https://github.com/pasunboneleve/baker-uv-template) - Reproducible Python project bootstrap with uv, tests, linting and type checking preconfigured.  
-- [arcade-svg](https://github.com/TechnicallyWeb3/arcade-svg)  
-- [vscode-default-keybindings](https://github.com/jbro/vscode-default-keybindings) - VSCode keybinding extentension that can set any OS default keybindings as the current ones.  
 - [EnvPaths.psm1](https://gist.github.com/jaw/4d1d858b87a5c208fbe42fd4d4aa97a4)  
 - [mandelbrot-on-all-accelerators.ipynb](https://gist.github.com/jpivarski/da343abd8024834ee8c5aaba691aafc7)  
 - [wsl2.md](https://gist.github.com/hucsmn/da1dbc2eb5903cb3143c35313623e7b0) - A collection of WSL2 hacks  

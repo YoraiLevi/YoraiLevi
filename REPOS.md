@@ -90,6 +90,10 @@
 - [pasteconsole.js](https://gist.github.com/YoraiLevi/3365f9a60c8033d8c797dc409acbb26e) - this code is obsolete since the 2020 new facebook design. refer to: https://github.com/YoraiLevi/SetFacebookPostsPrivate make all facebook posts private(activity log) very dumb code.  
 - [My-Tech-Wearables](https://github.com/YoraiLevi/My-Tech-Wearables) - Cloth cat ears wearable with led strips! and more!  
 ## Forks
+- [voicebox](https://github.com/YoraiLevi/voicebox) - The open-source AI voice studio. Clone, dictate, create.  
+- [orca](https://github.com/YoraiLevi/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.  
+- [orca-virtuslab](https://github.com/YoraiLevi/orca-virtuslab) - Deterministic, AI-driven development flows.  
+- [patapim-sdk](https://github.com/YoraiLevi/patapim-sdk) - SDK, OpenAPI spec, docs & examples for the PATAPIM Local API — extend and automate PATAPIM from your own tools  
 - [grok-build](https://github.com/YoraiLevi/grok-build) - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.  
 - [destructive_command_guard](https://github.com/YoraiLevi/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.  
 - [rest-pty](https://github.com/YoraiLevi/rest-pty) - Terminals as a service — drive PTY sessions over REST and MCP.  
@@ -142,6 +146,5 @@
 - [wsl-sudo](https://github.com/YoraiLevi/wsl-sudo) - WSL tool to run wsl commands in in an elevated process  
 - [keyboard-layout-editor](https://github.com/YoraiLevi/keyboard-layout-editor) - Web application to enable the design & editing of keyboard layouts  
 - [chrome](https://github.com/YoraiLevi/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own  
-- [GM_SuperValue](https://github.com/YoraiLevi/GM_SuperValue) - Improved, error-free and readable version of GreaseMonkey/TamperMonkey storage script "GM_SuperValue"  
   
-2026-07-19T03:26:58.609865+00:00
+2026-07-23T02:25:38.034689+00:00
