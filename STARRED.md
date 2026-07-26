@@ -1,4 +1,5 @@
 ## Starred
+- [grass](https://github.com/guillaumemichel/grass) - Secure GRASS (Grep as a service) project developed during the Software Security class CS-412.  
 - [voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.  
 - [Orca](https://github.com/junkyard22/Orca) - Multi-role AI orchestration runtime for Windows. Quality-gated pipeline (Brain → Miranda → Pappy → Benson) with MCP support, SQLite persistence, and a self-improving distillation loop. Coding you can trust.  
 - [orca](https://github.com/VirtusLab/orca) - Deterministic, AI-driven development flows.  
@@ -98,7 +99,6 @@
 - [xonsh-cheatsheet](https://github.com/anki-code/xonsh-cheatsheet) - Cheat sheet for Xonsh shell with copy-pastable examples.   
 - [xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured, cross-platform and AI-friendly.  
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers  
-- [AltSnap](https://github.com/RamonUnch/AltSnap) - Maintained continuation of Stefan Sundin's AltDrag  
 - [EnvPaths.psm1](https://gist.github.com/jaw/4d1d858b87a5c208fbe42fd4d4aa97a4)  
 - [mandelbrot-on-all-accelerators.ipynb](https://gist.github.com/jpivarski/da343abd8024834ee8c5aaba691aafc7)  
 - [wsl2.md](https://gist.github.com/hucsmn/da1dbc2eb5903cb3143c35313623e7b0) - A collection of WSL2 hacks  

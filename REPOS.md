@@ -88,8 +88,8 @@
 - [nordic_app_dfu_playzone](https://github.com/YoraiLevi/nordic_app_dfu_playzone) - example project for adding secure ble dfu for an existing app  
 - [MyLinting](https://github.com/YoraiLevi/MyLinting) - a collection of linting setups and explanations   
 - [pasteconsole.js](https://gist.github.com/YoraiLevi/3365f9a60c8033d8c797dc409acbb26e) - this code is obsolete since the 2020 new facebook design. refer to: https://github.com/YoraiLevi/SetFacebookPostsPrivate make all facebook posts private(activity log) very dumb code.  
-- [My-Tech-Wearables](https://github.com/YoraiLevi/My-Tech-Wearables) - Cloth cat ears wearable with led strips! and more!  
 ## Forks
+- [marketplace](https://github.com/YoraiLevi/marketplace)  
 - [voicebox](https://github.com/YoraiLevi/voicebox) - The open-source AI voice studio. Clone, dictate, create.  
 - [orca](https://github.com/YoraiLevi/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.  
 - [orca-virtuslab](https://github.com/YoraiLevi/orca-virtuslab) - Deterministic, AI-driven development flows.  
@@ -147,4 +147,4 @@
 - [keyboard-layout-editor](https://github.com/YoraiLevi/keyboard-layout-editor) - Web application to enable the design & editing of keyboard layouts  
 - [chrome](https://github.com/YoraiLevi/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own  
   
-2026-07-23T02:25:38.034689+00:00
+2026-07-26T03:32:09.702722+00:00
