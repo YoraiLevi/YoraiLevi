@@ -75,11 +75,8 @@
 - [ConvertTo-Hashtable.ps1](https://gist.github.com/YoraiLevi/292bb8d0e2ce0f87d37e5d5d735fff16) - ConvertTo-Hashtable.ps1  
 - [Intro-to-Deep-Learning-Final-Project-CS236781](https://github.com/YoraiLevi/Intro-to-Deep-Learning-Final-Project-CS236781) - object detection fintuning with huggingface  
 - [advanced_broadcasting](https://github.com/YoraiLevi/advanced_broadcasting)  
-- Archived: [AutoJobFind](https://github.com/YoraiLevi/AutoJobFind) - Javascript/Typescript based web-automation tool for submitting resumes  
 - Archived: [Problems_From_The_Discrete_To_The_Continuous_Chapter_3_Probabilistic_Packing_Problem](https://github.com/YoraiLevi/Problems_From_The_Discrete_To_The_Continuous_Chapter_3_Probabilistic_Packing_Problem) - Problems from  the Discrete to  the Continuous describes a number of probability, number theory, graph  theory, and combinatoric problems. this repository showcases chapter 3  
-- Archived: [MonkeyAutomations](https://github.com/YoraiLevi/MonkeyAutomations) - my personal collection of Tampermonkey/Greesemonkey automation scripts  
 - Archived: [PyMetaMath](https://github.com/YoraiLevi/PyMetaMath)  
-- Archived: [DNA_Noam](https://github.com/YoraiLevi/DNA_Noam)  
 - Archived: [Url2Pdf](https://github.com/YoraiLevi/Url2Pdf) - batch download urls and websites as pdf easily  
 - [ansible_collections](https://github.com/YoraiLevi/ansible_collections) - A collection of ansible windows modules that I deem missing for personal usage   
 - [ansible_playbooks](https://github.com/YoraiLevi/ansible_playbooks)  
@@ -89,14 +86,18 @@
 - [MyLinting](https://github.com/YoraiLevi/MyLinting) - a collection of linting setups and explanations   
 - [pasteconsole.js](https://gist.github.com/YoraiLevi/3365f9a60c8033d8c797dc409acbb26e) - this code is obsolete since the 2020 new facebook design. refer to: https://github.com/YoraiLevi/SetFacebookPostsPrivate make all facebook posts private(activity log) very dumb code.  
 ## Forks
+- [quil](https://github.com/YoraiLevi/quil) - Reboot-proof terminal multiplexer for AI-native devs — a tmux alternative that persists your whole workspace across reboots and auto-resumes Claude Code & OpenCode sessions. Ships an MCP server so AI agents can drive your panes. Go, cross-platform (Linux/macOS/Windows). MIT.  
+- [pyicloud](https://github.com/YoraiLevi/pyicloud) - A Python wrapper for accessing data from iCloud webservices, including Account, Find My, Calendar, Contacts, iCloud Drive, Photos, Hide My Email, Reminders, and Notes.  
 - [marketplace](https://github.com/YoraiLevi/marketplace)  
 - [voicebox](https://github.com/YoraiLevi/voicebox) - The open-source AI voice studio. Clone, dictate, create.  
 - [orca](https://github.com/YoraiLevi/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.  
+- [qscreen](https://github.com/YoraiLevi/qscreen) - Lightweight cross-platform terminal session manager — a simple tmux / GNU screen alternative for Windows, Linux, and macOS with detachable persistent sessions (ConPTY on Windows)  
 - [orca-virtuslab](https://github.com/YoraiLevi/orca-virtuslab) - Deterministic, AI-driven development flows.  
 - [patapim-sdk](https://github.com/YoraiLevi/patapim-sdk) - SDK, OpenAPI spec, docs & examples for the PATAPIM Local API — extend and automate PATAPIM from your own tools  
 - [grok-build](https://github.com/YoraiLevi/grok-build) - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.  
 - [destructive_command_guard](https://github.com/YoraiLevi/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.  
 - [rest-pty](https://github.com/YoraiLevi/rest-pty) - Terminals as a service — drive PTY sessions over REST and MCP.  
+- [codex-plugin-cc](https://github.com/YoraiLevi/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks.  
 - [recon](https://github.com/YoraiLevi/recon) - Recon: The Ultimate 3-Tier Code Navigation & Mutation Architecture  
 - [froglet](https://github.com/YoraiLevi/froglet) - A protocol and node for a bot economy — bots create, publish, discover, buy, sell, and compose remote resources for value.  
 - [gsudo](https://github.com/YoraiLevi/gsudo) - Sudo for Windows  
@@ -145,6 +146,5 @@
 - [GoToWindow](https://github.com/YoraiLevi/GoToWindow) - A keyboard-maniac alt-tab alternative  
 - [wsl-sudo](https://github.com/YoraiLevi/wsl-sudo) - WSL tool to run wsl commands in in an elevated process  
 - [keyboard-layout-editor](https://github.com/YoraiLevi/keyboard-layout-editor) - Web application to enable the design & editing of keyboard layouts  
-- [chrome](https://github.com/YoraiLevi/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own  
   
-2026-07-26T03:32:09.702722+00:00
+2026-07-30T02:02:08.532775+00:00

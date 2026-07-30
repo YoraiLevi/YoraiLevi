@@ -1,6 +1,7 @@
 ## TBD Contributions
 
 83 files changed, 8151 insertions(+), 1064 deletions(-) [DgxSparkLabs/dotfiles-template](https://github.com/DgxSparkLabs/dotfiles-template/pull/22) -- feat: multi-repo dotfiles sync engine (M1)  
+2 files changed, 37 insertions(+), 1 deletions(-) [timlaing/pyicloud](https://github.com/timlaing/pyicloud/pull/304) -- fix(reminders): declare CRDT lengths in UTF-16 code units, not codepoints  
 
 ## My Contributions
 
@@ -39,6 +40,22 @@
 19 files changed, 187 insertions(+), 6447 deletions(-) [DgxSparkLabs/marketplace-template](https://github.com/DgxSparkLabs/marketplace-template/pull/40) -- docs: template polish (PR 4 of #18)  
 544 files changed, 491 insertions(+), 77533 deletions(-) [DgxSparkLabs/marketplace-template](https://github.com/DgxSparkLabs/marketplace-template/pull/41) -- chore: template cleanup — project memory off main, docs made exact  
 2 files changed, 4 insertions(+), 4 deletions(-) [DgxSparkLabs/marketplace-template](https://github.com/DgxSparkLabs/marketplace-template/pull/42) -- chore: update repo slug after rename to marketplace-template  
+3 files changed, 148 insertions(+), 0 deletions(-) [DgxSparkLabs/marketplace-template](https://github.com/DgxSparkLabs/marketplace-template/pull/43) -- feat: template-update channel for forks  
+9 files changed, 76 insertions(+), 59 deletions(-) [DgxSparkLabs/marketplace-template](https://github.com/DgxSparkLabs/marketplace-template/pull/44) -- feat: forks own all of src/ (deleting examples supported)  
+2 files changed, 48 insertions(+), 1 deletions(-) [DgxSparkLabs/marketplace-template](https://github.com/DgxSparkLabs/marketplace-template/pull/45) -- fix: two-tier sync-template (default token cannot push workflow files)  
+5 files changed, 5 insertions(+), 5 deletions(-) [DgxSparkLabs/marketplace-template](https://github.com/DgxSparkLabs/marketplace-template/pull/46) -- docs: example-single description polish  
+16 files changed, 322 insertions(+), 62 deletions(-) [DgxSparkLabs/marketplace-template](https://github.com/DgxSparkLabs/marketplace-template/pull/47) -- feat: generated catalog & installation instructions (replaces INVENTORY)  
+2 files changed, 14 insertions(+), 3 deletions(-) [DgxSparkLabs/marketplace-template](https://github.com/DgxSparkLabs/marketplace-template/pull/48) -- fix: sync notification survives Issues-disabled forks  
+14 files changed, 72 insertions(+), 70 deletions(-) [DgxSparkLabs/marketplace-template](https://github.com/DgxSparkLabs/marketplace-template/pull/49) -- feat: storefront README + capabilities umbrella + fork-owned files  
+5 files changed, 86 insertions(+), 11 deletions(-) [DgxSparkLabs/marketplace-template](https://github.com/DgxSparkLabs/marketplace-template/pull/50) -- chore: local-only operator ignores; catalog TOC + clearer scope notes  
+16 files changed, 630 insertions(+), 27 deletions(-) [DgxSparkLabs/marketplace-template](https://github.com/DgxSparkLabs/marketplace-template/pull/51) -- feat: marketplace-operations capability + welcoming README + sync rename  
+1 files changed, 4 insertions(+), 0 deletions(-) [DgxSparkLabs/marketplace-template](https://github.com/DgxSparkLabs/marketplace-template/pull/52) -- fix: hold-back restores exact pre-merge workflow set (rename case)  
+2 files changed, 4 insertions(+), 0 deletions(-) [DgxSparkLabs/marketplace-template](https://github.com/DgxSparkLabs/marketplace-template/pull/53) -- docs: warn that the completion fetch must name the branch (FETCH_HEAD trap, observed live)  
+7 files changed, 21 insertions(+), 21 deletions(-) [DgxSparkLabs/marketplace-template](https://github.com/DgxSparkLabs/marketplace-template/pull/54) -- chore: template yields the dgxsparklabs-marketplace identity to the real marketplace  
+3 files changed, 7 insertions(+), 5 deletions(-) [DgxSparkLabs/marketplace-template](https://github.com/DgxSparkLabs/marketplace-template/pull/55) -- docs: template self-identifies as the template, points at the official marketplace  
+7 files changed, 136 insertions(+), 0 deletions(-) [DgxSparkLabs/marketplace-template](https://github.com/DgxSparkLabs/marketplace-template/pull/56) -- docs: troubleshooting knowledge base (symptom-indexed, one file per issue)  
+4 files changed, 4 insertions(+), 4 deletions(-) [DgxSparkLabs/marketplace-template](https://github.com/DgxSparkLabs/marketplace-template/pull/57) -- docs: example READMEs cite the template's own marketplace identity (reconcile after the identity yield)  
+22 files changed, 2173 insertions(+), 338 deletions(-) [DgxSparkLabs/marketplace-template](https://github.com/DgxSparkLabs/marketplace-template/pull/58) -- Lint system: one authoritative rule registry, executed and rendered from the same objects  
 
 ### Things that didn't see the light of day
 
