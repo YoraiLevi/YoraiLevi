@@ -25,7 +25,7 @@
 - [pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI  
 - [dgx-spark-cli](https://github.com/agentculture/dgx-spark-cli) - Agent and CLI for operating an NVIDIA DGX Spark (Grace-Blackwell) workstation — device setup, health/monitoring, and local AI/ML workload management.  
 - [parallel-code](https://github.com/johannesjo/parallel-code) - Run Claude Code, Codex, and Gemini side by side — each in      its own git worktree  
-- [ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated  
+- [ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated  
 - [claude-tmux](https://github.com/nielsgroen/claude-tmux) - Manage Claude Code within tmux. A tmux popup with session management, git worktree and pull request support.  
 - [pexpect](https://github.com/pexpect/pexpect) - A Python module for controlling interactive programs in a pseudo-terminal  
 - [reple](https://github.com/j3ka/reple) - Reple - wrapper for your repl  
@@ -47,7 +47,7 @@
 - [live-hooks](https://github.com/Taltzipi/live-hooks) - Lightweight hook wrappers for stale-safe async React  
 - [repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.  
 - [claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.  
-- [evalstats](https://github.com/ianarawjo/evalstats) - Statistical analysis methods for comparing prompt and model performance in LLM evaluations.  
+- [evalstats](https://github.com/ianarawjo/evalstats) - Statistical analysis for LLM evaluations, from model and prompt comparisons to inference resilient to LLM judge bias, including at small sample sizes. All defaults battle-tested in Monte Carlo simulations.  
 - [trzsz-ssh](https://github.com/trzsz/trzsz-ssh) - trzsz-ssh ( tssh ) is an ssh client designed as a drop-in replacement for the openssh client. It aims to provide complete compatibility with openssh, mirroring all its features, while also offering additional useful features. Such as login prompt, batch login, remember password, automated interaction, trzsz, zmodem(rz/sz), udp mode like mosh, etc.  
 - [trzsz-go](https://github.com/trzsz/trzsz-go) - trzsz-go is the go version of trzsz, makes all terminals that support local shell to support trzsz ( trz / tsz ).  
 - [cognetivy](https://github.com/meitarbe/cognetivy) - The open-source state layer for AI coding agents. Turn chaotic agent sessions into structured, traceable workflows with a local workspace for runs, events, and collections.  
