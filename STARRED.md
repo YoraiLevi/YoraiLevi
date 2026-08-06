@@ -1,4 +1,6 @@
 ## Starred
+- [skills-manager](https://github.com/xingkongliang/skills-manager) - A lightweight desktop app to manage, sync, and organize AI agent skills across 15+ coding tools — Cursor, Claude Code, Codex, Copilot, and more.  
+- [partialupdate](https://github.com/philholden/partialupdate) - Generative UI in multi user chat. A chat bot that can edit it own HTML, CSS and JS.   
 - [qscreen](https://github.com/dualface/qscreen) - Lightweight cross-platform terminal session manager — a simple tmux / GNU screen alternative for Windows, Linux, and macOS with detachable persistent sessions (ConPTY on Windows)  
 - [quil](https://github.com/artyomsv/quil) - Reboot-proof terminal multiplexer for AI-native devs — a tmux alternative that persists your whole workspace across reboots and auto-resumes Claude Code & OpenCode sessions. Ships an MCP server so AI agents can drive your panes. Go, cross-platform (Linux/macOS/Windows). MIT.  
 - [rhiza](https://github.com/Jebel-Quant/rhiza) - A collection of reusable configuration templates for modern Python projects  
@@ -42,7 +44,7 @@
 - [claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) - All parts of Claude Code's system prompt, 27 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact,  statusline, magic docs, WebFetch, Bash cmd, security review, agent creation).  Updated for each Claude Code version.  
 - [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect  
 - [happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured  
-- [hapi](https://github.com/tiann/hapi) - App for Claude Code / Codex / Gemini / OpenCode, vibe coding anytime, anywhere  
+- [hapi](https://github.com/tiann/hapi) - App for Claude Code / Codex / Pi / OpenCode / Kimi Code, vibe coding anytime, anywhere  
 - [Deep-Research-skills](https://github.com/Weizhena/Deep-Research-skills) - Structured deep research skill for Claude Code/Open Code/Codex with human-in-the-loop control  
 - [live-hooks](https://github.com/Taltzipi/live-hooks) - Lightweight hook wrappers for stale-safe async React  
 - [repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.  
@@ -97,8 +99,6 @@
 - [awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy) - A curated list of awesome tools for SQLAlchemy  
 - [best-of-python-dev](https://github.com/ml-tooling/best-of-python-dev) - 🏆 A ranked list of awesome python developer tools and libraries. Updated weekly.  
 - [xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.  
-- [netlas-cookbook](https://github.com/netlas-io/netlas-cookbook) - The goal of this guide is very simple - to teach anyone interested in cyber security, regardless of their knowledge level, how to make the most of Netlas.io.  
-- [ISP-Guide](https://github.com/mikeroyal/ISP-Guide) - Image Signal Processing (ISP) Guide. Learn all about the process of converting an image/video into digital form by performing tasks like noise reduction, filtering, auto exposure, autofocus, HDR correction, and image sharpening with a Specialized type of media processor.  
 - [EnvPaths.psm1](https://gist.github.com/jaw/4d1d858b87a5c208fbe42fd4d4aa97a4)  
 - [mandelbrot-on-all-accelerators.ipynb](https://gist.github.com/jpivarski/da343abd8024834ee8c5aaba691aafc7)  
 - [wsl2.md](https://gist.github.com/hucsmn/da1dbc2eb5903cb3143c35313623e7b0) - A collection of WSL2 hacks  

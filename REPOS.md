@@ -1,12 +1,17 @@
 ## Repositories and Gists
+- [agent-state-driver](https://github.com/YoraiLevi/agent-state-driver) - Reliable state detection & driving of interactive CLI AI agents (Claude Code, Codex, ...) — research, functional design, failure-mode analysis, and cross-platform prototypes (macOS/Linux/Windows)  
+- [conversation-relay-protocol.md](https://gist.github.com/YoraiLevi/248acd7a3ece8ad7c566cf3f6fdc4b2c) - Reliable file-mailbox conversation relay protocol  
+- [README.md](https://gist.github.com/YoraiLevi/1056e68188c921ab5e44b7a29725fb7c) - Windows containers with Docker Desktop — isolation, users, privileges, PowerShell, mounts, and Windows-specific flags  
+- [README.md](https://gist.github.com/YoraiLevi/04c1a97f368fb4f6630f9f741c6ac8e1) - Install Docker Desktop for Windows containers — prerequisites, WinGet override, PowerShell script, and smoke test  
+- [claude-code-in-containers-guide.md](https://gist.github.com/YoraiLevi/a319c347521738969ab1b39bc418134a) - Running Claude Code Inside Isolated Containers with Local-Feeling Persistence — a catalog of approaches, solutions, security caveats, and a recommended recipe  
+- [persistent-shell-sessions-windows.md](https://gist.github.com/YoraiLevi/acaa0b584389cecae0036db4624f0210) - Persistent, programmatically drivable shell sessions on native Windows 11 — a working engineer's guide to terminal middle layers (ConPTY session daemons, PTY-as-a-service, agent-drivable control surfaces, and the no-PTY alternative). Includes the underlying research map and the provenance manifest of every source consulted.  
+- [ai-voice-reminders-bridge](https://github.com/YoraiLevi/ai-voice-reminders-bridge)  
 - [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [ssh-symlink-redirectionguard-windows.md](https://gist.github.com/YoraiLevi/42366196e1b7a6df51afef8f448e79ec) - Make symbolic links traverse over SSH on Windows 11 — disable RedirectionGuard for sshd (fixes STATUS_UNTRUSTED_MOUNT_POINT), with pre/post verification, a no-security-rollback alternative, and the mechanism.  
 - [ESP32-CSI-RF-and-architecture-guide.md](https://gist.github.com/YoraiLevi/efa0ce2b02a26f735ccbf6f7df323de8) - ESP32 Wi-Fi-CSI sensing mesh — RF & system-architecture engineer's guide: antennas & ground planes, cross-node phase coherence (the crystal question, adjudicated), what the ESP32-C5/C6 actually expose for CSI (with the 20 MHz-only limit + lltf trap), and survey automation — demonstrated-with-numbers vs vendor claim, primary-source cited, with corrections to the prior chip guide.  
 - [agent-to-agent-communication-file-mailbox](https://github.com/YoraiLevi/agent-to-agent-communication-file-mailbox) - File-based cross-agent / multi-agent message passing for CLI agents — no server, just shared files. Paste-to-join mailbox protocol (manager + workers).  
-- [ai-voice-reminders-bridge](https://github.com/YoraiLevi/ai-voice-reminders-bridge)  
 - [living-agents-1-spec.md](https://gist.github.com/YoraiLevi/01a5001a1dafcf21be1df653769f5a07) - Living Agents — a full SRS for an AI-agent orchestration system (persistent CLI REPLs in PTYs as workers): problem statement, 65 traced requirements, deep REPL-control mechanics (turn oracles, submit semantics, state detection), interfaces, ideal mission-control UI, verification doctrine. Observed live by the system's own agents, adversarially refuted.  
 - [Claude-Code-Research-Report-May-7-2026.md](https://gist.github.com/YoraiLevi/98fdead189a39fafd51bc7be8c297c9f) - Complete analysis of Claude Code enhancement ecosystem and pain points (30 agents, 200+ sources)  
-- [claude-code-in-containers-guide.md](https://gist.github.com/YoraiLevi/a319c347521738969ab1b39bc418134a) - Running Claude Code Inside Isolated Containers with Local-Feeling Persistence — a catalog of approaches, solutions, security caveats, and a recommended recipe  
 - [push-ssh-key-to-server.md](https://gist.github.com/YoraiLevi/6a798fc49f4b10d688c8690b694eeba3) - Windows OpenSSH server for a Tailscale mesh — per-user keys, key-only, pwsh shell (two-phase runbook)  
 - [How-we-work-a-method-for-trustworthy-deliverables.md](https://gist.github.com/YoraiLevi/5b3cbabee8cb045b813d81970024f185) - How we work — a reusable method for producing verified, well-cited, transferable deliverables (research reports, decision docs, technical guides, runbooks, audits). Frame → Scope → Research → Separate → Draft → Review → Harden, with the philosophy and lessons behind each.  
 - [ESP32-CSI-sensing-mesh-antenna-guide.md](https://gist.github.com/YoraiLevi/1082b8ac1ff6525acff364f13a7eac17) - ESP32 chips for Wi-Fi CSI sensing meshes — a working engineer's guide: what CSI measures, what each chip offers, what's demonstrated vs vendor claim, and how to choose  
@@ -76,7 +81,6 @@
 - [Intro-to-Deep-Learning-Final-Project-CS236781](https://github.com/YoraiLevi/Intro-to-Deep-Learning-Final-Project-CS236781) - object detection fintuning with huggingface  
 - [advanced_broadcasting](https://github.com/YoraiLevi/advanced_broadcasting)  
 - Archived: [Problems_From_The_Discrete_To_The_Continuous_Chapter_3_Probabilistic_Packing_Problem](https://github.com/YoraiLevi/Problems_From_The_Discrete_To_The_Continuous_Chapter_3_Probabilistic_Packing_Problem) - Problems from  the Discrete to  the Continuous describes a number of probability, number theory, graph  theory, and combinatoric problems. this repository showcases chapter 3  
-- Archived: [PyMetaMath](https://github.com/YoraiLevi/PyMetaMath)  
 - Archived: [Url2Pdf](https://github.com/YoraiLevi/Url2Pdf) - batch download urls and websites as pdf easily  
 - [ansible_collections](https://github.com/YoraiLevi/ansible_collections) - A collection of ansible windows modules that I deem missing for personal usage   
 - [ansible_playbooks](https://github.com/YoraiLevi/ansible_playbooks)  
@@ -147,4 +151,4 @@
 - [wsl-sudo](https://github.com/YoraiLevi/wsl-sudo) - WSL tool to run wsl commands in in an elevated process  
 - [keyboard-layout-editor](https://github.com/YoraiLevi/keyboard-layout-editor) - Web application to enable the design & editing of keyboard layouts  
   
-2026-08-02T03:30:22.850974+00:00
+2026-08-06T02:11:28.045498+00:00
