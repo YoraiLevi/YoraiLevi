@@ -31,13 +31,13 @@
                                 <span data-view-component="true" class="position-relative">
                                     <a href="" data-view-component="true" class="min-width-0 Link text-bold flex-auto">
                                         <span class="repo">
-                                            persistent-shell-sessions-windows.md
+                                            README.md
                                         </span>
                                     </a>
                                     <tool-tip for="2544889" popover="manual" data-direction="s" data-type="description"
                                         data-view-component="true" class="position-absolute sr-only" role="tooltip"
                                         style="--tool-tip-position-top: 707.75px; --tool-tip-position-left: 368.625px;">
-                                        persistent-shell-sessions-windows.md</tool-tip>
+                                        README.md</tool-tip>
                                 </span>
                                 <span class=" flex-auto text-right">
                                     <span></span>
@@ -52,7 +52,7 @@
 
 
                             <p class="three-lines pinned-item-desc color-fg-muted text-small d-block mt-2 mb-3">
-                                Persistent, programmatically drivable shell sessions on native Windows 11 — a working engineer's guide to terminal middle layers (ConPTY session daemons, PTY-as-a-service, agent-drivable control surfaces, and the no-PTY alternative). Includes the underlying research map and the provenance manifest of every source consulted.
+                                Install Docker Desktop for Windows containers — prerequisites, WinGet override, PowerShell script, and smoke test
                             </p>
 
                             <p class="mb-0 f6 color-fg-muted">

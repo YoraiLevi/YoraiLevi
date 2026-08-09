@@ -1,12 +1,13 @@
 ## Repositories and Gists
+- [ai-voice-reminders-bridge](https://github.com/YoraiLevi/ai-voice-reminders-bridge)  
+- [computer-use-report.md](https://gist.github.com/YoraiLevi/387c7b27fea0dc5bf871180f87cdf480) - Open-Source Full Computer Use for LLM Agents — Landscape Report (Aug 2026): 15 adversarially verified projects, macOS/Claude Code lens  
 - [agent-state-driver](https://github.com/YoraiLevi/agent-state-driver) - Reliable state detection & driving of interactive CLI AI agents (Claude Code, Codex, ...) — research, functional design, failure-mode analysis, and cross-platform prototypes (macOS/Linux/Windows)  
+- [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [conversation-relay-protocol.md](https://gist.github.com/YoraiLevi/248acd7a3ece8ad7c566cf3f6fdc4b2c) - Reliable file-mailbox conversation relay protocol  
 - [README.md](https://gist.github.com/YoraiLevi/1056e68188c921ab5e44b7a29725fb7c) - Windows containers with Docker Desktop — isolation, users, privileges, PowerShell, mounts, and Windows-specific flags  
 - [README.md](https://gist.github.com/YoraiLevi/04c1a97f368fb4f6630f9f741c6ac8e1) - Install Docker Desktop for Windows containers — prerequisites, WinGet override, PowerShell script, and smoke test  
 - [claude-code-in-containers-guide.md](https://gist.github.com/YoraiLevi/a319c347521738969ab1b39bc418134a) - Running Claude Code Inside Isolated Containers with Local-Feeling Persistence — a catalog of approaches, solutions, security caveats, and a recommended recipe  
 - [persistent-shell-sessions-windows.md](https://gist.github.com/YoraiLevi/acaa0b584389cecae0036db4624f0210) - Persistent, programmatically drivable shell sessions on native Windows 11 — a working engineer's guide to terminal middle layers (ConPTY session daemons, PTY-as-a-service, agent-drivable control surfaces, and the no-PTY alternative). Includes the underlying research map and the provenance manifest of every source consulted.  
-- [ai-voice-reminders-bridge](https://github.com/YoraiLevi/ai-voice-reminders-bridge)  
-- [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [ssh-symlink-redirectionguard-windows.md](https://gist.github.com/YoraiLevi/42366196e1b7a6df51afef8f448e79ec) - Make symbolic links traverse over SSH on Windows 11 — disable RedirectionGuard for sshd (fixes STATUS_UNTRUSTED_MOUNT_POINT), with pre/post verification, a no-security-rollback alternative, and the mechanism.  
 - [ESP32-CSI-RF-and-architecture-guide.md](https://gist.github.com/YoraiLevi/efa0ce2b02a26f735ccbf6f7df323de8) - ESP32 Wi-Fi-CSI sensing mesh — RF & system-architecture engineer's guide: antennas & ground planes, cross-node phase coherence (the crystal question, adjudicated), what the ESP32-C5/C6 actually expose for CSI (with the 20 MHz-only limit + lltf trap), and survey automation — demonstrated-with-numbers vs vendor claim, primary-source cited, with corrections to the prior chip guide.  
 - [agent-to-agent-communication-file-mailbox](https://github.com/YoraiLevi/agent-to-agent-communication-file-mailbox) - File-based cross-agent / multi-agent message passing for CLI agents — no server, just shared files. Paste-to-join mailbox protocol (manager + workers).  
@@ -90,6 +91,7 @@
 - [MyLinting](https://github.com/YoraiLevi/MyLinting) - a collection of linting setups and explanations   
 - [pasteconsole.js](https://gist.github.com/YoraiLevi/3365f9a60c8033d8c797dc409acbb26e) - this code is obsolete since the 2020 new facebook design. refer to: https://github.com/YoraiLevi/SetFacebookPostsPrivate make all facebook posts private(activity log) very dumb code.  
 ## Forks
+- [agentirc](https://github.com/YoraiLevi/agentirc) - Local chat for agents based on IRC  
 - [quil](https://github.com/YoraiLevi/quil) - Reboot-proof terminal multiplexer for AI-native devs — a tmux alternative that persists your whole workspace across reboots and auto-resumes Claude Code & OpenCode sessions. Ships an MCP server so AI agents can drive your panes. Go, cross-platform (Linux/macOS/Windows). MIT.  
 - [pyicloud](https://github.com/YoraiLevi/pyicloud) - A Python wrapper for accessing data from iCloud webservices, including Account, Find My, Calendar, Contacts, iCloud Drive, Photos, Hide My Email, Reminders, and Notes.  
 - [marketplace](https://github.com/YoraiLevi/marketplace)  
@@ -149,6 +151,5 @@
 - [youtube-cast-receiver](https://github.com/YoraiLevi/youtube-cast-receiver) - Grants access to youtube.com/tv normally reserved for use with smart TVs  
 - [GoToWindow](https://github.com/YoraiLevi/GoToWindow) - A keyboard-maniac alt-tab alternative  
 - [wsl-sudo](https://github.com/YoraiLevi/wsl-sudo) - WSL tool to run wsl commands in in an elevated process  
-- [keyboard-layout-editor](https://github.com/YoraiLevi/keyboard-layout-editor) - Web application to enable the design & editing of keyboard layouts  
   
-2026-08-06T02:11:28.045498+00:00
+2026-08-09T02:07:10.043342+00:00
