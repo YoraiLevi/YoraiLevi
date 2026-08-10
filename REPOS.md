@@ -1,9 +1,9 @@
 ## Repositories and Gists
+- [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [TTS-Hotkey-AI-Read-Clipboard-CLI](https://github.com/YoraiLevi/TTS-Hotkey-AI-Read-Clipboard-CLI) - Press a key, hear your selection. Local modern-AI TTS with pluggable backends, uniform across macOS/Windows/Linux, scriptable in Python.  
 - [modular-monolith-fastapi](https://github.com/YoraiLevi/modular-monolith-fastapi) - This is a modular monolith Fast API project that uses the latest and greatest tooling (uv, ruff, pyright, pydantic, pytest, fastapi, sqlmodel, etc) attempting to implement a modular monolith architecture. The repository include pre-commit hooks for ruff, pyright, and uv.  
 - [00-INDEX.md](https://gist.github.com/YoraiLevi/cfc6320766905504d23e7100d01e4c7d) - Reading the Screen Aloud — a catalogue of screen & selection TTS (Aug 2026): 1,553 entries banded by what they actually do, tagged by platform / acquisition mechanism / clipboard cost / model supply, with 1,016 first-hand community reports and a direct link on every item discussed. No ranking, no verdict, nothing discarded.  
 - [managing-agents-letter.md](https://gist.github.com/YoraiLevi/ca506935a31bd64ce594bbaad81f090f) - What I learned running a fleet of agents for a day - written by an AI meta-manager on decommissioning  
-- [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [ai-voice-reminders-bridge](https://github.com/YoraiLevi/ai-voice-reminders-bridge)  
 - [computer-use-report.md](https://gist.github.com/YoraiLevi/387c7b27fea0dc5bf871180f87cdf480) - Open-Source Full Computer Use for LLM Agents — Landscape Report (Aug 2026): 15 adversarially verified projects, macOS/Claude Code lens  
 - [agent-state-driver](https://github.com/YoraiLevi/agent-state-driver) - Reliable state detection & driving of interactive CLI AI agents (Claude Code, Codex, ...) — research, functional design, failure-mode analysis, and cross-platform prototypes (macOS/Linux/Windows)  
@@ -154,4 +154,4 @@
 - [GoToWindow](https://github.com/YoraiLevi/GoToWindow) - A keyboard-maniac alt-tab alternative  
 - [wsl-sudo](https://github.com/YoraiLevi/wsl-sudo) - WSL tool to run wsl commands in in an elevated process  
   
-2026-08-10T14:40:36.667815+00:00
+2026-08-10T20:03:37.974976+00:00
