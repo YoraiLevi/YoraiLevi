@@ -6,9 +6,8 @@ on:
   pull_request:
     branches: ["master"]
   schedule:
-    # https://crontab.guru
-    - cron: "0 0 * * SUN"
-    - cron: "0 0 * * THU"
+    # Twice daily (00:00 and 12:00 UTC). https://crontab.guru
+    - cron: "0 0,12 * * *"
   workflow_dispatch:
 
 # One refresh at a time on master; don't cancel an in-flight publish.
@@ -30,19 +29,20 @@ jobs:
           # fetch-depth 0 so rebase onto origin/master works cleanly.
           fetch-depth: 0
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - name: Install uv
+        uses: astral-sh/setup-uv@v6
         with:
           python-version: "3.12"
+          enable-cache: true
 
-      - name: Install test dependencies
-        run: pip install -r requirements-dev.txt
+      - name: Install dependencies
+        run: uv sync --group dev
 
       - name: Regenerate profile artifacts
-        run: python3 ./.github/workflows/ci.py
+        run: uv run python ./.github/workflows/ci.py
 
       - name: Test
-        run: pytest -q
+        run: uv run pytest -q
 
       # Publish only outside PRs. PRs are detached HEAD (merge commit).
       # Append a normal commit and rebase instead of force-pushing master.
