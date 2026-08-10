@@ -1,8 +1,12 @@
 ## Repositories and Gists
+- [TTS-Hotkey-AI-Read-Clipboard-CLI](https://github.com/YoraiLevi/TTS-Hotkey-AI-Read-Clipboard-CLI) - Press a key, hear your selection. Local modern-AI TTS with pluggable backends, uniform across macOS/Windows/Linux, scriptable in Python.  
+- [modular-monolith-fastapi](https://github.com/YoraiLevi/modular-monolith-fastapi) - This is a modular monolith Fast API project that uses the latest and greatest tooling (uv, ruff, pyright, pydantic, pytest, fastapi, sqlmodel, etc) attempting to implement a modular monolith architecture. The repository include pre-commit hooks for ruff, pyright, and uv.  
+- [00-INDEX.md](https://gist.github.com/YoraiLevi/cfc6320766905504d23e7100d01e4c7d) - Reading the Screen Aloud — a catalogue of screen & selection TTS (Aug 2026): 1,553 entries banded by what they actually do, tagged by platform / acquisition mechanism / clipboard cost / model supply, with 1,016 first-hand community reports and a direct link on every item discussed. No ranking, no verdict, nothing discarded.  
+- [managing-agents-letter.md](https://gist.github.com/YoraiLevi/ca506935a31bd64ce594bbaad81f090f) - What I learned running a fleet of agents for a day - written by an AI meta-manager on decommissioning  
+- [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [ai-voice-reminders-bridge](https://github.com/YoraiLevi/ai-voice-reminders-bridge)  
 - [computer-use-report.md](https://gist.github.com/YoraiLevi/387c7b27fea0dc5bf871180f87cdf480) - Open-Source Full Computer Use for LLM Agents — Landscape Report (Aug 2026): 15 adversarially verified projects, macOS/Claude Code lens  
 - [agent-state-driver](https://github.com/YoraiLevi/agent-state-driver) - Reliable state detection & driving of interactive CLI AI agents (Claude Code, Codex, ...) — research, functional design, failure-mode analysis, and cross-platform prototypes (macOS/Linux/Windows)  
-- [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [conversation-relay-protocol.md](https://gist.github.com/YoraiLevi/248acd7a3ece8ad7c566cf3f6fdc4b2c) - Reliable file-mailbox conversation relay protocol  
 - [README.md](https://gist.github.com/YoraiLevi/1056e68188c921ab5e44b7a29725fb7c) - Windows containers with Docker Desktop — isolation, users, privileges, PowerShell, mounts, and Windows-specific flags  
 - [README.md](https://gist.github.com/YoraiLevi/04c1a97f368fb4f6630f9f741c6ac8e1) - Install Docker Desktop for Windows containers — prerequisites, WinGet override, PowerShell script, and smoke test  
@@ -21,7 +25,6 @@
 - [researching-without-fooling-yourself.md](https://gist.github.com/YoraiLevi/52a1d64d03fec2bcc5aac3eab332fc7b) - Researching a hard problem without fooling yourself — a tool-agnostic method for depth and honesty (each principle: the practice, the failure it prevents, and the checkable tell).  
 - [sshd-as-user-howto.md](https://gist.github.com/YoraiLevi/49da57da5c7bb4724ba3f4e4c694d748) - Run the Windows OpenSSH service as your own user account — and see the SSH logon-session token change (Network -> Service); side effect: cmdkey/DPAPI/mapped drives work over SSH.  
 - [windows-ssh-credential-session.md](https://gist.github.com/YoraiLevi/995c7558842d263585a0a6aa3bff5a8a) - Getting a credential-bearing session on Windows over SSH: logon types, why cmdkey/DPAPI/mapped drives fail under OpenSSH, and every fix (sshd-as-user, Cygwin passwd -R, Bitvise, scheduled tasks, Ansible become) with trade-offs to choose by your constraints.  
-- [modular-monolith-fastapi](https://github.com/YoraiLevi/modular-monolith-fastapi) - This is a modular monolith Fast API project that uses the latest and greatest tooling (uv, ruff, pyright, pydantic, pytest, fastapi, sqlmodel, etc) attempting to implement a modular monolith architecture. The repository include pre-commit hooks for ruff, pyright, and uv.  
 - [macos-power-user-setup.md](https://gist.github.com/YoraiLevi/3dfc2ba4bfc134ae4bd12b96ca6070f1) - macOS Power-User Setup — consolidated & deduped from 4 YouTube guides (119 items)  
 - [multi-agent-github-issues-handoff.md](https://gist.github.com/YoraiLevi/5b4ec926602b348ab549afee7fd27c96) - Multi-agent task queue on GitHub Issues — ENGINEER ON-RAMP / front door (2026-06-27)  
 - [multi-agent-github-issues.md](https://gist.github.com/YoraiLevi/6c0623fca8aea032270806818aede8a1) - Multi-agent task queue on GitHub Issues — DEEP REPORT (homelab, YoraiLevi/project-proposals; 2026-06-27)  
@@ -49,7 +52,6 @@
 - [rfe-v2-and-notebooklm-py-review.md](https://gist.github.com/YoraiLevi/799bf0cd08c801a6a135d5dffdf421c8) - RFE v2 + Defensive Review: notebooklm-py adoption decision and Research-Formalize-Educate methodology refined by running it on itself  
 - [dotfiles](https://github.com/YoraiLevi/dotfiles) - dotfiles  
 - [Claude-Code-Complete-Research-Report-May-7-2026.md](https://gist.github.com/YoraiLevi/183fde73c8c3be43d9e39df57f3b1f8b) - Complete analysis of Claude Code (30 agents, 200+ sources, all references included)  
-- Archived: [SetFacebookPostsPrivate](https://github.com/YoraiLevi/SetFacebookPostsPrivate) - Automation tool that sets posts in facebook's activity log to private (public or friends) for the new 2020 design. using Tampermonkey  
 - [ahk-autohotkeys](https://github.com/YoraiLevi/ahk-autohotkeys)  
 - [sync-settings-with-github](https://github.com/YoraiLevi/sync-settings-with-github) - vscode extension to sync files and settings with github repositories  
 - [distributed-uvm](https://github.com/talafek96/distributed-uvm) - Middleware making remote and heterogeneous memory transparently available to unmodified applications  
@@ -81,7 +83,6 @@
 - [ConvertTo-Hashtable.ps1](https://gist.github.com/YoraiLevi/292bb8d0e2ce0f87d37e5d5d735fff16) - ConvertTo-Hashtable.ps1  
 - [Intro-to-Deep-Learning-Final-Project-CS236781](https://github.com/YoraiLevi/Intro-to-Deep-Learning-Final-Project-CS236781) - object detection fintuning with huggingface  
 - [advanced_broadcasting](https://github.com/YoraiLevi/advanced_broadcasting)  
-- Archived: [Problems_From_The_Discrete_To_The_Continuous_Chapter_3_Probabilistic_Packing_Problem](https://github.com/YoraiLevi/Problems_From_The_Discrete_To_The_Continuous_Chapter_3_Probabilistic_Packing_Problem) - Problems from  the Discrete to  the Continuous describes a number of probability, number theory, graph  theory, and combinatoric problems. this repository showcases chapter 3  
 - Archived: [Url2Pdf](https://github.com/YoraiLevi/Url2Pdf) - batch download urls and websites as pdf easily  
 - [ansible_collections](https://github.com/YoraiLevi/ansible_collections) - A collection of ansible windows modules that I deem missing for personal usage   
 - [ansible_playbooks](https://github.com/YoraiLevi/ansible_playbooks)  
@@ -91,12 +92,13 @@
 - [MyLinting](https://github.com/YoraiLevi/MyLinting) - a collection of linting setups and explanations   
 - [pasteconsole.js](https://gist.github.com/YoraiLevi/3365f9a60c8033d8c797dc409acbb26e) - this code is obsolete since the 2020 new facebook design. refer to: https://github.com/YoraiLevi/SetFacebookPostsPrivate make all facebook posts private(activity log) very dumb code.  
 ## Forks
+- [claude-grok-build-plugin](https://github.com/YoraiLevi/claude-grok-build-plugin) - A Claude Code plugin (MCP-server wrapper) that lets Claude delegate coding tasks to xAI's Grok Build CLI — billed via your xAI subscription, not metered API. 9 MCP tools, /grok:* commands.  
+- [orca](https://github.com/YoraiLevi/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.  
 - [agentirc](https://github.com/YoraiLevi/agentirc) - Local chat for agents based on IRC  
 - [quil](https://github.com/YoraiLevi/quil) - Reboot-proof terminal multiplexer for AI-native devs — a tmux alternative that persists your whole workspace across reboots and auto-resumes Claude Code & OpenCode sessions. Ships an MCP server so AI agents can drive your panes. Go, cross-platform (Linux/macOS/Windows). MIT.  
 - [pyicloud](https://github.com/YoraiLevi/pyicloud) - A Python wrapper for accessing data from iCloud webservices, including Account, Find My, Calendar, Contacts, iCloud Drive, Photos, Hide My Email, Reminders, and Notes.  
 - [marketplace](https://github.com/YoraiLevi/marketplace)  
 - [voicebox](https://github.com/YoraiLevi/voicebox) - The open-source AI voice studio. Clone, dictate, create.  
-- [orca](https://github.com/YoraiLevi/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.  
 - [qscreen](https://github.com/YoraiLevi/qscreen) - Lightweight cross-platform terminal session manager — a simple tmux / GNU screen alternative for Windows, Linux, and macOS with detachable persistent sessions (ConPTY on Windows)  
 - [orca-virtuslab](https://github.com/YoraiLevi/orca-virtuslab) - Deterministic, AI-driven development flows.  
 - [patapim-sdk](https://github.com/YoraiLevi/patapim-sdk) - SDK, OpenAPI spec, docs & examples for the PATAPIM Local API — extend and automate PATAPIM from your own tools  
@@ -152,4 +154,4 @@
 - [GoToWindow](https://github.com/YoraiLevi/GoToWindow) - A keyboard-maniac alt-tab alternative  
 - [wsl-sudo](https://github.com/YoraiLevi/wsl-sudo) - WSL tool to run wsl commands in in an elevated process  
   
-2026-08-09T02:07:10.043342+00:00
+2026-08-10T14:40:36.667815+00:00
