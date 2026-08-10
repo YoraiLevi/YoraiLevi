@@ -10,7 +10,7 @@ from svg import populate_svg_template
 
 
 def repolike_card(repolike, card_name_suffix):
-    html_url = repo.get("html_url")
+    html_url = repolike.get("html_url")
     dark_svg = populate_svg_template(repolike, dark_mode=True)
     dark_svg_name = f"assets/card-dark-{card_name_suffix}.svg"
     light_svg = populate_svg_template(repolike, dark_mode=False)
@@ -19,8 +19,8 @@ def repolike_card(repolike, card_name_suffix):
     markdown_display_string = f"""
 <a href="{html_url}">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="./{dark_svg_name}/">
-<source media="(prefers-color-scheme: light)" srcset="./{light_svg_name}/">
+<source media="(prefers-color-scheme: dark)" srcset="./{dark_svg_name}">
+<source media="(prefers-color-scheme: light)" srcset="./{light_svg_name}">
 <img align="center" src="./{dark_svg_name}" />
 </picture>\
 </a>"""

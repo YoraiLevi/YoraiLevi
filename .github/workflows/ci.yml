@@ -1,60 +1,71 @@
-# This is a basic workflow to help you get started with Actions
-
 name: CI
 
-# Controls when the workflow will run
 on:
   push:
-    branches: [ "master" ]
+    branches: ["master"]
   pull_request:
-    branches: [ "master" ]
+    branches: ["master"]
   schedule:
-#   https://crontab.guru
-   - cron: "0 0 * * SUN"
-   - cron: "0 0 * * THU"
-
-  # Allows you to run this workflow manually from the Actions tab
+    # https://crontab.guru
+    - cron: "0 0 * * SUN"
+    - cron: "0 0 * * THU"
   workflow_dispatch:
+
+# One refresh at a time on master; don't cancel an in-flight publish.
+concurrency:
+  group: profile-ci-${{ github.ref }}
+  cancel-in-progress: false
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     env:
-      USER_TOKEN : ${{ secrets.USER_TOKEN }}
+      USER_TOKEN: ${{ secrets.USER_TOKEN }}
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v3
-      # Setup python
+      - uses: actions/checkout@v4
+        with:
+          # GITHUB_TOKEN pushes do not re-trigger workflows (avoids refresh loops).
+          # fetch-depth 0 so rebase onto origin/master works cleanly.
+          fetch-depth: 0
+
       - name: Setup Python
-        uses: actions/setup-python@v4.3.0
-#         with:
-          # Version range or exact version of Python or PyPy to use, using SemVer's version range syntax. Reads from .python-version if unset.
-#           python-version: # optional
-          # File containing the Python version to use. Example: .python-version
-#           python-version-file: # optional
-          # Used to specify a package manager for caching in the default directory. Supported values: pip, pipenv, poetry.
-#           cache: # optional
-          # The target architecture (x86, x64) of the Python or PyPy interpreter.
-#           architecture: # optional
-          # Set this option if you want the action to check for the latest available version that satisfies the version spec.
-#           check-latest: # optional
-          # The token used to authenticate when fetching Python distributions from https://github.com/actions/python-versions. When running this action on github.com, the default value is sufficient. When running on GHES, you can pass a personal access token for github.com if you are experiencing rate limiting.
-#           token: # optional, default is ${{ github.server_url == 'https://github.com' && github.token || '' }}
-          # Used to specify the path to dependency files. Supports wildcards or a list of file names for caching multiple dependencies.
-#           cache-dependency-path: # optional
-          # Set this option if you want the action to update environment variables.
-#           update-environment: # optional, default is true
-      # Run python entry point
-      - name: CI entrypoint
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install test dependencies
+        run: pip install -r requirements-dev.txt
+
+      - name: Regenerate profile artifacts
         run: python3 ./.github/workflows/ci.py
-      # pull_request checkouts are detached HEAD (merge commit); push only on
-      # master-targeting events where checkout leaves us on a real branch.
+
+      - name: Test
+        run: pytest -q
+
+      # Publish only outside PRs. PRs are detached HEAD (merge commit).
+      # Append a normal commit and rebase instead of force-pushing master.
       - name: Commit and push regenerated files
         if: github.event_name != 'pull_request'
         run: |
+          set -euo pipefail
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
-          git diff --staged --quiet || git commit -m "ci build"
-          git push --force
-      
+          if git diff --staged --quiet; then
+            echo "No artifact changes to publish"
+            exit 0
+          fi
+          git commit -m "ci: refresh profile artifacts"
+          # If another job landed first, rebase and retry push once.
+          i=0
+          until git pull --rebase origin master && git push origin HEAD:master; do
+            i=$((i + 1))
+            if [ "$i" -ge 3 ]; then
+              echo "Push failed after rebase retries; not force-pushing"
+              exit 1
+            fi
+            echo "Retrying rebase+push ($i)"
+            sleep 2
+          done
