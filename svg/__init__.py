@@ -1,3 +1,4 @@
+import html
 import urllib.request
 import json
 from github import Repository
@@ -17,9 +18,11 @@ with open("./svg/light_mode.css", "r") as f:
 
 
 def populate_svg_template(repo : Repository, dark_mode=True):
-    name = repo.get("name")
-    description = repo.get("description") or ""
-    language = repo.get("language") or ""
+    # SVG is XML — escape text fields so bare &, <, > don't invalidate the file.
+    language_raw = repo.get("language") or ""
+    name = html.escape(repo.get("name") or "")
+    description = html.escape(repo.get("description") or "")
+    language = html.escape(language_raw)
     archived = repo.get("archived", False)
     stargazers_count = repo.get("stargazers_count", 0)
     forks_count = repo.get("forks_count", 0)
@@ -28,7 +31,7 @@ def populate_svg_template(repo : Repository, dark_mode=True):
         "name": name,
         "description": description,
         "language": language,
-        "language_color": github_languageColors_json.get(language),
+        "language_color": github_languageColors_json.get(language_raw) or "#ededed",
         "stargazers_count": stargazers_count,
         "forks_count": forks_count,
         "archived": "" if archived else "hide",
