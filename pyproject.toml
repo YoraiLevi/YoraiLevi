@@ -1,0 +1,15 @@
+[project]
+name = "yorailevi-profile"
+version = "0.0.0"
+description = "GitHub profile README generators and card SVG pipeline"
+requires-python = ">=3.12"
+dependencies = []
+
+[dependency-groups]
+dev = [
+    "pytest>=8.0,<9",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
