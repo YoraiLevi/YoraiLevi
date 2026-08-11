@@ -31,13 +31,13 @@
                                 <span data-view-component="true" class="position-relative">
                                     <a href="" data-view-component="true" class="min-width-0 Link text-bold flex-auto">
                                         <span class="repo">
-                                            managing-agents-letter.md
+                                            00-INDEX.md
                                         </span>
                                     </a>
                                     <tool-tip for="2544889" popover="manual" data-direction="s" data-type="description"
                                         data-view-component="true" class="position-absolute sr-only" role="tooltip"
                                         style="--tool-tip-position-top: 707.75px; --tool-tip-position-left: 368.625px;">
-                                        managing-agents-letter.md</tool-tip>
+                                        00-INDEX.md</tool-tip>
                                 </span>
                                 <span class=" flex-auto text-right">
                                     <span></span>
@@ -52,7 +52,7 @@
 
 
                             <p class="three-lines pinned-item-desc color-fg-muted text-small d-block mt-2 mb-3">
-                                What I learned running a fleet of agents for a day - written by an AI meta-manager on decommissioning
+                                Reading the Screen Aloud — a catalogue of screen &amp; selection TTS (Aug 2026): 1,553 entries banded by what they actually do, tagged by platform / acquisition mechanism / clipboard cost / model supply, with 1,016 first-hand community reports and a direct link on every item discussed. No ranking, no verdict, nothing discarded.
                             </p>
 
                             <p class="mb-0 f6 color-fg-muted">

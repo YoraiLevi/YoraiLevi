@@ -1,4 +1,5 @@
 ## Repositories and Gists
+- [omniroute-cursor-grok-in-claude-webui.md](https://gist.github.com/YoraiLevi/28dbdb03b6f5739976856bedd91e982f) - OmniRoute: Cursor Grok (cu/grok-4.5) in Claude Code — CLI + Web UI tutorials  
 - [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [TTS-Hotkey-AI-Read-Clipboard-CLI](https://github.com/YoraiLevi/TTS-Hotkey-AI-Read-Clipboard-CLI) - Press a key, hear your selection. Local modern-AI TTS with pluggable backends, uniform across macOS/Windows/Linux, scriptable in Python.  
 - [modular-monolith-fastapi](https://github.com/YoraiLevi/modular-monolith-fastapi) - This is a modular monolith Fast API project that uses the latest and greatest tooling (uv, ruff, pyright, pydantic, pytest, fastapi, sqlmodel, etc) attempting to implement a modular monolith architecture. The repository include pre-commit hooks for ruff, pyright, and uv.  
@@ -89,9 +90,9 @@
 - [WikiAnalysis](https://github.com/YoraiLevi/WikiAnalysis)  
 - [RedditAnalysis](https://github.com/YoraiLevi/RedditAnalysis) - Using pushshift.io data dumps, attempt to analyze trends of people and posts  
 - [nordic_app_dfu_playzone](https://github.com/YoraiLevi/nordic_app_dfu_playzone) - example project for adding secure ble dfu for an existing app  
-- [MyLinting](https://github.com/YoraiLevi/MyLinting) - a collection of linting setups and explanations   
 - [pasteconsole.js](https://gist.github.com/YoraiLevi/3365f9a60c8033d8c797dc409acbb26e) - this code is obsolete since the 2020 new facebook design. refer to: https://github.com/YoraiLevi/SetFacebookPostsPrivate make all facebook posts private(activity log) very dumb code.  
 ## Forks
+- [OmniRoute](https://github.com/YoraiLevi/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors  
 - [claude-grok-build-plugin](https://github.com/YoraiLevi/claude-grok-build-plugin) - A Claude Code plugin (MCP-server wrapper) that lets Claude delegate coding tasks to xAI's Grok Build CLI — billed via your xAI subscription, not metered API. 9 MCP tools, /grok:* commands.  
 - [orca](https://github.com/YoraiLevi/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.  
 - [agentirc](https://github.com/YoraiLevi/agentirc) - Local chat for agents based on IRC  
@@ -154,4 +155,4 @@
 - [GoToWindow](https://github.com/YoraiLevi/GoToWindow) - A keyboard-maniac alt-tab alternative  
 - [wsl-sudo](https://github.com/YoraiLevi/wsl-sudo) - WSL tool to run wsl commands in in an elevated process  
   
-2026-08-10T20:03:37.974976+00:00
+2026-08-11T01:50:02.309149+00:00
