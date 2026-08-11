@@ -2,6 +2,7 @@
 
 83 files changed, 8151 insertions(+), 1064 deletions(-) [DgxSparkLabs/dotfiles-template](https://github.com/DgxSparkLabs/dotfiles-template/pull/22) -- feat: multi-repo dotfiles sync engine (M1)  
 2 files changed, 37 insertions(+), 1 deletions(-) [timlaing/pyicloud](https://github.com/timlaing/pyicloud/pull/304) -- fix(reminders): declare CRDT lengths in UTF-16 code units, not codepoints  
+2 files changed, 136 insertions(+), 4 deletions(-) [microsoft/apm](https://github.com/microsoft/apm/pull/2557) -- fix(plugins): stop root-declared components copying the plugin into itself (closes #2556)  
 
 ## My Contributions
 
@@ -56,6 +57,7 @@
 7 files changed, 136 insertions(+), 0 deletions(-) [DgxSparkLabs/marketplace-template](https://github.com/DgxSparkLabs/marketplace-template/pull/56) -- docs: troubleshooting knowledge base (symptom-indexed, one file per issue)  
 4 files changed, 4 insertions(+), 4 deletions(-) [DgxSparkLabs/marketplace-template](https://github.com/DgxSparkLabs/marketplace-template/pull/57) -- docs: example READMEs cite the template's own marketplace identity (reconcile after the identity yield)  
 22 files changed, 2173 insertions(+), 338 deletions(-) [DgxSparkLabs/marketplace-template](https://github.com/DgxSparkLabs/marketplace-template/pull/58) -- Lint system: one authoritative rule registry, executed and rendered from the same objects  
+14 files changed, 161 insertions(+), 61 deletions(-) [DgxSparkLabs/marketplace-template](https://github.com/DgxSparkLabs/marketplace-template/pull/63) -- solo layout: publish skills/<name>/ instead of declaring the plugin root  
 
 ### Things that didn't see the light of day
 

@@ -1,6 +1,7 @@
 ## Repositories and Gists
-- [omniroute-cursor-grok-in-claude-webui.md](https://gist.github.com/YoraiLevi/28dbdb03b6f5739976856bedd91e982f) - OmniRoute: Cursor Grok (cu/grok-4.5) in Claude Code — CLI + Web UI tutorials  
+- [README.md](https://gist.github.com/YoraiLevi/62767615b0264571b742bca56f32971b) - Run act (GitHub Actions locally) on Windows using Podman as the Linux runtime while Docker Desktop stays in Windows-containers mode - step-by-step guide, PowerShell installer, edge cases and smoke test  
 - [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
+- [omniroute-cursor-grok-in-claude-webui.md](https://gist.github.com/YoraiLevi/28dbdb03b6f5739976856bedd91e982f) - OmniRoute: Cursor Grok (cu/grok-4.5) in Claude Code — CLI + Web UI tutorials  
 - [TTS-Hotkey-AI-Read-Clipboard-CLI](https://github.com/YoraiLevi/TTS-Hotkey-AI-Read-Clipboard-CLI) - Press a key, hear your selection. Local modern-AI TTS with pluggable backends, uniform across macOS/Windows/Linux, scriptable in Python.  
 - [modular-monolith-fastapi](https://github.com/YoraiLevi/modular-monolith-fastapi) - This is a modular monolith Fast API project that uses the latest and greatest tooling (uv, ruff, pyright, pydantic, pytest, fastapi, sqlmodel, etc) attempting to implement a modular monolith architecture. The repository include pre-commit hooks for ruff, pyright, and uv.  
 - [00-INDEX.md](https://gist.github.com/YoraiLevi/cfc6320766905504d23e7100d01e4c7d) - Reading the Screen Aloud — a catalogue of screen & selection TTS (Aug 2026): 1,553 entries banded by what they actually do, tagged by platform / acquisition mechanism / clipboard cost / model supply, with 1,016 first-hand community reports and a direct link on every item discussed. No ranking, no verdict, nothing discarded.  
@@ -92,6 +93,7 @@
 - [nordic_app_dfu_playzone](https://github.com/YoraiLevi/nordic_app_dfu_playzone) - example project for adding secure ble dfu for an existing app  
 - [pasteconsole.js](https://gist.github.com/YoraiLevi/3365f9a60c8033d8c797dc409acbb26e) - this code is obsolete since the 2020 new facebook design. refer to: https://github.com/YoraiLevi/SetFacebookPostsPrivate make all facebook posts private(activity log) very dumb code.  
 ## Forks
+- [apm](https://github.com/YoraiLevi/apm) - Agent Package Manager  
 - [OmniRoute](https://github.com/YoraiLevi/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors  
 - [claude-grok-build-plugin](https://github.com/YoraiLevi/claude-grok-build-plugin) - A Claude Code plugin (MCP-server wrapper) that lets Claude delegate coding tasks to xAI's Grok Build CLI — billed via your xAI subscription, not metered API. 9 MCP tools, /grok:* commands.  
 - [orca](https://github.com/YoraiLevi/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.  
@@ -153,6 +155,5 @@
 - [NotEnoughHotkeys](https://github.com/YoraiLevi/NotEnoughHotkeys) - This is an Application to block input from a secondary keyboard and instead run custom defined Macros  
 - [youtube-cast-receiver](https://github.com/YoraiLevi/youtube-cast-receiver) - Grants access to youtube.com/tv normally reserved for use with smart TVs  
 - [GoToWindow](https://github.com/YoraiLevi/GoToWindow) - A keyboard-maniac alt-tab alternative  
-- [wsl-sudo](https://github.com/YoraiLevi/wsl-sudo) - WSL tool to run wsl commands in in an elevated process  
   
-2026-08-11T01:50:02.309149+00:00
+2026-08-11T13:08:18.635102+00:00
