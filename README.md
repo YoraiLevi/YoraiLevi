@@ -2,37 +2,37 @@
 
 <p align="center">
 
-<a href="https://gist.github.com/YoraiLevi/62767615b0264571b742bca56f32971b">
+<a href="https://github.com/YoraiLevi/modular-monolith-fastapi">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-0.svg">
 <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-0.svg">
 <img align="center" src="./assets/card-dark-0.svg" />
 </picture></a>
-<a href="https://gist.github.com/YoraiLevi/28dbdb03b6f5739976856bedd91e982f">
+<a href="https://github.com/talafek96/ccaudit">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-1.svg">
 <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-1.svg">
 <img align="center" src="./assets/card-dark-1.svg" />
 </picture></a>
-<a href="https://github.com/YoraiLevi/TTS-Hotkey-AI-Read-Clipboard-CLI">
+<a href="https://github.com/YoraiLevi/session-vitals">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-2.svg">
 <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-2.svg">
 <img align="center" src="./assets/card-dark-2.svg" />
 </picture></a>
-<a href="https://github.com/YoraiLevi/modular-monolith-fastapi">
+<a href="https://gist.github.com/YoraiLevi/62767615b0264571b742bca56f32971b">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-3.svg">
 <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-3.svg">
 <img align="center" src="./assets/card-dark-3.svg" />
 </picture></a>
-<a href="https://gist.github.com/YoraiLevi/cfc6320766905504d23e7100d01e4c7d">
+<a href="https://gist.github.com/YoraiLevi/28dbdb03b6f5739976856bedd91e982f">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-4.svg">
 <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-4.svg">
 <img align="center" src="./assets/card-dark-4.svg" />
 </picture></a>
-<a href="https://gist.github.com/YoraiLevi/ca506935a31bd64ce594bbaad81f090f">
+<a href="https://github.com/YoraiLevi/TTS-Hotkey-AI-Read-Clipboard-CLI">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-5.svg">
 <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-5.svg">

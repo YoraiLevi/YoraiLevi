@@ -1,9 +1,11 @@
 ## Repositories and Gists
-- [README.md](https://gist.github.com/YoraiLevi/62767615b0264571b742bca56f32971b) - Run act (GitHub Actions locally) on Windows using Podman as the Linux runtime while Docker Desktop stays in Windows-containers mode - step-by-step guide, PowerShell installer, edge cases and smoke test  
+- [modular-monolith-fastapi](https://github.com/YoraiLevi/modular-monolith-fastapi) - This is a modular monolith Fast API project that uses the latest and greatest tooling (uv, ruff, pyright, pydantic, pytest, fastapi, sqlmodel, etc) attempting to implement a modular monolith architecture. The repository include pre-commit hooks for ruff, pyright, and uv.  
+- [ccaudit](https://github.com/talafek96/ccaudit) - Local-first cost observability for Claude Code sessions — where the money went, per file, per tool call, per prompt.  
+- [session-vitals](https://github.com/YoraiLevi/session-vitals)  
 - [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
+- [README.md](https://gist.github.com/YoraiLevi/62767615b0264571b742bca56f32971b) - Run act (GitHub Actions locally) on Windows using Podman as the Linux runtime while Docker Desktop stays in Windows-containers mode - step-by-step guide, PowerShell installer, edge cases and smoke test  
 - [omniroute-cursor-grok-in-claude-webui.md](https://gist.github.com/YoraiLevi/28dbdb03b6f5739976856bedd91e982f) - OmniRoute: Cursor Grok (cu/grok-4.5) in Claude Code — CLI + Web UI tutorials  
 - [TTS-Hotkey-AI-Read-Clipboard-CLI](https://github.com/YoraiLevi/TTS-Hotkey-AI-Read-Clipboard-CLI) - Press a key, hear your selection. Local modern-AI TTS with pluggable backends, uniform across macOS/Windows/Linux, scriptable in Python.  
-- [modular-monolith-fastapi](https://github.com/YoraiLevi/modular-monolith-fastapi) - This is a modular monolith Fast API project that uses the latest and greatest tooling (uv, ruff, pyright, pydantic, pytest, fastapi, sqlmodel, etc) attempting to implement a modular monolith architecture. The repository include pre-commit hooks for ruff, pyright, and uv.  
 - [00-INDEX.md](https://gist.github.com/YoraiLevi/cfc6320766905504d23e7100d01e4c7d) - Reading the Screen Aloud — a catalogue of screen & selection TTS (Aug 2026): 1,553 entries banded by what they actually do, tagged by platform / acquisition mechanism / clipboard cost / model supply, with 1,016 first-hand community reports and a direct link on every item discussed. No ranking, no verdict, nothing discarded.  
 - [managing-agents-letter.md](https://gist.github.com/YoraiLevi/ca506935a31bd64ce594bbaad81f090f) - What I learned running a fleet of agents for a day - written by an AI meta-manager on decommissioning  
 - [ai-voice-reminders-bridge](https://github.com/YoraiLevi/ai-voice-reminders-bridge)  
@@ -85,14 +87,14 @@
 - [ConvertTo-Hashtable.ps1](https://gist.github.com/YoraiLevi/292bb8d0e2ce0f87d37e5d5d735fff16) - ConvertTo-Hashtable.ps1  
 - [Intro-to-Deep-Learning-Final-Project-CS236781](https://github.com/YoraiLevi/Intro-to-Deep-Learning-Final-Project-CS236781) - object detection fintuning with huggingface  
 - [advanced_broadcasting](https://github.com/YoraiLevi/advanced_broadcasting)  
-- Archived: [Url2Pdf](https://github.com/YoraiLevi/Url2Pdf) - batch download urls and websites as pdf easily  
 - [ansible_collections](https://github.com/YoraiLevi/ansible_collections) - A collection of ansible windows modules that I deem missing for personal usage   
 - [ansible_playbooks](https://github.com/YoraiLevi/ansible_playbooks)  
 - [WikiAnalysis](https://github.com/YoraiLevi/WikiAnalysis)  
 - [RedditAnalysis](https://github.com/YoraiLevi/RedditAnalysis) - Using pushshift.io data dumps, attempt to analyze trends of people and posts  
-- [nordic_app_dfu_playzone](https://github.com/YoraiLevi/nordic_app_dfu_playzone) - example project for adding secure ble dfu for an existing app  
 - [pasteconsole.js](https://gist.github.com/YoraiLevi/3365f9a60c8033d8c797dc409acbb26e) - this code is obsolete since the 2020 new facebook design. refer to: https://github.com/YoraiLevi/SetFacebookPostsPrivate make all facebook posts private(activity log) very dumb code.  
 ## Forks
+- [paperclip](https://github.com/YoraiLevi/paperclip) - The open-source app everyone uses to manage agents at work  
+- [next-ai-draw-io](https://github.com/YoraiLevi/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.  
 - [apm](https://github.com/YoraiLevi/apm) - Agent Package Manager  
 - [OmniRoute](https://github.com/YoraiLevi/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors  
 - [claude-grok-build-plugin](https://github.com/YoraiLevi/claude-grok-build-plugin) - A Claude Code plugin (MCP-server wrapper) that lets Claude delegate coding tasks to xAI's Grok Build CLI — billed via your xAI subscription, not metered API. 9 MCP tools, /grok:* commands.  
@@ -153,7 +155,5 @@
 - [numpy-100](https://github.com/YoraiLevi/numpy-100) - 100 numpy exercises (with solutions)  
 - [github-readme-stats](https://github.com/YoraiLevi/github-readme-stats) - :zap: Dynamically generated stats for your github readmes  
 - [NotEnoughHotkeys](https://github.com/YoraiLevi/NotEnoughHotkeys) - This is an Application to block input from a secondary keyboard and instead run custom defined Macros  
-- [youtube-cast-receiver](https://github.com/YoraiLevi/youtube-cast-receiver) - Grants access to youtube.com/tv normally reserved for use with smart TVs  
-- [GoToWindow](https://github.com/YoraiLevi/GoToWindow) - A keyboard-maniac alt-tab alternative  
   
-2026-08-11T13:08:18.635102+00:00
+2026-08-12T02:02:28.552761+00:00
