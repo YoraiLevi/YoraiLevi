@@ -1,8 +1,9 @@
 ## Starred
+- [ai-memory-vault](https://github.com/jaredrhod/ai-memory-vault) - Give your AI a real, persistent memory. The open-source system plus templates that turn an Obsidian vault into your AI's working memory. No vector database, just markdown.  
 - [AccordAgents-desktop-app](https://github.com/juliakrivchikova/AccordAgents-desktop-app)  
 - [paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work  
 - [next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.  
-- [OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors  
+- [OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 330+ providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 320+ contributors  
 - [eval-marketplace](https://github.com/JeredBlu/eval-marketplace) - Comprehensive security evaluation tools for agent skills and MCP servers  
 - [firstmate](https://github.com/kunchenguid/firstmate) - Talk to one agent. Ship with a crew.  
 - [claude-grok-build-plugin](https://github.com/xzawed/claude-grok-build-plugin) - A Claude Code plugin (MCP-server wrapper) that lets Claude delegate coding tasks to xAI's Grok Build CLI — billed via your xAI subscription, not metered API. 9 MCP tools, /grok:* commands.  
@@ -41,7 +42,7 @@
 - [pexpect](https://github.com/pexpect/pexpect) - A Python module for controlling interactive programs in a pseudo-terminal  
 - [reple](https://github.com/j3ka/reple) - Reple - wrapper for your repl  
 - [jiffyreader-plugin](https://github.com/jiffyreader/jiffyreader-plugin) - A Browser Extension for faster reading on ANY website!  
-- [Ghostex](https://github.com/maddada/Ghostex) - Native Agent CLIs manager for macOS. Ghostty Terminals + Codex App Features/UX = Ghostex! Embedded browser & IDE. Strong agents support.  
+- [Ghostex](https://github.com/maddada/Ghostex) - Rust & GPUI Native Agent CLIs manager for macOS. Ghostty Terminals + Codex App Features/UX = Ghostex! Embedded browser & IDE. Tons of useful features.  
 - [blackwell-gpu-wiki](https://github.com/0xSero/blackwell-gpu-wiki) - Educational reference: NVIDIA Blackwell SM100 vs SM120, NVFP4, tcgen05, MoE inference on consumer Blackwell  
 - [flue](https://github.com/withastro/flue) - The sandbox agent framework.  
 - [sandcastle](https://github.com/mattpocock/sandcastle) - Orchestrate sandboxed coding agents in TypeScript with sandcastle.run()  
@@ -98,7 +99,6 @@
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.  
 - [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models  
 - [examples](https://github.com/ArjanCodes/examples) - All the code examples I use in my videos  
-- [KOReader-Plato](https://github.com/id1945/KOReader-Plato) - Install Packages for KOReader & Plato  
 - [EnvPaths.psm1](https://gist.github.com/jaw/4d1d858b87a5c208fbe42fd4d4aa97a4)  
 - [mandelbrot-on-all-accelerators.ipynb](https://gist.github.com/jpivarski/da343abd8024834ee8c5aaba691aafc7)  
 - [wsl2.md](https://gist.github.com/hucsmn/da1dbc2eb5903cb3143c35313623e7b0) - A collection of WSL2 hacks  
