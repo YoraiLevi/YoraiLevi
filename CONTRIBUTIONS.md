@@ -58,6 +58,7 @@
 4 files changed, 4 insertions(+), 4 deletions(-) [DgxSparkLabs/marketplace-template](https://github.com/DgxSparkLabs/marketplace-template/pull/57) -- docs: example READMEs cite the template's own marketplace identity (reconcile after the identity yield)  
 22 files changed, 2173 insertions(+), 338 deletions(-) [DgxSparkLabs/marketplace-template](https://github.com/DgxSparkLabs/marketplace-template/pull/58) -- Lint system: one authoritative rule registry, executed and rendered from the same objects  
 14 files changed, 161 insertions(+), 61 deletions(-) [DgxSparkLabs/marketplace-template](https://github.com/DgxSparkLabs/marketplace-template/pull/63) -- solo layout: publish skills/<name>/ instead of declaring the plugin root  
+10 files changed, 988 insertions(+), 109 deletions(-) [talafek96/claude-cost-tracker](https://github.com/talafek96/claude-cost-tracker/pull/1) -- discover + cli: Find a Windows project's own sessions, and answer the same question on every surface  
 
 ### Things that didn't see the light of day
 
