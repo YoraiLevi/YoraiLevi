@@ -1,6 +1,6 @@
 ## Repositories and Gists
-- [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [claude-cost-tracker](https://github.com/talafek96/claude-cost-tracker) - Local-first cost observability for Claude Code sessions — where the money went, per file, per tool call, per prompt.  
+- [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [modular-monolith-fastapi](https://github.com/YoraiLevi/modular-monolith-fastapi) - This is a modular monolith Fast API project that uses the latest and greatest tooling (uv, ruff, pyright, pydantic, pytest, fastapi, sqlmodel, etc) attempting to implement a modular monolith architecture. The repository include pre-commit hooks for ruff, pyright, and uv.  
 - [session-vitals](https://github.com/YoraiLevi/session-vitals)  
 - [README.md](https://gist.github.com/YoraiLevi/62767615b0264571b742bca56f32971b) - Run act (GitHub Actions locally) on Windows using Podman as the Linux runtime while Docker Desktop stays in Windows-containers mode - step-by-step guide, PowerShell installer, edge cases and smoke test  
@@ -156,4 +156,4 @@
 - [github-readme-stats](https://github.com/YoraiLevi/github-readme-stats) - :zap: Dynamically generated stats for your github readmes  
 - [NotEnoughHotkeys](https://github.com/YoraiLevi/NotEnoughHotkeys) - This is an Application to block input from a secondary keyboard and instead run custom defined Macros  
   
-2026-08-15T01:17:41.280432+00:00
+2026-08-15T12:38:58.712381+00:00
