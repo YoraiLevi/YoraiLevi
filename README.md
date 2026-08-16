@@ -2,13 +2,13 @@
 
 <p align="center">
 
-<a href="https://gist.github.com/YoraiLevi/5707b01fe69f078f3a2469f7dbbd1db6">
+<a href="https://github.com/talafek96/photoprep">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-0.svg">
 <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-0.svg">
 <img align="center" src="./assets/card-dark-0.svg" />
 </picture></a>
-<a href="https://github.com/talafek96/photoprep">
+<a href="https://gist.github.com/YoraiLevi/5707b01fe69f078f3a2469f7dbbd1db6">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-1.svg">
 <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-1.svg">
