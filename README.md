@@ -2,37 +2,37 @@
 
 <p align="center">
 
-<a href="https://github.com/YoraiLevi/pwsh-claude-completion">
+<a href="https://gist.github.com/YoraiLevi/40dc9ae6bfdeda3d9f4f83a99e0eaae0">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-0.svg">
 <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-0.svg">
 <img align="center" src="./assets/card-dark-0.svg" />
 </picture></a>
-<a href="https://gist.github.com/YoraiLevi/5707b01fe69f078f3a2469f7dbbd1db6">
+<a href="https://gist.github.com/YoraiLevi/4a94a64208841546d3710cac88d0a0a1">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-1.svg">
 <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-1.svg">
 <img align="center" src="./assets/card-dark-1.svg" />
 </picture></a>
-<a href="https://github.com/talafek96/photoprep">
+<a href="https://github.com/YoraiLevi/pwsh-claude-completion">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-2.svg">
 <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-2.svg">
 <img align="center" src="./assets/card-dark-2.svg" />
 </picture></a>
-<a href="https://github.com/talafek96/claude-cost-tracker">
+<a href="https://gist.github.com/YoraiLevi/5707b01fe69f078f3a2469f7dbbd1db6">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-3.svg">
 <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-3.svg">
 <img align="center" src="./assets/card-dark-3.svg" />
 </picture></a>
-<a href="https://github.com/YoraiLevi/modular-monolith-fastapi">
+<a href="https://github.com/talafek96/photoprep">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-4.svg">
 <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-4.svg">
 <img align="center" src="./assets/card-dark-4.svg" />
 </picture></a>
-<a href="https://github.com/YoraiLevi/session-vitals">
+<a href="https://github.com/talafek96/claude-cost-tracker">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-5.svg">
 <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-5.svg">

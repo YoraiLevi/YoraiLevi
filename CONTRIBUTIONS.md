@@ -3,6 +3,7 @@
 83 files changed, 8151 insertions(+), 1064 deletions(-) [DgxSparkLabs/dotfiles-template](https://github.com/DgxSparkLabs/dotfiles-template/pull/22) -- feat: multi-repo dotfiles sync engine (M1)  
 2 files changed, 37 insertions(+), 1 deletions(-) [timlaing/pyicloud](https://github.com/timlaing/pyicloud/pull/304) -- fix(reminders): declare CRDT lengths in UTF-16 code units, not codepoints  
 2 files changed, 136 insertions(+), 4 deletions(-) [microsoft/apm](https://github.com/microsoft/apm/pull/2557) -- fix(plugins): stop root-declared components copying the plugin into itself (closes #2556)  
+2 files changed, 40 insertions(+), 7 deletions(-) [block/buzz](https://github.com/block/buzz/pull/6301) -- fix(desktop): point huddle voice guidelines at the huddle channel  
 
 ## My Contributions
 

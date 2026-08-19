@@ -1,4 +1,5 @@
 ## Starred
+- [claude-code-history-viewer](https://github.com/jhlee0409/claude-code-history-viewer) - desktop app to browse and analyze your Claude Code conversation history  
 - [yap](https://github.com/FrigadeHQ/yap) - Free, open source voice dictation for macOS. On-device transcription with Apple's Speech framework. No cloud/no API keys/no account.  
 - [screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Record your screen continuously locally and provide context to your agents (Claude, Codex, Openclaw, Hermes, Runner...)  
 - [sample-acp-bridge](https://github.com/aws-samples/sample-acp-bridge) - 将本地 CLI agent（Kiro CLI、Claude Code 等）通过 ACP 协议 HTTP API 对外暴露的桥接服务   
@@ -98,7 +99,6 @@
 - [proxmox-packer](https://github.com/dustinrue/proxmox-packer) - Packer files for building CentOS 7, 8, Rocky Linux 8, 9 and Ubuntu 20.04 and 22.04 images for Proxmox  
 - [ahk](https://github.com/spyoungtech/ahk) - Python wrapper for AutoHotkey with full type support. Harness the automation power of AutoHotkey with the beauty of Python.  
 - [spark-vllm-docker](https://github.com/eugr/spark-vllm-docker) - Docker configuration for running VLLM on dual DGX Sparks  
-- [airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU  
 - [EnvPaths.psm1](https://gist.github.com/jaw/4d1d858b87a5c208fbe42fd4d4aa97a4)  
 - [mandelbrot-on-all-accelerators.ipynb](https://gist.github.com/jpivarski/da343abd8024834ee8c5aaba691aafc7)  
 - [wsl2.md](https://gist.github.com/hucsmn/da1dbc2eb5903cb3143c35313623e7b0) - A collection of WSL2 hacks  

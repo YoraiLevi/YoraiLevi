@@ -1,4 +1,6 @@
 ## Repositories and Gists
+- [claude-code-workspace-trust.md](https://gist.github.com/YoraiLevi/40dc9ae6bfdeda3d9f4f83a99e0eaae0) - Claude Code: trust a workspace non-interactively (hasTrustDialogAccepted) — verified runbook + helper script  
+- [claude-code-file-retention.md](https://gist.github.com/YoraiLevi/4a94a64208841546d3710cac88d0a0a1) - Claude Code 2.1.234 — every automatic file cleanup (34 retention-sweep phases + installer self-maintenance), what each deletes, and how to configure retention. Derived from the shipped binary.  
 - [pwsh-claude-completion](https://github.com/YoraiLevi/pwsh-claude-completion) - Native PowerShell tab completion for the claude CLI, generated from claude --help  
 - [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [CHANGELOG.md](https://gist.github.com/YoraiLevi/5707b01fe69f078f3a2469f7dbbd1db6) - Prompt-refinement brief + experiment log (private)  
@@ -91,9 +93,9 @@
 - [advanced_broadcasting](https://github.com/YoraiLevi/advanced_broadcasting)  
 - [ansible_collections](https://github.com/YoraiLevi/ansible_collections) - A collection of ansible windows modules that I deem missing for personal usage   
 - [ansible_playbooks](https://github.com/YoraiLevi/ansible_playbooks)  
-- [WikiAnalysis](https://github.com/YoraiLevi/WikiAnalysis)  
 - [pasteconsole.js](https://gist.github.com/YoraiLevi/3365f9a60c8033d8c797dc409acbb26e) - this code is obsolete since the 2020 new facebook design. refer to: https://github.com/YoraiLevi/SetFacebookPostsPrivate make all facebook posts private(activity log) very dumb code.  
 ## Forks
+- [buzz](https://github.com/YoraiLevi/buzz) - A hive mind communication platform  
 - [paperclip](https://github.com/YoraiLevi/paperclip) - The open-source app everyone uses to manage agents at work  
 - [next-ai-draw-io](https://github.com/YoraiLevi/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.  
 - [apm](https://github.com/YoraiLevi/apm) - Agent Package Manager  
@@ -157,4 +159,4 @@
 - [github-readme-stats](https://github.com/YoraiLevi/github-readme-stats) - :zap: Dynamically generated stats for your github readmes  
 - [NotEnoughHotkeys](https://github.com/YoraiLevi/NotEnoughHotkeys) - This is an Application to block input from a secondary keyboard and instead run custom defined Macros  
   
-2026-08-19T01:18:28.654486+00:00
+2026-08-19T12:50:09.482643+00:00
