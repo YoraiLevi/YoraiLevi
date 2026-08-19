@@ -1,7 +1,7 @@
 ## Repositories and Gists
 - [pwsh-claude-completion](https://github.com/YoraiLevi/pwsh-claude-completion) - Native PowerShell tab completion for the claude CLI, generated from claude --help  
-- [CHANGELOG.md](https://gist.github.com/YoraiLevi/5707b01fe69f078f3a2469f7dbbd1db6) - Prompt-refinement brief + experiment log (private)  
 - [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
+- [CHANGELOG.md](https://gist.github.com/YoraiLevi/5707b01fe69f078f3a2469f7dbbd1db6) - Prompt-refinement brief + experiment log (private)  
 - [photoprep](https://github.com/talafek96/photoprep) - Local, GUI-first workshop for prepping photos to post: frame landscapes (stack / pano-split) and watermark them. Runs as an app in your browser; scriptable for automation.  
 - [claude-cost-tracker](https://github.com/talafek96/claude-cost-tracker) - Local-first cost observability for Claude Code sessions — where the money went, per file, per tool call, per prompt.  
 - [modular-monolith-fastapi](https://github.com/YoraiLevi/modular-monolith-fastapi) - This is a modular monolith Fast API project that uses the latest and greatest tooling (uv, ruff, pyright, pydantic, pytest, fastapi, sqlmodel, etc) attempting to implement a modular monolith architecture. The repository include pre-commit hooks for ruff, pyright, and uv.  
@@ -157,4 +157,4 @@
 - [github-readme-stats](https://github.com/YoraiLevi/github-readme-stats) - :zap: Dynamically generated stats for your github readmes  
 - [NotEnoughHotkeys](https://github.com/YoraiLevi/NotEnoughHotkeys) - This is an Application to block input from a secondary keyboard and instead run custom defined Macros  
   
-2026-08-18T12:49:11.051152+00:00
+2026-08-19T01:18:28.654486+00:00
