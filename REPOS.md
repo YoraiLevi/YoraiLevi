@@ -1,8 +1,8 @@
 ## Repositories and Gists
+- [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [claude-code-workspace-trust.md](https://gist.github.com/YoraiLevi/40dc9ae6bfdeda3d9f4f83a99e0eaae0) - Claude Code: trust a workspace non-interactively (hasTrustDialogAccepted) — verified runbook + helper script  
 - [claude-code-file-retention.md](https://gist.github.com/YoraiLevi/4a94a64208841546d3710cac88d0a0a1) - Claude Code 2.1.234 — every automatic file cleanup (34 retention-sweep phases + installer self-maintenance), what each deletes, and how to configure retention. Derived from the shipped binary.  
 - [pwsh-claude-completion](https://github.com/YoraiLevi/pwsh-claude-completion) - Native PowerShell tab completion for the claude CLI, generated from claude --help  
-- [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [CHANGELOG.md](https://gist.github.com/YoraiLevi/5707b01fe69f078f3a2469f7dbbd1db6) - Prompt-refinement brief + experiment log (private)  
 - [photoprep](https://github.com/talafek96/photoprep) - Local, GUI-first workshop for prepping photos to post: frame landscapes (stack / pano-split) and watermark them. Runs as an app in your browser; scriptable for automation.  
 - [claude-cost-tracker](https://github.com/talafek96/claude-cost-tracker) - Local-first cost observability for Claude Code sessions — where the money went, per file, per tool call, per prompt.  
@@ -159,4 +159,4 @@
 - [github-readme-stats](https://github.com/YoraiLevi/github-readme-stats) - :zap: Dynamically generated stats for your github readmes  
 - [NotEnoughHotkeys](https://github.com/YoraiLevi/NotEnoughHotkeys) - This is an Application to block input from a secondary keyboard and instead run custom defined Macros  
   
-2026-08-19T12:50:09.482643+00:00
+2026-08-20T01:17:42.591563+00:00

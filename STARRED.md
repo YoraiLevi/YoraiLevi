@@ -1,4 +1,5 @@
 ## Starred
+- [cc10x](https://github.com/romiluz13/cc10x) - The Loop Engine for Claude Code — engineer the loop, not the prompt. 1 router · 9 agents · 16 skills · 4 workflows. Fail-closed gates, test honesty, anti-anchored review.  
 - [claude-code-history-viewer](https://github.com/jhlee0409/claude-code-history-viewer) - desktop app to browse and analyze your Claude Code conversation history  
 - [yap](https://github.com/FrigadeHQ/yap) - Free, open source voice dictation for macOS. On-device transcription with Apple's Speech framework. No cloud/no API keys/no account.  
 - [screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Record your screen continuously locally and provide context to your agents (Claude, Codex, Openclaw, Hermes, Runner...)  
@@ -98,7 +99,6 @@
 - [packer-windows-proxmox](https://github.com/EnsoIT/packer-windows-proxmox) - Build a Windows Server 2022 template with Packer on Proxmox  
 - [proxmox-packer](https://github.com/dustinrue/proxmox-packer) - Packer files for building CentOS 7, 8, Rocky Linux 8, 9 and Ubuntu 20.04 and 22.04 images for Proxmox  
 - [ahk](https://github.com/spyoungtech/ahk) - Python wrapper for AutoHotkey with full type support. Harness the automation power of AutoHotkey with the beauty of Python.  
-- [spark-vllm-docker](https://github.com/eugr/spark-vllm-docker) - Docker configuration for running VLLM on dual DGX Sparks  
 - [EnvPaths.psm1](https://gist.github.com/jaw/4d1d858b87a5c208fbe42fd4d4aa97a4)  
 - [mandelbrot-on-all-accelerators.ipynb](https://gist.github.com/jpivarski/da343abd8024834ee8c5aaba691aafc7)  
 - [wsl2.md](https://gist.github.com/hucsmn/da1dbc2eb5903cb3143c35313623e7b0) - A collection of WSL2 hacks  
