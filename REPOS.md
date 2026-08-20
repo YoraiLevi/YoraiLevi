@@ -1,4 +1,6 @@
 ## Repositories and Gists
+- [agent-tether](https://github.com/YoraiLevi/agent-tether) - Durable, individually-addressable terminals for agent CLIs. A transparent PATH shim that puts a zellij session between the launcher and the agent, so the agent outlives whatever started it.  
+- [growth-landscape-manifesto.md](https://gist.github.com/YoraiLevi/896e4a6eed39dd19368ebe900fb2c8ad) - Draft, then freeze — a manifesto for software that grows with the person using it  
 - [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [claude-code-workspace-trust.md](https://gist.github.com/YoraiLevi/40dc9ae6bfdeda3d9f4f83a99e0eaae0) - Claude Code: trust a workspace non-interactively (hasTrustDialogAccepted) — verified runbook + helper script  
 - [claude-code-file-retention.md](https://gist.github.com/YoraiLevi/4a94a64208841546d3710cac88d0a0a1) - Claude Code 2.1.234 — every automatic file cleanup (34 retention-sweep phases + installer self-maintenance), what each deletes, and how to configure retention. Derived from the shipped binary.  
@@ -91,10 +93,10 @@
 - [ConvertTo-Hashtable.ps1](https://gist.github.com/YoraiLevi/292bb8d0e2ce0f87d37e5d5d735fff16) - ConvertTo-Hashtable.ps1  
 - [Intro-to-Deep-Learning-Final-Project-CS236781](https://github.com/YoraiLevi/Intro-to-Deep-Learning-Final-Project-CS236781) - object detection fintuning with huggingface  
 - [advanced_broadcasting](https://github.com/YoraiLevi/advanced_broadcasting)  
-- [ansible_collections](https://github.com/YoraiLevi/ansible_collections) - A collection of ansible windows modules that I deem missing for personal usage   
 - [ansible_playbooks](https://github.com/YoraiLevi/ansible_playbooks)  
 - [pasteconsole.js](https://gist.github.com/YoraiLevi/3365f9a60c8033d8c797dc409acbb26e) - this code is obsolete since the 2020 new facebook design. refer to: https://github.com/YoraiLevi/SetFacebookPostsPrivate make all facebook posts private(activity log) very dumb code.  
 ## Forks
+- [awesome-pi](https://github.com/YoraiLevi/awesome-pi) - 😎 Awesome Pi - A curated list of Pi Coding Agent extensions, themes, skills, prompt templates, and community resources.  
 - [buzz](https://github.com/YoraiLevi/buzz) - A hive mind communication platform  
 - [paperclip](https://github.com/YoraiLevi/paperclip) - The open-source app everyone uses to manage agents at work  
 - [next-ai-draw-io](https://github.com/YoraiLevi/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.  
@@ -157,6 +159,5 @@
 - [PythonDataScienceHandbook](https://github.com/YoraiLevi/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks  
 - [numpy-100](https://github.com/YoraiLevi/numpy-100) - 100 numpy exercises (with solutions)  
 - [github-readme-stats](https://github.com/YoraiLevi/github-readme-stats) - :zap: Dynamically generated stats for your github readmes  
-- [NotEnoughHotkeys](https://github.com/YoraiLevi/NotEnoughHotkeys) - This is an Application to block input from a secondary keyboard and instead run custom defined Macros  
   
-2026-08-20T01:17:42.591563+00:00
+2026-08-20T12:51:55.673838+00:00
