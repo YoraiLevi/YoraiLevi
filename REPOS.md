@@ -1,12 +1,14 @@
 ## Repositories and Gists
+- [orca-parallel-dev-builds.md](https://gist.github.com/YoraiLevi/e171337e96dedd678769cdc0ba074bbd) - Running multiple Orca dev builds side by side (one per git worktree) — why the shared dev profile silently misroutes the CLI, and how to fix it. Refs stablyai/orca#15647 / #15648  
+- [orca-plugin-tts](https://github.com/YoraiLevi/orca-plugin-tts) - Read Aloud — text-to-speech plugin for ORCA. Speaks agent replies and your clipboard. Local, cross-platform, no account or API key.  
+- [photoprep](https://github.com/talafek96/photoprep) - Local, GUI-first workshop for prepping photos to post: frame landscapes (stack / pano-split) and watermark them. Runs as an app in your browser; scriptable for automation.  
+- [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [agent-tether](https://github.com/YoraiLevi/agent-tether) - Durable, individually-addressable terminals for agent CLIs. A transparent PATH shim that puts a zellij session between the launcher and the agent, so the agent outlives whatever started it.  
 - [growth-landscape-manifesto.md](https://gist.github.com/YoraiLevi/896e4a6eed39dd19368ebe900fb2c8ad) - Draft, then freeze — a manifesto for software that grows with the person using it  
-- [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [claude-code-workspace-trust.md](https://gist.github.com/YoraiLevi/40dc9ae6bfdeda3d9f4f83a99e0eaae0) - Claude Code: trust a workspace non-interactively (hasTrustDialogAccepted) — verified runbook + helper script  
 - [claude-code-file-retention.md](https://gist.github.com/YoraiLevi/4a94a64208841546d3710cac88d0a0a1) - Claude Code 2.1.234 — every automatic file cleanup (34 retention-sweep phases + installer self-maintenance), what each deletes, and how to configure retention. Derived from the shipped binary.  
 - [pwsh-claude-completion](https://github.com/YoraiLevi/pwsh-claude-completion) - Native PowerShell tab completion for the claude CLI, generated from claude --help  
 - [CHANGELOG.md](https://gist.github.com/YoraiLevi/5707b01fe69f078f3a2469f7dbbd1db6) - Prompt-refinement brief + experiment log (private)  
-- [photoprep](https://github.com/talafek96/photoprep) - Local, GUI-first workshop for prepping photos to post: frame landscapes (stack / pano-split) and watermark them. Runs as an app in your browser; scriptable for automation.  
 - [claude-cost-tracker](https://github.com/talafek96/claude-cost-tracker) - Local-first cost observability for Claude Code sessions — where the money went, per file, per tool call, per prompt.  
 - [modular-monolith-fastapi](https://github.com/YoraiLevi/modular-monolith-fastapi) - This is a modular monolith Fast API project that uses the latest and greatest tooling (uv, ruff, pyright, pydantic, pytest, fastapi, sqlmodel, etc) attempting to implement a modular monolith architecture. The repository include pre-commit hooks for ruff, pyright, and uv.  
 - [session-vitals](https://github.com/YoraiLevi/session-vitals)  
@@ -96,6 +98,7 @@
 - [ansible_playbooks](https://github.com/YoraiLevi/ansible_playbooks)  
 - [pasteconsole.js](https://gist.github.com/YoraiLevi/3365f9a60c8033d8c797dc409acbb26e) - this code is obsolete since the 2020 new facebook design. refer to: https://github.com/YoraiLevi/SetFacebookPostsPrivate make all facebook posts private(activity log) very dumb code.  
 ## Forks
+- [orca](https://github.com/YoraiLevi/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.  
 - [awesome-pi](https://github.com/YoraiLevi/awesome-pi) - 😎 Awesome Pi - A curated list of Pi Coding Agent extensions, themes, skills, prompt templates, and community resources.  
 - [buzz](https://github.com/YoraiLevi/buzz) - A hive mind communication platform  
 - [paperclip](https://github.com/YoraiLevi/paperclip) - The open-source app everyone uses to manage agents at work  
@@ -103,7 +106,6 @@
 - [apm](https://github.com/YoraiLevi/apm) - Agent Package Manager  
 - [OmniRoute](https://github.com/YoraiLevi/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors  
 - [claude-grok-build-plugin](https://github.com/YoraiLevi/claude-grok-build-plugin) - A Claude Code plugin (MCP-server wrapper) that lets Claude delegate coding tasks to xAI's Grok Build CLI — billed via your xAI subscription, not metered API. 9 MCP tools, /grok:* commands.  
-- [orca](https://github.com/YoraiLevi/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.  
 - [agentirc](https://github.com/YoraiLevi/agentirc) - Local chat for agents based on IRC  
 - [quil](https://github.com/YoraiLevi/quil) - Reboot-proof terminal multiplexer for AI-native devs — a tmux alternative that persists your whole workspace across reboots and auto-resumes Claude Code & OpenCode sessions. Ships an MCP server so AI agents can drive your panes. Go, cross-platform (Linux/macOS/Windows). MIT.  
 - [pyicloud](https://github.com/YoraiLevi/pyicloud) - A Python wrapper for accessing data from iCloud webservices, including Account, Find My, Calendar, Contacts, iCloud Drive, Photos, Hide My Email, Reminders, and Notes.  
@@ -158,6 +160,5 @@
 - [doomgeneric-rs-inkbox](https://github.com/YoraiLevi/doomgeneric-rs-inkbox) - Using doomgeneric from rust  
 - [PythonDataScienceHandbook](https://github.com/YoraiLevi/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks  
 - [numpy-100](https://github.com/YoraiLevi/numpy-100) - 100 numpy exercises (with solutions)  
-- [github-readme-stats](https://github.com/YoraiLevi/github-readme-stats) - :zap: Dynamically generated stats for your github readmes  
   
-2026-08-20T12:51:55.673838+00:00
+2026-08-21T01:21:14.682166+00:00

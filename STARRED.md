@@ -1,4 +1,5 @@
 ## Starred
+- [orca](https://github.com/Picovoice/orca) - On-device streaming text-to-speech engine powered by deep learning  
 - [openui](https://github.com/thesysdev/openui) - The Open Standard for Generative UI  
 - [pi-web](https://github.com/jmfederico/pi-web) - Web UI for Pi Coding Agent that keeps sessions alive in real workspaces.  
 - [VibeOS](https://github.com/benis-me/VibeOS) - A browser-based OS where every app's UI is hallucinated live by AI. Inspired by the Microsoft Build 2026 Vibe OS demo.  
@@ -18,7 +19,7 @@
 - [eval-marketplace](https://github.com/JeredBlu/eval-marketplace) - Comprehensive security evaluation tools for agent skills and MCP servers  
 - [firstmate](https://github.com/kunchenguid/firstmate) - Talk to one agent. Ship with a crew.  
 - [claude-grok-build-plugin](https://github.com/xzawed/claude-grok-build-plugin) - A Claude Code plugin (MCP-server wrapper) that lets Claude delegate coding tasks to xAI's Grok Build CLI — billed via your xAI subscription, not metered API. 9 MCP tools, /grok:* commands.  
-- [ModuleFast](https://github.com/JustinGrote/ModuleFast) - A "fast and loose" way to install modules from Powershell Gallery quickly. Meant for CICD, not production  
+- [ModuleFast](https://github.com/JustinGrote/ModuleFast) - A fast, declarative, idempotent method for deploying modules. Optimized for CICD workflows.  
 - [OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website into CLI & Use your logged-in browser by AI agent.   
 - [skills-manager](https://github.com/xingkongliang/skills-manager) - A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.  
 - [partialupdate](https://github.com/philholden/partialupdate) - Generative UI in multi user chat. A chat bot that can edit it own HTML, CSS and JS.   
@@ -98,7 +99,6 @@
 - [Multi-Keyboard-For-AutoHotkey](https://github.com/sebeksd/Multi-Keyboard-For-AutoHotkey) - Multi unique keyboard support for AutoHotkey  
 - [GoToWindow](https://github.com/christianrondeau/GoToWindow) - A keyboard-maniac alt-tab alternative  
 - [pocket-tts](https://github.com/babybirdprd/pocket-tts) - A TTS that fits in your CPU (and pocket)  
-- [pocket-tts](https://github.com/kyutai-labs/pocket-tts) - A TTS that fits in your CPU (and pocket)  
 - [EnvPaths.psm1](https://gist.github.com/jaw/4d1d858b87a5c208fbe42fd4d4aa97a4)  
 - [mandelbrot-on-all-accelerators.ipynb](https://gist.github.com/jpivarski/da343abd8024834ee8c5aaba691aafc7)  
 - [wsl2.md](https://gist.github.com/hucsmn/da1dbc2eb5903cb3143c35313623e7b0) - A collection of WSL2 hacks  

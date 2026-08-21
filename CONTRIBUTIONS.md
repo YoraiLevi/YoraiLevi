@@ -6,6 +6,9 @@
 2 files changed, 40 insertions(+), 7 deletions(-) [block/buzz](https://github.com/block/buzz/pull/6301) -- fix(desktop): point huddle voice guidelines at the huddle channel  
 3 files changed, 228 insertions(+), 18 deletions(-) [block/buzz](https://github.com/block/buzz/pull/6345) -- fix(acp): require an actual prompt for mid-turn signals  
 15 files changed, 959 insertions(+), 20 deletions(-) [block/buzz](https://github.com/block/buzz/pull/6354) -- feat(desktop): flag huddle Smart Turn gate after VAD silence  
+3 files changed, 58 insertions(+), 2 deletions(-) [stablyai/orca](https://github.com/stablyai/orca/pull/15640) -- feat(plugins): project providerSession.id as sessionId on agent.status.changed  
+3 files changed, 54 insertions(+), 2 deletions(-) [stablyai/orca](https://github.com/stablyai/orca/pull/15643) -- feat(plugins): let sandboxed panels call storage.get, so a panel can render live state  
+4 files changed, 332 insertions(+), 26 deletions(-) [stablyai/orca](https://github.com/stablyai/orca/pull/15648) -- fix(dev): give each worktree its own dev userData profile  
 
 ## My Contributions
 
