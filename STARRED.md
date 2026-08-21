@@ -1,4 +1,5 @@
 ## Starred
+- [claude-auto-retry](https://github.com/cheapestinference/claude-auto-retry) - Auto-retry Claude Code on subscription rate limits, API overload (529/5xx) and safeguard false positives — waits for the printed reset, exponential backoff, tmux-based  
 - [orca](https://github.com/Picovoice/orca) - On-device streaming text-to-speech engine powered by deep learning  
 - [openui](https://github.com/thesysdev/openui) - The Open Standard for Generative UI  
 - [pi-web](https://github.com/jmfederico/pi-web) - Web UI for Pi Coding Agent that keeps sessions alive in real workspaces.  
@@ -98,7 +99,6 @@
 - [NotEnoughHotkeys](https://github.com/VollRagm/NotEnoughHotkeys) - This is an Application to block input from a secondary keyboard and instead run custom defined Macros  
 - [Multi-Keyboard-For-AutoHotkey](https://github.com/sebeksd/Multi-Keyboard-For-AutoHotkey) - Multi unique keyboard support for AutoHotkey  
 - [GoToWindow](https://github.com/christianrondeau/GoToWindow) - A keyboard-maniac alt-tab alternative  
-- [pocket-tts](https://github.com/babybirdprd/pocket-tts) - A TTS that fits in your CPU (and pocket)  
 - [EnvPaths.psm1](https://gist.github.com/jaw/4d1d858b87a5c208fbe42fd4d4aa97a4)  
 - [mandelbrot-on-all-accelerators.ipynb](https://gist.github.com/jpivarski/da343abd8024834ee8c5aaba691aafc7)  
 - [wsl2.md](https://gist.github.com/hucsmn/da1dbc2eb5903cb3143c35313623e7b0) - A collection of WSL2 hacks  
