@@ -161,4 +161,4 @@
 - [PythonDataScienceHandbook](https://github.com/YoraiLevi/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks  
 - [numpy-100](https://github.com/YoraiLevi/numpy-100) - 100 numpy exercises (with solutions)  
   
-2026-08-22T01:17:20.901687+00:00
+2026-08-22T12:40:43.376655+00:00
