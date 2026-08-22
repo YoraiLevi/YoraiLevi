@@ -2,13 +2,13 @@
 
 <p align="center">
 
-<a href="https://gist.github.com/YoraiLevi/e171337e96dedd678769cdc0ba074bbd">
+<a href="https://github.com/YoraiLevi/orca-plugin-tts">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-0.svg">
 <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-0.svg">
 <img align="center" src="./assets/card-dark-0.svg" />
 </picture></a>
-<a href="https://github.com/YoraiLevi/orca-plugin-tts">
+<a href="https://gist.github.com/YoraiLevi/e171337e96dedd678769cdc0ba074bbd">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-1.svg">
 <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-1.svg">
