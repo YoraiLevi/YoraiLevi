@@ -8,13 +8,13 @@
 <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-0.svg">
 <img align="center" src="./assets/card-dark-0.svg" />
 </picture></a>
-<a href="https://gist.github.com/YoraiLevi/e171337e96dedd678769cdc0ba074bbd">
+<a href="https://github.com/talafek96/photoprep">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-1.svg">
 <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-1.svg">
 <img align="center" src="./assets/card-dark-1.svg" />
 </picture></a>
-<a href="https://github.com/talafek96/photoprep">
+<a href="https://gist.github.com/YoraiLevi/e171337e96dedd678769cdc0ba074bbd">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-2.svg">
 <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-2.svg">
