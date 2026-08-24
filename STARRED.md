@@ -11,7 +11,7 @@
 - [yap](https://github.com/FrigadeHQ/yap) - Free, open source voice dictation for macOS. On-device transcription with Apple's Speech framework. No cloud/no API keys/no account.  
 - [screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Record your screen continuously locally and provide context to your agents (Claude, Codex, Openclaw, Hermes, Runner...)  
 - [sample-acp-bridge](https://github.com/aws-samples/sample-acp-bridge) - 将本地 CLI agent（Kiro CLI、Claude Code 等）通过 ACP 协议 HTTP API 对外暴露的桥接服务   
-- [multica](https://github.com/multica-ai/multica) - Assign issues to Claude Code, Codex, Cursor, and 17 more coding agents like teammates — open-source and self-hostable.  
+- [multica](https://github.com/multica-ai/multica) - Make humans and AI agents work as one team — open-source and self-hostable.  
 - [icm-architect](https://github.com/RinDig/icm-architect) - Claude skill: design any process, idea, or problem into an ICM workspace (folder structure as agent architecture), or restructure an existing folder into one  
 - [ai-memory-vault](https://github.com/jaredrhod/ai-memory-vault) - Give your AI a real, persistent memory. The open-source system plus templates that turn an Obsidian vault into your AI's working memory. No vector database, just markdown.  
 - [AccordAgents-desktop-app](https://github.com/juliakrivchikova/AccordAgents-desktop-app)  

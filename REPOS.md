@@ -1,7 +1,7 @@
 ## Repositories and Gists
+- [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [orca-plugin-tts](https://github.com/YoraiLevi/orca-plugin-tts) - Read Aloud — text-to-speech plugin for ORCA. Speaks agent replies and your clipboard. Local, cross-platform, no account or API key.  
 - [photoprep](https://github.com/talafek96/photoprep) - Local, GUI-first workshop for prepping photos to post: frame landscapes (stack / pano-split) and watermark them. Runs as an app in your browser; scriptable for automation.  
-- [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [orca-parallel-dev-builds.md](https://gist.github.com/YoraiLevi/e171337e96dedd678769cdc0ba074bbd) - Running multiple Orca dev builds side by side (one per git worktree) — why the shared dev profile silently misroutes the CLI, and how to fix it. Refs stablyai/orca#15647 / #15648  
 - [agent-tether](https://github.com/YoraiLevi/agent-tether) - Durable, individually-addressable terminals for agent CLIs. A transparent PATH shim that puts a zellij session between the launcher and the agent, so the agent outlives whatever started it.  
 - [growth-landscape-manifesto.md](https://gist.github.com/YoraiLevi/896e4a6eed39dd19368ebe900fb2c8ad) - Draft, then freeze — a manifesto for software that grows with the person using it  
@@ -161,4 +161,4 @@
 - [doomgeneric-rs-inkbox](https://github.com/YoraiLevi/doomgeneric-rs-inkbox) - Using doomgeneric from rust  
 - [PythonDataScienceHandbook](https://github.com/YoraiLevi/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks  
   
-2026-08-24T01:21:32.997794+00:00
+2026-08-24T12:52:54.676792+00:00
