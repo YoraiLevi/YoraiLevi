@@ -1,7 +1,7 @@
 ## Repositories and Gists
+- [photoprep](https://github.com/talafek96/photoprep) - Local, GUI-first workshop for prepping photos to post: frame landscapes (stack / pano-split) and watermark them. Runs as an app in your browser; scriptable for automation.  
 - [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [orca-plugin-tts](https://github.com/YoraiLevi/orca-plugin-tts) - Read Aloud — text-to-speech plugin for ORCA. Speaks agent replies and your clipboard. Local, cross-platform, no account or API key.  
-- [photoprep](https://github.com/talafek96/photoprep) - Local, GUI-first workshop for prepping photos to post: frame landscapes (stack / pano-split) and watermark them. Runs as an app in your browser; scriptable for automation.  
 - [orca-parallel-dev-builds.md](https://gist.github.com/YoraiLevi/e171337e96dedd678769cdc0ba074bbd) - Running multiple Orca dev builds side by side (one per git worktree) — why the shared dev profile silently misroutes the CLI, and how to fix it. Refs stablyai/orca#15647 / #15648  
 - [agent-tether](https://github.com/YoraiLevi/agent-tether) - Durable, individually-addressable terminals for agent CLIs. A transparent PATH shim that puts a zellij session between the launcher and the agent, so the agent outlives whatever started it.  
 - [growth-landscape-manifesto.md](https://gist.github.com/YoraiLevi/896e4a6eed39dd19368ebe900fb2c8ad) - Draft, then freeze — a manifesto for software that grows with the person using it  
@@ -98,8 +98,8 @@
 - [ansible_playbooks](https://github.com/YoraiLevi/ansible_playbooks)  
 - [pasteconsole.js](https://gist.github.com/YoraiLevi/3365f9a60c8033d8c797dc409acbb26e) - this code is obsolete since the 2020 new facebook design. refer to: https://github.com/YoraiLevi/SetFacebookPostsPrivate make all facebook posts private(activity log) very dumb code.  
 ## Forks
-- [dramaclaw](https://github.com/YoraiLevi/dramaclaw) - A general-purpose AIGC video engine: script to finished film in one pipeline — dramas, ads, product videos, otome games, and more. | 通用 AIGC 视频引擎 —— 从剧本到成片一条流水线，漫剧、广告、电商、乙游皆可  
 - [apm](https://github.com/YoraiLevi/apm) - Agent Package Manager  
+- [dramaclaw](https://github.com/YoraiLevi/dramaclaw) - A general-purpose AIGC video engine: script to finished film in one pipeline — dramas, ads, product videos, otome games, and more. | 通用 AIGC 视频引擎 —— 从剧本到成片一条流水线，漫剧、广告、电商、乙游皆可  
 - [orca](https://github.com/YoraiLevi/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.  
 - [awesome-pi](https://github.com/YoraiLevi/awesome-pi) - 😎 Awesome Pi - A curated list of Pi Coding Agent extensions, themes, skills, prompt templates, and community resources.  
 - [buzz](https://github.com/YoraiLevi/buzz) - A hive mind communication platform  
@@ -161,4 +161,4 @@
 - [doomgeneric-rs-inkbox](https://github.com/YoraiLevi/doomgeneric-rs-inkbox) - Using doomgeneric from rust  
 - [PythonDataScienceHandbook](https://github.com/YoraiLevi/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks  
   
-2026-08-24T12:52:54.676792+00:00
+2026-08-25T01:18:53.960919+00:00
