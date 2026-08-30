@@ -1,4 +1,5 @@
 ## Repositories and Gists
+- [claude-cost-tracker](https://github.com/talafek96/claude-cost-tracker) - Local-first cost observability for Claude Code sessions — where the money went, per file, per tool call, per prompt.  
 - [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [2026-08-orca-plugin-tts-archived](https://github.com/YoraiLevi/2026-08-orca-plugin-tts-archived) - Read Aloud — text-to-speech plugin for ORCA. Speaks agent replies and your clipboard. Local, cross-platform, no account or API key.  
 - [photoprep](https://github.com/talafek96/photoprep) - Local, GUI-first workshop for prepping photos to post: frame landscapes (stack / pano-split) and watermark them. Runs as an app in your browser; scriptable for automation.  
@@ -9,7 +10,6 @@
 - [claude-code-file-retention.md](https://gist.github.com/YoraiLevi/4a94a64208841546d3710cac88d0a0a1) - Claude Code 2.1.234 — every automatic file cleanup (34 retention-sweep phases + installer self-maintenance), what each deletes, and how to configure retention. Derived from the shipped binary.  
 - [pwsh-claude-completion](https://github.com/YoraiLevi/pwsh-claude-completion) - Native PowerShell tab completion for the claude CLI, generated from claude --help  
 - [CHANGELOG.md](https://gist.github.com/YoraiLevi/5707b01fe69f078f3a2469f7dbbd1db6) - Prompt-refinement brief + experiment log (private)  
-- [claude-cost-tracker](https://github.com/talafek96/claude-cost-tracker) - Local-first cost observability for Claude Code sessions — where the money went, per file, per tool call, per prompt.  
 - [modular-monolith-fastapi](https://github.com/YoraiLevi/modular-monolith-fastapi) - This is a modular monolith Fast API project that uses the latest and greatest tooling (uv, ruff, pyright, pydantic, pytest, fastapi, sqlmodel, etc) attempting to implement a modular monolith architecture. The repository include pre-commit hooks for ruff, pyright, and uv.  
 - [session-vitals](https://github.com/YoraiLevi/session-vitals)  
 - [README.md](https://gist.github.com/YoraiLevi/62767615b0264571b742bca56f32971b) - Run act (GitHub Actions locally) on Windows using Podman as the Linux runtime while Docker Desktop stays in Windows-containers mode - step-by-step guide, PowerShell installer, edge cases and smoke test  
@@ -161,4 +161,4 @@
 - [doomgeneric-rs-inkbox](https://github.com/YoraiLevi/doomgeneric-rs-inkbox) - Using doomgeneric from rust  
 - [PythonDataScienceHandbook](https://github.com/YoraiLevi/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks  
   
-2026-08-30T04:11:02.924063+00:00
+2026-08-30T16:14:01.444085+00:00
