@@ -1,6 +1,6 @@
 ## Repositories and Gists
-- [claude-cost-tracker](https://github.com/talafek96/claude-cost-tracker) - Local-first cost observability for Claude Code sessions — where the money went, per file, per tool call, per prompt.  
 - [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
+- [claude-cost-tracker](https://github.com/talafek96/claude-cost-tracker) - Local-first cost observability for Claude Code sessions — where the money went, per file, per tool call, per prompt.  
 - [2026-08-orca-plugin-tts-archived](https://github.com/YoraiLevi/2026-08-orca-plugin-tts-archived) - Read Aloud — text-to-speech plugin for ORCA. Speaks agent replies and your clipboard. Local, cross-platform, no account or API key.  
 - [photoprep](https://github.com/talafek96/photoprep) - Local, GUI-first workshop for prepping photos to post: frame landscapes (stack / pano-split) and watermark them. Runs as an app in your browser; scriptable for automation.  
 - [orca-parallel-dev-builds.md](https://gist.github.com/YoraiLevi/e171337e96dedd678769cdc0ba074bbd) - Running multiple Orca dev builds side by side (one per git worktree) — why the shared dev profile silently misroutes the CLI, and how to fix it. Refs stablyai/orca#15647 / #15648  
@@ -161,4 +161,4 @@
 - [doomgeneric-rs-inkbox](https://github.com/YoraiLevi/doomgeneric-rs-inkbox) - Using doomgeneric from rust  
 - [PythonDataScienceHandbook](https://github.com/YoraiLevi/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks  
   
-2026-08-30T16:14:01.444085+00:00
+2026-08-31T04:16:19.988512+00:00

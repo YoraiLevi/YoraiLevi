@@ -1,4 +1,5 @@
 ## Starred
+- [grok-hud](https://github.com/xiyouMc/grok-hud) - Real-time status HUD for Grok (xAI CLI): context usage, git branch, and tool activity — a claude-hud-style external statusline with plugin install.  
 - [dramaclaw](https://github.com/dramaclaw/dramaclaw) - A general-purpose AIGC video engine: script to finished film in one pipeline — dramas, ads, product videos, otome games, and more. | 通用 AIGC 视频引擎 —— 从剧本到成片一条流水线，漫剧、广告、电商、乙游皆可  
 - [claude-auto-retry](https://github.com/cheapestinference/claude-auto-retry) - Auto-retry Claude Code on subscription rate limits, API overload (529/5xx) and safeguard false positives — waits for the printed reset, exponential backoff, tmux-based  
 - [orca](https://github.com/Picovoice/orca) - On-device streaming text-to-speech engine powered by deep learning  
@@ -42,7 +43,7 @@
 - [recon](https://github.com/valk/recon) - Recon: The Ultimate 3-Tier Code Navigation & Mutation Architecture  
 - [Converttree](https://github.com/treebird7/Converttree)  
 - [destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.  
-- [napkin](https://github.com/Michaelliv/napkin) - 🧻 Knowledge system for agents. Local-first, file-based, progressively disclosed.  
+- [napkin](https://github.com/shift-labs-ai/napkin) - 🧻 Knowledge system for agents. Local-first, file-based, progressively disclosed.  
 - [league-of-agents](https://github.com/agentculture/league-of-agents) - A cooperative/competitive strategy arena where agent teams complete missions, control objectives, manage resources, and out-coordinate opposing teams.  
 - [gsudo](https://github.com/gerardog/gsudo) - Sudo for Windows  
 - [Awesome-Multi-Token-Prediction](https://github.com/Xiaohao-Liu/Awesome-Multi-Token-Prediction) - A curated list of papers, tools, and resources on Multi-Token Prediction (MTP) and related techniques in Large Language Models (LLMs), Speech-Language Models (SLMs), and more.  
@@ -98,7 +99,6 @@
 - [vagrant-proxmox](https://github.com/telcat/vagrant-proxmox) - Use Vagrant to manage Proxmox virtual machines  
 - [claude-code-router](https://github.com/musistudio/claude-code-router) - One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.  
 - [NotEnoughHotkeys](https://github.com/VollRagm/NotEnoughHotkeys) - This is an Application to block input from a secondary keyboard and instead run custom defined Macros  
-- [Multi-Keyboard-For-AutoHotkey](https://github.com/sebeksd/Multi-Keyboard-For-AutoHotkey) - Multi unique keyboard support for AutoHotkey  
 - [EnvPaths.psm1](https://gist.github.com/jaw/4d1d858b87a5c208fbe42fd4d4aa97a4)  
 - [mandelbrot-on-all-accelerators.ipynb](https://gist.github.com/jpivarski/da343abd8024834ee8c5aaba691aafc7)  
 - [wsl2.md](https://gist.github.com/hucsmn/da1dbc2eb5903cb3143c35313623e7b0) - A collection of WSL2 hacks  
