@@ -1,6 +1,6 @@
 ## Repositories and Gists
-- [README.md](https://gist.github.com/YoraiLevi/38082c6c441faff9959f4f048133f7ca) - Evidence-based lecture design: deep research report, practical toolkit, and structured evidence registers  
 - [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
+- [README.md](https://gist.github.com/YoraiLevi/38082c6c441faff9959f4f048133f7ca) - Evidence-based lecture design: deep research report, practical toolkit, and structured evidence registers  
 - [claude-cost-tracker](https://github.com/talafek96/claude-cost-tracker) - Local-first cost observability for Claude Code sessions — where the money went, per file, per tool call, per prompt.  
 - [2026-08-orca-plugin-tts-archived](https://github.com/YoraiLevi/2026-08-orca-plugin-tts-archived) - Read Aloud — text-to-speech plugin for ORCA. Speaks agent replies and your clipboard. Local, cross-platform, no account or API key.  
 - [photoprep](https://github.com/talafek96/photoprep) - Local, GUI-first workshop for prepping photos to post: frame landscapes (stack / pano-split) and watermark them. Runs as an app in your browser; scriptable for automation.  
@@ -162,4 +162,4 @@
 - [doomgeneric-rs-inkbox](https://github.com/YoraiLevi/doomgeneric-rs-inkbox) - Using doomgeneric from rust  
 - [PythonDataScienceHandbook](https://github.com/YoraiLevi/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks  
   
-2026-08-31T18:54:09.953236+00:00
+2026-09-01T04:02:08.517161+00:00
