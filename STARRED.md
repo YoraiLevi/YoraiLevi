@@ -1,4 +1,6 @@
 ## Starred
+- [FastNoise2](https://github.com/Auburn/FastNoise2) - Modular node graph based noise generation library using SIMD, C++17 and templates  
+- [litegraph.js](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows to export graphs as JSONs to be included in applications independently.  
 - [grok-hud](https://github.com/xiyouMc/grok-hud) - Real-time status HUD for Grok (xAI CLI): context usage, git branch, and tool activity — a claude-hud-style external statusline with plugin install.  
 - [dramaclaw](https://github.com/dramaclaw/dramaclaw) - A general-purpose AIGC video engine: script to finished film in one pipeline — dramas, ads, product videos, otome games, and more. | 通用 AIGC 视频引擎 —— 从剧本到成片一条流水线，漫剧、广告、电商、乙游皆可  
 - [claude-auto-retry](https://github.com/cheapestinference/claude-auto-retry) - Auto-retry Claude Code on subscription rate limits, API overload (529/5xx) and safeguard false positives — waits for the printed reset, exponential backoff, tmux-based  
@@ -97,8 +99,6 @@
 - [windows-sysprep-playground](https://github.com/rgl/windows-sysprep-playground) - A Windows sysprep playground  
 - [terraform-proxmox-windows-example](https://github.com/rgl/terraform-proxmox-windows-example) - example on how to launch a windows vm using terraform in proxmox  
 - [vagrant-proxmox](https://github.com/telcat/vagrant-proxmox) - Use Vagrant to manage Proxmox virtual machines  
-- [claude-code-router](https://github.com/musistudio/claude-code-router) - One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.  
-- [NotEnoughHotkeys](https://github.com/VollRagm/NotEnoughHotkeys) - This is an Application to block input from a secondary keyboard and instead run custom defined Macros  
 - [EnvPaths.psm1](https://gist.github.com/jaw/4d1d858b87a5c208fbe42fd4d4aa97a4)  
 - [mandelbrot-on-all-accelerators.ipynb](https://gist.github.com/jpivarski/da343abd8024834ee8c5aaba691aafc7)  
 - [wsl2.md](https://gist.github.com/hucsmn/da1dbc2eb5903cb3143c35313623e7b0) - A collection of WSL2 hacks  
