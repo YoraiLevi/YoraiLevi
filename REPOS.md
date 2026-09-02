@@ -162,4 +162,4 @@
 - [doomgeneric-rs-inkbox](https://github.com/YoraiLevi/doomgeneric-rs-inkbox) - Using doomgeneric from rust  
 - [PythonDataScienceHandbook](https://github.com/YoraiLevi/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks  
   
-2026-09-02T03:23:39.212476+00:00
+2026-09-02T16:08:13.810643+00:00
