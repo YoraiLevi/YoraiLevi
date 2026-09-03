@@ -1,4 +1,14 @@
 ## Starred
+- [pi-advisor](https://github.com/philipbrembeck/pi-advisor) - Fully customizable Advisor and Executor flow plugin for the Pi Coding Agent  
+- [pi-omplike-advisor](https://github.com/pasky/pi-omplike-advisor) - Pi extension: a persistent second model that reviews the main agent's work each turn and injects concise advice inline.  
+- [pi-extensions](https://github.com/luongnv89/pi-extensions) - Collection of extensions and themes for Pi Coding Agent  
+- [pi-permissions-extension](https://github.com/nicbet/pi-permissions-extension)  
+- [pi-mcp-extension](https://github.com/nicbet/pi-mcp-extension) - A dependency-free [Pi](https://pi.dev) extension that exposes tools from stdio and Streamable HTTP MCP servers declared in a project's `.mcp.json`.  
+- [pi-claude-skills-extension](https://github.com/nicbet/pi-claude-skills-extension) - A dependency-free [Pi](https://pi.dev) extension that loads [Agent Skills](https://agentskills.io/specification) from a project's `.claude/skills/` directory.  
+- [pi-cursor](https://github.com/Rahularya01/pi-cursor)  
+- [pi-multi-account](https://github.com/Sarrius/pi-multi-account) - Automatic multi-account failover & rotation for Pi Agent across Anthropic (Claude), OpenAI/ChatGPT Codex, and Qwen/Alibaba.  
+- [pi-anthropic-oauth](https://github.com/leohenon/pi-anthropic-oauth) - Pi extension for Anthropic OAuth with Claude Pro/Max.  
+- [pi-anthropic-auth](https://github.com/gotgenes/pi-anthropic-auth) - Pi extension package for Anthropic OAuth compatibility  
 - [FastNoise2](https://github.com/Auburn/FastNoise2) - Modular node graph based noise generation library using SIMD, C++17 and templates  
 - [litegraph.js](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows to export graphs as JSONs to be included in applications independently.  
 - [grok-hud](https://github.com/xiyouMc/grok-hud) - Real-time status HUD for Grok (xAI CLI): context usage, git branch, and tool activity — a claude-hud-style external statusline with plugin install.  
@@ -89,16 +99,6 @@
 - [Kubernetes-Image-Builder](https://github.com/SneakyBugs/Kubernetes-Image-Builder)  
 - [project-pegaprox](https://github.com/PegaProx/project-pegaprox) - The ultimate datacenter management solution for Proxmox VE and XCP-NG. Unified multi-cluster control, intelligent load balancing, and seamless cross-cluster VM migrations — all in one beautiful interface.  
 - [llm-openrouter](https://github.com/simonw/llm-openrouter) - LLM plugin for models hosted by OpenRouter  
-- [cloudbase-init](https://github.com/davidhood2/cloudbase-init) - Instructions and config for running Cloudbase-Init on a Windows 11 client via Proxmox PVE8.4.1  
-- [pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.  
-- [terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox) - Terraform provider plugin for proxmox  
-- [proxmox-packer-bitwarden](https://github.com/modem7/proxmox-packer-bitwarden) - Packer Image Build Template Code For Proxmox  
-- [cloudbase-init-installer](https://github.com/cloudbase/cloudbase-init-installer) - Cloudbase-Init MSI installer  
-- [cloudbase-init](https://github.com/cloudbase/cloudbase-init) - Cross-platform instance initialization  
-- [new-vm-from-iso](https://github.com/greyhamwoohoo/new-vm-from-iso) - Provision a Hyper-V VM with Windows automatically installed from an ISO using PowerShell; on first boot, the Unattend.Xml (OOBE) will automatically configure the installation and Windows will boot as far as the Login Screen. Windows Updates will then be automatically installed.   
-- [windows-sysprep-playground](https://github.com/rgl/windows-sysprep-playground) - A Windows sysprep playground  
-- [terraform-proxmox-windows-example](https://github.com/rgl/terraform-proxmox-windows-example) - example on how to launch a windows vm using terraform in proxmox  
-- [vagrant-proxmox](https://github.com/telcat/vagrant-proxmox) - Use Vagrant to manage Proxmox virtual machines  
 - [EnvPaths.psm1](https://gist.github.com/jaw/4d1d858b87a5c208fbe42fd4d4aa97a4)  
 - [mandelbrot-on-all-accelerators.ipynb](https://gist.github.com/jpivarski/da343abd8024834ee8c5aaba691aafc7)  
 - [wsl2.md](https://gist.github.com/hucsmn/da1dbc2eb5903cb3143c35313623e7b0) - A collection of WSL2 hacks  
