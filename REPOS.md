@@ -1,4 +1,6 @@
 ## Repositories and Gists
+- [omp-custom-statusline](https://github.com/YoraiLevi/omp-custom-statusline) - Custom scriptable statusline for the Oh My Pi (omp) coding agent: colored rows above the editor, a slim line below, and builtin-statusline coordination.  
+- [multi-agent-github-issues.md](https://gist.github.com/YoraiLevi/6c0623fca8aea032270806818aede8a1) - Multi-agent task queue on GitHub Issues — DEEP REPORT (homelab, YoraiLevi/project-proposals; 2026-06-27)  
 - [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
 - [README.md](https://gist.github.com/YoraiLevi/38082c6c441faff9959f4f048133f7ca) - Evidence-based lecture design: deep research report, practical toolkit, and structured evidence registers  
 - [claude-cost-tracker](https://github.com/talafek96/claude-cost-tracker) - Local-first cost observability for Claude Code sessions — where the money went, per file, per tool call, per prompt.  
@@ -41,7 +43,6 @@
 - [windows-ssh-credential-session.md](https://gist.github.com/YoraiLevi/995c7558842d263585a0a6aa3bff5a8a) - Getting a credential-bearing session on Windows over SSH: logon types, why cmdkey/DPAPI/mapped drives fail under OpenSSH, and every fix (sshd-as-user, Cygwin passwd -R, Bitvise, scheduled tasks, Ansible become) with trade-offs to choose by your constraints.  
 - [macos-power-user-setup.md](https://gist.github.com/YoraiLevi/3dfc2ba4bfc134ae4bd12b96ca6070f1) - macOS Power-User Setup — consolidated & deduped from 4 YouTube guides (119 items)  
 - [multi-agent-github-issues-handoff.md](https://gist.github.com/YoraiLevi/5b4ec926602b348ab549afee7fd27c96) - Multi-agent task queue on GitHub Issues — ENGINEER ON-RAMP / front door (2026-06-27)  
-- [multi-agent-github-issues.md](https://gist.github.com/YoraiLevi/6c0623fca8aea032270806818aede8a1) - Multi-agent task queue on GitHub Issues — DEEP REPORT (homelab, YoraiLevi/project-proposals; 2026-06-27)  
 - [TOOLING-SURVEY.md](https://gist.github.com/YoraiLevi/481b52b2d6308f0ecb2201ea146ccaff) - Command-steering / agent-guardrail tooling survey — flat by popularity, inline refs (2026-06-27)  
 - [jj-gitbutler-handoff.md](https://gist.github.com/YoraiLevi/29c17b6de4b05cb8e00496a40e6f9353) - Multi-machine dev VCS — engineer on-ramp (Option C: GitButler + private mesh-remote + but-CLI automation). Front door to the deep jj-gitbutler research.  
 - [claude-command-policy](https://github.com/YoraiLevi/claude-command-policy) - Data-driven command-steering PreToolUse hook for Claude Code (allow/ask/deny + custom teaching messages)  
@@ -95,7 +96,6 @@
 - [plotly_dash](https://github.com/YoraiLevi/plotly_dash)  
 - [ConvertTo-Hashtable.ps1](https://gist.github.com/YoraiLevi/292bb8d0e2ce0f87d37e5d5d735fff16) - ConvertTo-Hashtable.ps1  
 - [Intro-to-Deep-Learning-Final-Project-CS236781](https://github.com/YoraiLevi/Intro-to-Deep-Learning-Final-Project-CS236781) - object detection fintuning with huggingface  
-- [advanced_broadcasting](https://github.com/YoraiLevi/advanced_broadcasting)  
 - [pasteconsole.js](https://gist.github.com/YoraiLevi/3365f9a60c8033d8c797dc409acbb26e) - this code is obsolete since the 2020 new facebook design. refer to: https://github.com/YoraiLevi/SetFacebookPostsPrivate make all facebook posts private(activity log) very dumb code.  
 ## Forks
 - [pi-cursor](https://github.com/YoraiLevi/pi-cursor)  
@@ -162,4 +162,4 @@
 - [transformers](https://github.com/YoraiLevi/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.  
 - [doomgeneric-rs-inkbox](https://github.com/YoraiLevi/doomgeneric-rs-inkbox) - Using doomgeneric from rust  
   
-2026-09-03T03:25:14.708396+00:00
+2026-09-03T15:57:46.481527+00:00
