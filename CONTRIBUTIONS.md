@@ -7,6 +7,7 @@
 3 files changed, 58 insertions(+), 2 deletions(-) [stablyai/orca](https://github.com/stablyai/orca/pull/15640) -- feat(plugins): project providerSession.id as sessionId on agent.status.changed  
 3 files changed, 54 insertions(+), 2 deletions(-) [stablyai/orca](https://github.com/stablyai/orca/pull/15643) -- feat(plugins): let sandboxed panels call storage.get, so a panel can render live state  
 4 files changed, 332 insertions(+), 26 deletions(-) [stablyai/orca](https://github.com/stablyai/orca/pull/15648) -- fix(dev): give each worktree its own dev userData profile  
+13 files changed, 546 insertions(+), 91 deletions(-) [DgxSparkLabs/marketplace-template](https://github.com/DgxSparkLabs/marketplace-template/pull/68) -- feat: first-party OMP (Oh My Pi) marketplace support  
 
 ## My Contributions
 

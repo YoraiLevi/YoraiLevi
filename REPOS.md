@@ -1,7 +1,7 @@
 ## Repositories and Gists
 - [omp-custom-statusline](https://github.com/YoraiLevi/omp-custom-statusline) - Custom scriptable statusline for the Oh My Pi (omp) coding agent: colored rows above the editor, a slim line below, and builtin-statusline coordination.  
-- [multi-agent-github-issues.md](https://gist.github.com/YoraiLevi/6c0623fca8aea032270806818aede8a1) - Multi-agent task queue on GitHub Issues — DEEP REPORT (homelab, YoraiLevi/project-proposals; 2026-06-27)  
 - [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
+- [multi-agent-github-issues.md](https://gist.github.com/YoraiLevi/6c0623fca8aea032270806818aede8a1) - Multi-agent task queue on GitHub Issues — DEEP REPORT (homelab, YoraiLevi/project-proposals; 2026-06-27)  
 - [README.md](https://gist.github.com/YoraiLevi/38082c6c441faff9959f4f048133f7ca) - Evidence-based lecture design: deep research report, practical toolkit, and structured evidence registers  
 - [claude-cost-tracker](https://github.com/talafek96/claude-cost-tracker) - Local-first cost observability for Claude Code sessions — where the money went, per file, per tool call, per prompt.  
 - [2026-08-orca-plugin-tts-archived](https://github.com/YoraiLevi/2026-08-orca-plugin-tts-archived) - Read Aloud — text-to-speech plugin for ORCA. Speaks agent replies and your clipboard. Local, cross-platform, no account or API key.  
@@ -98,6 +98,7 @@
 - [Intro-to-Deep-Learning-Final-Project-CS236781](https://github.com/YoraiLevi/Intro-to-Deep-Learning-Final-Project-CS236781) - object detection fintuning with huggingface  
 - [pasteconsole.js](https://gist.github.com/YoraiLevi/3365f9a60c8033d8c797dc409acbb26e) - this code is obsolete since the 2020 new facebook design. refer to: https://github.com/YoraiLevi/SetFacebookPostsPrivate make all facebook posts private(activity log) very dumb code.  
 ## Forks
+- [marketplace](https://github.com/YoraiLevi/marketplace)  
 - [pi-cursor](https://github.com/YoraiLevi/pi-cursor)  
 - [apm](https://github.com/YoraiLevi/apm) - Agent Package Manager  
 - [dramaclaw](https://github.com/YoraiLevi/dramaclaw) - A general-purpose AIGC video engine: script to finished film in one pipeline — dramas, ads, product videos, otome games, and more. | 通用 AIGC 视频引擎 —— 从剧本到成片一条流水线，漫剧、广告、电商、乙游皆可  
@@ -105,6 +106,7 @@
 - [awesome-pi](https://github.com/YoraiLevi/awesome-pi) - 😎 Awesome Pi - A curated list of Pi Coding Agent extensions, themes, skills, prompt templates, and community resources.  
 - [buzz](https://github.com/YoraiLevi/buzz) - A hive mind communication platform  
 - [pi-anthropic-auth](https://github.com/YoraiLevi/pi-anthropic-auth) - Pi extension package for Anthropic OAuth compatibility  
+- [hearth](https://github.com/YoraiLevi/hearth) - Python script to help mass download an Anna's Archive List.  
 - [paperclip](https://github.com/YoraiLevi/paperclip) - The open-source app everyone uses to manage agents at work  
 - [next-ai-draw-io](https://github.com/YoraiLevi/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.  
 - [OmniRoute](https://github.com/YoraiLevi/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors  
@@ -112,7 +114,6 @@
 - [agentirc](https://github.com/YoraiLevi/agentirc) - Local chat for agents based on IRC  
 - [quil](https://github.com/YoraiLevi/quil) - Reboot-proof terminal multiplexer for AI-native devs — a tmux alternative that persists your whole workspace across reboots and auto-resumes Claude Code & OpenCode sessions. Ships an MCP server so AI agents can drive your panes. Go, cross-platform (Linux/macOS/Windows). MIT.  
 - [pyicloud](https://github.com/YoraiLevi/pyicloud) - A Python wrapper for accessing data from iCloud webservices, including Account, Find My, Calendar, Contacts, iCloud Drive, Photos, Hide My Email, Reminders, and Notes.  
-- [marketplace](https://github.com/YoraiLevi/marketplace)  
 - [voicebox](https://github.com/YoraiLevi/voicebox) - The open-source AI voice studio. Clone, dictate, create.  
 - [qscreen](https://github.com/YoraiLevi/qscreen) - Lightweight cross-platform terminal session manager — a simple tmux / GNU screen alternative for Windows, Linux, and macOS with detachable persistent sessions (ConPTY on Windows)  
 - [orca-virtuslab](https://github.com/YoraiLevi/orca-virtuslab) - Deterministic, AI-driven development flows.  
@@ -160,6 +161,5 @@
 - [israeli-bank-scrapers](https://github.com/YoraiLevi/israeli-bank-scrapers) - Provide scrapers for all major Israeli banks and credit card companies  
 - [PsDownload](https://github.com/YoraiLevi/PsDownload) - A PowerShell module for downloading files.  
 - [transformers](https://github.com/YoraiLevi/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.  
-- [doomgeneric-rs-inkbox](https://github.com/YoraiLevi/doomgeneric-rs-inkbox) - Using doomgeneric from rust  
   
-2026-09-03T15:57:46.481527+00:00
+2026-09-04T03:23:19.040404+00:00
