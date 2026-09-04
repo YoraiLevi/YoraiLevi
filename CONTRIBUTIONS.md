@@ -7,7 +7,6 @@
 3 files changed, 58 insertions(+), 2 deletions(-) [stablyai/orca](https://github.com/stablyai/orca/pull/15640) -- feat(plugins): project providerSession.id as sessionId on agent.status.changed  
 3 files changed, 54 insertions(+), 2 deletions(-) [stablyai/orca](https://github.com/stablyai/orca/pull/15643) -- feat(plugins): let sandboxed panels call storage.get, so a panel can render live state  
 4 files changed, 332 insertions(+), 26 deletions(-) [stablyai/orca](https://github.com/stablyai/orca/pull/15648) -- fix(dev): give each worktree its own dev userData profile  
-13 files changed, 546 insertions(+), 91 deletions(-) [DgxSparkLabs/marketplace-template](https://github.com/DgxSparkLabs/marketplace-template/pull/68) -- feat: first-party OMP (Oh My Pi) marketplace support  
 
 ## My Contributions
 
@@ -66,6 +65,7 @@
 14 files changed, 161 insertions(+), 61 deletions(-) [DgxSparkLabs/marketplace-template](https://github.com/DgxSparkLabs/marketplace-template/pull/63) -- solo layout: publish skills/<name>/ instead of declaring the plugin root  
 10 files changed, 399 insertions(+), 20 deletions(-) [microsoft/apm](https://github.com/microsoft/apm/pull/2557) -- fix(plugins): stop root-declared components copying the plugin into itself (closes #2556)  
 10 files changed, 988 insertions(+), 109 deletions(-) [talafek96/claude-cost-tracker](https://github.com/talafek96/claude-cost-tracker/pull/1) -- discover + cli: Find a Windows project's own sessions, and answer the same question on every surface  
+13 files changed, 548 insertions(+), 91 deletions(-) [DgxSparkLabs/marketplace-template](https://github.com/DgxSparkLabs/marketplace-template/pull/68) -- feat: first-party OMP (Oh My Pi) marketplace support  
 
 ### Things that didn't see the light of day
 

@@ -1,6 +1,6 @@
 ## Repositories and Gists
-- [omp-custom-statusline](https://github.com/YoraiLevi/omp-custom-statusline) - Custom scriptable statusline for the Oh My Pi (omp) coding agent: colored rows above the editor, a slim line below, and builtin-statusline coordination.  
 - [YoraiLevi](https://github.com/YoraiLevi/YoraiLevi)  
+- [omp-custom-statusline](https://github.com/YoraiLevi/omp-custom-statusline) - Custom scriptable statusline for the Oh My Pi (omp) coding agent: colored rows above the editor, a slim line below, and builtin-statusline coordination.  
 - [multi-agent-github-issues.md](https://gist.github.com/YoraiLevi/6c0623fca8aea032270806818aede8a1) - Multi-agent task queue on GitHub Issues — DEEP REPORT (homelab, YoraiLevi/project-proposals; 2026-06-27)  
 - [README.md](https://gist.github.com/YoraiLevi/38082c6c441faff9959f4f048133f7ca) - Evidence-based lecture design: deep research report, practical toolkit, and structured evidence registers  
 - [claude-cost-tracker](https://github.com/talafek96/claude-cost-tracker) - Local-first cost observability for Claude Code sessions — where the money went, per file, per tool call, per prompt.  
@@ -95,10 +95,10 @@
 - [pester5-tutorial](https://github.com/YoraiLevi/pester5-tutorial)  
 - [plotly_dash](https://github.com/YoraiLevi/plotly_dash)  
 - [ConvertTo-Hashtable.ps1](https://gist.github.com/YoraiLevi/292bb8d0e2ce0f87d37e5d5d735fff16) - ConvertTo-Hashtable.ps1  
-- [Intro-to-Deep-Learning-Final-Project-CS236781](https://github.com/YoraiLevi/Intro-to-Deep-Learning-Final-Project-CS236781) - object detection fintuning with huggingface  
 - [pasteconsole.js](https://gist.github.com/YoraiLevi/3365f9a60c8033d8c797dc409acbb26e) - this code is obsolete since the 2020 new facebook design. refer to: https://github.com/YoraiLevi/SetFacebookPostsPrivate make all facebook posts private(activity log) very dumb code.  
 ## Forks
 - [marketplace](https://github.com/YoraiLevi/marketplace)  
+- [agent-style](https://github.com/YoraiLevi/agent-style) - 21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro.  
 - [pi-cursor](https://github.com/YoraiLevi/pi-cursor)  
 - [apm](https://github.com/YoraiLevi/apm) - Agent Package Manager  
 - [dramaclaw](https://github.com/YoraiLevi/dramaclaw) - A general-purpose AIGC video engine: script to finished film in one pipeline — dramas, ads, product videos, otome games, and more. | 通用 AIGC 视频引擎 —— 从剧本到成片一条流水线，漫剧、广告、电商、乙游皆可  
@@ -132,6 +132,7 @@
 - [claude-code-kanban](https://github.com/YoraiLevi/claude-code-kanban) - A web-based Kanban Board & Agent Orchestration  
 - [notebooklm-py](https://github.com/YoraiLevi/notebooklm-py) - Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.  
 - [Claude-Code-Dashboard](https://github.com/YoraiLevi/Claude-Code-Dashboard) - A VS Code extension that shows you exactly what Claude is doing — tokens, costs, sessions, and insights across all your projects, right inside VS Code.  
+- [stacks](https://github.com/YoraiLevi/stacks) - Lightweight download manager for Anna's Archive with fast downloads, web UI, and API support.  
 - [qlaude](https://github.com/YoraiLevi/qlaude) - Stop babysitting Claude Code. Queue tasks, walk away, get Telegram pings when it needs you.  
 - [Packer.old](https://github.com/YoraiLevi/Packer.old) - Contains all Packer Automation files  
 - [windows-vagrant](https://github.com/YoraiLevi/windows-vagrant) - Windows 11/2022/2025 Base Vagrant Box (https://app.vagrantup.com/rgl)  
@@ -144,6 +145,7 @@
 - [Pscx](https://github.com/YoraiLevi/Pscx) - PowerShell Community Extensions module repository  
 - [best-of-python-dev](https://github.com/YoraiLevi/best-of-python-dev) - 🏆 A ranked list of awesome python developer tools and libraries. Updated weekly.  
 - [awesome-python](https://github.com/YoraiLevi/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.  
+- [anna-dl](https://github.com/YoraiLevi/anna-dl) - Python tool allowing easy book downloads from annas-archive.org. Only supports libgen (no captcha). Otherwise, prints download links.  
 - [Multi-Keyboard-For-AutoHotkey](https://github.com/YoraiLevi/Multi-Keyboard-For-AutoHotkey) - Multi unique keyboard support for AutoHotkey  
 - [jiffyreader-plugin](https://github.com/YoraiLevi/jiffyreader-plugin) - A Browser Extension for faster reading on ANY website!  
 - [vscode-default-keybindings](https://github.com/YoraiLevi/vscode-default-keybindings) - VSCode keybinding extentension that can set any OS default keybindings as the current ones.  
@@ -159,7 +161,5 @@
 - [packer-windows-proxmox](https://github.com/YoraiLevi/packer-windows-proxmox) - Build a Windows Server 2022 template with Packer on Proxmox  
 - [wg-easy](https://github.com/YoraiLevi/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.  
 - [israeli-bank-scrapers](https://github.com/YoraiLevi/israeli-bank-scrapers) - Provide scrapers for all major Israeli banks and credit card companies  
-- [PsDownload](https://github.com/YoraiLevi/PsDownload) - A PowerShell module for downloading files.  
-- [transformers](https://github.com/YoraiLevi/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.  
   
-2026-09-04T03:23:19.040404+00:00
+2026-09-04T15:55:04.200692+00:00
